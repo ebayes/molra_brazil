@@ -1,0 +1,992 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+aeec41e1-898a-478f-83ea-ebd3533c38d5,Megarynchus pitangua,birds,Megarynchus pitangua,NULL,Boat-Billed Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Megarynchus,2024-01-31 16:46:00.000045+00
+d6059440-aba3-4479-ac5f-3f425c53bf5e,Notharchus,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Notharchus,2024-01-31 16:46:00.000045+00
+5b20543d-da77-429e-b402-fbe81ab11115,Selenidera piperivora,birds,Selenidera piperivora,NULL,Guianan Toucanet,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Selenidera,2024-01-31 16:46:00.000045+00
+b879ebc4-8c2d-4740-8026-028146aed1ae,Nyctidromus albicollis,birds,Nyctidromus albicollis,NULL,Pauraque,NULL,Caprimulgidae,Nightjars,species,NULL,Nyctidromus,2024-01-31 16:46:00.000045+00
+a9c3995f-9f68-4bdf-ba19-5cda782cf7b6,Crypturellus,birds,,NULL,,NULL,Tinamidae,Tinamous,genus,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+a9e1af72-efd8-4f62-b5c6-b8972a928e85,Ardea cocoi,birds,Ardea cocoi,NULL,Cocoi Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Ardea,2024-01-31 16:46:00.000045+00
+ee4dbf35-7b76-4204-a21c-5b17101f4c80,Capito niger,birds,Capito niger,NULL,Black-Spotted Barbet,NULL,Capitonidae,,species,NULL,Capito,2024-01-31 16:46:00.000045+00
+79818238-0d96-4fbe-a978-6418051d750a,Discosura,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Discosura,2024-01-31 16:46:00.000045+00
+a0b2b6ea-f42a-415f-8e70-abab6dadc71c,Cyanoloxia,birds,,NULL,,NULL,Cardinalidae,Cardinals,genus,NULL,Cyanoloxia,2024-01-31 16:46:00.692574+00
+7ac8679d-1880-49dc-940f-fcbac159d781,Heterocercus,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Heterocercus,2024-01-31 16:46:00.000045+00
+f6f53caa-1ae9-4c18-9445-39884634673d,Troglodytidae,birds,,,,,Troglodytidae,Wrens,family,930,,2024-01-24 17:18:54.447684+00
+82ef242f-bfe0-48bf-aea7-f8956fa6064d,Cranioleuca vulpina,birds,Cranioleuca vulpina,NULL,Coiba Spinetail,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Cranioleuca,2024-01-31 16:46:00.000045+00
+9c13cf2b-491f-449b-a755-028a8e7702d1,Dacnis,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Dacnis,2024-01-31 16:46:00.000045+00
+077dc739-a62a-499e-944c-73cd9698220f,Empidonomus varius,birds,Empidonomus varius,NULL,Variegated Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Empidonomus,2024-01-31 16:46:00.000045+00
+74c2c8e4-6091-4844-b597-bde3654a012a,Dryocopus lineatus,birds,Dryocopus lineatus,NULL,Lineated Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Dryocopus,2024-01-31 16:46:00.000045+00
+b903f77d-3d80-4327-afa1-474b3a6c0a75,Leptodon,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Leptodon,2024-01-31 16:46:00.000045+00
+3f317d09-c1df-481b-a0c0-49093f792573,Phaetusa simplex,birds,Phaetusa simplex,NULL,Large-Billed Tern,NULL,Laridae,Gulls And Terns,species,NULL,Phaetusa,2024-01-31 16:46:00.000045+00
+1377e01c-88a4-4466-a2a7-04c3486b1e84,Charadriidae,birds,,,,,Charadriidae,Plovers ,family,265,,2024-01-24 17:18:54.447684+00
+ea565490-e972-4099-8a8d-881fdbe58fc8,Caracara plancus,birds,Caracara plancus,NULL,Southern Caracara,NULL,Falconidae,Falcons,species,NULL,Caracara,2024-01-31 16:46:00.000045+00
+9be88ff8-8703-48d5-9f2a-fab3792b73b6,Euphonia chrysopasta,birds,Euphonia chrysopasta,NULL,White-Lored Euphonia,NULL,Fringillidae,Finches,species,NULL,Euphonia,2024-01-31 16:46:00.692574+00
+ac6f0433-c9b0-45a8-a6ac-189685a2fc31,Cyanerpes,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Cyanerpes,2024-01-31 16:46:00.000045+00
+bee5ff63-217c-4bcb-ba7c-8e57690b4fac,Accipiter poliogaster,birds,Accipiter poliogaster,NULL,Grey-Bellied Goshawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Accipiter,2024-01-31 16:46:00.000045+00
+002c5df8-e0fe-455e-90ef-eb6919aa7add,Lophotriccus galeatus,birds,Lophotriccus galeatus,NULL,Helmeted Pygmy-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Lophotriccus,2024-01-31 16:46:00.000045+00
+8fe8365b-b308-440c-b619-e67fa92f465e,Buteogallus meridionalis,birds,Buteogallus meridionalis,NULL,Savanna Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Buteogallus,2024-01-31 16:46:00.000045+00
+15469cd8-73fc-445e-beb6-5666a48f6471,Psarocolius bifasciatus,birds,Psarocolius bifasciatus,NULL,Olive Oropendola,NULL,Icteridae,American Blackbirds,species,NULL,Psarocolius,2024-01-31 16:46:00.692574+00
+518b62b6-1047-49c6-abbf-cbe29e0532fd,Progne tapera,birds,Progne tapera,NULL,Brown Chested Martin,NULL,Hirundinidae,Martins,species,NULL,Progne,2024-01-31 16:46:00.000045+00
+2e71de96-36fe-4c44-bc29-e52f57d6bb2c,Heliornis,birds,,NULL,,NULL,Heliornithidae,Finfoots,genus,NULL,Heliornis,2024-01-31 16:46:00.000045+00
+f781291f-5700-42ef-8b3d-c27403ea158a,Fringillidae,birds,,,,,Fringillidae,Finches,family,1170,,2024-01-24 17:18:54.447684+00
+a9cd0be0-558d-4561-9a79-4dd78671b4d0,Turdus leucomelas,birds,Turdus leucomelas,NULL,Pale-Breasted Thrush,NULL,Turdidae,"Thrushes, Robins, Chats, And Wheatears",species,NULL,Turdus,2024-01-31 16:46:00.000045+00
+3a7552ec-8567-4c5c-877c-e8d70a69e984,Pachyramphus minor,birds,Pachyramphus minor,NULL,Pink-Throated Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+03d9e976-e0cb-4b8d-afe9-d6c60916c736,Columbina minuta,birds,Columbina minuta,NULL,Plain-Breasted Ground-Dove,NULL,Columbidae,Pigeons,species,NULL,Columbina,2024-01-31 16:46:00.000045+00
+a17f5385-15b2-4ac1-b509-998ccc852b7b,Chondrohierax,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Chondrohierax,2024-01-31 16:46:00.000045+00
+bc4b7e0f-9c37-4197-b822-fc9989a16c73,Sporophila,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+8797904a-ada1-43f7-ab4f-3fa3033b9612,Coccyzus euleri,birds,Coccyzus euleri,NULL,Pearly-Breasted Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Coccyzus,2024-01-31 16:46:00.000045+00
+f7e0133a-0b6b-41fb-a7b9-55bca0b212ab,Dixiphia pipra,birds,Dixiphia pipra,NULL,White Crowned Manakin,NULL,,,species,NULL,Dixiphia,2024-01-31 16:46:00.692574+00
+a9bb4691-0c24-45af-ae58-1e0e59bed422,Passerellidae,birds,,,,,Passerellidae,NULL,family,1156,,2024-01-24 17:18:54.447684+00
+b9da4418-6455-4c65-b5a7-bcad8bec138e,Ortalis,birds,,NULL,,NULL,Cracidae,Chachalacas,genus,NULL,Ortalis,2024-01-31 16:46:00.000045+00
+67971615-dba3-42b0-98b8-303f4fa49a73,Capito auratus,birds,Capito auratus,NULL,Gilded Barbet,NULL,Capitonidae,,species,NULL,Capito,2024-01-31 16:46:00.000045+00
+6397561e-3907-4637-9f2f-2a35152aaa8a,Tyrannopsis,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Tyrannopsis,2024-01-31 16:46:00.000045+00
+9b72ccf0-20b4-480a-b466-0f037fe81b05,Heliornis fulica,birds,Heliornis fulica,NULL,Sungrebe,NULL,Heliornithidae,Finfoots,species,NULL,Heliornis,2024-01-31 16:46:00.000045+00
+3a72913e-6bf1-4ef7-b5a3-d76a2cee52c0,Celeus flavus,birds,Celeus flavus,NULL,Cream-Coloured Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Celeus,2024-01-31 16:46:00.000045+00
+a8419211-bb55-488a-961d-32a2af4300fe,Hemitriccus zosterops,birds,Hemitriccus zosterops,NULL,White-Eyed Tody-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Hemitriccus,2024-01-31 16:46:00.000045+00
+fed887d3-f62b-4b52-9175-9764e8c35830,Manacus manacus,birds,Manacus manacus,NULL,White-Bearded Manakin,NULL,Pipridae,Manakins,species,NULL,Manacus,2024-01-31 16:46:00.000045+00
+ac049c74-5255-4fa1-8f13-1f074cbe0294,Neopelma chrysocephalum,birds,Neopelma chrysocephalum,NULL,Saffron-Crested Tyrant-Manakin,NULL,Pipridae,Manakins,species,NULL,Neopelma,2024-01-31 16:46:00.000045+00
+bcbc2199-8c04-453a-817e-64a20f5a0e9a,Schiffornis,birds,,NULL,,NULL,Tityridae,,genus,NULL,Schiffornis,2024-01-31 16:46:00.000045+00
+8ff6e67f-e564-4802-933c-3a1a5aaa5e15,Phaethornis,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Phaethornis,2024-01-31 16:46:00.000045+00
+bac92371-954b-4c39-93a5-afd222971a0d,Chrysolampis,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Chrysolampis,2024-01-31 16:46:00.000045+00
+3f6a18cc-0600-456e-a61e-21863935ac41,Legatus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Legatus,2024-01-31 16:46:00.000045+00
+a87ea1d6-7ff6-4897-bb34-0f34e933cbdd,Ramphastos,birds,,NULL,,NULL,Ramphastidae,New World Barbets And Allies,genus,NULL,Ramphastos,2024-01-31 16:46:00.000045+00
+2b9e8ad1-3815-435b-b768-cc5c78a10435,Corythopis torquatus,birds,Corythopis torquatus,NULL,Ringed Antpipit,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Corythopis,2024-01-31 16:46:00.000045+00
+f351bd38-6ba0-45d6-9004-349c09b77c3a,Stelgidopteryx,birds,,,,,Hirundinidae,Martins,genus,890,Stelgidopteryx,2024-01-24 17:18:54.447684+00
+cd74b5e9-3546-4fee-903a-332ba1fceb71,Geotrygon,birds,,NULL,,NULL,Columbidae,Pigeons,genus,NULL,Geotrygon,2024-01-31 16:46:00.000045+00
+2f174b2b-08ea-4c82-be85-02463b4c9db3,Pteroglossus castanotis,birds,Pteroglossus castanotis,NULL,Chestnut-Eared Aracari,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Pteroglossus,2024-01-31 16:46:00.000045+00
+193c26d7-9f4c-4cf6-852c-04fe40b73932,Cymbilaimus lineatus,birds,Cymbilaimus lineatus,NULL,Fasciated Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Cymbilaimus,2024-01-31 16:46:00.000045+00
+01aa1dd7-e1e0-402a-93bc-ce5843c77d71,Oporornis,birds,,,,,Parulidae,New World Warblers,genus,1145,Oporornis,2024-01-24 17:18:54.447684+00
+1c495811-7811-4c60-871f-c78e5216d77f,Apodidae,birds,,,,,Apodidae,Swifts ,family,385,,2024-01-24 17:18:54.447684+00
+fe15a0e8-7e42-48a2-b8b9-22d63b73cff7,Hypocnemoides,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Hypocnemoides,2024-01-31 16:46:00.000045+00
+217dc981-cf1c-4670-ac13-4fbc8acb92e1,Schiffornis major,birds,Schiffornis major,NULL,Greater Schiffornis,NULL,Tityridae,,species,NULL,Schiffornis,2024-01-31 16:46:00.000045+00
+f58dac96-48bf-49ee-b5f6-610b27d492d4,Vireonidae,birds,,,,,Vireonidae,"Vireos, Greenlets, Shrike-babblers ",family,805,,2024-01-24 17:18:54.447684+00
+eb8d8eaa-eb99-4777-bb54-107939dd7338,Trogon violaceus,birds,Trogon violaceus,NULL,Violaceous Trogon,NULL,Trogonidae,Trogons,species,NULL,Trogon,2024-01-31 16:46:00.000045+00
+ea29285e-7124-47eb-938e-207767f93d69,Rupicola,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Rupicola,2024-01-31 16:46:00.000045+00
+c08e7381-6ae2-4095-8bf7-77bf95a74762,Legatus leucophaius,birds,Legatus leucophaius,NULL,Piratic Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Legatus,2024-01-31 16:46:00.000045+00
+654fc10a-6030-466d-8d4f-85933cf0894b,Chloroceryle americana,birds,Chloroceryle americana,NULL,Green Kingfisher,NULL,Alcedinidae,Kingfishers,species,NULL,Chloroceryle,2024-01-31 16:46:00.000045+00
+d2461ae8-2aae-44ab-ac36-8684401f638b,Bucco capensis,birds,Bucco capensis,NULL,Collared Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Bucco,2024-01-31 16:46:00.000045+00
+f52df173-8f2c-4176-99ea-a78b1e1694f1,Phoenicircus carnifex,birds,Phoenicircus carnifex,NULL,Guianan Red-Cotinga,NULL,Cotingidae,Cotingas,species,NULL,Phoenicircus,2024-01-31 16:46:00.000045+00
+6c71d648-0918-4498-90a3-9e498916e270,Cracidae,birds,,NULL,,NULL,Cracidae,Chachalacas,family,NULL,,2024-01-31 16:46:00.000045+00
+67b52f3b-7fa0-49bf-9761-b84d6b00392d,Nonnula rubecula,birds,Nonnula rubecula,NULL,Rusty-Breasted Nunlet,NULL,Bucconidae,Puffbirds,species,NULL,Nonnula,2024-01-31 16:46:00.000045+00
+f91062fa-f357-4608-935f-65fb34e56c79,Cotinga,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Cotinga,2024-01-31 16:46:00.000045+00
+a5652dc2-1192-40b7-84a4-c29006370d1d,Myiopagis gaimardii,birds,Myiopagis gaimardii,NULL,Forest Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiopagis,2024-01-31 16:46:00.000045+00
+e522aa37-f803-4b0a-be76-450d91062fc9,Tachyphonus luctuosus,birds,Tachyphonus luctuosus,NULL,White-Shouldered Tanager,NULL,,,species,NULL,Tachyphonus,2024-01-31 16:46:00.692574+00
+96f883f6-3ab1-4883-baf2-70d654826944,Ornithion inerme,birds,Ornithion inerme,NULL,White-Lored Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Ornithion,2024-01-31 16:46:00.000045+00
+b1a5e732-28af-4a32-8c73-770a3ed25cfa,Rallidae,birds,,,,,Rallidae,"Rails, Crakes & Coots ",family,200,,2024-01-24 17:18:54.447684+00
+b078ea0d-4beb-42ec-aaef-9c7da9845b86,Chordeiles acutipennis,birds,Chordeiles acutipennis,NULL,Lesser Nighthawk,NULL,Caprimulgidae,Nightjars,species,NULL,Chordeiles,2024-01-31 16:46:00.000045+00
+b9d81c8d-49a0-4e0c-8d36-608236d939b5,Polioptila,birds,,,,,Polioptilidae,Gnatcatchers,genus,935,Polioptila,2024-01-24 17:18:54.447684+00
+a9c8e127-1d62-4205-89f1-8d1caf96539b,Deconychura stictolaema,birds,Deconychura stictolaema,NULL,Spot-Throated Woodcreeper,NULL,,,species,NULL,Deconychura,2024-01-31 16:46:00.692574+00
+ff3489a6-8a5e-49dd-9464-3366c6dd87a1,Chaetura cinereiventris,birds,Chaetura cinereiventris,NULL,Grey-Rumped Swift,NULL,Apodidae,Swifts,species,NULL,Chaetura,2024-01-31 16:46:00.000045+00
+682ca67a-46bd-422f-921b-4b05fcdcfd29,Hylopezus macularius,birds,Hylopezus macularius,NULL,Spotted Antpitta,NULL,Grallariidae,,species,NULL,Hylopezus,2024-01-31 16:46:00.000045+00
+af0ad075-ae52-44ac-82c2-e317c1456086,Pyrocephalus rubinus,birds,Pyrocephalus rubinus,NULL,Vermillion Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Pyrocephalus,2024-01-31 16:46:00.000045+00
+68e8daf2-002f-4a71-a5b0-af4bbf66a63b,Sterna hirundo,birds,Sterna hirundo,https://lh3.googleusercontent.com/PHhogK7qOu0Yr0LjUwpM1jMvy6fRs-SfzWlVeuKXoJ8qVJ8DapKDscAQ_ipuus9sEhNXIUzM9WMJOr3dSeEgzA8,Common Tern,LC,Laridae,"Gulls, Terns, Skimmers ",species,320,Sterna,2024-01-24 17:18:54.447684+00
+aeb4267f-71bd-408a-af21-8d1efa7fa16f,Podicipedidae,birds,,,,,Podicipedidae,Grebes ,family,77,,2024-01-24 17:18:54.447684+00
+2856ca11-d260-4f49-989c-86842ae5c141,Cyclarhis,birds,,NULL,,NULL,Vireonidae,Vireos,genus,NULL,Cyclarhis,2024-01-31 16:46:00.000045+00
+0e1b4f15-8247-42f3-8f90-12ed5205da48,Myrmophylax,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Myrmophylax,2024-01-31 16:46:00.000045+00
+ce8adf2f-afd3-4847-9d1e-f07b476f8954,Crypturellus variegatus,birds,Crypturellus variegatus,NULL,Variegated Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+07a758da-9556-4929-98c8-c3c75321659d,Ibycter americanus,birds,Ibycter americanus,NULL,Red Throated Caracara,NULL,Falconidae,Falcons,species,NULL,Ibycter,2024-01-31 16:46:00.000045+00
+d186dc51-271d-4b7c-9738-7c351690456c,Myrmophylax atrothorax,birds,Myrmophylax atrothorax,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmophylax,2024-01-31 16:46:00.000045+00
+907ffbfc-a11d-440d-ba17-8c39757730a6,Nothocrax,birds,,NULL,,NULL,Cracidae,Chachalacas,genus,NULL,Nothocrax,2024-01-31 16:46:00.000045+00
+e3230d92-27ca-4643-a050-4f8ffb188638,Cranioleuca gutturata,birds,Cranioleuca gutturata,NULL,Speckled Spinetail,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Cranioleuca,2024-01-31 16:46:00.000045+00
+22300df3-bb61-45f5-a37d-6ad297920093,Amazilia versicolor,birds,Amazilia versicolor,NULL,Versicoloured Emerald,NULL,,,species,NULL,Amazilia,2024-01-31 16:46:00.692574+00
+65ac442f-8474-4874-8fce-e54fc5beb1f6,Myiornis,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Myiornis,2024-01-31 16:46:00.000045+00
+a2a72fd1-1e9b-4519-b750-8cbce0a89b0f,Pyrrhura,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Pyrrhura,2024-01-31 16:46:00.000045+00
+444489ed-9938-4642-b867-f8965259d5d1,Heliothryx,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Heliothryx,2024-01-31 16:46:00.000045+00
+8c71fa4e-6b75-4c90-8447-5efc981e4f1f,Pyrrhura picta,birds,Pyrrhura picta,NULL,Painted Parakeet,NULL,Psittacidae,Parrots,species,NULL,Pyrrhura,2024-01-31 16:46:00.000045+00
+c39cf3c6-59c8-493a-a39b-b3dc7bbae828,Strigidae,birds,,,,,Strigidae,Owls ,family,355,,2024-01-24 17:18:54.447684+00
+b7463d9a-7e9e-4015-9851-be6e79bdda0a,Rhynchocyclus olivaceus,birds,Rhynchocyclus olivaceus,NULL,Olivaceous Flatbill,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Rhynchocyclus,2024-01-31 16:46:00.000045+00
+7364890c-f59f-4e8f-9127-0ec907a93e93,Myiopagis,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Myiopagis,2024-01-31 16:46:00.000045+00
+75ee75f2-6731-40d2-ae06-81b74287a611,Amazilia fimbriata,birds,Amazilia fimbriata,NULL,Glittering-Throated Emerald,NULL,,,species,NULL,Amazilia,2024-01-31 16:46:00.692574+00
+ff731a62-bbbe-4164-8b7c-cc1286fdf68e,Charadrius,birds,,,,,Charadriidae,Plovers ,genus,265,Charadrius,2024-01-24 17:18:54.447684+00
+b34f674f-32db-49b0-b68e-7ac2a1ab3822,Tangara mexicana,birds,Tangara mexicana,NULL,Turquoise Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tangara,2024-01-31 16:46:00.000045+00
+ac4e564c-893b-4faf-974e-31a4c8eba676,Vireo olivaceus,birds,Vireo olivaceus,https://lh3.googleusercontent.com/v4gQxjjWQNsipa-we8nHNj_kqFE3GBztCOp-lLBZZPDmtEpz6QwmSW7b5E7w2pBQR7EOBvHKIwCKyGUHYG_uKw,Red-Eyed Vireo,LC,Vireonidae,Vireos,species,805,Vireo,2024-01-24 17:18:54.447684+00
+2a750a75-ce93-4da5-acf3-f3cc0424403c,Hylophilus thoracicus,birds,Hylophilus thoracicus,NULL,Lemon-Chested Greenlet,NULL,Vireonidae,Vireos,species,NULL,Hylophilus,2024-01-31 16:46:00.000045+00
+96b59591-ba1e-4fdd-b43f-3de9073a6a8b,Dromococcyx,birds,,NULL,,NULL,Cuculidae,Cuckoos,genus,NULL,Dromococcyx,2024-01-31 16:46:00.000045+00
+b5465366-586b-4a11-ac01-235862074144,Sublegatus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Sublegatus,2024-01-31 16:46:00.000045+00
+253ec193-df84-4d82-8f0a-3b03ce32744c,Tachyphonus surinamus,birds,Tachyphonus surinamus,NULL,Fulvous-Crested Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tachyphonus,2024-01-31 16:46:00.000045+00
+1a5af914-5281-46eb-bae0-9e1206ac5767,Thalurania,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Thalurania,2024-01-31 16:46:00.000045+00
+ef027456-5a52-4a12-99d4-1db1d2c706bc,Turdus albicollis,birds,Turdus albicollis,NULL,White-Necked Thrush,NULL,Turdidae,"Thrushes, Robins, Chats, And Wheatears",species,NULL,Turdus,2024-01-31 16:46:00.000045+00
+f5422032-7b0f-4088-9d94-cd83ead3d128,Camptostoma,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Camptostoma,2024-01-31 16:46:00.000045+00
+ea74eda1-bed5-47a4-aac4-79e5bb71c790,Catharus fuscescens,birds,Catharus fuscescens,https://lh3.googleusercontent.com/9Um0E0NKY84gZGhAUXzoYPChyLwqjxqLzuZ9I64uUDU0gbRa_TRCAObjyLSaWOK58vPp0gTB3aMlKQy8wJdRBKw,Veery,LC,Turdidae,"Thrushes, Robins, Chats, And Wheatears",species,1050,Catharus,2024-01-24 17:18:54.447684+00
+98dc47c1-766f-4a65-ad3f-23831d24a609,Pseudastur albicollis,birds,Pseudastur albicollis,NULL,,NULL,Accipitridae,Hawks And Eagles,species,NULL,Pseudastur,2024-01-31 16:46:00.000045+00
+1dc2f1dd-45be-4125-9f46-34cfbe2c17b8,Attila,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Attila,2024-01-31 16:46:00.000045+00
+f9671cda-ea3a-41bd-a7aa-5a3ad0b29b46,Microbates,birds,,NULL,,NULL,Polioptilidae,Gnatcatchers,genus,NULL,Microbates,2024-01-31 16:46:00.000045+00
+46dd8f24-d693-48bd-8ac6-fd6ebfc85aff,Tyranneutes virescens,birds,Tyranneutes virescens,NULL,Tiny Tyrant-Manakin,NULL,Pipridae,Manakins,species,NULL,Tyranneutes,2024-01-31 16:46:00.000045+00
+f16040dd-f5d8-462a-b7c0-f920468db6d6,Chordeiles minor,birds,Chordeiles minor,https://lh3.googleusercontent.com/qI1No4FHiuFc0HhFLmBKUzEDJe9_e-VEzeIlNmG-6nnyabXCalCr5GA_WtBCdADB44kxof8VVd9TQDnaby0jWeM,Common Nighthawk,LC,Caprimulgidae,Nightjars,species,365,Chordeiles,2024-01-24 17:18:54.447684+00
+fff6128e-9060-46dc-bade-a0659d6cb0cf,Gymnopithys,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Gymnopithys,2024-01-31 16:46:00.000045+00
+b50be05f-f28a-4d54-9319-f0c4f0862dcc,Podager nacunda,birds,Podager nacunda,NULL,Nacunda Nighthawk,NULL,,,species,NULL,Podager,2024-01-31 16:46:00.692574+00
+1f1996f0-2d40-4fac-a65c-b735db6feaf4,Tyrannidae,birds,,,,,Tyrannidae,Tyrant Flycatchers,family,605,,2024-01-24 17:18:54.447684+00
+579baa96-e00b-4409-9029-a38abe7bf211,Conopias,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Conopias,2024-01-31 16:46:00.000045+00
+9fe3eb6a-39f7-4f58-a2ef-f20d1112372f,Gampsonyx,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Gampsonyx,2024-01-31 16:46:00.000045+00
+b7cd0d2c-25cd-42f0-a932-abc55cc7f0f3,Sittasomus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Sittasomus,2024-01-31 16:46:00.000045+00
+0636d57c-7591-47dd-8272-149af90b9df9,Tapera,birds,,NULL,,NULL,Cuculidae,Cuckoos,genus,NULL,Tapera,2024-01-31 16:46:00.000045+00
+6c811c27-c271-43ee-9ba7-65f019ddfa28,Trogonidae,birds,,,,,Trogonidae,Trogons,family,410,,2024-01-24 17:18:54.447684+00
+d2d13a1e-a67e-4bef-900b-89c53fb5d670,Myrmornis torquata,birds,Myrmornis torquata,NULL,Wing Banded Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmornis,2024-01-31 16:46:00.000045+00
+083df160-a68b-48b9-b5b5-98399c8a9844,Myrmornis,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Myrmornis,2024-01-31 16:46:00.000045+00
+7ee922ff-e1d1-42ca-b95f-e04144672990,Myrmelastes,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Myrmelastes,2024-01-31 16:46:00.000045+00
+ff787ec5-9469-488e-aa7b-187d45e98442,Celeus undatus,birds,Celeus undatus,NULL,Waved Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Celeus,2024-01-31 16:46:00.000045+00
+c3db270a-9da2-429c-ae61-9dd31b50aaf7,Notharchus tectus,birds,Notharchus tectus,NULL,Pied Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Notharchus,2024-01-31 16:46:00.000045+00
+a221d69e-7f1e-4cff-9783-a3de94e12fa3,Terenotriccus,birds,,NULL,,NULL,Oxyruncidae,,genus,NULL,Terenotriccus,2024-01-31 16:46:00.000045+00
+41de255f-0c30-43bd-8b7f-6980a13055d2,Panyptila,birds,,NULL,,NULL,Apodidae,Swifts,genus,NULL,Panyptila,2024-01-31 16:46:00.000045+00
+d19d33af-8e85-49bd-860e-a39e52601ce2,Berlepschia,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Berlepschia,2024-01-31 16:46:00.000045+00
+f3f622c7-2f6b-4989-b7a3-59a0c6fd265d,Myiozetetes,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Myiozetetes,2024-01-31 16:46:00.000045+00
+9db6b3f8-5ea4-41cf-b24a-acd22fa84b33,Sclerurus mexicanus,birds,Sclerurus mexicanus,NULL,Tawny-Throated Leafscraper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Sclerurus,2024-01-31 16:46:00.000045+00
+082e9f41-840f-4a16-b62e-846fd4dbb5f5,Cacicus haemorrhous,birds,Cacicus haemorrhous,NULL,Red-Rumped Cacique,NULL,Icteridae,American Blackbirds,species,NULL,Cacicus,2024-01-31 16:46:00.692574+00
+eb7333bb-1bf0-42fb-a609-4815a3da1985,Hylocharis,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Hylocharis,2024-01-31 16:46:00.000045+00
+628c4900-a979-4c20-9a89-6e5ff94a697c,Hemithraupis flavicollis,birds,Hemithraupis flavicollis,NULL,Yellow-Backed Tanager,NULL,Thraupidae,Tanagers,species,NULL,Hemithraupis,2024-01-31 16:46:00.000045+00
+f8133d4b-9a2a-41ac-bb3f-df6411f95304,Accipitridae,birds,,,,,Accipitridae,"Kites, Hawks, Eagles ",family,216,,2024-01-24 17:18:54.447684+00
+aa8d0257-9023-470a-8a8f-484f1644d4c7,Tachornis,birds,,NULL,,NULL,Apodidae,Swifts,genus,NULL,Tachornis,2024-01-31 16:46:00.000045+00
+30ae6d79-554f-4a59-83dc-dd00127b8b5a,Milvago,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Milvago,2024-01-31 16:46:00.000045+00
+b0bbd3c1-8c10-4ed2-bb89-34971a433990,Dolichonyx oryzivorus,birds,Dolichonyx oryzivorus,https://lh3.googleusercontent.com/1hB5dTllzSKrjxnN59Eai14mX1GoweeQ4XPlT05stcoR1_tP-3SQeHRo0PwCY7s2A0fh0qTvheLgIdbaoHaeJr4,Bobolink,LC,Icteridae,American Blackbirds,species,1165,Dolichonyx,2024-01-24 17:18:54.447684+00
+01ff6a0b-785a-415d-bf4f-29a3533dda63,Nasica,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Nasica,2024-01-31 16:46:00.000045+00
+2aefa7f4-8c90-44f4-93c3-a814c3010e95,Tyto,birds,,,,,Tytonidae,Barn-Owls,genus,350,Tyto,2024-01-24 17:18:54.447684+00
+7e60c802-7fb8-4112-8a59-e66ec12b6de2,Myrmeciza ferruginea,birds,Myrmeciza ferruginea,NULL,Ferruginous-Backed Antbird,NULL,,,species,NULL,Myrmeciza,2024-01-31 16:46:00.692574+00
+eafceb47-90a8-4259-99aa-4678c2804601,Empidonomus aurantioatrocristatus,birds,Empidonomus aurantioatrocristatus,NULL,Crowned Slaty Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Empidonomus,2024-01-31 16:46:00.000045+00
+b0ed91f3-756a-4902-b7e5-98a2c4a06881,Automolus rufipileatus,birds,Automolus rufipileatus,NULL,Chestnut-Crowned Foliage-Gleaner,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Automolus,2024-01-31 16:46:00.000045+00
+a68fe471-a7e6-4643-b332-7fce15360b92,Nyctiphrynus,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Nyctiphrynus,2024-01-31 16:46:00.000045+00
+55223394-8e1e-46d3-90e3-f4be14069be3,Deroptyus accipitrinus,birds,Deroptyus accipitrinus,NULL,Red-Fan Parrot,NULL,Psittacidae,Parrots,species,NULL,Deroptyus,2024-01-31 16:46:00.000045+00
+dd9749ab-70e3-4957-9d4e-e9e967e21b52,Cathartes,birds,,,,,Cathartidae,New World Vultures,genus,160,Cathartes,2024-01-24 17:18:54.447684+00
+7f8fc457-c10a-4d96-90d0-de4bb4416a19,Falco rufigularis,birds,Falco rufigularis,NULL,Bat Falcon,NULL,Falconidae,Falcons,species,NULL,Falco,2024-01-31 16:46:00.000045+00
+405a564a-077e-44fb-adb5-8058fe4d1eeb,Dendrexetastes,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Dendrexetastes,2024-01-31 16:46:00.000045+00
+1e9435a2-8ed6-4281-ba5d-99acb5d8c0c6,Perissocephalus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Perissocephalus,2024-01-31 16:46:00.000045+00
+60721236-20f0-4633-b34c-45bae00e9cc8,Leucippus chlorocercus,birds,Leucippus chlorocercus,NULL,Olive-Spotted Hummingbird,NULL,,,species,NULL,Leucippus,2024-01-31 16:46:00.692574+00
+82818f67-c082-472d-9028-43a8f51d1e32,Camptostoma obsoletum,birds,Camptostoma obsoletum,NULL,Southern Beardless Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Camptostoma,2024-01-31 16:46:00.000045+00
+3c11b045-74aa-400f-ba33-382d2b68fbc1,Tityra inquisitor,birds,Tityra inquisitor,NULL,Black-Crowned Tityra,NULL,Tityridae,,species,NULL,Tityra,2024-01-31 16:46:00.000045+00
+d9c61e36-daa0-477f-815b-2db3bc3d0816,Nasica longirostris,birds,Nasica longirostris,NULL,Long-Billed Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Nasica,2024-01-31 16:46:00.000045+00
+0fedf53e-caf7-48bd-8282-5c2366e220c3,Mycteria,birds,,,,,Ciconiidae,Storks ,genus,156,Mycteria,2024-01-24 17:18:54.447684+00
+752eba89-9544-4dc1-bb78-62249a137a0d,Ixothraupis varia,birds,Ixothraupis varia,NULL,,NULL,Thraupidae,Tanagers,species,NULL,Ixothraupis,2024-01-31 16:46:00.000045+00
+44eaf39c-32d2-491d-826e-9590ac6e44a0,Selenidera,birds,,NULL,,NULL,Ramphastidae,New World Barbets And Allies,genus,NULL,Selenidera,2024-01-31 16:46:00.000045+00
+f48bc4c2-fc9a-41a0-bafc-e48ec8a86bd9,Piprites,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Piprites,2024-01-31 16:46:00.000045+00
+6c076332-a2ca-4017-be60-15854f347f11,Clibanornis rubiginosus,birds,Clibanornis rubiginosus,NULL,,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Clibanornis,2024-01-31 16:46:00.000045+00
+0803db7e-5e08-4bcc-bcf6-103de13b4bab,Orthopsittaca manilatus,birds,Orthopsittaca manilatus,NULL,,NULL,Psittacidae,Parrots,species,NULL,Orthopsittaca,2024-01-31 16:46:00.000045+00
+19f5648d-1acf-4b04-bef6-09ccc51d8e8b,Cathartidae,birds,,,,,Cathartidae,New World Vultures,family,160,,2024-01-24 17:18:54.447684+00
+0a2d6d73-50c9-4233-869b-c04dfe7fb890,Anhinga anhinga,birds,Anhinga anhinga,https://lh3.googleusercontent.com/zdu5mOv9mTh6zmBi6BikugqpPCpRdkhWTEKt-c7YVj7ebR5kkWpA-KqabuWyS_pSmm0z5i_GbAPuJGDVNKlr_jw,American Darter,LC,Anhingidae,Darters,species,130,Anhinga,2024-01-24 17:18:54.447684+00
+b0dfc348-1978-4f3f-93ec-5b44ef154d10,Scolopacidae,birds,,,,,Scolopacidae,"Sandpipers, Snipes ",family,290,,2024-01-24 17:18:54.447684+00
+96b416f8-444f-47cd-90ba-dd558643c2a1,Phaeothlypis rivularis,birds,Phaeothlypis rivularis,NULL,Neotropical River Warbler,NULL,,,species,NULL,Phaeothlypis,2024-01-31 16:46:00.692574+00
+978d8e77-b2cd-4c68-8f07-2f6c5151b369,Tangara varia,birds,Tangara varia,NULL,Dotted Tanager,NULL,,,species,NULL,Tangara,2024-01-31 16:46:00.692574+00
+bb1d590c-72f0-4601-88d2-78c2a67a5fd7,Schiffornis olivacea,birds,Schiffornis olivacea,NULL,,NULL,Tityridae,,species,NULL,Schiffornis,2024-01-31 16:46:00.000045+00
+7371ce31-6dc4-4f69-bf67-e1a70f542c27,Tyrannulus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Tyrannulus,2024-01-31 16:46:00.000045+00
+47d9e45d-5a8b-43b0-a39b-f1ab3ccc98fa,Grallaria varia,birds,Grallaria varia,NULL,Variegated Antpitta,NULL,Grallariidae,,species,NULL,Grallaria,2024-01-31 16:46:00.000045+00
+c95ed093-cf2c-408c-85e3-2f6d5800b21b,Campylorhamphus procurvoides,birds,Campylorhamphus procurvoides,NULL,Curve-Billed Scythebill,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Campylorhamphus,2024-01-31 16:46:00.000045+00
+8f6771b8-6b9c-44b9-924b-3441d1d2f0ac,Tityra cayana,birds,Tityra cayana,NULL,Black-Tailed Tityra,NULL,Tityridae,,species,NULL,Tityra,2024-01-31 16:46:00.000045+00
+a2020dcf-693a-4471-a26c-453caedd6f29,Dryocopus,birds,,,,,Picidae,Woodpeckers ,genus,505,Dryocopus,2024-01-24 17:18:54.447684+00
+3ad02fd7-2b4a-49f9-8b94-d81421c2953b,Myrmotherula gutturalis,birds,Myrmotherula gutturalis,NULL,Brown-Bellied Antwren,NULL,,,species,NULL,Myrmotherula,2024-01-31 16:46:00.692574+00
+e4362f96-f6e0-4ded-8ed9-1df60485ceaa,Catharus minimus,birds,Catharus minimus,https://lh3.googleusercontent.com/ubBgfbfWx6PXMdGIJTF6WdHIjE6RzRGe50dqndMpL4FT-DK8PnI-unciWM-yXE_vIS6BomPInWyUkt5edljnEGc,Grey-Cheeked Thrush,LC,Turdidae,"Thrushes, Robins, Chats, And Wheatears",species,1050,Catharus,2024-01-24 17:18:54.447684+00
+8e898b06-d3fb-4946-b6bf-cb902849272c,Leucippus,birds,,NULL,,NULL,,,genus,NULL,Leucippus,2024-01-31 16:46:00.692574+00
+5f851f09-6584-4a0f-9e46-c87508acd332,Daptrius ater,birds,Daptrius ater,NULL,Black Caracara,NULL,Falconidae,Falcons,species,NULL,Daptrius,2024-01-31 16:46:00.000045+00
+b6e83770-cc69-4b0f-929b-f61a6784c01d,Piprites chloris,birds,Piprites chloris,NULL,Wing-Barred Manakin,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Piprites,2024-01-31 16:46:00.000045+00
+096d505e-b8f6-4ec0-98cd-e3d2da2ff5ae,Pionites,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Pionites,2024-01-31 16:46:00.000045+00
+cadafa74-b9a0-4bcf-bb8c-8de4cd12f6e5,Accipiter,birds,,,,,Accipitridae,"Kites, Hawks, Eagles ",genus,206,Accipiter,2024-01-24 17:18:54.447684+00
+b3595cd8-f074-459d-93be-50018981b253,Myiozetetes luteiventris,birds,Myiozetetes luteiventris,NULL,Dusky-Chested Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiozetetes,2024-01-31 16:46:00.000045+00
+e92a80dd-cf1a-4aff-9879-1b098f169542,Coragyps atratus,birds,Coragyps atratus,https://lh6.ggpht.com/u8msDmyszNhB1lsufiZ4EPJYzkchB1HPxcRGnm4RGSG_ybpcaL0K7_K3pcJcr71hTcdc7ROzAFDY-f3UlNHakynT,Black Vulture,LC,Cathartidae,New World Vultures,species,160,Coragyps,2024-01-24 17:18:54.447684+00
+5c07df2d-6db0-472b-9532-cae65cb71285,Micrastur gilvicollis,birds,Micrastur gilvicollis,NULL,Lined Forest Falcon,NULL,Falconidae,Falcons,species,NULL,Micrastur,2024-01-31 16:46:00.000045+00
+e9489532-443e-4b5d-bcc3-02ced25b98c6,Megaceryle,birds,,,,,Alcedinidae,Kingfishers,genus,445,Megaceryle,2024-01-24 17:18:54.447684+00
+49d913c0-46db-4495-ac41-c46fa0859dc4,Sublegatus obscurior,birds,Sublegatus obscurior,NULL,Todd's Scrub Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Sublegatus,2024-01-31 16:46:00.000045+00
+19eccbca-af6e-4fcf-a0b0-71c90a00506c,Platyrinchus coronatus,birds,Platyrinchus coronatus,NULL,Golden-Crowned Spadebill,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Platyrinchus,2024-01-31 16:46:00.000045+00
+34a00aac-9811-4d9d-add4-3e04dc51e141,Euphonia cayennensis,birds,Euphonia cayennensis,NULL,Golden-Sided Euphonia,NULL,Fringillidae,Finches,species,NULL,Euphonia,2024-01-31 16:46:00.692574+00
+3287d8aa-b2a9-4d97-afbd-df4717ac4f28,Thraupidae,birds,,NULL,,NULL,Thraupidae,Tanagers,family,NULL,,2024-01-31 16:46:00.000045+00
+1b719383-8be9-4ca6-a124-6f90bfda4d24,Tachyphonus,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Tachyphonus,2024-01-31 16:46:00.000045+00
+a6f1d6e8-71ec-4bf4-828b-4d2e5bdfc297,Dolospingus,birds,,NULL,,NULL,,,genus,NULL,Dolospingus,2024-01-31 16:46:00.692574+00
+542af10b-38d6-47d3-81cf-848204f1434a,Dendroica,birds,,,,,Parulidae,NULL,genus,1145,Dendroica,2024-01-24 17:18:54.447684+00
+a475cb8b-d65a-4a48-8861-8716b501dfbf,Amazona autumnalis,birds,Amazona autumnalis,NULL,Red-Lored Amazon,NULL,Psittacidae,Parrots,species,NULL,Amazona,2024-01-31 16:46:00.000045+00
+806da244-d0a0-4023-9cd3-47d174aed870,Cyanocorax,birds,,NULL,,NULL,Corvidae,Crows,genus,NULL,Cyanocorax,2024-01-31 16:46:00.000045+00
+42cb958c-8987-4757-a551-50a30b21eae0,Egretta thula,birds,Egretta thula,https://lh3.googleusercontent.com/8ouui6S63M-8TLH0iYVw2Y3loqPzQeJnPNVKYLSc2B-sAGAbbXRxuwWFluekpSE-7Yg3S1stJC1fHc1amfX6DQc,Snowy Egret,LC,Ardeidae,Egrets And Herons,species,150,Egretta,2024-01-24 17:18:54.447684+00
+a63fc4c6-ace2-4317-93ac-fc8e37b671f5,Hypocnemis,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Hypocnemis,2024-01-31 16:46:00.000045+00
+0f8f4b86-148a-4469-a249-4e468f9c6ab5,Mitrospingidae,birds,,NULL,,NULL,Mitrospingidae,,family,NULL,,2024-01-31 16:46:00.692574+00
+a388dca4-4534-4454-b208-2df21289ce18,Granatellus pelzelni,birds,Granatellus pelzelni,NULL,Rose-Breasted Chat,NULL,Cardinalidae,Cardinals,species,NULL,Granatellus,2024-01-31 16:46:00.692574+00
+21b4fc05-ed00-42e3-a25e-aa61c0ffe948,Phylloscartes virescens,birds,Phylloscartes virescens,NULL,Olive-Green Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Phylloscartes,2024-01-31 16:46:00.000045+00
+26828917-5864-4b81-a05d-17e66b178384,Florisuga mellivora,birds,Florisuga mellivora,NULL,White-Necked Jacobin,NULL,Trochilidae,Hummingbirds,species,NULL,Florisuga,2024-01-31 16:46:00.000045+00
+28ee2b4e-0464-4281-8030-cdd73c62b2da,Rupornis magnirostris,birds,Rupornis magnirostris,NULL,,NULL,Accipitridae,Hawks And Eagles,species,NULL,Rupornis,2024-01-31 16:46:00.000045+00
+a6c10c7c-b92f-4de4-9d40-a1a589880a38,Cathartes burrovianus,birds,Cathartes burrovianus,NULL,Lesser Yellow-Headed Vulture,NULL,Cathartidae,New World Vultures,species,NULL,Cathartes,2024-01-31 16:46:00.000045+00
+fe487d0c-e81e-4fad-8ff1-a66a387c04ad,Leistes,birds,,NULL,,NULL,Icteridae,American Blackbirds,genus,NULL,Leistes,2024-01-31 16:46:00.692574+00
+865c6e8c-e57e-422a-9d7f-c15193065b4b,Trogon rufus,birds,Trogon rufus,NULL,Black-Throated Trogon,NULL,Trogonidae,Trogons,species,NULL,Trogon,2024-01-31 16:46:00.000045+00
+edf7ba53-99a1-4579-892b-b1d449ad730c,Nyctiprogne leucopyga,birds,Nyctiprogne leucopyga,NULL,Band-Tailed Nighthawk,NULL,Caprimulgidae,Nightjars,species,NULL,Nyctiprogne,2024-01-31 16:46:00.000045+00
+2d53d353-02b3-478d-b918-6a1876ddda3b,Formicivora,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Formicivora,2024-01-31 16:46:00.000045+00
+bf83e071-c839-41e3-acf5-00491d119a94,Tityra semifasciata,birds,Tityra semifasciata,NULL,Masked Tityra,NULL,Tityridae,,species,NULL,Tityra,2024-01-31 16:46:00.000045+00
+52ce3528-efa4-47f3-8054-7e214e6de7c7,Hydropsalis climacocerca,birds,Hydropsalis climacocerca,NULL,Ladder-Tailed Nightjar,NULL,Caprimulgidae,Nightjars,species,NULL,Hydropsalis,2024-01-31 16:46:00.000045+00
+5a4d942c-06e2-405e-93f8-4559a5c4a7dd,Cephalopterus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Cephalopterus,2024-01-31 16:46:00.000045+00
+07860775-3718-460e-a9bf-41f046e77320,Myrmoderus ferrugineus,birds,Myrmoderus ferrugineus,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmoderus,2024-01-31 16:46:00.000045+00
+37d1fbc7-5763-413b-a1f2-0e91993bc72e,Aramides,birds,,NULL,,NULL,,,genus,NULL,Aramides,2024-01-25 17:05:46.182979+00
+a4ac75b7-4262-46ea-85ab-8606d683eee5,Elaenia,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+c8de9c39-cf74-4c1e-a262-93f14499a15f,Sclateria,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Sclateria,2024-01-31 16:46:00.000045+00
+4ecfbe20-4c13-4e30-8094-05182bf7237a,Ictinia,birds,,,,,Accipitridae,Hawks And Eagles,genus,175,Ictinia,2024-01-24 17:18:54.447684+00
+39ebebf7-e91b-4b15-9b47-522b6be0457b,Egretta,birds,,,,,Ardeidae,"Herons, Bitterns ",genus,185,Egretta,2024-01-24 17:18:54.447684+00
+efe6d029-e632-40d0-a068-9106a8cc771c,Buteogallus urubitinga,birds,Buteogallus urubitinga,NULL,Great Black-Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Buteogallus,2024-01-31 16:46:00.000045+00
+b57273f6-4dd2-45d5-9c18-f27a307fc1a9,Onychorhynchus coronatus,birds,Onychorhynchus coronatus,NULL,Royal Flycatcher,NULL,Oxyruncidae,,species,NULL,Onychorhynchus,2024-01-31 16:46:00.000045+00
+791e18b8-a4df-4fa1-b35f-45ae34419ac1,Pteroglossus viridis,birds,Pteroglossus viridis,NULL,Green Aracari,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Pteroglossus,2024-01-31 16:46:00.000045+00
+003457e8-6d9b-4f3f-92dc-c76710a4ee15,Myrmotherula longipennis,birds,Myrmotherula longipennis,NULL,Long-Winged Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmotherula,2024-01-31 16:46:00.000045+00
+8485ddfa-264a-4e5d-8926-cfb3d94707e6,Sclerurus rufigularis,birds,Sclerurus rufigularis,NULL,Short-Billed Leafscraper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Sclerurus,2024-01-31 16:46:00.000045+00
+69584060-585d-4c8d-93f9-8dc370eb8505,Morphnus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Morphnus,2024-01-31 16:46:00.000045+00
+38ba49ab-b919-4a42-93d2-7279104bd46d,Campylorhamphus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Campylorhamphus,2024-01-31 16:46:00.000045+00
+bda9f2ec-d1fd-42f3-bdf3-e46385f4e190,Coccycua minuta,birds,Coccycua minuta,NULL,Little Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Coccycua,2024-01-31 16:46:00.000045+00
+266405ad-2593-466f-90d3-797985c525de,Tunchiornis ochraceiceps,birds,Tunchiornis ochraceiceps,NULL,,NULL,Vireonidae,Vireos,species,NULL,Tunchiornis,2024-01-31 16:46:00.000045+00
+53362367-f152-4e3a-b68e-be7d88684563,Pachyramphus,birds,,NULL,,NULL,Tityridae,,genus,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+e1f8fbd8-5e1b-4c43-b6a7-721ab829e545,Empidonomus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Empidonomus,2024-01-31 16:46:00.000045+00
+48a447f2-2181-4f19-ac2a-1571d2bc78a3,Ara chloropterus,birds,Ara chloropterus,NULL,Green-Winged Macaw,NULL,Psittacidae,Parrots,species,NULL,Ara,2024-01-31 16:46:00.000045+00
+8df7cb67-8d8f-4ac8-9ea5-92177e3ca7eb,Jacanidae,birds,,,,,Jacanidae,Jacanas ,family,285,,2024-01-24 17:18:54.447684+00
+e28e9ab3-2f3d-4eb2-b397-1a95ea14a754,Notharchus hyperrhynchus,birds,Notharchus hyperrhynchus,NULL,White-Necked Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Notharchus,2024-01-31 16:46:00.000045+00
+25cee501-78c3-42f3-8bd8-66b21dd9ed18,Crypturellus soui,birds,Crypturellus soui,NULL,Little Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+c869db87-957e-49e7-81e6-b3a4628c0ab8,Ramphastos tucanus,birds,Ramphastos tucanus,NULL,Cuvier's Toucan,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Ramphastos,2024-01-31 16:46:00.000045+00
+13b71254-0ca0-4c83-bde0-80746430fd32,Trogon melanurus,birds,Trogon melanurus,NULL,Black-Tailed Trogon,NULL,Trogonidae,Trogons,species,NULL,Trogon,2024-01-31 16:46:00.000045+00
+4bd44b7f-20a2-495b-a153-645cdaa6df60,Hylocharis sapphirina,birds,Hylocharis sapphirina,NULL,Rufous-Throated Sapphire,NULL,Trochilidae,Hummingbirds,species,NULL,Hylocharis,2024-01-31 16:46:00.000045+00
+d53b3329-4554-4e36-af4a-02873689b2a4,Furnariidae,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,family,NULL,,2024-01-31 16:46:00.000045+00
+89932a24-600e-456d-80ae-4942bc98a024,Mionectes,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Mionectes,2024-01-31 16:46:00.000045+00
+65e40dbc-d91a-4b7f-a97d-61a512113547,Todirostrum pictum,birds,Todirostrum pictum,NULL,Painted Tody-Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Todirostrum,2024-01-31 16:46:00.000045+00
+aca99d34-a85d-4686-b82f-cf18020af171,Harpagus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Harpagus,2024-01-31 16:46:00.000045+00
+a7ad8833-b27e-45ec-8a7b-3129934b763f,Sporophila collaris,birds,Sporophila collaris,NULL,Rusty-Collared Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+e1be588e-19fb-4699-b7c6-92d0b7394e6d,Perissocephalus tricolor,birds,Perissocephalus tricolor,NULL,Capuchinbird,NULL,Cotingidae,Cotingas,species,NULL,Perissocephalus,2024-01-31 16:46:00.000045+00
+5ef82c0c-9dcd-4132-9350-f56c755b5ed4,Phylloscartes,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Phylloscartes,2024-01-31 16:46:00.000045+00
+e2e69514-1246-4c39-ba68-1b519b3f0118,Zimmerius,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Zimmerius,2024-01-31 16:46:00.000045+00
+a79c4f06-914f-41f9-9520-5d832894e880,Thraupis,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Thraupis,2024-01-31 16:46:00.000045+00
+ea3012d3-c2d8-494b-a352-90edf26d77e9,Tinamus major,birds,Tinamus major,NULL,Great Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Tinamus,2024-01-31 16:46:00.000045+00
+f069e9b2-6238-4070-9cb7-17cc319d991d,Elanoides,birds,,,,,Accipitridae,Hawks And Eagles,genus,175,Elanoides,2024-01-24 17:18:54.447684+00
+e2158776-6018-4bf7-9f40-cf527c5e17ed,Butorides striata,birds,Butorides striata,https://lh3.googleusercontent.com/YULd7FFHqFRhg_i0-5sD0NWu4vAt3pLAPtb457UUWtHQP6anVpJE0-EDWo5fAbiC1nOSwqniFn8F9x3exCO53yQ,Striated Heron,NT,Ardeidae,"Herons, Bitterns ",species,173,Butorides,2024-01-24 17:18:54.447684+00
+bb6f3aa1-3afe-48b8-9394-1196d21567f5,Lanio fulvus,birds,Lanio fulvus,NULL,Fulvous Shrike-Tanager,NULL,Thraupidae,Tanagers,species,NULL,Lanio,2024-01-31 16:46:00.000045+00
+97530309-c4e4-4cf0-b742-a20bd7b40763,Herpetotheres,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Herpetotheres,2024-01-31 16:46:00.000045+00
+b7a4c88c-8625-45fa-8d16-1ca278333e37,Momotus momota,birds,Momotus momota,NULL,Blue-Crowned Motmot,NULL,Momotidae,Motmots,species,NULL,Momotus,2024-01-31 16:46:00.000045+00
+788a508b-f69e-4948-a75c-7bb9d850b430,Psophia,birds,,NULL,,NULL,Psophiidae,Trumpters,genus,NULL,Psophia,2024-01-31 16:46:00.000045+00
+675741f1-f983-4d16-affd-15d9f1097159,Megascops choliba,birds,Megascops choliba,NULL,Tropical Screech Owl,NULL,Strigidae,Owls,species,NULL,Megascops,2024-01-31 16:46:00.000045+00
+feb9d8d8-e38d-41c1-9f7d-66536f5d8dda,Formicarius,birds,,NULL,,NULL,Formicariidae,Ground Antbirds,genus,NULL,Formicarius,2024-01-31 16:46:00.000045+00
+bd2a2492-3692-4290-a2dc-30d3692db2a6,Panyptila cayennensis,birds,Panyptila cayennensis,NULL,Lesser Swallow-Tailed Swift,NULL,Apodidae,Swifts,species,NULL,Panyptila,2024-01-31 16:46:00.000045+00
+e1935ff1-e804-47a8-8329-afa138fe0d22,Terenura spodioptila,birds,Terenura spodioptila,NULL,Ash-Winged Antwren,NULL,,,species,NULL,Terenura,2024-01-31 16:46:00.692574+00
+65a8e26a-7f7d-44bd-8fff-12a94e47816e,Xipholena,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Xipholena,2024-01-31 16:46:00.000045+00
+7ff2ce97-9dee-49f3-97d5-da8459b285e5,Recurvirostridae,birds,,,,,Recurvirostridae,"Stilts, Avocets ",family,250,,2024-01-24 17:18:54.447684+00
+8eb3d08b-2ae4-4ece-93f3-c5d37bddd229,Philydor erythrocercum,birds,Philydor erythrocercum,NULL,Rufous-Rumped Foliage-Gleaner,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Philydor,2024-01-31 16:46:00.000045+00
+6b73197c-eaa6-4efb-9fa4-9445354c2e2c,Thalurania furcata,birds,Thalurania furcata,NULL,Fork-Tailed Woodnymph,NULL,Trochilidae,Hummingbirds,species,NULL,Thalurania,2024-01-31 16:46:00.000045+00
+780caaa6-2afd-4eaa-aec8-b5a5eb13b811,Strix huhula,birds,Strix huhula,NULL,Black-Banded Owl,NULL,,,species,NULL,Strix,2024-01-31 16:46:00.692574+00
+7f0833d1-ce6a-4fef-a591-3ab6005a6f72,Schistocichla leucostigma,birds,Schistocichla leucostigma,NULL,Spot-Winged Antbird,NULL,,,species,NULL,Schistocichla,2024-01-31 16:46:00.692574+00
+4430bd63-09ff-4a31-85ec-507033c3038d,Formicarius analis,birds,Formicarius analis,NULL,Black-Faced Antthrush,NULL,Formicariidae,Ground Antbirds,species,NULL,Formicarius,2024-01-31 16:46:00.000045+00
+3f524667-a57b-4fc5-978f-55d114d1d9a9,Touit purpuratus,birds,Touit purpuratus,NULL,Sapphire Rumped Parrotlet,NULL,Psittacidae,Parrots,species,NULL,Touit,2024-01-31 16:46:00.000045+00
+54a2f57c-1af2-43fb-a0bf-4f09cee565bb,Myiarchus tyrannulus,birds,Myiarchus tyrannulus,NULL,Brown-Crested Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiarchus,2024-01-31 16:46:00.000045+00
+3f3c3a6a-ee65-413d-82da-652d6b429757,Tolmomyias,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Tolmomyias,2024-01-31 16:46:00.000045+00
+773e3897-4113-438e-a036-fe212cb226fd,Heliomaster,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Heliomaster,2024-01-31 16:46:00.000045+00
+2a424404-7e9b-4fcb-95d1-8439a10d416a,Agamia agami,birds,Agamia agami,NULL,Agami Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Agamia,2024-01-31 16:46:00.000045+00
+1f4033b8-3a2a-4d97-9e38-4392de5bca8b,Momotus,birds,,NULL,,NULL,Momotidae,Motmots,genus,NULL,Momotus,2024-01-31 16:46:00.000045+00
+7b9c9940-365e-4a69-898e-5178344335a5,Picumnus,birds,,NULL,,NULL,Picidae,Woodpeckers,genus,NULL,Picumnus,2024-01-31 16:46:00.000045+00
+5b7a0e3a-da50-49b0-8bbd-e46021b2a810,Ortalis motmot,birds,Ortalis motmot,NULL,Variable Chachalaca,NULL,Cracidae,Chachalacas,species,NULL,Ortalis,2024-01-31 16:46:00.000045+00
+ebb0a41f-21f0-4e6e-ad1b-45cd31dff6a0,Automolus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Automolus,2024-01-31 16:46:00.000045+00
+c3907257-3edd-4914-b995-53d182064dc4,Tigrisoma,birds,,NULL,,NULL,Ardeidae,Egrets And Herons,genus,NULL,Tigrisoma,2024-01-31 16:46:00.000045+00
+8aaa61d0-adf1-4849-8056-0e9a4d615311,Tolmomyias assimilis,birds,Tolmomyias assimilis,NULL,Yellow-Margined Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tolmomyias,2024-01-31 16:46:00.000045+00
+d2a938bf-cf93-4fb0-82be-069f2cbfaba0,Dacnis lineata,birds,Dacnis lineata,NULL,Black-Faced Dacnis,NULL,Thraupidae,Tanagers,species,NULL,Dacnis,2024-01-31 16:46:00.000045+00
+2f483dd7-117e-49f0-bbe3-ae7b7e82f50e,Synallaxis,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Synallaxis,2024-01-31 16:46:00.000045+00
+58b7628c-9fcf-4950-8141-45df5d106dfd,Pandion haliaetus,birds,Pandion haliaetus,https://lh3.googleusercontent.com/pSdjfPxTve_4n3msJnfczELrLAGj5sWaucLr5U6oozHrNI6aCaySMEZVUMNYHvaXiXzh4qzE1lu4DX4_V1pLGg,Osprey,LC,Pandionidae,Ospreys ,species,186,Pandion,2024-01-24 17:18:54.447684+00
+9ce2c4c8-000a-49e3-a69a-78333ee668a1,Riparia riparia,birds,Riparia riparia,https://lh3.googleusercontent.com/El-xUUq6MA1If0LbnYWokQcI94c4W7nE_Lg2G2-V6zstgdQZP3j61SQOFXuoh7j-bhu5_HDpT-0vYynnHAymv74,Sand Martin,LC,Hirundinidae,"Swallows, Martins ",species,890,Riparia,2024-01-24 17:18:54.447684+00
+01a2090c-72a8-48a7-9589-08f93f6679cb,Hemitriccus josephinae,birds,Hemitriccus josephinae,NULL,Boat-Billed Tody-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Hemitriccus,2024-01-31 16:46:00.000045+00
+4e5f16c7-b284-4f77-8f4b-dea15ccd5e7b,Amazona amazonica,birds,Amazona amazonica,NULL,Orange-Winged Amazon,NULL,Psittacidae,Parrots,species,NULL,Amazona,2024-01-31 16:46:00.000045+00
+cb70a3c6-881f-4824-9c6d-67f94d8c5b4c,Pachyramphus surinamus,birds,Pachyramphus surinamus,NULL,Glossy-Backed Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+2552651d-29db-4266-8ecb-f1be3729c1ab,Myiozetetes similis,birds,Myiozetetes similis,NULL,Social Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiozetetes,2024-01-31 16:46:00.000045+00
+42a109d5-16e6-4da2-9836-0a89c2d9e8fc,Rostrhamus sociabilis,birds,Rostrhamus sociabilis,NULL,Everglade Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Rostrhamus,2024-01-31 16:46:00.000045+00
+8dd597e2-904c-41b4-a0e5-b4b50a1ed486,Pitangus lictor,birds,Pitangus lictor,NULL,Lesser Kiskadee,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Pitangus,2024-01-31 16:46:00.000045+00
+e1bfe8a0-9ef6-4605-90ca-09a29e2a9072,Phoenicircus nigricollis,birds,Phoenicircus nigricollis,NULL,Black-Necked Red-Cotinga,NULL,Cotingidae,Cotingas,species,NULL,Phoenicircus,2024-01-31 16:46:00.000045+00
+7d8ad5c7-c121-4958-b074-d484ffa995da,Dendrocygna,birds,,,,,Anatidae,"Ducks, Geese, Swans ",genus,40,Dendrocygna,2024-01-24 17:18:54.447684+00
+bd4aaab5-2ffa-4598-8860-5fe30a54ac2a,Buteo albicaudatus,birds,Buteo albicaudatus,NULL,White-Tailed Hawk,NULL,,,species,NULL,Buteo,2024-01-31 16:46:00.692574+00
+25bccf5f-1da4-4c14-ae0d-ab2b476a280e,Henicorhina leucosticta,birds,Henicorhina leucosticta,NULL,White-Breasted Wood-Wren,NULL,Troglodytidae,Wrens,species,NULL,Henicorhina,2024-01-31 16:46:00.000045+00
+fdeee9c7-d28f-4359-ae06-4f00ce7a62e2,Volatinia jacarina,birds,Volatinia jacarina,NULL,Blue-Black Grassquit,NULL,Thraupidae,Tanagers,species,NULL,Volatinia,2024-01-31 16:46:00.000045+00
+4c69c295-e668-4594-88ce-eac06d7d8644,Myiobius,birds,,NULL,,NULL,Oxyruncidae,,genus,NULL,Myiobius,2024-01-31 16:46:00.000045+00
+12814442-cd31-41e9-8113-395f376d5a1e,Glaucidium,birds,,NULL,,NULL,Strigidae,,genus,NULL,Glaucidium,2024-01-25 17:05:45.542568+00
+e95c0129-d417-4938-92bf-f58c0fa655e9,Heliomaster longirostris,birds,Heliomaster longirostris,NULL,Long-Billed Starthroat,NULL,Trochilidae,Hummingbirds,species,NULL,Heliomaster,2024-01-31 16:46:00.000045+00
+31796287-4ae2-4585-bc8b-ef6fb41a031b,Crax alector,birds,Crax alector,NULL,Black Curassow,NULL,Cracidae,Chachalacas,species,NULL,Crax,2024-01-31 16:46:00.000045+00
+7cf15ad6-dc9c-47d6-8e8a-48f57b1876f0,Deroptyus,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Deroptyus,2024-01-31 16:46:00.000045+00
+dd5c0d17-204c-45a6-aa9d-d44399060f5b,Hemithraupis,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Hemithraupis,2024-01-31 16:46:00.000045+00
+fb0e399c-fffc-499b-b597-89112cf81cfe,Psarocolius,birds,,NULL,,NULL,Icteridae,American Blackbirds,genus,NULL,Psarocolius,2024-01-31 16:46:00.692574+00
+e65e0c30-afb0-40b5-9ae3-c5701b30c8ce,Orthopsittaca,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Orthopsittaca,2024-01-31 16:46:00.000045+00
+c435449c-6052-4d10-84c8-4b8fc9675158,Elaenia albiceps,birds,Elaenia albiceps,NULL,White-Crested Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+1aac6451-e433-4654-9856-707fed47179c,Chrysolampis mosquitus,birds,Chrysolampis mosquitus,NULL,Ruby-Topaz Hummingbird,NULL,Trochilidae,Hummingbirds,species,NULL,Chrysolampis,2024-01-31 16:46:00.000045+00
+83ab3193-dd6b-40cd-8a04-9341138564ab,Veniliornis cassini,birds,Veniliornis cassini,NULL,Golden-Collared Woodpecker,NULL,,,species,NULL,Veniliornis,2024-01-31 16:46:00.692574+00
+fe9c247a-dadf-493e-a55c-ce50c416f144,Porphyrio,birds,,,,,Rallidae,"Rails, Crakes & Coots ",genus,200,Porphyrio,2024-01-24 17:18:54.447684+00
+d6eacd39-cc6e-45de-bbdf-70c6478c8470,Accipiter bicolor,birds,Accipiter bicolor,NULL,Bicoloured Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Accipiter,2024-01-31 16:46:00.000045+00
+4c85e3e6-a403-4a1b-ad01-3e1d7b623051,Vireo altiloquus,birds,Vireo altiloquus,NULL,Black-Whiskered Vireo,NULL,Vireonidae,Vireos,species,NULL,Vireo,2024-01-31 16:46:00.000045+00
+fddaf6f7-25eb-42b8-96cf-e03eeb42ec45,Elaenia chiriquensis,birds,Elaenia chiriquensis,NULL,Lesser Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+94c08960-de4e-4447-8e4c-f79fcfe20630,Formicivora grisea,birds,Formicivora grisea,NULL,White-Fringed Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Formicivora,2024-01-31 16:46:00.000045+00
+1ebf2b51-f601-4e0d-a0a9-c4de1903610e,Calidris,birds,,,,,Scolopacidae,"Sandpipers, Snipes ",genus,290,Calidris,2024-01-24 17:18:54.447684+00
+94b5b38f-7df1-442a-8017-4bc737c4ff60,Cnemotriccus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Cnemotriccus,2024-01-31 16:46:00.000045+00
+9cde7235-7f97-4563-a426-bd6d1bd1cfb5,Amazona farinosa,birds,Amazona farinosa,NULL,Mealy Amazon,NULL,Psittacidae,Parrots,species,NULL,Amazona,2024-01-31 16:46:00.000045+00
+2b7c2fbe-10d2-4052-916b-b4404567c1d3,Xiphorhynchus obsoletus,birds,Xiphorhynchus obsoletus,NULL,Striped Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Xiphorhynchus,2024-01-31 16:46:00.000045+00
+447940ac-8be0-4b3e-90a3-9d69d8dbb466,Piaya melanogaster,birds,Piaya melanogaster,NULL,Black-Bellied Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Piaya,2024-01-31 16:46:00.000045+00
+01bcfef2-32d3-403f-b54a-5738322c905b,Chelidoptera,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Chelidoptera,2024-01-31 16:46:00.000045+00
+dec63ba5-c0f8-4edd-a1b8-c683e5e68399,Hemitriccus inornatus,birds,Hemitriccus inornatus,NULL,Pelzeln's Tody Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Hemitriccus,2024-01-31 16:46:00.000045+00
+d9125e65-b3f9-42c5-b83e-c8b53a02caa3,Querula,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Querula,2024-01-31 16:46:00.000045+00
+538420fe-9c32-47b4-bd6c-c8d296741023,Melanerpes,birds,,,,,Picidae,Woodpeckers,genus,505,Melanerpes,2024-01-24 17:18:54.447684+00
+b5b60600-b5ce-4069-a1cb-bee4fc61984f,Donacobiidae,birds,,NULL,,NULL,Donacobiidae,,family,NULL,,2024-01-31 16:46:00.000045+00
+67fd494b-a33f-4f1e-95b6-988d0ef2c9c5,Anurolimnas viridis,birds,Anurolimnas viridis,NULL,Russet-Crowned Crake,NULL,Rallidae,Rails,species,NULL,Anurolimnas,2024-01-31 16:46:00.000045+00
+72b8f55c-edf7-4d18-9f49-5bdd23639b5d,Nyctipolus nigrescens,birds,Nyctipolus nigrescens,NULL,,NULL,Caprimulgidae,Nightjars,species,NULL,Nyctipolus,2024-01-31 16:46:00.000045+00
+a0219fac-1443-4698-be55-0c8647073a25,Cercomacra laeta,birds,Cercomacra laeta,NULL,Laeta Antbird,NULL,,,species,NULL,Cercomacra,2024-01-31 16:46:00.692574+00
+6d52c4bc-d492-4af6-9905-f5fce6db946e,Phaetusa,birds,,NULL,,NULL,Laridae,Gulls And Terns,genus,NULL,Phaetusa,2024-01-31 16:46:00.000045+00
+fd542a2d-f1aa-4e15-ad7c-e5084714c031,Pithys,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Pithys,2024-01-31 16:46:00.000045+00
+b88c998b-97eb-4b07-9309-860c7569c20e,Hemithraupis guira,birds,Hemithraupis guira,NULL,Guira Tanager,NULL,Thraupidae,Tanagers,species,NULL,Hemithraupis,2024-01-31 16:46:00.000045+00
+2b4f773e-8285-4b38-b887-298014916262,Malacoptila,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Malacoptila,2024-01-31 16:46:00.000045+00
+b1cd249b-f0fd-45bc-a052-9da093650018,Platyrinchus saturatus,birds,Platyrinchus saturatus,NULL,Cinnamon-Crested Spadebill,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Platyrinchus,2024-01-31 16:46:00.000045+00
+16529bc7-a0ff-4f8b-ad89-aa9c28f14340,Haematoderus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Haematoderus,2024-01-31 16:46:00.000045+00
+33b4b431-7fc9-4821-96e0-441873269608,Saltator,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Saltator,2024-01-31 16:46:00.000045+00
+f807b4ba-9b2e-404e-9cfc-cbf24c45f83f,Crypturellus cinereus,birds,Crypturellus cinereus,NULL,Cinereous Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+6368b395-0219-413e-8bf3-24f31f5e754e,Picidae,birds,,,,,Picidae,Woodpeckers ,family,505,,2024-01-24 17:18:54.447684+00
+4a685492-0563-4706-ac1a-96b94574cacd,Laterallus melanophaius,birds,Laterallus melanophaius,NULL,Rufous-Sided Crake,NULL,Rallidae,Rails,species,NULL,Laterallus,2024-01-31 16:46:00.000045+00
+5c53cc77-82ff-4e2f-add7-1da9b5a3e65b,Pluvialis dominica,birds,Pluvialis dominica,https://lh3.googleusercontent.com/SRx0YddFYAgA0Rdd7UgrczTJhNvDdllDKtw5vhopCi9SSPpxGKs66vNXTti8MjOz9sWgUYNEogFdH2MRt-iwCw,American Golden-Plover,LC,Charadriidae,Plovers,species,265,Pluvialis,2024-01-24 17:18:54.447684+00
+a03544f7-2c44-4ce3-86ce-7bb924b85a34,Pachyramphus castaneus,birds,Pachyramphus castaneus,NULL,Chestnut-Crowned Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+774c7722-ec63-494f-8fed-f65c2e3fb649,Volatinia,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Volatinia,2024-01-31 16:46:00.000045+00
+019f847f-3085-40be-b326-8cd7cfd70855,Tyrannus savana,birds,Tyrannus savana,https://lh6.ggpht.com/ajCFJvMyzJ19D4-BB2HfgUZE6sZknhKzJwaYOof965LcIarrJw-QolfgNKD64x0ktLEgnrshw--LmTjNC6BT0bo,Fork-Tailed Flycatcher,NULL,Tyrannidae,NULL,species,605,Tyrannus,2024-01-24 17:18:54.447684+00
+efae8408-91e8-416c-af23-71df7f544e37,Daptrius,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Daptrius,2024-01-31 16:46:00.000045+00
+38209864-8cc1-4284-aa2c-7cae8560d1b2,Capitonidae,birds,,NULL,,NULL,Capitonidae,,family,NULL,,2024-01-31 16:46:00.000045+00
+9b9a2791-c05c-46a5-8256-149ac3cb51df,Campephilus,birds,,NULL,,NULL,Picidae,Woodpeckers,genus,NULL,Campephilus,2024-01-31 16:46:00.000045+00
+35e83f9f-e131-4f21-ab56-ded397529729,Malacoptila fusca,birds,Malacoptila fusca,NULL,White-Chested Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Malacoptila,2024-01-31 16:46:00.000045+00
+2e09e8e0-22e9-4478-aef4-6416aa447be1,Pachyramphus polychopterus,birds,Pachyramphus polychopterus,NULL,White-Winged Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+6476e45b-24ff-4874-8b89-8d7b7364c26f,Progne,birds,,,,,Hirundinidae,Martins,genus,890,Progne,2024-01-24 17:18:54.447684+00
+8c8a826f-0232-4f56-a4e1-4eaf7835cb98,Ibycter,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Ibycter,2024-01-31 16:46:00.000045+00
+a2569cd3-3932-47b8-8a8e-fb80231b9e83,Pionites melanocephalus,birds,Pionites melanocephalus,NULL,Black-Headed Parrot,NULL,Psittacidae,Parrots,species,NULL,Pionites,2024-01-31 16:46:00.000045+00
+75e20e24-ced0-43ed-80e0-c1d41a9f4d60,Penelope,birds,,NULL,,NULL,Cracidae,Chachalacas,genus,NULL,Penelope,2024-01-31 16:46:00.000045+00
+45db3c1a-74d5-44b4-bc04-25e49e360745,Ramphotrigon,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Ramphotrigon,2024-01-31 16:46:00.000045+00
+37e89e87-0298-45a6-b9f8-51ee938f5eb8,Megascops,birds,,,,,Strigidae,Owls,genus,355,Megascops,2024-01-24 17:18:54.447684+00
+a8148a7c-d99f-44cc-b2cb-1c5f1e7642e5,Pteroglossus aracari,birds,Pteroglossus aracari,NULL,Black-Necked Aracari,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Pteroglossus,2024-01-31 16:46:00.000045+00
+017ce73d-b2b0-45b5-9598-2df8ad303699,Thamnophilidae,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,family,NULL,,2024-01-31 16:46:00.000045+00
+b30aa6bc-964f-4e69-ba53-725abc56c650,Poecilotriccus fumifrons,birds,Poecilotriccus fumifrons,NULL,Smoky Fronted Tody Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Poecilotriccus,2024-01-31 16:46:00.000045+00
+10a6dcea-75ac-4384-a085-b4932bd6414b,Atticora fasciata,birds,Atticora fasciata,NULL,White-Banded Swallow,NULL,Hirundinidae,Martins,species,NULL,Atticora,2024-01-31 16:46:00.000045+00
+2c39c5d9-bef4-432c-b282-ee9f751c61a0,Tolmomyias sulphurescens,birds,Tolmomyias sulphurescens,NULL,Yellow-Olive Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tolmomyias,2024-01-31 16:46:00.000045+00
+87047785-5bc8-4356-98c7-1719c9491215,Patagioenas plumbea,birds,Patagioenas plumbea,NULL,Plumbeous Pigeon,NULL,Columbidae,Pigeons,species,NULL,Patagioenas,2024-01-31 16:46:00.000045+00
+62f4e9a5-4620-4a26-8846-0a4495fe8c62,Myiarchus ferox,birds,Myiarchus ferox,NULL,Short-Crested Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiarchus,2024-01-31 16:46:00.000045+00
+b314b57c-e1c8-4c47-b959-032ae3297104,Nyctibius griseus,birds,Nyctibius griseus,NULL,Grey Potoo,NULL,Nyctibiidae,Potoos,species,NULL,Nyctibius,2024-01-31 16:46:00.000045+00
+1243c1fb-ba5f-480f-a9ce-77e62b130f72,Herpetotheres cachinnans,birds,Herpetotheres cachinnans,NULL,Laughing Falcon,NULL,Falconidae,Falcons,species,NULL,Herpetotheres,2024-01-31 16:46:00.000045+00
+83d4cda4-24dc-4d11-a842-aab1c7ce964b,Nyctiprogne,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Nyctiprogne,2024-01-31 16:46:00.000045+00
+44eaf151-1230-4630-a519-c85884256a09,Tyto alba,birds,Tyto alba,https://lh3.googleusercontent.com/IngtT5gl4toaOxHT_kVoN19aaOryVvN-8d9bkPx4te-l29Enn5JSnPp9rvc8uK71YRVBpeEyx05nLxSx6psbjIST,Barn Owl,LC,Tytonidae,Barn-Owls,species,350,Tyto,2024-01-24 17:18:54.447684+00
+8e6c2a61-b876-4b63-a1a9-0e259757ec36,Piculus,birds,,NULL,,NULL,Picidae,Woodpeckers,genus,NULL,Piculus,2024-01-31 16:46:00.000045+00
+fc496698-b743-4d07-8dfd-b82999d9076d,Lepidothrix,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Lepidothrix,2024-01-31 16:46:00.000045+00
+81c79f8c-e6d5-4a06-80f7-b8decbd153ce,Dendroplex,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Dendroplex,2024-01-31 16:46:00.000045+00
+a921acc8-5765-4c8e-a984-2a49a18b6c9e,Anthracothorax,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Anthracothorax,2024-01-31 16:46:00.000045+00
+60773bb9-ad1f-47c8-9efa-615048aabf69,Percnostola rufifrons,birds,Percnostola rufifrons,NULL,Black-Headed Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Percnostola,2024-01-31 16:46:00.000045+00
+ddd5a23d-539a-437b-be5d-a5394bc4bd5d,Coereba,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Coereba,2024-01-31 16:46:00.000045+00
+310e7c3c-c67a-42e4-9c28-01391b5b2002,Opisthocomus,birds,,NULL,,NULL,Opisthocomidae,Hoatzin,genus,NULL,Opisthocomus,2024-01-31 16:46:00.000045+00
+ca8c1c6e-da37-41d0-8464-b21797d39a34,Pitangus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Pitangus,2024-01-31 16:46:00.000045+00
+843967a1-50ff-402b-b262-e91d69ff411d,Hylophilus ochraceiceps,birds,Hylophilus ochraceiceps,NULL,Tawny-Crowned Greenlet,NULL,,,species,NULL,Hylophilus,2024-01-31 16:46:00.692574+00
+10a86857-27c8-4d35-b24b-d790569bdd29,Myiarchus,birds,,,,,Tyrannidae,Tyrant Flycatchers,genus,605,Myiarchus,2024-01-24 17:18:54.447684+00
+fd467d73-a106-4933-8bbb-d30432180f82,Odontophorus gujanensis,birds,Odontophorus gujanensis,NULL,Marbled Wood-Quail,NULL,Odontophoridae,New World Quails,species,NULL,Odontophorus,2024-01-31 16:46:00.000045+00
+e3c146e1-2af9-4d38-94dd-621877d22371,Columbina talpacoti,birds,Columbina talpacoti,NULL,Ruddy Ground-Dove,NULL,Columbidae,Pigeons,species,NULL,Columbina,2024-01-31 16:46:00.000045+00
+915b99e2-2d4a-45dc-b752-3f9f06c529fd,Tityra,birds,,NULL,,NULL,Tityridae,,genus,NULL,Tityra,2024-01-31 16:46:00.000045+00
+6806913b-b9ea-4e4d-b494-a2c8883e5938,Pitangus sulphuratus,birds,Pitangus sulphuratus,NULL,Great Kiskadee,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Pitangus,2024-01-31 16:46:00.000045+00
+83eccdec-d083-48aa-8eb2-02ac67afa355,Columba,birds,,,,,Columbidae,"Pigeons, Doves ",genus,330,Columba,2024-01-24 17:18:54.447684+00
+936f89a3-2783-4ebf-b685-79d9cfff6776,Microbates collaris,birds,Microbates collaris,NULL,Collared Gnatwren,NULL,Polioptilidae,Gnatcatchers,species,NULL,Microbates,2024-01-31 16:46:00.000045+00
+80ef9c52-7748-4c37-bd0b-cde737311c87,Cercomacroides laeta,birds,Cercomacroides laeta,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Cercomacroides,2024-01-31 16:46:00.000045+00
+0da22b59-0699-46e5-acf3-ecd3c1109b37,Turdus fumigatus,birds,Turdus fumigatus,NULL,Cocoa Thrush,NULL,Turdidae,"Thrushes, Robins, Chats, And Wheatears",species,NULL,Turdus,2024-01-31 16:46:00.000045+00
+59e614e4-6b90-405a-bfa3-f4044abda70e,Ceratopipra erythrocephala,birds,Ceratopipra erythrocephala,NULL,,NULL,Pipridae,Manakins,species,NULL,Ceratopipra,2024-01-31 16:46:00.000045+00
+13c61010-c3ef-4049-b6f6-09d180b746fb,Piculus flavigula,birds,Piculus flavigula,NULL,Yellow-Throated Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Piculus,2024-01-31 16:46:00.000045+00
+b89bacc0-46d6-4a1b-b1a8-f04246f059d0,Melanerpes cruentatus,birds,Melanerpes cruentatus,NULL,Red-Fronted Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Melanerpes,2024-01-31 16:46:00.000045+00
+a247e555-759e-488e-9402-ed21a5990a01,Tyrannus tyrannus,birds,Tyrannus tyrannus,https://lh3.googleusercontent.com/1-NaTfGwpqE8zRNbScjmLeQcIl8uSEf8RDtbYzS0Xi6sd-5ugllbesGzBEj0PXkdoi4Cq1vPJ9--9FIZ45tHmg,Eastern Kingbird,LC,Tyrannidae,Tyrant Flycatchers,species,605,Tyrannus,2024-01-24 17:18:54.447684+00
+05bccc47-4108-4350-bb7d-c8dccbf39d76,Glaucis hirsutus,birds,Glaucis hirsutus,NULL,Rufous-Breasted Hermit,NULL,Trochilidae,Hummingbirds,species,NULL,Glaucis,2024-01-31 16:46:00.000045+00
+a7396b14-8fe5-4a69-b568-57cdb1ccaab4,Ara ararauna,birds,Ara ararauna,NULL,Blue-And-Yellow Macaw,NULL,Psittacidae,Parrots,species,NULL,Ara,2024-01-31 16:46:00.000045+00
+25adf244-a066-4362-b9cc-a2fe96b04115,Iodopleura,birds,,NULL,,NULL,Tityridae,,genus,NULL,Iodopleura,2024-01-31 16:46:00.000045+00
+a4fe6a4f-5d8f-4cba-8749-d64f6e5a0c3e,Ceratopipra,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Ceratopipra,2024-01-31 16:46:00.000045+00
+b67e531b-801b-4601-bd71-d26710383d58,Cephalopterus ornatus,birds,Cephalopterus ornatus,NULL,Amazonian Umbrellabird,NULL,Cotingidae,Cotingas,species,NULL,Cephalopterus,2024-01-31 16:46:00.000045+00
+f52daf4e-b6a1-4f8f-8131-1671762e4441,Phaeomyias,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Phaeomyias,2024-01-31 16:46:00.000045+00
+9f166684-2933-43fb-a75f-3ab7580c8d7f,Bucco,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Bucco,2024-01-31 16:46:00.000045+00
+d7df5788-33bf-4aa1-b4d4-d1faf6fa7a35,Pachyramphus rufus,birds,Pachyramphus rufus,NULL,Cinereous Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+fb6ded37-c5a0-4934-8909-72396805d059,Vanellus chilensis,birds,Vanellus chilensis,NULL,Southern Lapwing,NULL,Charadriidae,Plovers,species,NULL,Vanellus,2024-01-31 16:46:00.000045+00
+002caff5-dfbd-4fc6-b66c-c8741b7d3491,Coccyzus melacoryphus,birds,Coccyzus melacoryphus,NULL,Dark-Billed Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Coccyzus,2024-01-31 16:46:00.000045+00
+8a218499-7df5-4058-be6e-fd8545417c32,Myrmoderus,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Myrmoderus,2024-01-31 16:46:00.000045+00
+3e93b423-4969-48cd-83f4-356f5334c861,Chaetura brachyura,birds,Chaetura brachyura,NULL,Short-Tailed Swift,NULL,Apodidae,Swifts,species,NULL,Chaetura,2024-01-31 16:46:00.000045+00
+7c13debe-b16a-45f8-b756-76580cefa316,Euphonia plumbea,birds,Euphonia plumbea,NULL,Plumbeous Euphonia,NULL,Fringillidae,Finches,species,NULL,Euphonia,2024-01-31 16:46:00.692574+00
+b1c73259-0862-4538-898e-b7914e1337b2,Sirystes sibilator,birds,Sirystes sibilator,NULL,Sirystes,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Sirystes,2024-01-31 16:46:00.000045+00
+bafd1740-06d8-41e3-8fe6-3bcea6894321,Chlorophanes,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Chlorophanes,2024-01-31 16:46:00.000045+00
+643b022a-ea1b-4858-9e0b-180bb3f7ff99,Lophostrix cristata,birds,Lophostrix cristata,NULL,Crested Owl,NULL,Strigidae,Owls,species,NULL,Lophostrix,2024-01-31 16:46:00.000045+00
+ab6f9d61-f5ec-4126-b11e-671a2ff2d8c7,Amazona festiva,birds,Amazona festiva,NULL,Festive Amazon,NULL,Psittacidae,Parrots,species,NULL,Amazona,2024-01-31 16:46:00.000045+00
+37a932ee-40d1-4199-96d8-dd1e4f8a825c,Dromococcyx pavoninus,birds,Dromococcyx pavoninus,NULL,Pavonine Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Dromococcyx,2024-01-31 16:46:00.000045+00
+edd5de58-603c-47ba-bb33-b940559d0584,Paroaria gularis,birds,Paroaria gularis,NULL,Red-Capped Cardinal,NULL,Thraupidae,Tanagers,species,NULL,Paroaria,2024-01-31 16:46:00.000045+00
+b493363e-e55b-4a4b-b199-88904afc3723,Bartramia longicauda,birds,Bartramia longicauda,https://lh3.googleusercontent.com/5yI1mL-nCBuEoF78KyeJAab_Lvdp5oxPO6sH9re-2HKXDqV2LbnNk7MTb03KbmX6VDAAiwv1BjclJGFcfDr4eYo,Upland Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Bartramia,2024-01-24 17:18:54.447684+00
+68a4d84c-4fb1-4f18-8494-ce869e62269f,Dendrocolaptes certhia,birds,Dendrocolaptes certhia,NULL,Barred Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendrocolaptes,2024-01-31 16:46:00.000045+00
+f9e06a7b-6d6b-4940-8aeb-8c84c102ac43,Frederickena,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Frederickena,2024-01-31 16:46:00.000045+00
+f979d066-31eb-4ee7-8cb2-fd462a664072,Psophia crepitans,birds,Psophia crepitans,NULL,Grey-Winged Trumpeter,NULL,Psophiidae,Trumpters,species,NULL,Psophia,2024-01-31 16:46:00.000045+00
+12c86430-6bc2-49a4-ab58-dd203a516997,Veniliornis,birds,,NULL,,NULL,,,genus,NULL,Veniliornis,2024-01-31 16:46:00.692574+00
+a3230ad6-778b-4968-8b27-f42947ba7cc3,Dendrocincla merula,birds,Dendrocincla merula,NULL,White-Chinned Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendrocincla,2024-01-31 16:46:00.000045+00
+f284b227-0ad5-42e8-9a23-47b7dd7111f4,Pheugopedius,birds,,NULL,,NULL,Troglodytidae,Wrens,genus,NULL,Pheugopedius,2024-01-31 16:46:00.000045+00
+2e7a39b8-d079-4abd-8cb7-09841105e5ab,Granatellus,birds,,NULL,,NULL,Cardinalidae,Cardinals,genus,NULL,Granatellus,2024-01-31 16:46:00.692574+00
+215adebf-fcf2-4b92-8dfc-120b5c0051db,Sicalis columbiana,birds,Sicalis columbiana,NULL,Orange-Fronted Yellow-Finch,NULL,Thraupidae,Tanagers,species,NULL,Sicalis,2024-01-31 16:46:00.000045+00
+7c19a3dc-7726-4247-a40a-9c07ab8b60c2,Phalacrocorax brasilianus,birds,Phalacrocorax brasilianus,NULL,Neotropic Cormorant,NULL,,,species,NULL,Phalacrocorax,2024-01-31 16:46:00.692574+00
+1c9f2435-de26-44a5-b1c5-e3126054b238,Sarcoramphus papa,birds,Sarcoramphus papa,NULL,King Vulture,NULL,Cathartidae,New World Vultures,species,NULL,Sarcoramphus,2024-01-31 16:46:00.000045+00
+f30b80e0-b4d1-4010-a434-a85a2cda2cc1,Leptotila rufaxilla,birds,Leptotila rufaxilla,NULL,Grey-Fronted Dove,NULL,Columbidae,Pigeons,species,NULL,Leptotila,2024-01-31 16:46:00.000045+00
+beba978b-91ac-4654-9bb6-22a4f24abb26,Molothrus,birds,,,,,Icteridae,American Blackbirds,genus,1165,Molothrus,2024-01-24 17:18:54.447684+00
+997eaf56-6723-4f8f-893b-a0b7c20ca160,Sirystes,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Sirystes,2024-01-31 16:46:00.000045+00
+a2364ba3-5fa5-4236-b7cf-beafb0a90db9,Busarellus nigricollis,birds,Busarellus nigricollis,NULL,Black-Collared Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Busarellus,2024-01-31 16:46:00.000045+00
+12b1d5e6-0e59-4e82-b7a2-e64279574d99,Sclateria naevia,birds,Sclateria naevia,NULL,Silvered Antcatcher,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Sclateria,2024-01-31 16:46:00.000045+00
+615af68b-5af4-4fc8-b6d7-a52973f2469d,Dacnis cayana,birds,Dacnis cayana,NULL,Blue Dacnis,NULL,Thraupidae,Tanagers,species,NULL,Dacnis,2024-01-31 16:46:00.000045+00
+c87e2deb-43d4-4afa-bffb-09f1f5ce17d1,Eurypygidae,birds,,NULL,,NULL,Eurypygidae,Sunbittern,family,NULL,,2024-01-31 16:46:00.000045+00
+b56a0cb7-711b-44bf-bb75-5f6452e2c430,Cranioleuca,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Cranioleuca,2024-01-31 16:46:00.000045+00
+a746e8b5-bf6e-4a03-82cc-b975317e2232,Tachyphonus rufus,birds,Tachyphonus rufus,NULL,White-Lined Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tachyphonus,2024-01-31 16:46:00.000045+00
+d2156d2a-1b39-48a1-98af-5176d2787405,Mionectes macconnelli,birds,Mionectes macconnelli,NULL,Mcconnell's Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Mionectes,2024-01-31 16:46:00.000045+00
+f6b12f2c-accc-48bc-a1e3-1d725cb4ae40,Tringa solitaria,birds,Tringa solitaria,https://lh3.googleusercontent.com/d2CH8eYsko3bDFYY4v8EH8TlnHLf0MAWo4IIThTafFHR40RMHc9JHUAiWHfc_2J2ErtrSeejbgA_8b2a57a5CFQ,Solitary Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Tringa,2024-01-24 17:18:54.447684+00
+416d0027-816f-4b5e-b57e-970c3d206b30,Tachornis squamata,birds,Tachornis squamata,NULL,Fork-Tailed Palm-Swift,NULL,Apodidae,Swifts,species,NULL,Tachornis,2024-01-31 16:46:00.000045+00
+a06c3fbe-6e82-4ade-8b4e-84f67016dc88,Elanoides forficatus,birds,Elanoides forficatus,https://lh3.googleusercontent.com/072MusdXYW3AUiO4NVb6nr2v_I6qpCYV1u9jXefUcg_4TeDtWQUqwGF6YeomS2X-rIbORF_GDN8S4rAsJiRFDe_0,Swallow-Tailed Kite,LC,Accipitridae,Hawks And Eagles,species,175,Elanoides,2024-01-24 17:18:54.447684+00
+6dffcac0-a82d-410c-8c27-62c546bf23bb,Celeus torquatus,birds,Celeus torquatus,NULL,Ringed Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Celeus,2024-01-31 16:46:00.000045+00
+8b850851-54e3-4f03-a172-7a2b7dc72cf2,Haematoderus militaris,birds,Haematoderus militaris,NULL,Crimson Fruitcrow,NULL,Cotingidae,Cotingas,species,NULL,Haematoderus,2024-01-31 16:46:00.000045+00
+6731560a-39ae-4827-97a9-c169c30ed2e9,Harpia harpyja,birds,Harpia harpyja,NULL,Harpy Eagle,NULL,Accipitridae,Hawks And Eagles,species,NULL,Harpia,2024-01-31 16:46:00.000045+00
+5dfd6783-e439-41ee-b6f3-c8a27c802bcc,Hylexetastes perrotii,birds,Hylexetastes perrotii,NULL,Red-Billed Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Hylexetastes,2024-01-31 16:46:00.000045+00
+9236942d-be97-4318-9007-b893bde784af,Myrmeciza atrothorax,birds,Myrmeciza atrothorax,NULL,Black-Throated Antbird,NULL,,,species,NULL,Myrmeciza,2024-01-31 16:46:00.692574+00
+3bd86a66-7e46-41b3-b4f7-97b451757e6e,Sicalis flaveola,birds,Sicalis flaveola,NULL,Saffron Finch,NULL,Thraupidae,Tanagers,species,NULL,Sicalis,2024-01-31 16:46:00.000045+00
+4b685101-61b3-4713-be78-883431925c62,Gymnopithys rufigula,birds,Gymnopithys rufigula,NULL,Rufous-Throated Antcatcher,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Gymnopithys,2024-01-31 16:46:00.000045+00
+5842a3dd-8531-4749-bb14-154faa5297f8,Strix,birds,,,,,Strigidae,Owls ,genus,355,Strix,2024-01-24 17:18:54.447684+00
+cecb5f81-9872-4af4-950c-da83cd70530c,Megarynchus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Megarynchus,2024-01-31 16:46:00.000045+00
+9cd07a9b-06df-4bec-a98e-57a039ae9d01,Thryothorus,birds,,,,,Troglodytidae,Wrens,genus,930,Thryothorus,2024-01-24 17:18:54.447684+00
+e7213ae0-376b-4f0f-b8ec-4bd9a72ffc11,Florisuga,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Florisuga,2024-01-31 16:46:00.000045+00
+8ff008d3-dc1e-4913-990f-67a606c1653c,Conopias parvus,birds,Conopias parvus,NULL,Yellow-Throated Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Conopias,2024-01-31 16:46:00.000045+00
+9db02e01-6fd0-481c-adcd-d594dbd18b64,Corvidae,birds,,,,,Corvidae,"Crows, Jays ",family,835,,2024-01-24 17:18:54.447684+00
+ac1666df-a793-4d5f-a120-c0b9986978cc,Nemosia pileata,birds,Nemosia pileata,NULL,Hooded Tanager,NULL,Thraupidae,Tanagers,species,NULL,Nemosia,2024-01-31 16:46:00.000045+00
+17b65e86-6de5-4470-b076-1e0f9ba21ae9,Mesembrinibis,birds,,NULL,,NULL,Threskiornithidae,Ibises,genus,NULL,Mesembrinibis,2024-01-31 16:46:00.000045+00
+203b66f0-2ab8-404c-add4-4c4e5b7355c8,Hylophilus semicinereus,birds,Hylophilus semicinereus,NULL,Grey-Chested Greenlet,NULL,Vireonidae,Vireos,species,NULL,Hylophilus,2024-01-31 16:46:00.000045+00
+9640ffc6-9720-4061-869b-ef583dda512b,Tyranneutes,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Tyranneutes,2024-01-31 16:46:00.000045+00
+875d636e-be76-4ee2-b73f-cdcda51c8a9d,Buteo,birds,,,,,Accipitridae,"Kites, Hawks, Eagles ",genus,216,Buteo,2024-01-24 17:18:54.447684+00
+fc36892b-ab11-4fb3-a156-7196b397a558,Hylopezus,birds,,NULL,,NULL,Grallariidae,,genus,NULL,Hylopezus,2024-01-31 16:46:00.000045+00
+03757932-fa40-4117-a1fd-9dd88990bddc,Pyrilia caica,birds,Pyrilia caica,NULL,Caica Parrot,NULL,Psittacidae,Parrots,species,NULL,Pyrilia,2024-01-31 16:46:00.000045+00
+ebb8366d-7615-4b08-b894-c9f87acda147,Coccycua,birds,,NULL,,NULL,Cuculidae,Cuckoos,genus,NULL,Coccycua,2024-01-31 16:46:00.000045+00
+65ef72ed-ca0d-4ccb-80c0-8b98468bccdf,Myiobius barbatus,birds,Myiobius barbatus,NULL,Sulphur-Rumped Flycatcher,NULL,Oxyruncidae,,species,NULL,Myiobius,2024-01-31 16:46:00.000045+00
+f51fa5df-dd55-47ae-b270-18091f59bc62,Sporophila minuta,birds,Sporophila minuta,NULL,Ruddy-Breasted Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+038fde61-7c0d-4845-a797-35919dadc92e,Leucopternis,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Leucopternis,2024-01-31 16:46:00.000045+00
+090a4646-3705-423d-9d90-8d68b4fa4420,Willisornis poecilinotus,birds,Willisornis poecilinotus,NULL,Scale-Backed Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Willisornis,2024-01-31 16:46:00.000045+00
+f02e36a5-9837-44ae-931b-66ecfc2ed0c0,Icteridae,birds,,,,,Icteridae,American Blackbirds,family,1165,,2024-01-24 17:18:54.447684+00
+889d0367-d87a-4669-98fa-2f3517038876,Schistocichla humaythae,birds,Schistocichla humaythae,NULL,Humaita Antbird,NULL,,,species,NULL,Schistocichla,2024-01-31 16:46:00.692574+00
+975335d9-363f-4ae0-8b23-e9e6139c9a75,Sclerurus caudacutus,birds,Sclerurus caudacutus,NULL,Black-Tailed Leafscraper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Sclerurus,2024-01-31 16:46:00.000045+00
+a5152377-2cd8-4e6c-b1e3-62ebce2b3138,Buteo platypterus,birds,Buteo platypterus,https://lh3.googleusercontent.com/pX154AywQpaEIVKtRtT_CMDQ_Tps76MmLqL0hCsC739bQojEfm70EbW6lUYLqDLQNW3_aC8hzw6WntQSlblnoFsT,Broad-Winged Hawk,LC,Accipitridae,Hawks And Eagles,species,175,Buteo,2024-01-24 17:18:54.447684+00
+40dd65f7-7a5f-45b8-abbc-584f9e9dabf6,Tyrannus melancholicus,birds,Tyrannus melancholicus,https://lh3.ggpht.com/hDKsArUR5A-7MKPjN485s_YVFgkuEM7PoUjTTUAygmngYDczBECaQOnzVQaxClqeGDoRrxa8YPHZjmIQXRnkGNk,Tropical Kingbird,LC,Tyrannidae,Tyrant Flycatchers,species,605,Tyrannus,2024-01-24 17:18:54.447684+00
+608969b3-d4a3-4bb6-94cc-4ea6fb2c952a,Sterna,birds,,,,,Laridae,"Gulls, Terns, Skimmers ",genus,320,Sterna,2024-01-24 17:18:54.447684+00
+f89b3ab8-fe89-4d3f-8024-f9695eb95308,Lurocalis semitorquatus,birds,Lurocalis semitorquatus,NULL,Semi-Collared Nighthawk,NULL,Caprimulgidae,Nightjars,species,NULL,Lurocalis,2024-01-31 16:46:00.000045+00
+d63f47ff-52f5-4029-9919-7c38687d099c,Cyanerpes caeruleus,birds,Cyanerpes caeruleus,NULL,Purple Honeycreeper,NULL,Thraupidae,Tanagers,species,NULL,Cyanerpes,2024-01-31 16:46:00.000045+00
+11f9651a-e271-4efa-8a35-fd01a80b3dc2,Certhiasomus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Certhiasomus,2024-01-31 16:46:00.000045+00
+0fbbc215-d2e9-46de-bdf8-6ad0c2d22c98,Deconychura longicauda,birds,Deconychura longicauda,NULL,Long-Tailed Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Deconychura,2024-01-31 16:46:00.000045+00
+5b593b48-0a38-476b-a65d-9a473f4c5578,Cnemotriccus fuscatus,birds,Cnemotriccus fuscatus,NULL,Fuscous Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Cnemotriccus,2024-01-31 16:46:00.000045+00
+c37948d2-b056-402a-987a-f95f927e2b8f,Piculus chrysochloros,birds,Piculus chrysochloros,NULL,Golden-Green Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Piculus,2024-01-31 16:46:00.000045+00
+5e5fb972-6b33-41e7-b876-f1df9bf2f2a6,Cyanerpes cyaneus,birds,Cyanerpes cyaneus,NULL,Red-Legged Honeycreeper,NULL,Thraupidae,Tanagers,species,NULL,Cyanerpes,2024-01-31 16:46:00.000045+00
+3f1cc407-d5b0-4ba8-a025-132c8db21d30,Mesembrinibis cayennensis,birds,Mesembrinibis cayennensis,NULL,Green Ibis,NULL,Threskiornithidae,Ibises,species,NULL,Mesembrinibis,2024-01-31 16:46:00.000045+00
+2959388b-07eb-48f2-b781-4aa3a9327e76,Caprimulgus nigrescens,birds,Caprimulgus nigrescens,NULL,Blackish Nightjar,NULL,,,species,NULL,Caprimulgus,2024-01-31 16:46:00.692574+00
+b4b82a4f-e744-4dd0-b126-d8424fdbe327,Spizaetus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Spizaetus,2024-01-31 16:46:00.000045+00
+8f3daf94-c4e3-47bf-bcd1-ce5f232430d3,Ixothraupis punctata,birds,Ixothraupis punctata,NULL,,NULL,Thraupidae,Tanagers,species,NULL,Ixothraupis,2024-01-31 16:46:00.000045+00
+daab3b50-6de2-492d-bca7-b3a576d70d39,Charadrius collaris,birds,Charadrius collaris,NULL,Collared Plover,NULL,Charadriidae,Plovers,species,NULL,Charadrius,2024-01-31 16:46:00.000045+00
+be59819e-015f-43aa-bbb4-fbf9b8faa4c7,Chlorestes notata,birds,Chlorestes notata,NULL,Blue-Chinned Sapphire,NULL,Trochilidae,Hummingbirds,species,NULL,Chlorestes,2024-01-31 16:46:00.000045+00
+7b1e3fb2-297d-48d7-933c-178b62d45f5d,Laniocera hypopyrra,birds,Laniocera hypopyrra,NULL,Cinereous Mourner,NULL,Tityridae,,species,NULL,Laniocera,2024-01-31 16:46:00.000045+00
+234d26f3-1aa7-4096-b6ec-b369044d96a8,Cyanocorax cayanus,birds,Cyanocorax cayanus,NULL,Cayenne Jay,NULL,Corvidae,Crows,species,NULL,Cyanocorax,2024-01-31 16:46:00.000045+00
+06941ec4-161b-4770-815b-31fd0ea10eda,Ixothraupis,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Ixothraupis,2024-01-31 16:46:00.000045+00
+ece5600e-17b3-4963-b7fe-5b8b98361cb3,Molothrus oryzivorus,birds,Molothrus oryzivorus,NULL,Giant Cowbird,NULL,Icteridae,American Blackbirds,species,NULL,Molothrus,2024-01-31 16:46:00.692574+00
+9b0a6d59-463a-4255-8d5a-546f806fdaaf,Hylexetastes,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Hylexetastes,2024-01-31 16:46:00.000045+00
+62a45e8b-3e6d-4cfb-ac14-e8350d546c8a,Cercomacra tyrannina,birds,Cercomacra tyrannina,NULL,Dusky Antbird,NULL,,,species,NULL,Cercomacra,2024-01-31 16:46:00.692574+00
+f6d91b5f-f977-44db-92d6-b23e6838220c,Mionectes oleagineus,birds,Mionectes oleagineus,NULL,Ochre-Bellied Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Mionectes,2024-01-31 16:46:00.000045+00
+c81eeb9a-c8f5-40af-bb7f-012a538c9f31,Percnostola,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Percnostola,2024-01-31 16:46:00.000045+00
+8c84544b-62dd-4c9c-b694-651291368817,Tangara punctata,birds,Tangara punctata,NULL,Spotted Tanager,NULL,,,species,NULL,Tangara,2024-01-31 16:46:00.692574+00
+3a7e6baa-ecc5-463e-982b-b26b9548c0b0,Hypocnemoides melanopogon,birds,Hypocnemoides melanopogon,NULL,Black-Chinned Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Hypocnemoides,2024-01-31 16:46:00.000045+00
+4e35c35c-1a10-4311-95e4-ec007c1d3c95,Buteo magnirostris,birds,Buteo magnirostris,NULL,Roadside Hawk,NULL,,,species,NULL,Buteo,2024-01-31 16:46:00.692574+00
+e6d1f70c-c3c6-402e-a3f2-2d4e84961853,Corythopis,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Corythopis,2024-01-31 16:46:00.000045+00
+8098e934-de61-4963-9983-46ca5b0c2bb5,Cacicus solitarius,birds,Cacicus solitarius,NULL,Solitary Cacique,NULL,Icteridae,American Blackbirds,species,NULL,Cacicus,2024-01-31 16:46:00.692574+00
+bd60c5fe-7374-4fbd-b578-5c4fb5b6d99b,Celeus,birds,,NULL,,NULL,Picidae,,genus,NULL,Celeus,2024-01-25 17:05:45.542568+00
+64769999-42cd-4813-a5a7-dc4ad3314a13,Myrmotherula,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Myrmotherula,2024-01-31 16:46:00.000045+00
+886ba3e1-1a63-4a97-b203-deda3b6c2f6d,Contopus virens,birds,Contopus virens,https://lh3.googleusercontent.com/rGt1coB6QVSeLTPIUKJDd6lDnh0JxH20M7lR044IYvQTRRj1-xR5RVj0K68fjcYb_bgikDHCdJ0B7NdQjYmiUJM,Eastern Wood-Pewee,LC,Tyrannidae,Tyrant Flycatchers,species,605,Contopus,2024-01-24 17:18:54.447684+00
+0ce1c5bf-dde4-42ff-8e8c-18c69e30a958,Tinamus,birds,,NULL,,NULL,Tinamidae,Tinamous,genus,NULL,Tinamus,2024-01-31 16:46:00.000045+00
+52d54b3b-7282-43ab-92f4-30cd92439bbf,Monasa,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Monasa,2024-01-31 16:46:00.000045+00
+c09ee349-238c-47fc-9b04-5686eb3df3fe,Chordeiles,birds,,,,,Caprimulgidae,Nightjars,genus,365,Chordeiles,2024-01-24 17:18:54.447684+00
+ca268019-ca5a-4f6c-99d5-532a47c902ba,Ammodramus aurifrons,birds,Ammodramus aurifrons,NULL,Yellow-Browed Sparrow,NULL,Passerellidae,,species,NULL,Ammodramus,2024-01-31 16:46:00.000045+00
+b9e04922-8ac2-43a5-8c9f-818ae1d05a70,Phaeothlypis,birds,,NULL,,NULL,,,genus,NULL,Phaeothlypis,2024-01-31 16:46:00.692574+00
+2ddabf7e-88f1-4020-ac9f-086e121c00d4,Icterus cayanensis,birds,Icterus cayanensis,NULL,Epaulet Oriole,NULL,Icteridae,American Blackbirds,species,NULL,Icterus,2024-01-31 16:46:00.692574+00
+c844fc3a-d47d-4d7a-a69f-034ead7f100d,Topaza,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Topaza,2024-01-31 16:46:00.000045+00
+b8808c98-3867-453a-bbda-ba47eb133faa,Microcerculus,birds,,NULL,,NULL,Troglodytidae,Wrens,genus,NULL,Microcerculus,2024-01-31 16:46:00.000045+00
+099f3d62-0593-4cec-bb7b-07f0174ada44,Todirostrum maculatum,birds,Todirostrum maculatum,NULL,Spotted Tody-Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Todirostrum,2024-01-31 16:46:00.000045+00
+8807ab22-c684-49d9-be54-f69642998d63,Elaenia parvirostris,birds,Elaenia parvirostris,NULL,Small-Billed Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+f9af13bc-75ae-44f4-ad7d-ab0316e332a0,Jacana,birds,,NULL,,NULL,Jacanidae,Jacanas,genus,NULL,Jacana,2024-01-31 16:46:00.000045+00
+2b40242c-cfc8-4a80-ac87-b02070b8c8d8,Myrmotherula guttata,birds,Myrmotherula guttata,NULL,Rufous-Bellied Antwren,NULL,,,species,NULL,Myrmotherula,2024-01-31 16:46:00.692574+00
+08d870cc-6de2-42c4-b9fd-285afc6b3b08,Gallinago paraguaiae,birds,Gallinago paraguaiae,NULL,Magellan Snipe,NULL,Scolopacidae,Sandpipers,species,NULL,Gallinago,2024-01-31 16:46:00.000045+00
+183e100b-1ac8-47dc-ba5e-4dfe8c10bafb,Ciconiidae,birds,,,,,Ciconiidae,Storks ,family,158,,2024-01-24 17:18:54.447684+00
+9647279e-0c11-4075-9122-77c802b4814b,Hypocnemis cantator,birds,Hypocnemis cantator,NULL,Warbling Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Hypocnemis,2024-01-31 16:46:00.000045+00
+cfcf5113-fc8f-4653-90a9-8fb709726c66,Leptotila,birds,,NULL,,NULL,Columbidae,Pigeons,genus,NULL,Leptotila,2024-01-31 16:46:00.000045+00
+5b40379b-8ba3-43b0-9ce1-56bf6efdf1d6,Arremon,birds,,NULL,,NULL,Passerellidae,,genus,NULL,Arremon,2024-01-31 16:46:00.692574+00
+e3aa5276-900e-433f-ba27-a89896c102b9,Harpia,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Harpia,2024-01-31 16:46:00.000045+00
+aa9a19b1-380c-42b9-8d87-6757dea18edc,Penelope jacquacu,birds,Penelope jacquacu,NULL,Spix's Guan,NULL,Cracidae,Chachalacas,species,NULL,Penelope,2024-01-31 16:46:00.000045+00
+e7af3e19-f129-4de9-ad49-1c8453c739bc,Tangara,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Tangara,2024-01-31 16:46:00.000045+00
+848a9678-d6fd-4cfa-967f-37b05a31427e,Campephilus rubricollis,birds,Campephilus rubricollis,NULL,Red-Necked Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Campephilus,2024-01-31 16:46:00.000045+00
+5cb90b87-7b8a-4ddb-9b16-480c5241df5c,Ramphocaenus,birds,,NULL,,NULL,Polioptilidae,Gnatcatchers,genus,NULL,Ramphocaenus,2024-01-31 16:46:00.000045+00
+60b6ae04-ecd8-4d02-88bc-393864df4566,Catharus,birds,,,,,Turdidae,"Thrushes, Robins, Chats, And Wheatears",genus,1050,Catharus,2024-01-24 17:18:54.447684+00
+e56e5503-8398-4791-82ac-c5e83ed82ff9,Tachycineta,birds,,,,,Hirundinidae,Martins,genus,890,Tachycineta,2024-01-24 17:18:54.447684+00
+334f8b04-078f-4c6d-8dcc-d5b40dd0b3ba,Threnetes leucurus,birds,Threnetes leucurus,NULL,Pale-Tailed Barbthroat,NULL,Trochilidae,Hummingbirds,species,NULL,Threnetes,2024-01-31 16:46:00.000045+00
+c242a804-4c2d-414a-a095-64ee59ef51ca,Cercomacra,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Cercomacra,2024-01-31 16:46:00.000045+00
+83bf7779-44a2-4363-ad1c-df4445db8b63,Zebrilus,birds,,NULL,,NULL,Ardeidae,Egrets And Herons,genus,NULL,Zebrilus,2024-01-31 16:46:00.000045+00
+ff567dd2-f71a-4f04-a1df-af77cb6bb728,Dendrexetastes rufigula,birds,Dendrexetastes rufigula,NULL,Cinnamon-Throated Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendrexetastes,2024-01-31 16:46:00.000045+00
+d8cad085-17fa-4bde-986c-54279d907760,Chloroceryle inda,birds,Chloroceryle inda,NULL,Green-And-Rufous Kingfisher,NULL,Alcedinidae,Kingfishers,species,NULL,Chloroceryle,2024-01-31 16:46:00.000045+00
+c85b4e54-469e-4d8a-a1f4-9070b5f80b26,Pionus fuscus,birds,Pionus fuscus,NULL,Dusky Parrot,NULL,Psittacidae,Parrots,species,NULL,Pionus,2024-01-31 16:46:00.000045+00
+80bce7c8-9e04-47ab-a549-ff0d15561d8a,Schistocichla,birds,,NULL,,NULL,,,genus,NULL,Schistocichla,2024-01-31 16:46:00.692574+00
+c3c85f8e-14ca-437b-abe4-c76693f9408c,Pithys albifrons,birds,Pithys albifrons,NULL,White-Faced Antcatcher,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Pithys,2024-01-31 16:46:00.000045+00
+9c5cdb48-1de7-49eb-b9ad-1befc480929e,Claravis,birds,,NULL,,NULL,Columbidae,Pigeons,genus,NULL,Claravis,2024-01-31 16:46:00.000045+00
+ca7773a3-5585-46fc-b97f-8fc2e0e42964,Buteogallus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Buteogallus,2024-01-31 16:46:00.000045+00
+3e2c4b9e-0e66-434a-b369-25ad1bed980a,Hylophylax,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Hylophylax,2024-01-31 16:46:00.000045+00
+18a8f64b-023d-4190-a55b-2f163a56bce7,Myiophobus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Myiophobus,2024-01-31 16:46:00.000045+00
+e7d13e59-8986-426b-81af-05aae1190fa9,Sporophila angolensis,birds,Sporophila angolensis,NULL,,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+9c010aeb-4ca9-4f24-96ee-f561661c9e38,Nyctiphrynus ocellatus,birds,Nyctiphrynus ocellatus,NULL,Ocellated Poorwill,NULL,Caprimulgidae,Nightjars,species,NULL,Nyctiphrynus,2024-01-31 16:46:00.000045+00
+7cc42002-6921-4d7f-b5bd-b56e7c9c3b37,Tigrisoma lineatum,birds,Tigrisoma lineatum,NULL,Rufescent Tiger-Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Tigrisoma,2024-01-31 16:46:00.000045+00
+cfbbf4e1-2d95-4229-93c1-92d8211dcc4c,Stelgidopteryx ruficollis,birds,Stelgidopteryx ruficollis,NULL,Southern Rough-Winged Swallow,NULL,Hirundinidae,Martins,species,NULL,Stelgidopteryx,2024-01-31 16:46:00.000045+00
+6fe55860-c6c8-453c-bb91-9bc7f4e3865c,Aratinga leucophthalma,birds,Aratinga leucophthalma,NULL,White Eyed Parakeet,NULL,,,species,NULL,Aratinga,2024-01-31 16:46:00.692574+00
+f20f5ad4-f844-44d9-a76e-75704a263807,Tangara chilensis,birds,Tangara chilensis,NULL,Paradise Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tangara,2024-01-31 16:46:00.000045+00
+5f618df8-afb8-4e64-86b0-3753d2dc14fd,Columbina,birds,,,,,Columbidae,Pigeons,genus,330,Columbina,2024-01-24 17:18:54.447684+00
+48b75517-a942-414e-9282-986f07703205,Accipiter superciliosus,birds,Accipiter superciliosus,NULL,Tiny Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Accipiter,2024-01-31 16:46:00.000045+00
+c326ca00-df98-4e7a-9aeb-aaa6796b4366,Dryobates cassini,birds,Dryobates cassini,NULL,,NULL,Picidae,Woodpeckers,species,NULL,Dryobates,2024-01-31 16:46:00.000045+00
+58c7ea50-e32b-4bb5-afa5-e95b1c52e49d,Oporornis agilis,birds,Oporornis agilis,https://lh3.googleusercontent.com/jfOP4H9lD3ydDByG0NEe7WGwwvs7iy1VR7dnn3wdnCmjmUvSEWBMu_YZUxiaqoksmWHmC3vcqltFG8H6oUO6xh6z,Connecticut Warbler,LC,Parulidae,New World Warblers,species,1145,Oporornis,2024-01-24 17:18:54.447684+00
+38b97552-f1d5-4190-9188-f35f33ff14d8,Ochthornis littoralis,birds,Ochthornis littoralis,NULL,Drab Water-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Ochthornis,2024-01-31 16:46:00.000045+00
+aeeaa2b0-9dbd-4271-9aca-004fe3cc6c3d,Sicalis,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Sicalis,2024-01-31 16:46:00.000045+00
+f4fe9f4e-bd55-4179-9331-232062c908e2,Tinamus guttatus,birds,Tinamus guttatus,NULL,White-Throated Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Tinamus,2024-01-31 16:46:00.000045+00
+77072971-fa0f-42cc-8e8f-c8405b76ddcd,Elaenia flavogaster,birds,Elaenia flavogaster,NULL,Yellow-Bellied Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+f63667a9-578f-43e6-aea1-9a4a3cd5fb58,Conopophagidae,birds,,NULL,,NULL,Conopophagidae,Gnateaters,family,NULL,,2024-01-31 16:46:00.000045+00
+593dd4dc-ae28-4520-ab00-69186922fc7f,Formicarius colma,birds,Formicarius colma,NULL,Rufous-Capped Antthrush,NULL,Formicariidae,Ground Antbirds,species,NULL,Formicarius,2024-01-31 16:46:00.000045+00
+1db91e7a-6c09-4562-b9d2-a572f04b3d44,Lepidothrix serena,birds,Lepidothrix serena,NULL,White Fronted Manakin,NULL,Pipridae,Manakins,species,NULL,Lepidothrix,2024-01-31 16:46:00.000045+00
+bf65c9b5-837a-4e94-adec-fca2dec4fa24,Megaceryle torquata,birds,Megaceryle torquata,NULL,Ringed Kingfisher,NULL,Alcedinidae,Kingfishers,species,NULL,Megaceryle,2024-01-31 16:46:00.000045+00
+a9a41715-132a-4746-abd3-8ec3a3e65627,Cyanerpes nitidus,birds,Cyanerpes nitidus,NULL,Short-Billed Honeycreeper,NULL,Thraupidae,Tanagers,species,NULL,Cyanerpes,2024-01-31 16:46:00.000045+00
+dea5ba42-e73c-46a8-bcce-5208cc31a9c2,Ornithion,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Ornithion,2024-01-31 16:46:00.000045+00
+df4f18f7-85e3-4596-960e-5805a26a6d45,Celeus grammicus,birds,Celeus grammicus,NULL,Scaly-Breasted Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Celeus,2024-01-31 16:46:00.000045+00
+3e4b3f78-c72b-4f5b-9877-8658f82bd2b0,Myiophobus fasciatus,birds,Myiophobus fasciatus,NULL,Bran-Coloured Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiophobus,2024-01-31 16:46:00.000045+00
+98e8c46d-60db-4ed5-998c-0345ed49b435,Psophiidae,birds,,NULL,,NULL,Psophiidae,Trumpters,family,NULL,,2024-01-31 16:46:00.000045+00
+33f9a6fb-46fc-495a-bdd0-63973b760120,Hemitriccus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Hemitriccus,2024-01-31 16:46:00.000045+00
+8bab6bbe-d931-444e-9124-227e9b5db8c8,Coereba flaveola,birds,Coereba flaveola,NULL,Bananaquit,NULL,Thraupidae,Tanagers,species,NULL,Coereba,2024-01-31 16:46:00.000045+00
+4c4e7d32-6dfb-4a29-a289-5930c2b2761c,Hylophilus,birds,,NULL,,NULL,Vireonidae,Vireos,genus,NULL,Hylophilus,2024-01-31 16:46:00.000045+00
+17a2b4a5-7e02-48d8-a93c-80aa68d3c52f,Pteroglossus,birds,,NULL,,NULL,Ramphastidae,New World Barbets And Allies,genus,NULL,Pteroglossus,2024-01-31 16:46:00.000045+00
+cfd54a10-4693-4c6b-8cd1-145fd99ebb77,Lepidocolaptes albolineatus,birds,Lepidocolaptes albolineatus,NULL,Lineated Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Lepidocolaptes,2024-01-31 16:46:00.000045+00
+8f4cf39f-1bf4-43c6-8b44-5aa28d905a76,Trogon,birds,,NULL,,NULL,Trogonidae,Trogons,genus,NULL,Trogon,2024-01-31 16:46:00.000045+00
+f9612895-4103-4b99-b787-e8679c7cb0e0,Hylocharis cyanus,birds,Hylocharis cyanus,NULL,White-Chinned Sapphire,NULL,,,species,NULL,Hylocharis,2024-01-31 16:46:00.692574+00
+4a4e3392-d3c2-48b6-861c-a6def2f7e9dc,Thamnomanes caesius,birds,Thamnomanes caesius,NULL,Cinereous Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnomanes,2024-01-31 16:46:00.000045+00
+11bfa4c8-4263-4ac6-9ef6-ca77c8427fcc,Casmerodius,birds,,,,,,Egrets And Herons,genus,150,Casmerodius,2024-01-24 17:18:54.447684+00
+7622dcc2-be76-4156-b842-e4adb5910f61,Tryngites,birds,,,,,,NULL,genus,NULL,Tryngites,2024-01-24 17:18:54.447684+00
+84ef2609-7ec4-4d25-84c2-1c99d9cdb645,Bartramia,birds,,,,,Scolopacidae,Sandpipers,genus,290,Bartramia,2024-01-24 17:18:54.447684+00
+c1c52cef-5712-4e87-a801-17aa9a272c7c,Petrochelidon pyrrhonota,birds,Petrochelidon pyrrhonota,https://lh3.googleusercontent.com/NBP_dW_yLbxec6z6HccHKviupctlWraW1Mgj_ySqpbflp9pkYt2zHOdPvRzduDKrIpoq0hvryejX_Gip0YAlCcs,Cliff Swallow,LC,Hirundinidae,Martins,species,890,Petrochelidon,2024-01-24 17:18:54.447684+00
+00e293e8-ab68-4a27-a473-7aed2439023a,Tyrannulus elatus,birds,Tyrannulus elatus,NULL,Yellow-Crowned Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tyrannulus,2024-01-31 16:46:00.000045+00
+a064286e-467f-459c-9ba5-8ff7b0e0a79e,Chlorestes,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Chlorestes,2024-01-31 16:46:00.000045+00
+8356d46e-db65-41d1-b2b8-5991bc287206,Galbula leucogastra,birds,Galbula leucogastra,NULL,Purplish Jacamar,NULL,Galbulidae,Jacamars,species,NULL,Galbula,2024-01-31 16:46:00.000045+00
+fae05ba9-d4e9-4554-a131-15dfe8783101,Psittacidae,birds,,,,,Psittacidae,Parrots,family,535,,2024-01-24 17:18:54.447684+00
+ea37e194-465f-42ed-b065-f2709c9b73dd,Gallinago,birds,,,,,Scolopacidae,"Sandpipers, Snipes ",genus,290,Gallinago,2024-01-24 17:18:54.447684+00
+b9fc43be-ce50-44fc-a4dc-331cab7180f2,Glyphorynchus spirurus,birds,Glyphorynchus spirurus,NULL,Wedge Billed Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Glyphorynchus,2024-01-31 16:46:00.000045+00
+b63a62a4-809c-496e-9c62-3e0807052832,Myrmotherula brachyura,birds,Myrmotherula brachyura,NULL,Pygmy Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmotherula,2024-01-31 16:46:00.000045+00
+4916fe12-8c1f-4564-9e65-16b07b78035d,Dendroica striata,birds,Dendroica striata,https://lh3.googleusercontent.com/pK-mK4zC6-3kclmi1lT9_Es4_3Kyrrw4_WpWZiJUCE4eCm99wQ3ygukOPXkasog2gRhbjwSQW7sVKhPC-1zH-HX1,Blackpoll Warbler,NULL,,NULL,species,NULL,Dendroica,2024-01-24 17:18:54.447684+00
+56487229-1d94-4953-b4be-9d14fdf50d1e,Euphonia,birds,,NULL,,NULL,Fringillidae,Finches,genus,NULL,Euphonia,2024-01-31 16:46:00.692574+00
+3b19a796-8d73-4640-8b35-82de9241a978,Tolmomyias flaviventris,birds,Tolmomyias flaviventris,NULL,Yellow-Breasted Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tolmomyias,2024-01-31 16:46:00.000045+00
+baa2d31e-69d6-47c9-a4b9-a09949a8ae98,Thraupis palmarum,birds,Thraupis palmarum,NULL,Palm Tanager,NULL,Thraupidae,Tanagers,species,NULL,Thraupis,2024-01-31 16:46:00.000045+00
+4a85a85e-2916-49f7-b0c9-004c17bfb476,Crypturellus brevirostris,birds,Crypturellus brevirostris,NULL,Rusty Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+eef53a22-51e4-4f6c-98fa-7120cddfd6b1,Psarocolius viridis,birds,Psarocolius viridis,NULL,Green Oropendola,NULL,Icteridae,American Blackbirds,species,NULL,Psarocolius,2024-01-31 16:46:00.692574+00
+a2e1d8b0-2cfa-4240-9fbf-b49e0a7d5b3d,Penelope marail,birds,Penelope marail,NULL,Marail Guan,NULL,Cracidae,Chachalacas,species,NULL,Penelope,2024-01-31 16:46:00.000045+00
+c9ee6176-c972-4c00-a196-11a6493f6f0e,Coccyzus americanus,birds,Coccyzus americanus,https://lh3.googleusercontent.com/4aZBVHq7Cim8Tg278E5ddZg4dz00ej-K9KmX9LXVQvN_P7oUhX8POZSKTnI5CoLUeOpdXz3TAJSNFrbhi4tVgw,Yellow-Billed Cuckoo,LC,Cuculidae,Cuckoos,species,345,Coccyzus,2024-01-24 17:18:54.447684+00
+c10afd23-962e-48f4-9f95-c794b535456c,Cypseloides cryptus,birds,Cypseloides cryptus,NULL,White-Chinned Swift,NULL,Apodidae,Swifts,species,NULL,Cypseloides,2024-01-31 16:46:00.000045+00
+d89b891d-4518-470b-a9a0-a80eb65679f0,Ciccaba huhula,birds,Ciccaba huhula,NULL,Black Banded Owl,NULL,Strigidae,Owls,species,NULL,Ciccaba,2024-01-31 16:46:00.000045+00
+63a4fd1b-1fe2-496c-9564-5dfbb2c84003,Laridae,birds,,,,,Laridae,"Gulls, Terns, Skimmers ",family,320,,2024-01-24 17:18:54.447684+00
+0018c95f-c8b5-4a87-87f4-7c2bd12a3f96,Columba livia,birds,Columba livia,https://lh3.googleusercontent.com/Y080lLJaDR9uXbbQBpZL-iM7Qgi0ijZnGiYW2ewAaYPAaS_FYrR2XEuxG4DZurpwzMhklKWFCu8Je9Z37yBK3w,Rock Dove,NA,Columbidae,"Pigeons, Doves ",species,330,Columba,2024-01-24 17:18:54.447684+00
+5c388496-bca8-4871-9072-398ae7b3eabd,Claravis pretiosa,birds,Claravis pretiosa,NULL,Blue Ground-Dove,NULL,Columbidae,Pigeons,species,NULL,Claravis,2024-01-31 16:46:00.000045+00
+e2541e0d-95ce-4ba5-89c7-3ae28a3d1e8e,Phalacrocorax,birds,,,,,Phalacrocoracidae,Cormorants,genus,125,Phalacrocorax,2024-01-24 17:18:54.447684+00
+52ca2c1d-8b3c-456b-bf59-b60d74cd4a23,Leptodon cayanensis,birds,Leptodon cayanensis,NULL,White-Collared Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Leptodon,2024-01-31 16:46:00.000045+00
+c671c66f-168a-4e75-b9ba-8a430ea15f3c,Nyctipolus,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Nyctipolus,2024-01-31 16:46:00.000045+00
+13b3f742-5477-422c-b8f3-00c77ffdc995,Tringa melanoleuca,birds,Tringa melanoleuca,https://lh3.googleusercontent.com/Hm18cxC6YhMsX6vnxTGotwzl0syUhv-h9InXS5O6sdNKFRcp6moDE0qDRxqe2u0ZXiifiRhQkruHQ_db_UkKQw,Greater Yellowlegs,LC,Scolopacidae,Sandpipers,species,290,Tringa,2024-01-24 17:18:54.447684+00
+433b9314-a10d-4a63-a51a-74f5e4c17433,Geotrygon montana,birds,Geotrygon montana,NULL,Ruddy Quail-Dove,NULL,Columbidae,Pigeons,species,NULL,Geotrygon,2024-01-31 16:46:00.000045+00
+2a5d4dbe-075c-495f-bae1-fbbec7117bdb,Nyctibius aethereus,birds,Nyctibius aethereus,NULL,Long-Tailed Potoo,NULL,Nyctibiidae,Potoos,species,NULL,Nyctibius,2024-01-31 16:46:00.000045+00
+c309d683-90d6-4e0c-9258-39d741f3b3ea,Pharomachrus,birds,,NULL,,NULL,Trogonidae,Trogons,genus,NULL,Pharomachrus,2024-01-31 16:46:00.000045+00
+22fab0c7-fc02-42ab-a706-f51133417379,Lanio,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Lanio,2024-01-31 16:46:00.000045+00
+5edb5d3e-0668-4ed3-b075-1fa034551406,Neochen,birds,,NULL,,NULL,,,genus,NULL,Neochen,2024-01-31 16:46:00.692574+00
+783e7765-74e6-433b-bd67-fa7d929f5ee5,Cotinga cotinga,birds,Cotinga cotinga,NULL,Purple-Breasted Cotinga,NULL,Cotingidae,Cotingas,species,NULL,Cotinga,2024-01-31 16:46:00.000045+00
+9b5010ba-315e-48ad-9b0b-fe9e1d7a722b,Phoenicircus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Phoenicircus,2024-01-31 16:46:00.000045+00
+f30f7c7f-bcdb-4394-a952-c98b2c083a0d,Vanellus,birds,,,,,Charadriidae,Plovers ,genus,84,Vanellus,2024-01-24 17:18:54.447684+00
+f4df5f8b-cd7e-42c0-a8b6-4bf0f1f8cff8,Thryothorus coraya,birds,Thryothorus coraya,NULL,Coraya Wren,NULL,,,species,NULL,Thryothorus,2024-01-31 16:46:00.692574+00
+8670dbc3-29b8-4425-b4fe-705c8ce44876,Neopipo cinnamomea,birds,Neopipo cinnamomea,NULL,Cinnamon Tyrant-Manakin,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Neopipo,2024-01-31 16:46:00.000045+00
+9611926f-6796-48f3-a40d-7993765d9308,Cathartes melambrotus,birds,Cathartes melambrotus,NULL,Greater Yellow-Headed Vulture,NULL,Cathartidae,New World Vultures,species,NULL,Cathartes,2024-01-31 16:46:00.000045+00
+23903ca1-456f-4fc9-b0ec-a5341a298335,Dendroplex picus,birds,Dendroplex picus,NULL,Straight-Billed Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendroplex,2024-01-31 16:46:00.000045+00
+8c3726c6-b59b-4ece-8c49-80758f298f23,Trogon viridis,birds,Trogon viridis,NULL,White-Tailed Trogon,NULL,Trogonidae,Trogons,species,NULL,Trogon,2024-01-31 16:46:00.000045+00
+a61f0115-2fd5-4d6a-ae20-8b18787e7891,Hydropsalis maculicaudus,birds,Hydropsalis maculicaudus,NULL,,NULL,Caprimulgidae,Nightjars,species,NULL,Hydropsalis,2024-01-31 16:46:00.000045+00
+54b80938-c706-44a6-96b6-07728bf2aa0a,Leistes militaris,birds,Leistes militaris,NULL,Red-Breasted Blackbird,NULL,Icteridae,American Blackbirds,species,NULL,Leistes,2024-01-31 16:46:00.692574+00
+845f6ff4-1a4a-40ec-8729-c51165ef9e74,Pygochelidon cyanoleuca,birds,Pygochelidon cyanoleuca,NULL,Blue-And-White Swallow,NULL,Hirundinidae,Martins,species,NULL,Pygochelidon,2024-01-31 16:46:00.000045+00
+f2f1f534-c9d5-4105-8e45-db30bd13d2ca,Thamnophilus amazonicus,birds,Thamnophilus amazonicus,NULL,Amazonian Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnophilus,2024-01-31 16:46:00.000045+00
+db427224-0fa7-46f7-9bf6-726c4b95acf8,Tunchiornis,birds,,NULL,,NULL,Vireonidae,Vireos,genus,NULL,Tunchiornis,2024-01-31 16:46:00.000045+00
+0b9a87b5-08f7-4753-a7cc-99141a4b6e83,Myiodynastes maculatus,birds,Myiodynastes maculatus,NULL,Streaked Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiodynastes,2024-01-31 16:46:00.000045+00
+8205b147-dc76-45a9-8cd0-6a859cc38270,Himantopus mexicanus,birds,Himantopus mexicanus,NULL,Black-Necked Stilt,NULL,Recurvirostridae,Stilts,species,NULL,Himantopus,2024-01-31 16:46:00.000045+00
+99df99b4-7a51-44c9-acc4-ec97635c4334,Tryngites subruficollis,birds,Tryngites subruficollis,https://lh3.googleusercontent.com/vVgpfmV2Hd8ZFLVUxge-q6APlXypaVwwQpCHiTeRYVJ19dG06n3K9buaBJdB0JEA7mxjw1csys4gH9pjcnm-gBGe,Buff-Breasted Sandpiper,NULL,,NULL,species,NULL,Tryngites,2024-01-24 17:18:54.447684+00
+b535218d-7424-4de3-8067-166f8e4ad3cb,Myiozetetes cayanensis,birds,Myiozetetes cayanensis,NULL,Rusty-Margined Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiozetetes,2024-01-31 16:46:00.000045+00
+4727fb03-e3c7-4f8b-812d-b1b9f28c037a,Rhytipterna simplex,birds,Rhytipterna simplex,NULL,Greyish Mourner,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Rhytipterna,2024-01-31 16:46:00.000045+00
+9451b095-b4a2-4ec5-b7d7-4dada694b14b,Patagioenas,birds,,,,,Columbidae,Pigeons,genus,330,Patagioenas,2024-01-24 17:18:54.447684+00
+f5acaeb1-3581-499a-8163-b804fbdda97f,Polioptila guianensis,birds,Polioptila guianensis,NULL,Guianan Gnatcatcher,NULL,Polioptilidae,Gnatcatchers,species,NULL,Polioptila,2024-01-31 16:46:00.000045+00
+726a76fa-7280-4bc9-9d86-9adedeb7e763,Pygochelidon,birds,,NULL,,NULL,Hirundinidae,Martins,genus,NULL,Pygochelidon,2024-01-31 16:46:00.000045+00
+d4eb82c3-ef7f-448b-9c30-8f3f5d2fc2f6,Myiopagis caniceps,birds,Myiopagis caniceps,NULL,Grey Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiopagis,2024-01-31 16:46:00.000045+00
+06ad367c-3ff5-4b1e-b46b-2f259a1ac11d,Campylopterus largipennis,birds,Campylopterus largipennis,NULL,Grey-Breasted Sabrewing,NULL,Trochilidae,Hummingbirds,species,NULL,Campylopterus,2024-01-31 16:46:00.000045+00
+11455bce-13dc-434a-939c-2a93999386f1,Crax,birds,,NULL,,NULL,Cracidae,Chachalacas,genus,NULL,Crax,2024-01-31 16:46:00.000045+00
+36b30bec-f896-4175-8d5f-81f17301b729,Psarocolius decumanus,birds,Psarocolius decumanus,NULL,Crested Oropendola,NULL,Icteridae,American Blackbirds,species,NULL,Psarocolius,2024-01-31 16:46:00.692574+00
+5c099326-0324-4195-8a2d-4217dfa00a36,Pipra pipra,birds,Pipra pipra,NULL,White-Crowned Manakin,NULL,,,species,NULL,Pipra,2024-01-31 16:46:00.692574+00
+28d8660e-c134-4dff-a942-30bd6c2f676c,Anurolimnas,birds,,NULL,,NULL,Rallidae,Rails,genus,NULL,Anurolimnas,2024-01-31 16:46:00.000045+00
+9b59c07f-bc51-48e2-ac40-696fd63862a1,Calidris minutilla,birds,Calidris minutilla,https://lh3.googleusercontent.com/OOypQhHzBs4QFs4HO71Tp6uinRHlFPGOBVekW26NHD77QwALTizFgU_zGKTogxWEHJGx3E60BqO-HEf2BfhoLglm,Least Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Calidris,2024-01-24 17:18:54.447684+00
+e26946ae-83c0-4c29-916b-528e69ce281b,Oryzoborus,birds,,NULL,,NULL,,,genus,NULL,Oryzoborus,2024-01-31 16:46:00.692574+00
+1c1ba698-3758-41f0-b926-59e2b6a23778,Micrastur ruficollis,birds,Micrastur ruficollis,NULL,Barred Forest-Falcon,NULL,Falconidae,Falcons,species,NULL,Micrastur,2024-01-31 16:46:00.000045+00
+21b682cb-247b-496e-9cd1-0f2062281a61,Psittacara leucophthalmus,birds,Psittacara leucophthalmus,NULL,,NULL,Psittacidae,Parrots,species,NULL,Psittacara,2024-01-31 16:46:00.000045+00
+0b394586-25d1-4385-be1e-c28737bf2ea9,Cyphorhinus arada,birds,Cyphorhinus arada,NULL,Musician Wren,NULL,Troglodytidae,Wrens,species,NULL,Cyphorhinus,2024-01-31 16:46:00.000045+00
+6d0bd5bc-86ba-462f-b0f3-157eddb985ee,Automolus infuscatus,birds,Automolus infuscatus,NULL,Olive-Backed Foliage-Gleaner,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Automolus,2024-01-31 16:46:00.000045+00
+21e628bf-18f9-46f8-bbd1-3ba209346c98,Eurypyga helias,birds,Eurypyga helias,NULL,Sunbittern,NULL,Eurypygidae,Sunbittern,species,NULL,Eurypyga,2024-01-31 16:46:00.000045+00
+8b8c4bde-f809-4dfb-8754-b88525f464f1,Microxenops,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Microxenops,2024-01-31 16:46:00.000045+00
+544f7936-22da-40fa-a987-f629ff43a152,Piaya cayana,birds,Piaya cayana,NULL,Squirrel Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Piaya,2024-01-31 16:46:00.000045+00
+bea5958a-d30b-49bd-acb9-c4ed34147719,Dolichonyx,birds,,,,,Icteridae,American Blackbirds,genus,1165,Dolichonyx,2024-01-24 17:18:54.447684+00
+1a01365d-435a-440c-a49a-4c91ad28cf86,Celeus elegans,birds,Celeus elegans,NULL,Chestnut Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Celeus,2024-01-31 16:46:00.000045+00
+403bcc24-0e24-4c0d-9353-1af8817daaec,Grallaria,birds,,NULL,,NULL,Grallariidae,,genus,NULL,Grallaria,2024-01-31 16:46:00.000045+00
+8db9c544-4e1a-4364-b678-2b3e15b80ee4,Lepidocolaptes,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Lepidocolaptes,2024-01-31 16:46:00.000045+00
+5b22d370-aab0-4de9-aa3b-fc54cfa97f0b,Cacicus cela,birds,Cacicus cela,NULL,Yellow-Rumped Cacique,NULL,Icteridae,American Blackbirds,species,NULL,Cacicus,2024-01-31 16:46:00.692574+00
+7da28ece-4a24-4363-8131-30d34ebaab64,Anhima,birds,,NULL,,NULL,Anhimidae,Screamers,genus,NULL,Anhima,2024-01-31 16:46:00.000045+00
+ec3b9654-f564-4260-9d33-70f29e3c2bf3,Chaetura,birds,,,,,Apodidae,Swifts,genus,385,Chaetura,2024-01-24 17:18:54.447684+00
+ac9ea81c-d97b-4ca2-8b4d-7245b068f536,Cotinga cayana,birds,Cotinga cayana,NULL,Spangled Cotinga,NULL,Cotingidae,Cotingas,species,NULL,Cotinga,2024-01-31 16:46:00.000045+00
+9fc9f8ee-1167-4693-a1e8-35dc213901c3,Thraupis episcopus,birds,Thraupis episcopus,NULL,Blue-Grey Tanager,NULL,Thraupidae,Tanagers,species,NULL,Thraupis,2024-01-31 16:46:00.000045+00
+b1ffedb7-e04a-42af-8b1c-31732e2e3957,Topaza pyra,birds,Topaza pyra,NULL,Fiery Topaz,NULL,Trochilidae,Hummingbirds,species,NULL,Topaza,2024-01-31 16:46:00.000045+00
+fde16178-9ea2-4b64-b67d-bcb2dfb9f549,Bubulcus ibis,birds,Bubulcus ibis,https://lh3.googleusercontent.com/-Nqr_7heykqSRKS4Uc2PJVMu5nVHITbWU9u9xzf2PKYQWaq4XataSnbofAIM8QR3tzASX3VUqIabopUskHVgyK7g,Cattle Egret,LC,Ardeidae,Egrets And Herons,species,150,Bubulcus,2024-01-24 17:18:54.447684+00
+c9809617-86de-41a1-b0ed-ed1c4b1ccc3e,Cypseloides,birds,,NULL,,NULL,Apodidae,Swifts,genus,NULL,Cypseloides,2024-01-31 16:46:00.000045+00
+b0c54f9e-0a37-4c68-9ed9-f6a2f6f365d8,Rynchops,birds,,,,,Laridae,Gulls And Terns,genus,320,Rynchops,2024-01-24 17:18:54.447684+00
+8e57fff3-0d51-496e-96c2-bd8368b6b1cb,Caracara,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Caracara,2024-01-31 16:46:00.000045+00
+dd779d71-a6fb-49d0-b2c8-25a1be7af604,Querula purpurata,birds,Querula purpurata,NULL,Purple-Throated Fruitcrow,NULL,Cotingidae,Cotingas,species,NULL,Querula,2024-01-31 16:46:00.000045+00
+bdd92a58-cae6-4c5d-bb4a-c947a5b4160d,Cuculidae,birds,,,,,Cuculidae,Cuckoos ,family,345,,2024-01-24 17:18:54.447684+00
+93341a88-b6f0-484c-8caf-8fd5a78e85a0,Zimmerius acer,birds,Zimmerius acer,NULL,Guianan Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Zimmerius,2024-01-31 16:46:00.000045+00
+0a344740-73c4-42cd-8cd1-ed7218665a62,Tachybaptus,birds,,,,,Podicipedidae,Grebes ,genus,77,Tachybaptus,2024-01-24 17:18:54.447684+00
+2c47ad41-c9da-4d32-9cfc-b78694877bd4,Platyrinchus platyrhynchos,birds,Platyrinchus platyrhynchos,NULL,White-Crested Spadebill,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Platyrinchus,2024-01-31 16:46:00.000045+00
+a72b76f9-b9c5-4b9b-9d12-bd248a840f38,Xipholena punicea,birds,Xipholena punicea,NULL,Pompadour Cotinga,NULL,Cotingidae,Cotingas,species,NULL,Xipholena,2024-01-31 16:46:00.000045+00
+cdaad838-7a22-414a-b8b3-a8be7dfb471a,Sporophila bouvronides,birds,Sporophila bouvronides,NULL,Lesson's Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+9de62874-b031-4069-aaab-54cb9f0a2d6f,Thamnophilus,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Thamnophilus,2024-01-31 16:46:00.000045+00
+3d33ddab-c0fe-4116-b6c6-2499fc3e5d27,Himantopus,birds,,,,,Recurvirostridae,"Stilts, Avocets ",genus,81,Himantopus,2024-01-24 17:18:54.447684+00
+1081ef67-4b8d-44b7-b267-e8dc6cdd55a0,Cochlearius cochlearius,birds,Cochlearius cochlearius,NULL,Boat-Billed Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Cochlearius,2024-01-31 16:46:00.000045+00
+14d95f72-0016-4de0-b1d2-7a374aedec7f,Attila spadiceus,birds,Attila spadiceus,NULL,Bright-Rumped Attila,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Attila,2024-01-31 16:46:00.000045+00
+56e47a60-403b-4986-86ba-dc8d40190249,Veniliornis passerinus,birds,Veniliornis passerinus,NULL,Little Woodpecker,NULL,,,species,NULL,Veniliornis,2024-01-31 16:46:00.692574+00
+952219a5-946b-4142-95e1-ab429326ef13,Turdus,birds,,,,,Turdidae,"Thrushes, Robins, Chats, And Wheatears",genus,1050,Turdus,2024-01-24 17:18:54.447684+00
+f3377260-8fc5-40a2-972e-817b7b511dcf,Galbula galbula,birds,Galbula galbula,NULL,Green-Tailed Jacamar,NULL,Galbulidae,Jacamars,species,NULL,Galbula,2024-01-31 16:46:00.000045+00
+ea517b63-4403-49c9-a184-bd78421fdfae,Dromococcyx phasianellus,birds,Dromococcyx phasianellus,NULL,Pheasant Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Dromococcyx,2024-01-31 16:46:00.000045+00
+99f740fa-6f71-4f22-aee8-c108c00008a6,Brotogeris chrysoptera,birds,Brotogeris chrysoptera,NULL,Golden Winged Parakeet,NULL,Psittacidae,Parrots,species,NULL,Brotogeris,2024-01-31 16:46:00.000045+00
+a024389e-20fc-4bd5-b0f9-c3d77a513e22,Xenops minutus,birds,Xenops minutus,NULL,Plain Xenops,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Xenops,2024-01-31 16:46:00.000045+00
+878ec2de-4202-439d-bc81-919fc695765c,Progne subis,birds,Progne subis,https://lh3.googleusercontent.com/BQTyNPpJwup8HOZqYZxuZAmLAIb_SlDhiaAZbVeJCp5xzjZ6XS_cNzklxuGTkEE2b-2A_WtS8RITPSjsFl94s4g,Purple Martin,LC,Hirundinidae,Martins,species,890,Progne,2024-01-24 17:18:54.447684+00
+56bdce49-6434-42b9-ac51-1235a51e18d1,Vireo,birds,,,,,Vireonidae,Vireos,genus,805,Vireo,2024-01-24 17:18:54.447684+00
+cb01a2ea-e46d-4890-8cd6-2b7f879d19b7,Xenops milleri,birds,Xenops milleri,NULL,Rufous-Tailed Xenops,NULL,,,species,NULL,Xenops,2024-01-31 16:46:00.692574+00
+4ebfa31a-c2a5-41d8-adf7-8d282d4872f1,Chelidoptera tenebrosa,birds,Chelidoptera tenebrosa,NULL,Swallow-Wing,NULL,Bucconidae,Puffbirds,species,NULL,Chelidoptera,2024-01-31 16:46:00.000045+00
+3be0bca1-c94a-45ab-bdde-715ab8555cd2,Ramphocelus,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Ramphocelus,2024-01-31 16:46:00.000045+00
+e672a474-c863-4cd1-8839-aedaa3e0ef7e,Heliornithidae,birds,,,,,Heliornithidae,Finfoots,family,210,,2024-01-24 17:18:54.447684+00
+a8a9d14a-1437-4527-bc41-af9a79e0b842,Ochthornis,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Ochthornis,2024-01-31 16:46:00.000045+00
+9e589c87-fad5-4b22-88b0-9bcf4c64ab20,Neopelma,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Neopelma,2024-01-31 16:46:00.000045+00
+6eeed290-0c15-4857-8378-5aa9078bfdcf,Icterus,birds,,,,,Icteridae,American Blackbirds,genus,1165,Icterus,2024-01-24 17:18:54.447684+00
+13900192-6440-473e-896e-46afa2d52c54,Oryzoborus angolensis,birds,Oryzoborus angolensis,NULL,Lesser Seed-Finch,NULL,,,species,NULL,Oryzoborus,2024-01-31 16:46:00.692574+00
+ab8b07c7-428f-480c-8eeb-1fb8284518d8,Euphonia violacea,birds,Euphonia violacea,NULL,Violaceous Euphonia,NULL,Fringillidae,Finches,species,NULL,Euphonia,2024-01-31 16:46:00.692574+00
+c820d41e-b166-4520-b0b7-167a20639f22,Campylopterus,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Campylopterus,2024-01-31 16:46:00.000045+00
+d34e348a-8562-4f07-921b-629047617ce1,Contopus cooperi,birds,Contopus cooperi,https://lh3.googleusercontent.com/ofpsRHjMuE2inLpdQGMJOyrk_FWfjxM0rju4eSzBgzlLYIOIxFouO5Tasqf4PSi3Twv1NEPM5I0Ip3u9KA-3XCo,Olive-Sided Flycatcher,NT,Tyrannidae,Tyrant Flycatchers,species,605,Contopus,2024-01-24 17:18:54.447684+00
+d1b4f7e1-eead-419d-87e3-38e808648957,Actitis,birds,,,,,Scolopacidae,"Sandpipers, Snipes ",genus,290,Actitis,2024-01-24 17:18:54.447684+00
+f2358670-2516-462a-ad64-51c0460c4abf,Jacamerops,birds,,NULL,,NULL,Galbulidae,Jacamars,genus,NULL,Jacamerops,2024-01-31 16:46:00.000045+00
+b36e345b-869e-41ec-978e-f11d7c45ea9d,Epinecrophylla,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Epinecrophylla,2024-01-31 16:46:00.000045+00
+7ab5d158-2123-42ff-a4d8-d73880e4dee9,Thamnophilus punctatus,birds,Thamnophilus punctatus,NULL,Slaty Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnophilus,2024-01-31 16:46:00.000045+00
+17df8fc8-b190-4a2e-834a-22b49d43008f,Dendrocincla fuliginosa,birds,Dendrocincla fuliginosa,NULL,Plain-Brown Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendrocincla,2024-01-31 16:46:00.000045+00
+e281aabe-44d0-4811-8dda-ee7a0cc3addd,Harpagus bidentatus,birds,Harpagus bidentatus,NULL,Double-Toothed Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Harpagus,2024-01-31 16:46:00.000045+00
+82cf19ae-282e-4111-9af4-b04cdbc7c43b,Mycteria americana,birds,Mycteria americana,NULL,Wood Stork,NULL,Ciconiidae,Storks,species,NULL,Mycteria,2024-01-31 16:46:00.000045+00
+e7949130-cd9d-496e-9343-3e43b94aebfd,Micrastur,birds,,NULL,,NULL,Falconidae,Falcons,genus,NULL,Micrastur,2024-01-31 16:46:00.000045+00
+c826472f-1cdd-4b68-9669-2987fd60f24a,Jacamerops aureus,birds,Jacamerops aureus,NULL,Great Jacamar,NULL,Galbulidae,Jacamars,species,NULL,Jacamerops,2024-01-31 16:46:00.000045+00
+dba2dcf1-35e0-496e-8987-eec6f5af410b,Laniocera,birds,,NULL,,NULL,Tityridae,,genus,NULL,Laniocera,2024-01-31 16:46:00.000045+00
+99c7630d-4a88-469a-9347-fd7d06a6c1c3,Sarkidiornis melanotos,birds,Sarkidiornis melanotos,NULL,Comb Duck,NULL,Anatidae,Ducks And Swans,species,NULL,Sarkidiornis,2024-01-31 16:46:00.000045+00
+2bf41953-be00-4e14-ba3c-9e9e9311a075,Dendrocolaptes,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Dendrocolaptes,2024-01-31 16:46:00.000045+00
+adcd20ea-852a-465e-a9da-99c004327f5b,Riparia,birds,,,,,Hirundinidae,"Swallows, Martins ",genus,890,Riparia,2024-01-24 17:18:54.447684+00
+700f88ff-9973-4e52-81f5-703c0cee0355,Epinecrophylla gutturalis,birds,Epinecrophylla gutturalis,NULL,Brown Bellied Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Epinecrophylla,2024-01-31 16:46:00.000045+00
+8b0da8cd-10d5-457d-ac47-e1a4f718e0ec,Glaucidium brasilianum,birds,Glaucidium brasilianum,NULL,Ferruginous Pygmy-Owl,NULL,Strigidae,Owls,species,NULL,Glaucidium,2024-01-31 16:46:00.000045+00
+62fc0d73-5af3-4aa6-999d-5b20e60c859a,Lamprospiza melanoleuca,birds,Lamprospiza melanoleuca,NULL,Red-Billed Pied Tanager,NULL,Mitrospingidae,,species,NULL,Lamprospiza,2024-01-31 16:46:00.692574+00
+76cdcbfa-39ea-4cc8-bcba-c8f8f3e76ed1,Cercomacroides tyrannina,birds,Cercomacroides tyrannina,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Cercomacroides,2024-01-31 16:46:00.000045+00
+cafaf057-7943-4644-893d-65aedf18de44,Hirundo,birds,,,,,Hirundinidae,"Swallows, Martins ",genus,890,Hirundo,2024-01-24 17:18:54.447684+00
+29da3e3a-0a3b-440b-92b7-252be3a16c48,Formicariidae,birds,,NULL,,NULL,Formicariidae,Ground Antbirds,family,NULL,,2024-01-31 16:46:00.000045+00
+73c293c4-9790-4cea-a593-fd365b435e11,Chordeiles pusillus,birds,Chordeiles pusillus,NULL,Least Nighthawk,NULL,Caprimulgidae,Nightjars,species,NULL,Chordeiles,2024-01-31 16:46:00.000045+00
+c6e7156a-f66a-429a-a54f-18b34e708aa4,Corapipo gutturalis,birds,Corapipo gutturalis,NULL,White-Throated Manakin,NULL,Pipridae,Manakins,species,NULL,Corapipo,2024-01-31 16:46:00.000045+00
+85f2ed60-9b9f-437a-b623-eef10054fa45,Myiodynastes,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Myiodynastes,2024-01-31 16:46:00.000045+00
+7029eb9c-b1a8-486c-9b06-2f3f7c04ec16,Polytmus theresiae,birds,Polytmus theresiae,NULL,Green-Tailed Goldenthroat,NULL,Trochilidae,Hummingbirds,species,NULL,Polytmus,2024-01-31 16:46:00.000045+00
+f78444d6-8838-4295-8858-8e2188636c0a,Myiornis ecaudatus,birds,Myiornis ecaudatus,NULL,Short-Tailed Pygmy-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiornis,2024-01-31 16:46:00.000045+00
+05a760cf-55ea-471d-a0d1-fecee7d2829e,Ardeidae,birds,,,,,Ardeidae,"Herons, Bitterns ",family,185,,2024-01-24 17:18:54.447684+00
+36c41c3c-2795-4e74-8027-c3a2f808b867,Chaetura chapmani,birds,Chaetura chapmani,NULL,Chapman's Swift,NULL,Apodidae,Swifts,species,NULL,Chaetura,2024-01-31 16:46:00.000045+00
+91f183f5-cd88-4280-bad7-bedb9d9087cf,Pipra erythrocephala,birds,Pipra erythrocephala,NULL,Golden-Headed Manakin,NULL,,,species,NULL,Pipra,2024-01-31 16:46:00.692574+00
+8d695197-0bdd-44e3-8c7f-50900b5ba30e,Platyrinchus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Platyrinchus,2024-01-31 16:46:00.000045+00
+61924649-4eaf-4ac3-bbde-7a2f756589e4,Aratinga solstitialis,birds,Aratinga solstitialis,NULL,Sun Conure,NULL,Psittacidae,Parrots,species,NULL,Aratinga,2024-01-31 16:46:00.000045+00
+514bbcd2-9cec-4668-8e68-cd8ddf9ece75,Contopus,birds,,,,,Tyrannidae,Tyrant Flycatchers,genus,605,Contopus,2024-01-24 17:18:54.447684+00
+792bb280-942e-4840-9c9a-24bb27c1f39c,Heliothryx auritus,birds,Heliothryx auritus,NULL,Black Eared Fairy,NULL,Trochilidae,Hummingbirds,species,NULL,Heliothryx,2024-01-31 16:46:00.000045+00
+0041883d-29df-46db-8f5a-298bb82cef4e,Arremon taciturnus,birds,Arremon taciturnus,NULL,Pectoral Sparrow,NULL,Passerellidae,,species,NULL,Arremon,2024-01-31 16:46:00.692574+00
+4047a60d-85a6-45a8-aa5b-0ce2fbfe62b8,Anhinga,birds,,,,,Anhingidae,Darters,genus,164,Anhinga,2024-01-24 17:18:54.447684+00
+4a31aa63-5561-4d81-a64b-e443becce78f,Cyanoloxia rothschildii,birds,Cyanoloxia rothschildii,NULL,,NULL,Cardinalidae,Cardinals,species,NULL,Cyanoloxia,2024-01-31 16:46:00.692574+00
+d4ad2b36-8d4d-4b0c-a414-200c2d5fff83,Amazona ochrocephala,birds,Amazona ochrocephala,NULL,Yellow-Crowned Amazon,NULL,Psittacidae,Parrots,species,NULL,Amazona,2024-01-31 16:46:00.000045+00
+36a3d7d0-3c9c-4613-a111-7924a3aec94b,Calidris fuscicollis,birds,Calidris fuscicollis,https://lh3.ggpht.com/X9XgRUM72nXA-0X6qmSEP4O78RLHCLZ9l7NNmi2mJIwe148UTSqm3N6fAqcMTZG0AXRm-yd2O8kwkcly5_3M2ws,White-Rumped Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Calidris,2024-01-24 17:18:54.447684+00
+5210dc57-2a2a-4760-ad4c-5a7fdf1b4678,Phaeomyias murina,birds,Phaeomyias murina,NULL,Mouse-Coloured Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Phaeomyias,2024-01-31 16:46:00.000045+00
+16acc29e-66cc-4e9f-93e2-0322d9837806,Saltator coerulescens,birds,Saltator coerulescens,NULL,Greyish Saltator,NULL,Thraupidae,Tanagers,species,NULL,Saltator,2024-01-31 16:46:00.000045+00
+e4f49ba2-d591-43da-8a6d-5276f0ea79f7,Pharomachrus pavoninus,birds,Pharomachrus pavoninus,NULL,Pavonine Quetzal,NULL,Trogonidae,Trogons,species,NULL,Pharomachrus,2024-01-31 16:46:00.000045+00
+2b9a58da-6745-4aed-9285-4fc8389573bb,Progne elegans,birds,Progne elegans,NULL,Southern Martin,NULL,Hirundinidae,Martins,species,NULL,Progne,2024-01-31 16:46:00.000045+00
+eab6699d-dcf4-4627-ad76-c4b1d837e02d,Calidris himantopus,birds,Calidris himantopus,https://lh6.ggpht.com/1xpZ8gon5QrQ0m437Wd5lQ2lGbG21GRRiMFOI9d8CXO8g5cKq6SQvstuGRqKpsGsw6KAhMqocPLL6balDAerKQ,Stilt Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Calidris,2024-01-24 17:18:54.447684+00
+a2e3f03a-c22e-4e06-8511-5508c2fde365,Nemosia,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Nemosia,2024-01-31 16:46:00.000045+00
+32b91fec-fb80-4abe-8464-d31f0c759b26,Troglodytes aedon,birds,Troglodytes aedon,https://lh3.ggpht.com/oSCayi2chGuRX7-hPjWl_w6FQmK9LywdZvRKEdCNP6QGAM1evOcZEUgV0x2gtZirryiznBPek8UyJg84hpVa-vQ,House Wren,LC,Troglodytidae,Wrens,species,930,Troglodytes,2024-01-24 17:18:54.447684+00
+979e1975-8b51-4e80-abad-9ba58917d2c7,Crypturellus undulatus,birds,Crypturellus undulatus,NULL,Undulated Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+f4897c86-8a9a-4bab-8bfb-8bfdb97d1e83,Cyclarhis gujanensis,birds,Cyclarhis gujanensis,NULL,Rufous-Browed Peppershrike,NULL,Vireonidae,Vireos,species,NULL,Cyclarhis,2024-01-31 16:46:00.000045+00
+a12634d9-5c53-413a-9428-749c437fed17,Coccyzus,birds,,,,,Cuculidae,Cuckoos,genus,345,Coccyzus,2024-01-24 17:18:54.447684+00
+e6282ad7-9faa-441b-9316-5dcca297e661,Cercomacroides nigrescens,birds,Cercomacroides nigrescens,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Cercomacroides,2024-01-31 16:46:00.000045+00
+0478bc44-fe56-4780-a483-a40439105b43,Habia rubica,birds,Habia rubica,NULL,Red-Crowned Ant-Tanager,NULL,Cardinalidae,Cardinals,species,NULL,Habia,2024-01-31 16:46:00.692574+00
+9aff6bb9-522d-49fc-ab34-bc5a941b1ee8,Thamnomanes,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Thamnomanes,2024-01-31 16:46:00.000045+00
+6eb230f0-a1ed-4030-8047-7e8baf88a918,Trogon collaris,birds,Trogon collaris,NULL,Collared Trogon,NULL,Trogonidae,Trogons,species,NULL,Trogon,2024-01-31 16:46:00.000045+00
+8390f676-78ef-475a-9c60-5a3e5c68e0bc,Campephilus melanoleucos,birds,Campephilus melanoleucos,NULL,Crimson-Crested Woodpecker,NULL,Picidae,Woodpeckers,species,NULL,Campephilus,2024-01-31 16:46:00.000045+00
+0a5c31f5-91b3-4f8e-bffb-b1d7544ac416,Chloroceryle,birds,,NULL,,NULL,Alcedinidae,Kingfishers,genus,NULL,Chloroceryle,2024-01-31 16:46:00.000045+00
+ea8934b6-fe10-49b2-bdf4-fcb25bf234c0,Tangara velia,birds,Tangara velia,NULL,Opal-Rumped Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tangara,2024-01-31 16:46:00.000045+00
+3a33963f-c3b8-4a0e-8c76-5de248f1bcf2,Sirystes subcanescens,birds,Sirystes subcanescens,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Sirystes,2024-01-31 16:46:00.000045+00
+8f0d1193-42bc-4fa9-98af-43b7b64389f3,Tolmomyias poliocephalus,birds,Tolmomyias poliocephalus,NULL,Grey-Crowned Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tolmomyias,2024-01-31 16:46:00.000045+00
+d4307b3a-f9fa-48ad-8273-20f5614f260c,Molothrus bonariensis,birds,Molothrus bonariensis,NULL,Shiny Cowbird,NULL,Icteridae,American Blackbirds,species,NULL,Molothrus,2024-01-31 16:46:00.692574+00
+9e35bf46-6ba7-4e53-9f22-d227448d1305,Microcerculus bambla,birds,Microcerculus bambla,NULL,Wing-Banded Wren,NULL,Troglodytidae,Wrens,species,NULL,Microcerculus,2024-01-31 16:46:00.000045+00
+77056651-de6d-4043-b763-7c86617a3e11,Galbula dea,birds,Galbula dea,NULL,Paradise Jacamar,NULL,Galbulidae,Jacamars,species,NULL,Galbula,2024-01-31 16:46:00.000045+00
+b2d8826f-3cfc-4d14-9335-fba7283f61fb,Attila phoenicurus,birds,Attila phoenicurus,NULL,Rufous-Tailed Attila,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Attila,2024-01-31 16:46:00.000045+00
+545dbaf3-7548-4df4-b1eb-702382c689c0,Rostrhamus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Rostrhamus,2024-01-31 16:46:00.000045+00
+cd0d4763-999b-43aa-9921-eddfcbadd164,Ramphotrigon ruficauda,birds,Ramphotrigon ruficauda,NULL,Rufous-Tailed Flatbill,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Ramphotrigon,2024-01-31 16:46:00.000045+00
+02ae7f5b-f8d2-41f3-9f67-6b3ba8f92a1b,Cymbilaimus,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Cymbilaimus,2024-01-31 16:46:00.000045+00
+5f10de05-c18b-4e8c-817b-9a5992ff7860,Columbidae,birds,,,,,Columbidae,"Pigeons, Doves ",family,330,,2024-01-24 17:18:54.447684+00
+eaaf7235-d8ab-404e-999f-612d4b8ac257,Cotingidae,birds,,NULL,,NULL,Cotingidae,Cotingas,family,NULL,,2024-01-31 16:46:00.000045+00
+d62b06d3-4579-424f-a045-2cf4b8576e91,Zimmerius gracilipes,birds,Zimmerius gracilipes,NULL,Slender-Footed Tyrannulet,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Zimmerius,2024-01-31 16:46:00.000045+00
+493657e8-d071-408a-91f3-af314c97bd0b,Chlorophanes spiza,birds,Chlorophanes spiza,NULL,Green Honeycreeper,NULL,Thraupidae,Tanagers,species,NULL,Chlorophanes,2024-01-31 16:46:00.000045+00
+3b3db96b-b982-454f-be91-5b08866d9b45,Schiffornis turdina,birds,Schiffornis turdina,NULL,Thrush-Like Schiffornis,NULL,Tityridae,,species,NULL,Schiffornis,2024-01-31 16:46:00.000045+00
+1bdea5bb-398e-49e5-a826-9b0c8cb7fe72,Nyctibius grandis,birds,Nyctibius grandis,NULL,Great Potoo,NULL,Nyctibiidae,Potoos,species,NULL,Nyctibius,2024-01-31 16:46:00.000045+00
+43453381-13d7-468e-9398-7ff3452b70db,Chloroceryle aenea,birds,Chloroceryle aenea,NULL,American Pygmy Kingfisher,NULL,Alcedinidae,Kingfishers,species,NULL,Chloroceryle,2024-01-31 16:46:00.000045+00
+4f922ad8-ecdf-4c63-b044-20aea5f406d7,Hylophylax naevius,birds,Hylophylax naevius,NULL,Spot Backed Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Hylophylax,2024-01-31 16:46:00.000045+00
+358a5d32-4806-471e-9f93-5d9760145356,Picumnus exilis,birds,Picumnus exilis,NULL,Golden-Spangled Piculet,NULL,Picidae,Woodpeckers,species,NULL,Picumnus,2024-01-31 16:46:00.000045+00
+caaee2b0-d694-47a1-8fd8-5d1de95875b3,Pyrilia,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Pyrilia,2024-01-31 16:46:00.000045+00
+798b94e8-b741-497f-91b6-f378fcb545e5,Dendrocincla,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Dendrocincla,2024-01-31 16:46:00.000045+00
+a6ca31e3-b1c1-4554-9c33-90d157af4a24,Dendrocygna viduata,birds,Dendrocygna viduata,NULL,White-Faced Whistling Duck,NULL,Anatidae,Ducks And Swans,species,NULL,Dendrocygna,2024-01-31 16:46:00.000045+00
+335dee23-c383-415d-8147-bf56ac421427,Pachysylvia,birds,,NULL,,NULL,Vireonidae,Vireos,genus,NULL,Pachysylvia,2024-01-31 16:46:00.000045+00
+704c3cd4-2cfa-4980-8dfb-9c4369010349,Henicorhina,birds,,NULL,,NULL,Troglodytidae,Wrens,genus,NULL,Henicorhina,2024-01-31 16:46:00.000045+00
+721c0cb3-7333-4e66-b211-8f78bcf40c3c,Cacicus,birds,,NULL,,NULL,Icteridae,American Blackbirds,genus,NULL,Cacicus,2024-01-31 16:46:00.692574+00
+ffcc132b-a738-49e6-8899-0e3dcb663277,Chaetura pelagica,birds,Chaetura pelagica,https://lh3.googleusercontent.com/0Lbs34tBGQsjuSBkwSTaE9X4SnbtauJC0JyCAoy4CVbYUacYnSED0D3Q6RqZdkXRwMPv4qnyof4OdvinXcDoz90,Chimney Swift,VU,Apodidae,Swifts,species,385,Chaetura,2024-01-24 17:18:54.447684+00
+3eb2e1a6-3ddc-4de6-b372-d8461a4d9a21,Isleria,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Isleria,2024-01-31 16:46:00.000045+00
+01bbf561-6962-4021-8412-4d02e1e828b3,Herpsilochmus,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Herpsilochmus,2024-01-31 16:46:00.000045+00
+0dcb5f89-ebf8-4442-91bd-34e3f773ec6c,Buteo nitidus,birds,Buteo nitidus,NULL,Grey Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Buteo,2024-01-31 16:46:00.000045+00
+bbcbba40-5a1d-4254-a02c-ae37ea15abab,Lipaugus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Lipaugus,2024-01-31 16:46:00.000045+00
+869e0837-b1e0-420d-b0b0-86a610756461,Leucopternis melanops,birds,Leucopternis melanops,NULL,Black-Faced Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Leucopternis,2024-01-31 16:46:00.000045+00
+366e840d-32a4-4869-9e6b-03511593b1e0,Chordeiles nacunda,birds,Chordeiles nacunda,NULL,Nacunda Nighthawk,NULL,Caprimulgidae,Nightjars,species,NULL,Chordeiles,2024-01-31 16:46:00.000045+00
+95becfc9-1e04-4886-9383-4292c365497c,Odontophoridae,birds,,,,,Odontophoridae,New World Quails,family,60,,2024-01-24 17:18:54.447684+00
+d43c2eea-513a-45af-805a-5c35a806cdc8,Spizaetus ornatus,birds,Spizaetus ornatus,NULL,Ornate Hawk-Eagle,NULL,Accipitridae,Hawks And Eagles,species,NULL,Spizaetus,2024-01-31 16:46:00.000045+00
+fb648606-c195-4712-9c68-b5617b545dcf,Bucconidae,birds,,NULL,,NULL,Bucconidae,Puffbirds,family,NULL,,2024-01-31 16:46:00.000045+00
+740a1141-1f8c-4229-b215-bc9629cf58f7,Topaza pella,birds,Topaza pella,NULL,Crimson Topaz,NULL,Trochilidae,Hummingbirds,species,NULL,Topaza,2024-01-31 16:46:00.000045+00
+be8ced5b-cc05-436f-be22-19628e282423,Dryobates,birds,,,,,Picidae,Woodpeckers,genus,505,Dryobates,2024-01-24 17:18:54.447684+00
+7fb863b0-9c9c-4142-a002-337c934aadd4,Pandionidae,birds,,,,,Pandionidae,Ospreys ,family,186,,2024-01-24 17:18:54.447684+00
+a751f130-81b3-4c2e-8607-5021e541774a,Petrochelidon,birds,,,,,Hirundinidae,Martins,genus,890,Petrochelidon,2024-01-24 17:18:54.447684+00
+a6dcb1bc-fd09-4c53-8ce4-c1e4b54e1b00,Ciccaba,birds,,NULL,,NULL,Strigidae,Owls,genus,NULL,Ciccaba,2024-01-31 16:46:00.000045+00
+31b5428f-36c4-4f17-a4cf-bb3f9f647062,Busarellus,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Busarellus,2024-01-31 16:46:00.000045+00
+8bc8451d-718a-4242-acc9-13c0fc324060,Podager,birds,,NULL,,NULL,,,genus,NULL,Podager,2024-01-31 16:46:00.692574+00
+5bec12c2-80e8-4dc6-ac1e-f013c33a2f9f,Berlepschia rikeri,birds,Berlepschia rikeri,NULL,Point-Tailed Palmcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Berlepschia,2024-01-31 16:46:00.000045+00
+eacaa593-4544-4570-8afa-c821db139b1c,Paroaria,birds,,NULL,,NULL,Thraupidae,Tanagers,genus,NULL,Paroaria,2024-01-31 16:46:00.000045+00
+66626b95-a900-411e-91d2-7793d60656e2,Grallariidae,birds,,NULL,,NULL,Grallariidae,,family,NULL,,2024-01-31 16:46:00.000045+00
+f32588d8-daab-4768-b3ad-2da50efc3fa4,Nyctibiidae,birds,,NULL,,NULL,Nyctibiidae,Potoos,family,NULL,,2024-01-31 16:46:00.000045+00
+e281a79b-4a36-4e1c-85ef-6256fa1efeb6,Conopophaga aurita,birds,Conopophaga aurita,NULL,Chestnut-Belted Gnateater,NULL,Conopophagidae,Gnateaters,species,NULL,Conopophaga,2024-01-31 16:46:00.000045+00
+c700ddb5-9a61-45c8-9a51-e126b7ede96b,Momotidae,birds,,NULL,,NULL,Momotidae,Motmots,family,NULL,,2024-01-31 16:46:00.000045+00
+a3d142fd-9b1a-4ba2-82fa-a2d8351dafa8,Crotophaga major,birds,Crotophaga major,NULL,Greater Ani,NULL,Cuculidae,Cuckoos,species,NULL,Crotophaga,2024-01-31 16:46:00.000045+00
+80101227-bc43-4834-80c7-fb4c78ec4218,Geranospiza caerulescens,birds,Geranospiza caerulescens,NULL,Crane Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Geranospiza,2024-01-31 16:46:00.000045+00
+df8d998a-9732-42c0-ac81-4873f4b3a1e9,Euchrepomis spodioptila,birds,Euchrepomis spodioptila,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Euchrepomis,2024-01-31 16:46:00.000045+00
+aac0430a-b8c0-4ce2-b9c1-4949b5c589c6,Galbula albirostris,birds,Galbula albirostris,NULL,Yellow Billed Jacamar,NULL,Galbulidae,Jacamars,species,NULL,Galbula,2024-01-31 16:46:00.000045+00
+06c14ae6-f9c1-482e-ab74-c847d06191b6,Iodopleura fusca,birds,Iodopleura fusca,NULL,Dusky Purpletuft,NULL,Tityridae,,species,NULL,Iodopleura,2024-01-31 16:46:00.000045+00
+eef930ca-6ac5-4f86-a7f5-5d3d3fede990,Brotogeris,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Brotogeris,2024-01-31 16:46:00.000045+00
+d7bb0c1b-377b-4329-81a8-c56061dde1fc,Spizaetus melanoleucus,birds,Spizaetus melanoleucus,NULL,Black And White Hawk Eagle,NULL,Accipitridae,Hawks And Eagles,species,NULL,Spizaetus,2024-01-31 16:46:00.000045+00
+eb4c219d-29e3-417c-bca3-bb1e2e71a4c1,Thryothorus leucotis,birds,Thryothorus leucotis,NULL,Buff-Breasted Wren,NULL,,,species,NULL,Thryothorus,2024-01-31 16:46:00.692574+00
+c4b230e4-ed53-4259-84c1-64107ac207ae,Neochen jubata,birds,Neochen jubata,NULL,Orinoco Goose,NULL,,,species,NULL,Neochen,2024-01-31 16:46:00.692574+00
+2c556a0c-4629-4bce-bb90-28d03f08adb1,Discosura longicaudus,birds,Discosura longicaudus,NULL,Racket-Tailed Coquette,NULL,Trochilidae,Hummingbirds,species,NULL,Discosura,2024-01-31 16:46:00.000045+00
+5307a363-f3a5-4e84-a897-de7b3c4800b9,Neopipo,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Neopipo,2024-01-31 16:46:00.000045+00
+28ad4206-4baf-430b-b26b-34445d8c21a5,Spizaetus tyrannus,birds,Spizaetus tyrannus,NULL,Black Hawk-Eagle,NULL,Accipitridae,Hawks And Eagles,species,NULL,Spizaetus,2024-01-31 16:46:00.000045+00
+ce34a82b-76ee-4003-854f-274ff117c554,Elaenia spectabilis,birds,Elaenia spectabilis,NULL,Large Elaenia,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Elaenia,2024-01-31 16:46:00.000045+00
+9d97c902-565b-4ca4-8d91-8efcf6bddf47,Conopophaga,birds,,NULL,,NULL,Conopophagidae,Gnateaters,genus,NULL,Conopophaga,2024-01-31 16:46:00.000045+00
+02d5bdc2-0c37-453e-8f6a-693a7832e8b3,Tyrannus,birds,,,,,Tyrannidae,Tyrant Flycatchers,genus,605,Tyrannus,2024-01-24 17:18:54.447684+00
+ebc0d4f4-ecf6-47d0-be22-abfadab9e091,Attila cinnamomeus,birds,Attila cinnamomeus,NULL,Cinnamon Attila,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Attila,2024-01-31 16:46:00.000045+00
+45f43b7b-7fe3-4144-a8b2-fb0836edc55a,Chaetura spinicaudus,birds,Chaetura spinicaudus,NULL,Band-Rumped Swift,NULL,Apodidae,Swifts,species,NULL,Chaetura,2024-01-31 16:46:00.000045+00
+328a9dcc-2778-4cf5-84b8-7f393823fe9b,Eurypyga,birds,,NULL,,NULL,Eurypygidae,Sunbittern,genus,NULL,Eurypyga,2024-01-31 16:46:00.000045+00
+3dbff865-0dea-4a24-9b0b-45f4fc0a9c3a,Calidris melanotos,birds,Calidris melanotos,https://lh3.googleusercontent.com/vboO2X_tOplvN4gXY9nlRziJZqgKnTEKtcafyZhdEZXpQEddYX5escRaPxciTpsFAoouL0sWZaMkbTkW58qLLdGe,Pectoral Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Calidris,2024-01-24 17:18:54.447684+00
+df5dab25-95b2-472d-a9c1-a0ad21e98c05,Nyctidromus,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Nyctidromus,2024-01-31 16:46:00.000045+00
+d149bb4a-b8b1-4109-843e-c36dbe29c4a6,Columbina passerina,birds,Columbina passerina,https://lh3.googleusercontent.com/zrJNtUmhHXWohWdSRrq-aoZQShEnFAZCez1JGGHGKsjK3g0m7SY9gYEyWbe0IAsBMySkJg3ADT1dlcanYoB7Ucly,Common Ground-Dove,LC,Columbidae,Pigeons,species,330,Columbina,2024-01-24 17:18:54.447684+00
+572a9980-c309-4ef0-804b-c9d5b0630efe,Glyphorynchus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Glyphorynchus,2024-01-31 16:46:00.000045+00
+486fddfb-5549-4a26-ba3f-56bc0433c94f,Orthopsittaca manilata,birds,Orthopsittaca manilata,NULL,Red-Bellied Macaw,NULL,,,species,NULL,Orthopsittaca,2024-01-31 16:46:00.692574+00
+f1e9b058-1151-4de9-b56a-0fca7fa891dd,Microrhopias quixensis,birds,Microrhopias quixensis,NULL,Dot-Winged Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Microrhopias,2024-01-31 16:46:00.000045+00
+9a3b2b7e-9f3a-47bb-97d7-8250f4bdca96,Piaya,birds,,NULL,,NULL,Cuculidae,Cuckoos,genus,NULL,Piaya,2024-01-31 16:46:00.000045+00
+f0e196bc-a125-4d5e-a379-0a2b4bfcdc3a,Cyphorhinus,birds,,NULL,,NULL,Troglodytidae,Wrens,genus,NULL,Cyphorhinus,2024-01-31 16:46:00.000045+00
+6f5a908b-727f-42bc-9541-a8742d8d9b48,Sporophila lineola,birds,Sporophila lineola,NULL,Lined Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+b29925e9-6c2c-42e0-875a-383f2d0f6b8c,Todirostrum,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Todirostrum,2024-01-31 16:46:00.000045+00
+e45ad492-f28e-4aeb-8408-4c06064c842a,Chondrohierax uncinatus,birds,Chondrohierax uncinatus,NULL,Hook-Billed Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Chondrohierax,2024-01-31 16:46:00.000045+00
+78047a37-8c8a-438b-892c-adb23812f789,Deconychura,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Deconychura,2024-01-31 16:46:00.000045+00
+1e9c3378-eba0-4c23-bee2-5e386679ba5b,Sporophila americana,birds,Sporophila americana,NULL,Wing-Barred Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+902ad758-db3e-4a20-bcd7-c92d1d4ca729,Touit,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Touit,2024-01-31 16:46:00.000045+00
+9d94d0d9-b37c-4f80-88a4-f63365cdf764,Anhingidae,birds,,,,,Anhingidae,Darters,family,164,,2024-01-24 17:18:54.447684+00
+268a322c-1454-4a6e-9ac0-5b281ae4d144,Anhima cornuta,birds,Anhima cornuta,NULL,Horned Screamer,NULL,Anhimidae,Screamers,species,NULL,Anhima,2024-01-31 16:46:00.000045+00
+67ac91f5-2a9a-48a0-9571-7e1c1a3541fa,Trochilidae,birds,,,,,Trochilidae,Hummingbirds,family,395,,2024-01-24 17:18:54.447684+00
+06d567b6-092c-43ba-a87b-535ba051ccde,Dendrocolaptes picumnus,birds,Dendrocolaptes picumnus,NULL,Black-Banded Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Dendrocolaptes,2024-01-31 16:46:00.000045+00
+ab8441d2-55f8-4ca8-8b88-9ae249a5e7f5,Chloroceryle amazona,birds,Chloroceryle amazona,NULL,Amazon Kingfisher,NULL,Alcedinidae,Kingfishers,species,NULL,Chloroceryle,2024-01-31 16:46:00.000045+00
+ecde885c-b695-4c37-aa5a-a31e8e67fc40,Anhimidae,birds,,NULL,,NULL,Anhimidae,Screamers,family,NULL,,2024-01-31 16:46:00.000045+00
+f37b951d-ff7d-4e7c-90ae-2020a0e70ac0,Rhytipterna,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Rhytipterna,2024-01-31 16:46:00.000045+00
+80595290-49d3-44b9-999c-091504b16d9c,Alcedinidae,birds,,,,,Alcedinidae,Kingfishers ,family,445,,2024-01-24 17:18:54.447684+00
+d1ded566-17d2-4783-8381-4c4e3eb3ec2d,Ramphocelus carbo,birds,Ramphocelus carbo,NULL,Silver-Beaked Tanager,NULL,Thraupidae,Tanagers,species,NULL,Ramphocelus,2024-01-31 16:46:00.000045+00
+16db980e-99ee-4b6f-a5b6-cb67a7c633d5,Threskiornithidae,birds,,,,,Threskiornithidae,Ibises,family,155,,2024-01-24 17:18:54.447684+00
+e4647890-443c-464c-8438-f0d50ddcbdeb,Arundinicola leucocephala,birds,Arundinicola leucocephala,NULL,White-Headed Marsh-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Arundinicola,2024-01-31 16:46:00.000045+00
+2e024dff-369a-4f50-a09d-63e959329238,Tityridae,birds,,NULL,,NULL,Tityridae,,family,NULL,,2024-01-31 16:46:00.000045+00
+edea97c2-8a07-4add-8303-1a0a901e40cc,Pulsatrix perspicillata,birds,Pulsatrix perspicillata,NULL,Spectacled Owl,NULL,Strigidae,Owls,species,NULL,Pulsatrix,2024-01-31 16:46:00.000045+00
+03dc35ff-2f24-40ff-af3d-3ac4cb331678,Bubulcus,birds,,,,,Ardeidae,"Herons, Bitterns ",genus,177,Bubulcus,2024-01-24 17:18:54.447684+00
+00cd7b50-7352-4f8b-a547-44085169a4c7,Rupornis,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Rupornis,2024-01-31 16:46:00.000045+00
+67ad4eeb-3f42-4172-b1d1-d9245cb5c069,Nyctibius,birds,,NULL,,NULL,Nyctibiidae,Potoos,genus,NULL,Nyctibius,2024-01-31 16:46:00.000045+00
+f090b902-2210-47b5-8b31-bcb397191eeb,Hemitriccus minor,birds,Hemitriccus minor,NULL,Snethlage's Tody-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Hemitriccus,2024-01-31 16:46:00.000045+00
+e7d72a19-2508-451d-99db-0c104eed127e,Cairina,birds,,,,,Anatidae,Ducks And Swans,genus,40,Cairina,2024-01-24 17:18:54.447684+00
+3697a3c7-8c15-4fcd-a671-80b69eff423f,Glaucidium hardyi,birds,Glaucidium hardyi,NULL,Hardy's Pygmy-Owl,NULL,Strigidae,Owls,species,NULL,Glaucidium,2024-01-31 16:46:00.000045+00
+525cdd3e-0150-4ab8-8246-02f7aebfcd4b,Falconidae,birds,,,,,Falconidae,Falcons,family,515,,2024-01-24 17:18:54.447684+00
+791fc383-baaf-47c1-91cb-0b91971e802e,Cyanocompsa cyanoides,birds,Cyanocompsa cyanoides,NULL,Blue-Black Grosbeak,NULL,,,species,NULL,Cyanocompsa,2024-01-31 16:46:00.692574+00
+a3b4c74b-4b32-4949-9235-8a59d5f0c74d,Atticora tibialis,birds,Atticora tibialis,NULL,White Thighed Swallow,NULL,Hirundinidae,Martins,species,NULL,Atticora,2024-01-31 16:46:00.000045+00
+63c504d5-1d40-464f-91d9-d116b18a5a6e,Isleria guttata,birds,Isleria guttata,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Isleria,2024-01-31 16:46:00.000045+00
+eadc9ec0-46e7-47cf-afac-681d4191e2ad,Aramides cajanea,birds,Aramides cajanea,NULL,Grey-Necked Wood-Rail,NULL,,,species,NULL,Aramides,2024-01-25 17:05:46.182979+00
+4b339490-669c-4daa-a512-5e9c8816ec2a,Butorides,birds,,,,,Ardeidae,"Herons, Bitterns ",genus,173,Butorides,2024-01-24 17:18:54.447684+00
+a6b92956-1d63-45aa-805d-f19152604e81,Phalacrocoracidae,birds,,,,,Phalacrocoracidae,Cormorants,family,125,,2024-01-24 17:18:54.447684+00
+930957a5-291a-4d0b-aa45-0585cf4e86fe,Habia,birds,,NULL,,NULL,Cardinalidae,Cardinals,genus,NULL,Habia,2024-01-31 16:46:00.692574+00
+42afb0d0-4dbe-49fa-b155-215a810f97d4,Pilherodius,birds,,NULL,,NULL,Ardeidae,Egrets And Herons,genus,NULL,Pilherodius,2024-01-31 16:46:00.000045+00
+e28647fb-2d5e-42ad-b15e-b02058dda51e,Aratinga,birds,,,,,Psittacidae,Parrots,genus,535,Aratinga,2024-01-24 17:18:54.447684+00
+54a29575-b8bb-4465-96b0-d0e0b666a390,Phaethornis bourcieri,birds,Phaethornis bourcieri,NULL,Straight-Billed Hermit,NULL,Trochilidae,Hummingbirds,species,NULL,Phaethornis,2024-01-31 16:46:00.000045+00
+53a96615-33bb-485c-892a-1fa1f9f96175,Rhynchocyclus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Rhynchocyclus,2024-01-31 16:46:00.000045+00
+0b7b6e8a-4ec9-444b-9272-d88274feed65,Tringa flavipes,birds,Tringa flavipes,https://lh3.googleusercontent.com/a8FXIzooEoLzYeFMMZYdUXreDkH6ciVaGPhj8RpdVRRyrlw_9isobWuWhRFMEH0fUJrWuVZF8s_ZOOPPCOfA8A,Lesser Yellow-Legs,LC,Scolopacidae,Sandpipers,species,290,Tringa,2024-01-24 17:18:54.447684+00
+1c0d052c-ede8-4aee-8436-1fb7f54ca4ce,Sporophila plumbea,birds,Sporophila plumbea,NULL,Plumbeous Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+3593740e-3f63-4824-839b-2bff07bf5ad4,Milvago chimachima,birds,Milvago chimachima,NULL,Yellow-Headed Caracara,NULL,Falconidae,Falcons,species,NULL,Milvago,2024-01-31 16:46:00.000045+00
+8b938503-d0ae-4303-b800-7760b81a4462,Sarcoramphus,birds,,NULL,,NULL,Cathartidae,New World Vultures,genus,NULL,Sarcoramphus,2024-01-31 16:46:00.000045+00
+efcc6ce9-dee4-4751-bf94-a649a39f6e20,Hirundo rustica,birds,Hirundo rustica,https://lh3.googleusercontent.com/-ZvF98wJF--bIMom7OtdaRv3ab3b-N38bL6Cc4SNg45E4aK3QKiHBmvd8IhrppL2MSzf0lJeGVOSlzfO78J9byq2,Barn Swallow,NT,Hirundinidae,"Swallows, Martins ",species,890,Hirundo,2024-01-24 17:18:54.447684+00
+50dc74a2-eeb7-4ba6-ab76-9a92efd2a75c,Euchrepomis,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Euchrepomis,2024-01-31 16:46:00.000045+00
+479e06ac-a961-4565-a3dd-365b5433e546,Myrmotherula menetriesii,birds,Myrmotherula menetriesii,NULL,Grey Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmotherula,2024-01-31 16:46:00.000045+00
+f0adc4e3-03e8-498a-b1f8-9e3b4d4bb1fe,Psittacara,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Psittacara,2024-01-31 16:46:00.000045+00
+9964c94d-5172-4f82-af5e-55198914cb41,Saltator grossus,birds,Saltator grossus,NULL,Slate-Coloured Grosbeak,NULL,Thraupidae,Tanagers,species,NULL,Saltator,2024-01-31 16:46:00.000045+00
+60f888de-ca19-4612-ba6d-fcef37729f15,Agamia,birds,,NULL,,NULL,Ardeidae,Egrets And Herons,genus,NULL,Agamia,2024-01-31 16:46:00.000045+00
+4b62caef-2b48-4452-802f-7a6c24d02f55,Tyrannus albogularis,birds,Tyrannus albogularis,NULL,White-Throated Kingbird,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tyrannus,2024-01-31 16:46:00.000045+00
+2147648f-8d64-4e48-b275-3d0c4a09ccce,Strix virgata,birds,Strix virgata,NULL,Mottled Owl,NULL,,,species,NULL,Strix,2024-01-31 16:46:00.692574+00
+5c13c7df-e050-4490-9796-05117452769d,Threnetes,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Threnetes,2024-01-31 16:46:00.000045+00
+ecb7bc5c-800e-4668-af45-3c876045a86a,Pulsatrix,birds,,NULL,,NULL,Strigidae,Owls,genus,NULL,Pulsatrix,2024-01-31 16:46:00.000045+00
+b067c760-a9fb-4f24-a932-d785810d1a95,Phaethornis superciliosus,birds,Phaethornis superciliosus,NULL,Long-Tailed Hermit,NULL,Trochilidae,Hummingbirds,species,NULL,Phaethornis,2024-01-31 16:46:00.000045+00
+c8a953cc-b794-4088-a71c-5edacc65fad9,Casmerodius albus,birds,Casmerodius albus,https://lh3.googleusercontent.com/ZoB55cUywIPO1KUknt7EE40NxK9XnQwALI4KJNooyK_Y3L51TXQiiIh73R9U1WxXKN0dEJuAs8x_rQLoveyRtcWJ,Great Egret,NULL,,Egrets And Herons,species,150,Casmerodius,2024-01-24 17:18:54.447684+00
+93d2c3fa-e5ba-45d0-942e-23abb6ed755c,Parulidae,birds,,,,,Parulidae,New World Warblers,family,1145,,2024-01-24 17:18:54.447684+00
+3925c673-1ab7-4093-a7bd-0d4ae87f581a,Philydor,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Philydor,2024-01-31 16:46:00.000045+00
+697df846-272a-4ebb-9830-0d5dcbfea23a,Caprimulgus,birds,,,,,Caprimulgidae,Nightjars ,genus,365,Caprimulgus,2024-01-24 17:18:54.447684+00
+4961087c-b333-4e16-ae7e-4ba86faefe6e,Ara,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Ara,2024-01-31 16:46:00.000045+00
+4924dea8-85fe-4f0a-a701-2e748597485c,Tringa,birds,,,,,Scolopacidae,"Sandpipers, Snipes ",genus,290,Tringa,2024-01-24 17:18:54.447684+00
+463a899f-e181-4d7d-ba03-68a9a4bc36e4,Ramphastidae,birds,,NULL,,NULL,Ramphastidae,New World Barbets And Allies,family,NULL,,2024-01-31 16:46:00.000045+00
+7adbbaad-142e-4873-92c9-ae6c17d9dee2,Conopias trivirgatus,birds,Conopias trivirgatus,NULL,Three Striped Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Conopias,2024-01-31 16:46:00.000045+00
+8ff0c966-0208-45d8-8ff2-9d2dea4da6fb,Automolus ochrolaemus,birds,Automolus ochrolaemus,NULL,Buff-Throated Foliage-Gleaner,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Automolus,2024-01-31 16:46:00.000045+00
+d6fb06b8-c141-4af6-95f8-275bb37d93ad,Pachysylvia muscicapina,birds,Pachysylvia muscicapina,NULL,,NULL,Vireonidae,Vireos,species,NULL,Pachysylvia,2024-01-31 16:46:00.000045+00
+92307540-6019-4157-8e86-8454299d3a52,Donacobius atricapilla,birds,Donacobius atricapilla,NULL,Black-Capped Donacobius,NULL,Donacobiidae,,species,NULL,Donacobius,2024-01-31 16:46:00.000045+00
+156b90f7-368c-439b-ad03-75fbe2abe61b,Gampsonyx swainsonii,birds,Gampsonyx swainsonii,NULL,Pearl Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Gampsonyx,2024-01-31 16:46:00.000045+00
+8e11530e-28b4-4137-b43b-830d4d6e4d56,Heterocercus flavivertex,birds,Heterocercus flavivertex,NULL,Yellow-Crested Manakin,NULL,Pipridae,Manakins,species,NULL,Heterocercus,2024-01-31 16:46:00.000045+00
+5018cfe9-df31-4ff3-a884-66636ac405c1,Monasa atra,birds,Monasa atra,NULL,Black Nunbird,NULL,Bucconidae,Puffbirds,species,NULL,Monasa,2024-01-31 16:46:00.000045+00
+61589943-1d8a-4077-9ab6-7bb9f9004a31,Progne chalybea,birds,Progne chalybea,NULL,Grey-Breasted Martin,NULL,Hirundinidae,Martins,species,NULL,Progne,2024-01-31 16:46:00.000045+00
+4a4f5f75-62d3-45d8-b0c6-dd9d48747847,Caryothraustes canadensis,birds,Caryothraustes canadensis,NULL,Yellow-Green Grosbeak,NULL,Cardinalidae,Cardinals,species,NULL,Caryothraustes,2024-01-31 16:46:00.692574+00
+5b02fc73-6971-41bd-9099-ac0fb00b5c86,Anthracothorax nigricollis,birds,Anthracothorax nigricollis,NULL,Black-Throated Mango,NULL,Trochilidae,Hummingbirds,species,NULL,Anthracothorax,2024-01-31 16:46:00.000045+00
+1872ed0e-d0ae-4963-9ce2-b84f344fd007,Patagioenas cayennensis,birds,Patagioenas cayennensis,NULL,Pale Vented Pigeon,NULL,Columbidae,Pigeons,species,NULL,Patagioenas,2024-01-31 16:46:00.000045+00
+82e8d031-eab5-44ed-a22b-b4187f78fd9b,Amazilia,birds,,NULL,,NULL,,,genus,NULL,Amazilia,2024-01-31 16:46:00.692574+00
+d475a1d1-4a16-4f6d-8dab-2626bd68720c,Cyanocompsa,birds,,NULL,,NULL,,,genus,NULL,Cyanocompsa,2024-01-31 16:46:00.692574+00
+3711fef3-a7e1-40e7-a9ed-e1ceb6ece0f0,Gymnoderus,birds,,NULL,,NULL,Cotingidae,Cotingas,genus,NULL,Gymnoderus,2024-01-31 16:46:00.000045+00
+17b21e83-234f-43e3-9999-f396406a2702,Notharchus macrorhynchos,birds,Notharchus macrorhynchos,NULL,White-Necked Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Notharchus,2024-01-31 16:46:00.000045+00
+a72c07b3-e37b-4e98-8818-2266710809a0,Micrastur semitorquatus,birds,Micrastur semitorquatus,NULL,Collared Forest-Falcon,NULL,Falconidae,Falcons,species,NULL,Micrastur,2024-01-31 16:46:00.000045+00
+b914d6a6-06dd-4b11-a027-2e8c13da1d0a,Myrmotherula axillaris,birds,Myrmotherula axillaris,NULL,White-Flanked Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmotherula,2024-01-31 16:46:00.000045+00
+97aafd5b-fed4-4798-9263-09766737d411,Opisthocomus hoazin,birds,Opisthocomus hoazin,NULL,Hoatzin,NULL,Opisthocomidae,Hoatzin,species,NULL,Opisthocomus,2024-01-31 16:46:00.000045+00
+5f9205bc-ffaf-412b-b9fa-532f3bec68c1,Nonnula,birds,,NULL,,NULL,Bucconidae,Puffbirds,genus,NULL,Nonnula,2024-01-31 16:46:00.000045+00
+7b396f85-08fa-4d5f-89d7-fcb976de7c64,Pseudastur,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Pseudastur,2024-01-31 16:46:00.000045+00
+844fbdd0-05bd-46ea-a667-98676f634043,Atticora,birds,,NULL,,NULL,Hirundinidae,Martins,genus,NULL,Atticora,2024-01-31 16:46:00.000045+00
+84d80949-7d2b-4361-adbf-bb7468404430,Thamnomanes ardesiacus,birds,Thamnomanes ardesiacus,NULL,Dusky-Throated Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnomanes,2024-01-31 16:46:00.000045+00
+42b293bd-2678-4688-bc84-1c99dc593065,Crypturellus erythropus,birds,Crypturellus erythropus,NULL,Red-Fronted Tinamou,NULL,Tinamidae,Tinamous,species,NULL,Crypturellus,2024-01-31 16:46:00.000045+00
+71d7e0fd-2514-4740-bd62-e5aefdef0d55,Thamnophilus murinus,birds,Thamnophilus murinus,NULL,Mouse-Coloured Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnophilus,2024-01-31 16:46:00.000045+00
+dff5c9fb-1866-4b65-ac88-18d45376853f,Ammodramus,birds,,,,,Passerellidae,NULL,genus,1156,Ammodramus,2024-01-24 17:18:54.447684+00
+14523cd8-a023-4a40-9f95-74e42f61d5d2,Microxenops milleri,birds,Microxenops milleri,NULL,Rufous Tailed Xenops,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Microxenops,2024-01-31 16:46:00.000045+00
+1f00e2eb-0427-44f5-b8b0-f90ef0bcc6fb,Corapipo,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Corapipo,2024-01-31 16:46:00.000045+00
+f611f669-2945-4111-8c9e-564841a66942,Polytmus,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Polytmus,2024-01-31 16:46:00.000045+00
+2b2fefa5-35fc-4249-a2a8-06147256580c,Sterna superciliaris,birds,Sterna superciliaris,NULL,Amazon Tern,NULL,,,species,NULL,Sterna,2024-01-31 16:46:00.692574+00
+d3216f1a-644a-4841-a919-aa0d5e940e5f,Amazona,birds,,NULL,,NULL,Psittacidae,Parrots,genus,NULL,Amazona,2024-01-31 16:46:00.000045+00
+f2600c22-db2b-4710-87e2-f990258561e5,Saltator maximus,birds,Saltator maximus,NULL,Buff-Throated Saltator,NULL,Thraupidae,Tanagers,species,NULL,Saltator,2024-01-31 16:46:00.000045+00
+01576193-1de4-4f05-a3bf-c3b1b8bcff67,Gymnoderus foetidus,birds,Gymnoderus foetidus,NULL,Bare-Necked Fruitcrow,NULL,Cotingidae,Cotingas,species,NULL,Gymnoderus,2024-01-31 16:46:00.000045+00
+ecf876df-5a12-4e88-965c-b8adf8a5bb7b,Jabiru,birds,,NULL,,NULL,Ciconiidae,Storks,genus,NULL,Jabiru,2024-01-31 16:46:00.000045+00
+d4d3a36c-2848-4e28-8c6f-f1c35a0b244a,Tytonidae,birds,,,,,Tytonidae,Barn-Owls,family,350,,2024-01-24 17:18:54.447684+00
+d0c9b8e9-cd3f-45d2-a1f1-2bd1798acf72,Opisthocomidae,birds,,NULL,,NULL,Opisthocomidae,Hoatzin,family,NULL,,2024-01-31 16:46:00.000045+00
+d304a32d-a7fb-4d7a-9c81-b46cc61d4312,Sarkidiornis,birds,,NULL,,NULL,Anatidae,Ducks And Swans,genus,NULL,Sarkidiornis,2024-01-31 16:46:00.000045+00
+cab9c193-0ec9-46da-9e74-5c9e7120e7e1,Crotophaga ani,birds,Crotophaga ani,NULL,Smooth-Billed Ani,NULL,Cuculidae,Cuckoos,species,NULL,Crotophaga,2024-01-31 16:46:00.000045+00
+d5e56e39-89e5-473c-8b1a-eae87650705b,Glaucis,birds,,NULL,,NULL,Trochilidae,Hummingbirds,genus,NULL,Glaucis,2024-01-31 16:46:00.000045+00
+f53c0885-8b30-4671-826f-52de4ac55236,Lophostrix,birds,,NULL,,NULL,Strigidae,Owls,genus,NULL,Lophostrix,2024-01-31 16:46:00.000045+00
+372faa42-5a88-4994-af5f-f89a52e895fc,Ara macao,birds,Ara macao,NULL,Scarlet Macaw,NULL,Psittacidae,Parrots,species,NULL,Ara,2024-01-31 16:46:00.000045+00
+e9de2cdb-1803-49c5-8616-c104061f20fb,Actitis macularius,birds,Actitis macularius,https://lh3.googleusercontent.com/kg86olt4dbiZAKCbUSMn6HtLSDuaOw5xTTlmHSbQdkaO3p-Qp7vbO8FhKkEoRt4psORkIU_vVCYLyP3h5Wxgcg,Spotted Sandpiper,LC,Scolopacidae,Sandpipers,species,290,Actitis,2024-01-24 17:18:54.447684+00
+45f05a38-a941-43f9-87b4-d0a4b7c70c5e,Tachyphonus cristatus,birds,Tachyphonus cristatus,NULL,Flame-Crested Tanager,NULL,,,species,NULL,Tachyphonus,2024-01-31 16:46:00.692574+00
+dcf49e20-55da-46b3-b0a7-6732af7c72bc,Tachycineta albiventer,birds,Tachycineta albiventer,NULL,White-Winged Swallow,NULL,Hirundinidae,Martins,species,NULL,Tachycineta,2024-01-31 16:46:00.000045+00
+4a49958f-0588-48ce-b624-46fea24975c3,Taraba major,birds,Taraba major,NULL,Great Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Taraba,2024-01-31 16:46:00.000045+00
+ebadd84f-92e9-421d-96ff-62e8b5015993,Nyctibius leucopterus,birds,Nyctibius leucopterus,NULL,Andean Potoo,NULL,Nyctibiidae,Potoos,species,NULL,Nyctibius,2024-01-31 16:46:00.000045+00
+deeef93d-a38b-4eae-937c-a165d39c3fc7,Lipaugus vociferans,birds,Lipaugus vociferans,NULL,Screaming Piha,NULL,Cotingidae,Cotingas,species,NULL,Lipaugus,2024-01-31 16:46:00.000045+00
+fddea5d6-6a07-4270-8be5-3409c815da53,Donacobius,birds,,NULL,,NULL,Donacobiidae,,genus,NULL,Donacobius,2024-01-31 16:46:00.000045+00
+ce384036-6961-456e-bc4b-e877a19fa7f3,Falco peregrinus,birds,Falco peregrinus,https://lh3.googleusercontent.com/FX7UTjx1xvnaqIleglINZD6z2Q6ININVFpMZ3pJAnRQGmyzZGeICj888LB_xyuFG2BGOb1y1MIBTsiCCipKrj_hB,Peregrine Falcon,LC,Falconidae,Falcons,species,515,Falco,2024-01-24 17:18:54.447684+00
+b179a53a-1737-43f4-a6d1-6d90704bb7a1,Myrmothera campanisona,birds,Myrmothera campanisona,NULL,Thrush-Like Antpitta,NULL,Grallariidae,,species,NULL,Myrmothera,2024-01-31 16:46:00.000045+00
+b9db7bd8-b03f-4f18-9a46-52827480bde9,Xiphorhynchus guttatus,birds,Xiphorhynchus guttatus,NULL,Buff-Throated Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Xiphorhynchus,2024-01-31 16:46:00.000045+00
+029ade5f-d06c-456a-8fe7-b61875681578,Vanellus cayanus,birds,Vanellus cayanus,NULL,Pied Lapwing,NULL,Charadriidae,Plovers,species,NULL,Vanellus,2024-01-31 16:46:00.000045+00
+90ed147f-a23c-4e0f-91d9-1dc4e0d776db,Ardea,birds,,,,,Ardeidae,"Herons, Bitterns ",genus,182,Ardea,2024-01-24 17:18:54.447684+00
+6b81ec0f-5998-44dd-b77c-883dd8b745e6,Arundinicola,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Arundinicola,2024-01-31 16:46:00.000045+00
+e77d9d27-3074-4e72-9f34-7fa7d2b54577,Thamnophilus doliatus,birds,Thamnophilus doliatus,NULL,Barred Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Thamnophilus,2024-01-31 16:46:00.000045+00
+a1857f9a-d34b-4150-9d71-12e1ab244423,Synallaxis rutilans,birds,Synallaxis rutilans,NULL,Ruddy Spinetail,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Synallaxis,2024-01-31 16:46:00.000045+00
+c1815efa-6665-4c34-a0a0-f7583c5aefae,Sclerurus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Sclerurus,2024-01-31 16:46:00.000045+00
+cf331f09-f12e-41d5-a879-35ebc2864ea0,Patagioenas subvinacea,birds,Patagioenas subvinacea,NULL,Ruddy Pigeon,NULL,Columbidae,Pigeons,species,NULL,Patagioenas,2024-01-31 16:46:00.000045+00
+c0ecc7cc-b680-4d28-82cb-3f641c53f3ff,Terenura,birds,,NULL,,NULL,,,genus,NULL,Terenura,2024-01-31 16:46:00.692574+00
+ea826a38-3704-4731-b71e-3d6deef64526,Polioptilidae,birds,,,,,Polioptilidae,Gnatcatchers,family,935,,2024-01-24 17:18:54.447684+00
+2bb0c0ce-f727-459e-b240-283b5c50d59f,Myiarchus swainsoni,birds,Myiarchus swainsoni,NULL,Swainson's Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiarchus,2024-01-31 16:46:00.000045+00
+56eb17e7-08e1-424f-b19b-5d7a95ae8034,Crotophaga,birds,,NULL,,NULL,Cuculidae,Cuckoos,genus,NULL,Crotophaga,2024-01-31 16:46:00.000045+00
+23b7836c-e661-4563-82bf-f835f549059e,Nothocrax urumutum,birds,Nothocrax urumutum,NULL,Nocturnal Curassow,NULL,Cracidae,Chachalacas,species,NULL,Nothocrax,2024-01-31 16:46:00.000045+00
+edf67ad5-f977-4169-a262-12cdabb252b2,Laterallus,birds,,NULL,,NULL,Rallidae,Rails,genus,NULL,Laterallus,2024-01-31 16:46:00.000045+00
+33bfe895-425e-44c5-bfaa-5aeb16703aba,Phaethornis ruber,birds,Phaethornis ruber,NULL,Reddish Hermit,NULL,Trochilidae,Hummingbirds,species,NULL,Phaethornis,2024-01-31 16:46:00.000045+00
+3410c5b8-3f2f-4e35-9437-2085dc61adb6,Myiarchus tuberculifer,birds,Myiarchus tuberculifer,NULL,Dusky-Capped Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Myiarchus,2024-01-31 16:46:00.000045+00
+41f490a1-93e0-4469-b29f-a48941f60ded,Leucopternis albicollis,birds,Leucopternis albicollis,NULL,White Hawk,NULL,,,species,NULL,Leucopternis,2024-01-31 16:46:00.692574+00
+76b4dc4c-2b38-4370-8399-ee9bfad7fb28,Lophotriccus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Lophotriccus,2024-01-31 16:46:00.000045+00
+4a77fcb1-4fe5-49ce-b393-972d4b594406,Zebrilus undulatus,birds,Zebrilus undulatus,NULL,Zigzag Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Zebrilus,2024-01-31 16:46:00.000045+00
+b91d13bf-64c3-4e9c-8ac4-7018ebb789df,Polioptila plumbea,birds,Polioptila plumbea,NULL,Tropical Gnatcatcher,NULL,Polioptilidae,Gnatcatchers,species,NULL,Polioptila,2024-01-31 16:46:00.000045+00
+4a37aed6-b433-4ae7-843b-2d0a00dce179,Dolospingus fringilloides,birds,Dolospingus fringilloides,NULL,White-Naped Seedeater,NULL,,,species,NULL,Dolospingus,2024-01-31 16:46:00.692574+00
+c6bd9af9-7b0a-4730-b933-4cdb85d36899,Cardinalidae,birds,,,,,Cardinalidae,Cardinals,family,1160,,2024-01-24 17:18:54.447684+00
+cf5cd2df-c354-457e-9194-46c4a86649b0,Pionus,birds,,,,,Psittacidae,Parrots,genus,535,Pionus,2024-01-24 17:18:54.447684+00
+0de1c8b0-93fc-4332-b3e1-14ddc76cfaab,Tachyphonus phoenicius,birds,Tachyphonus phoenicius,NULL,Red-Shouldered Tanager,NULL,Thraupidae,Tanagers,species,NULL,Tachyphonus,2024-01-31 16:46:00.000045+00
+24cbca46-f560-4141-b6f3-2db834538ebc,Microrhopias,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Microrhopias,2024-01-31 16:46:00.000045+00
+ed7afbc6-ff91-4565-9b03-63efb0d2255d,Automolus rubiginosus,birds,Automolus rubiginosus,NULL,Ruddy Foliage-Gleaner,NULL,,,species,NULL,Automolus,2024-01-31 16:46:00.692574+00
+8b943f91-9f4f-4143-89c2-3737e45660da,Jabiru mycteria,birds,Jabiru mycteria,NULL,Jabiru,NULL,Ciconiidae,Storks,species,NULL,Jabiru,2024-01-31 16:46:00.000045+00
+a91559e6-1ff7-4f45-9d91-5de5b3085591,Ramphocaenus melanurus,birds,Ramphocaenus melanurus,NULL,Long-Billed Gnatwren,NULL,Polioptilidae,Gnatcatchers,species,NULL,Ramphocaenus,2024-01-31 16:46:00.000045+00
+a0abb307-d3ec-4f70-8bc3-1ef842dd7f85,Bucco tamatia,birds,Bucco tamatia,NULL,Spotted Puffbird,NULL,Bucconidae,Puffbirds,species,NULL,Bucco,2024-01-31 16:46:00.000045+00
+6ad68ef5-25c0-4791-86ac-9eee8336938f,Lurocalis,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Lurocalis,2024-01-31 16:46:00.000045+00
+430ee813-c8f4-4562-a8e7-a8b278ac2595,Capito,birds,,NULL,,NULL,Capitonidae,,genus,NULL,Capito,2024-01-31 16:46:00.000045+00
+4d8ec876-79d1-403a-a09b-49570c2d68da,Vireo chivi,birds,Vireo chivi,NULL,,NULL,Vireonidae,Vireos,species,NULL,Vireo,2024-01-31 16:46:00.000045+00
+38c28e6c-f9f8-44a8-a916-f4c61a8601ee,Micrastur mirandollei,birds,Micrastur mirandollei,NULL,Slaty-Backed Forest-Falcon,NULL,Falconidae,Falcons,species,NULL,Micrastur,2024-01-31 16:46:00.000045+00
+e03623f7-8505-419e-a4f4-90b63fc8f39c,Caryothraustes,birds,,NULL,,NULL,Cardinalidae,Cardinals,genus,NULL,Caryothraustes,2024-01-31 16:46:00.692574+00
+decdd8f8-a5f3-4693-b964-c6b7339d48b2,Tapera naevia,birds,Tapera naevia,NULL,Striped Cuckoo,NULL,Cuculidae,Cuckoos,species,NULL,Tapera,2024-01-31 16:46:00.000045+00
+4f2aef72-1ebb-4bbd-a8d8-095352dd4fd9,Patagioenas speciosa,birds,Patagioenas speciosa,NULL,Scaled Pigeon,NULL,Columbidae,Pigeons,species,NULL,Patagioenas,2024-01-31 16:46:00.000045+00
+28feb402-fbe8-4ac9-8717-40318b839748,Pilherodius pileatus,birds,Pilherodius pileatus,NULL,Capped Heron,NULL,Ardeidae,Egrets And Herons,species,NULL,Pilherodius,2024-01-31 16:46:00.000045+00
+c0656a97-8aef-48df-8eaf-a7bf2c3ccaa3,Myrmothera,birds,,NULL,,NULL,Grallariidae,,genus,NULL,Myrmothera,2024-01-31 16:46:00.000045+00
+67ac3bd5-9abe-4f7a-aa79-d31b00720ae8,Pachyramphus marginatus,birds,Pachyramphus marginatus,NULL,Black-Capped Becard,NULL,Tityridae,,species,NULL,Pachyramphus,2024-01-31 16:46:00.000045+00
+bde8f52b-0323-4964-8fbe-31ebc29ab180,Pionus menstruus,birds,Pionus menstruus,https://lh3.googleusercontent.com/LODGZmSIloTOmV6MSj61SBeauEQWlKGQCydDyy1-DqGbeJXCamDoYbTPaFK9yiDddgDrLHVU71t-jjN0A6pJV5U,Blue-Headed Parrot,LC,Psittacidae,Parrots,species,535,Pionus,2024-01-24 17:18:54.447684+00
+34f33907-5112-48d9-8cc3-365b5e9eaae7,Sporophila castaneiventris,birds,Sporophila castaneiventris,NULL,Chestnut-Bellied Seedeater,NULL,Thraupidae,Tanagers,species,NULL,Sporophila,2024-01-31 16:46:00.000045+00
+dac7357d-9772-4941-b3df-26ca72e3f1ab,Cochlearius,birds,,NULL,,NULL,Ardeidae,Egrets And Herons,genus,NULL,Cochlearius,2024-01-31 16:46:00.000045+00
+5af7ceab-6187-467d-a7f6-055a4eda15f7,Galbulidae,birds,,NULL,,NULL,Galbulidae,Jacamars,family,NULL,,2024-01-31 16:46:00.000045+00
+f12f84d5-90f5-4fb2-962f-078499b2438b,Leptotila verreauxi,birds,Leptotila verreauxi,NULL,White-Fronted Dove,NULL,Columbidae,Pigeons,species,NULL,Leptotila,2024-01-31 16:46:00.000045+00
+d5f26b50-7ca0-431f-9832-3481165973cb,Caprimulgidae,birds,,,,,Caprimulgidae,Nightjars ,family,365,,2024-01-24 17:18:54.447684+00
+19caee2b-45bf-43be-bd30-9e786736bdb2,Falco,birds,,,,,Falconidae,Falcons,genus,515,Falco,2024-01-24 17:18:54.447684+00
+05cae393-191a-4cf0-8796-71584fbf66c1,Hirundinidae,birds,,,,,Hirundinidae,"Swallows, Martins ",family,890,,2024-01-24 17:18:54.447684+00
+5bfa0f14-8da7-4c16-ba69-dd91f55ba326,Troglodytes,birds,,,,,Troglodytidae,Wrens,genus,930,Troglodytes,2024-01-24 17:18:54.447684+00
+7710c32b-789e-42d1-a9e5-82c2b1b3c057,Buteogallus schistaceus,birds,Buteogallus schistaceus,NULL,,NULL,Accipitridae,Hawks And Eagles,species,NULL,Buteogallus,2024-01-31 16:46:00.000045+00
+123deb5f-1349-4223-9bf9-f82f01579ee7,Pandion,birds,,,,,Pandionidae,Ospreys ,genus,186,Pandion,2024-01-24 17:18:54.447684+00
+49bb2cb8-0194-4a19-aec7-0154d2b813e4,Philydor pyrrhodes,birds,Philydor pyrrhodes,NULL,Cinnamon-Rumped Foliage-Gleaner,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Philydor,2024-01-31 16:46:00.000045+00
+c4e26362-7e71-4262-960d-b304a8451bef,Oxyruncidae,birds,,NULL,,NULL,Oxyruncidae,,family,NULL,,2024-01-31 16:46:00.000045+00
+2fad552a-d42c-4e98-9f84-d21ba432698f,Cercomacroides,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Cercomacroides,2024-01-31 16:46:00.000045+00
+aec56082-2e42-47c2-9b8a-56342de551e4,Xiphorhynchus,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Xiphorhynchus,2024-01-31 16:46:00.000045+00
+daa73ec8-566c-4213-85b6-4cbbc770db6c,Myiothlypis,birds,,NULL,,NULL,Parulidae,New World Warblers,genus,NULL,Myiothlypis,2024-01-31 16:46:00.000045+00
+47e2e617-0200-42cb-b4e0-e7c03bc7927e,Ardea alba,birds,Ardea alba,NULL,Great Egret,VU,Ardeidae,"Herons, Bitterns ",species,181,Ardea,2024-01-24 17:18:54.447684+00
+3ea612ce-a1e8-4bb6-9202-817658ab55d6,Pyrocephalus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Pyrocephalus,2024-01-31 16:46:00.000045+00
+a2437e3f-3ffb-44d2-a969-c1981b7aa18d,Pluvialis,birds,,,,,Charadriidae,Plovers ,genus,265,Pluvialis,2024-01-24 17:18:54.447684+00
+1f79e3ac-cd30-4ac5-9381-0104bdf41da8,Frederickena viridis,birds,Frederickena viridis,NULL,Black-Throated Antshrike,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Frederickena,2024-01-31 16:46:00.000045+00
+ceb23d1b-9abe-44d4-a0bb-88207c6e9fa1,Porphyrio martinica,birds,Porphyrio martinica,https://lh3.googleusercontent.com/HO6pTitb1bHKVEA-X8D2zh9Tih1Olo7RhfeDNMx2ki7jj9vriITuNOIGmm8mj5WXQMxBzFSHhkBWxcJWzHj8iBMp,Purple Gallinule,NULL,Rallidae,Rails,species,200,Porphyrio,2024-01-24 17:18:54.447684+00
+d08fcad9-06a0-43d0-8546-dcc6fbc3761d,Pipra,birds,,NULL,,NULL,,,genus,NULL,Pipra,2024-01-31 16:46:00.692574+00
+0487548a-b595-4c2e-a06f-ffe6f260ab6b,Sittasomus griseicapillus,birds,Sittasomus griseicapillus,NULL,Olivaceous Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Sittasomus,2024-01-31 16:46:00.000045+00
+927fe7b7-3c3f-4865-b71a-af7df051e398,Campylorhamphus trochilirostris,birds,Campylorhamphus trochilirostris,NULL,Red-Billed Scythebill,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Campylorhamphus,2024-01-31 16:46:00.000045+00
+495fe2b8-8d84-4d75-b315-4b4ca6333d85,Willisornis,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Willisornis,2024-01-31 16:46:00.000045+00
+dd099320-f825-4074-b909-2e2b2004130f,Odontophorus,birds,,NULL,,NULL,Odontophoridae,New World Quails,genus,NULL,Odontophorus,2024-01-31 16:46:00.000045+00
+c115c338-5b60-4b71-9007-6a75d5ab3d92,Tachybaptus dominicus,birds,Tachybaptus dominicus,NULL,Short-Billed Grebe,NULL,Podicipedidae,Grebes,species,NULL,Tachybaptus,2024-01-31 16:46:00.000045+00
+680c9803-2bcb-4eb1-b208-47b0a6bf16f0,Tinamidae,birds,,NULL,,NULL,Tinamidae,Tinamous,family,NULL,,2024-01-31 16:46:00.000045+00
+eb2d5e45-9d05-431b-a70c-f2edd5348747,Hydropsalis,birds,,NULL,,NULL,Caprimulgidae,Nightjars,genus,NULL,Hydropsalis,2024-01-31 16:46:00.000045+00
+1e5e652d-b2f1-40e3-b472-5026f152da35,Cathartes aura,birds,Cathartes aura,https://lh3.googleusercontent.com/-mUNYK5c65QBrG6YI8R-jWU7_rsdz2jh9KQdqAogFA5GtoZuXtc6MOm9G5CBv59NFIduKyWrdV6ySZDVmnGHYcA,Turkey Vulture,LC,Cathartidae,New World Vultures,species,160,Cathartes,2024-01-24 17:18:54.447684+00
+ddcc7815-05e0-4158-8db0-576e92cb01ac,Xenops,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Xenops,2024-01-31 16:46:00.000045+00
+4d72ed02-1725-49aa-8420-b50b6d8944c4,Coragyps,birds,,,,,Cathartidae,New World Vultures,genus,160,Coragyps,2024-01-24 17:18:54.447684+00
+1e2aacdf-2c41-45f3-bbcc-ae1d1dc6e0e1,Cairina moschata,birds,Cairina moschata,https://lh3.googleusercontent.com/GlvR7CfGU_u3clLWkX6dsDNA5NZhxJ6eHPfLZu-L57EdFIyJLRcTUgvSdG2etjZEqsewlznAsumcs-kEtmnuL78,Muscovy Duck,LC,Anatidae,Ducks And Swans,species,40,Cairina,2024-01-24 17:18:54.447684+00
+baefeaba-7647-46a6-a440-81b33902c8fd,Vireolanius,birds,,NULL,,NULL,Vireonidae,Vireos,genus,NULL,Vireolanius,2024-01-31 16:46:00.000045+00
+e22e3f1a-c2cf-40d1-92f4-bdc79ffb9159,Turdidae,birds,,,,,Turdidae,"Thrushes, Robins, Chats, And Wheatears",family,1050,,2024-01-24 17:18:54.447684+00
+13ed2022-8c1f-46fc-9148-b19bf4388e3d,Vireolanius leucotis,birds,Vireolanius leucotis,NULL,Slaty-Capped Shrike-Vireo,NULL,Vireonidae,Vireos,species,NULL,Vireolanius,2024-01-31 16:46:00.000045+00
+00111f8b-8ec0-4364-bd06-11c002ef7ab5,Buteo brachyurus,birds,Buteo brachyurus,NULL,Short-Tailed Hawk,NULL,Accipitridae,Hawks And Eagles,species,NULL,Buteo,2024-01-31 16:46:00.000045+00
+9fa7fd1e-54af-4be4-96aa-af920c77989b,Galbula,birds,,NULL,,NULL,Galbulidae,Jacamars,genus,NULL,Galbula,2024-01-31 16:46:00.000045+00
+0f6a3198-1403-4f25-bf20-3ad391cc9e09,Anatidae,birds,,,,,Anatidae,"Ducks, Geese, Swans ",family,40,,2024-01-24 17:18:54.447684+00
+81a98a2b-f262-421c-9a23-34ae43a6a7da,Jacana jacana,birds,Jacana jacana,NULL,Wattled Jacana,NULL,Jacanidae,Jacanas,species,NULL,Jacana,2024-01-31 16:46:00.000045+00
+1d3ba32f-b64c-4943-9117-02c5a4b55034,Geranospiza,birds,,NULL,,NULL,Accipitridae,Hawks And Eagles,genus,NULL,Geranospiza,2024-01-31 16:46:00.000045+00
+4c4ec1f1-6f37-4bed-b3b6-b5de18bcb822,Xiphorhynchus pardalotus,birds,Xiphorhynchus pardalotus,NULL,Chestnut-Rumped Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Xiphorhynchus,2024-01-31 16:46:00.000045+00
+dc63195a-b44f-4a90-a4c1-0a4af1e7dfb7,Rupicola rupicola,birds,Rupicola rupicola,NULL,Guianan Cock-Of-The-Rock,NULL,Cotingidae,Cotingas,species,NULL,Rupicola,2024-01-31 16:46:00.000045+00
+367c0353-bdef-40d2-8187-77174dfbc272,Morphnus guianensis,birds,Morphnus guianensis,NULL,Guiana Crested Eagle,NULL,Accipitridae,Hawks And Eagles,species,NULL,Morphnus,2024-01-31 16:46:00.000045+00
+24137d1c-32c1-472d-95c0-5ee290349c42,Myiothlypis rivularis,birds,Myiothlypis rivularis,NULL,Riverbank Warbler,NULL,Parulidae,New World Warblers,species,NULL,Myiothlypis,2024-01-31 16:46:00.000045+00
+2f3d4779-fa96-4d6a-978b-5ef66b0f1a7d,Poecilotriccus,birds,,NULL,,NULL,Tyrannidae,Tyrant Flycatchers,genus,NULL,Poecilotriccus,2024-01-31 16:46:00.000045+00
+c923965c-25ad-4b81-8934-f0229b4366f3,Megascops watsonii,birds,Megascops watsonii,NULL,Tawny Bellied Screech Owl,NULL,Strigidae,Owls,species,NULL,Megascops,2024-01-31 16:46:00.000045+00
+9181a2c9-1b94-4ab5-8c70-294fa5b19433,Tyrannopsis sulphurea,birds,Tyrannopsis sulphurea,NULL,Sulphury Flycatcher,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Tyrannopsis,2024-01-31 16:46:00.000045+00
+7a8da87d-a3c9-4fb7-a4b5-7ae661f621ec,Cercomacra cinerascens,birds,Cercomacra cinerascens,NULL,Grey Antbird,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Cercomacra,2024-01-31 16:46:00.000045+00
+cf14d6bc-2bd7-46e7-8412-0d9eabb2ad0b,Myrmelastes leucostigma,birds,Myrmelastes leucostigma,NULL,,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Myrmelastes,2024-01-31 16:46:00.000045+00
+f6be14dc-6a94-414f-9d6e-2066bf2424f7,Onychorhynchus,birds,,NULL,,NULL,Oxyruncidae,,genus,NULL,Onychorhynchus,2024-01-31 16:46:00.000045+00
+399594be-7f6c-4ddf-9a52-f4ac33738452,Myrmeciza,birds,,NULL,,NULL,,,genus,NULL,Myrmeciza,2024-01-31 16:46:00.692574+00
+38626ff7-2238-4bab-aedd-c24330396496,Lophotriccus vitiosus,birds,Lophotriccus vitiosus,NULL,Double-Banded Pygmy-Tyrant,NULL,Tyrannidae,Tyrant Flycatchers,species,NULL,Lophotriccus,2024-01-31 16:46:00.000045+00
+ed639f32-0c90-4d78-9308-c4b8b881a5ee,Caracara cheriway,birds,Caracara cheriway,NULL,Crested Caracara,NULL,,,species,NULL,Caracara,2024-01-31 16:46:00.692574+00
+ce207151-d674-4abc-a746-0e68a314f655,Pheugopedius coraya,birds,Pheugopedius coraya,NULL,Coraya Wren,NULL,Troglodytidae,Wrens,species,NULL,Pheugopedius,2024-01-31 16:46:00.000045+00
+5a24a4dc-ac19-43ac-97e1-8aebea831f1f,Lamprospiza,birds,,NULL,,NULL,Mitrospingidae,,genus,NULL,Lamprospiza,2024-01-31 16:46:00.692574+00
+95579199-dd7d-44e6-9989-bb2665d627ca,Pipridae,birds,,NULL,,NULL,Pipridae,Manakins,family,NULL,,2024-01-31 16:46:00.000045+00
+868f4514-63e8-4a3c-956a-957b7222f361,Terenotriccus erythrurus,birds,Terenotriccus erythrurus,NULL,Ruddy-Tailed Flycatcher,NULL,Oxyruncidae,,species,NULL,Terenotriccus,2024-01-31 16:46:00.000045+00
+63634615-24d6-41fd-9c91-fac8e88a903b,Ramphastos vitellinus,birds,Ramphastos vitellinus,NULL,Yellow-Ridged Toucan,NULL,Ramphastidae,New World Barbets And Allies,species,NULL,Ramphastos,2024-01-31 16:46:00.000045+00
+52923dc2-56b0-42ea-b6ae-6b0e6c873634,Rynchops niger,birds,Rynchops niger,https://lh3.googleusercontent.com/fpF92q2nMv_0SSBmxYE7hpcuCL3lXUm0RZJCy_x7Vecv3JmJVi5aH1yHYIiMFbGb1-P7VKTIoW5c0NAFygYL6A,Black Skimmer,LC,Laridae,Gulls And Terns,species,320,Rynchops,2024-01-24 17:18:54.447684+00
+4c0eb388-8e6e-4682-a23c-38ec007e31df,Dixiphia,birds,,NULL,,NULL,,,genus,NULL,Dixiphia,2024-01-31 16:46:00.692574+00
+fa820b73-a7a7-4c5b-90c3-6ac31c2e016a,Clibanornis,birds,,NULL,,NULL,Furnariidae,Ovenbirds And Allies,genus,NULL,Clibanornis,2024-01-31 16:46:00.000045+00
+9e0f5e48-8fb0-449c-b147-385d735a9662,Herpsilochmus dorsimaculatus,birds,Herpsilochmus dorsimaculatus,NULL,Spot-Backed Antwren,NULL,Thamnophilidae,Typical Antbirds,species,NULL,Herpsilochmus,2024-01-31 16:46:00.000045+00
+0c6c24f0-f5d5-4451-b720-f2d27923c101,Certhiasomus stictolaemus,birds,Certhiasomus stictolaemus,NULL,Spot Throated Woodcreeper,NULL,Furnariidae,Ovenbirds And Allies,species,NULL,Certhiasomus,2024-01-31 16:46:00.000045+00
+70687912-665f-4859-a453-96019241ef71,Ictinia plumbea,birds,Ictinia plumbea,NULL,Plumbeous Kite,NULL,Accipitridae,Hawks And Eagles,species,NULL,Ictinia,2024-01-31 16:46:00.000045+00
+bb1bb0e5-c2d5-4974-a969-fb5d2445bc9b,Manacus,birds,,NULL,,NULL,Pipridae,Manakins,genus,NULL,Manacus,2024-01-31 16:46:00.000045+00
+7e62b29d-5fef-42e3-8505-73e361f03f2f,Taraba,birds,,NULL,,NULL,Thamnophilidae,Typical Antbirds,genus,NULL,Taraba,2024-01-31 16:46:00.000045+00

@@ -1,0 +1,3 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+47baa509-68bd-4c7c-8c02-d54c26b13881,Isognathus leachii,moths,Isognathus leachii,NULL,,NULL,,,species,NULL,Isognathus,2024-01-31 16:46:01.310562+00
+2a158662-ff12-4430-b5d9-5ae7c0554bcc,Isognathus,moths,,NULL,,NULL,,,genus,NULL,Isognathus,2024-01-31 16:46:01.310562+00

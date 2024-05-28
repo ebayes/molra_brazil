@@ -1,0 +1,11 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+9c9d10e5-c73f-4a6e-82a3-29a0a7a621fc,Potamotrygon schroederi,fishes,Potamotrygon schroederi,NULL,Rosette River Stingray,NULL,,,species,NULL,Potamotrygon,2024-01-31 16:46:01.310562+00
+e9d6d209-ecce-47ef-8338-fb442c9d48d7,Paratrygon ajereba,fishes,Paratrygon ajereba,NULL,,NULL,,,species,NULL,Paratrygon,2024-01-31 16:46:01.310562+00
+8777baaa-ebb2-4f3b-b5f6-d9cf7acf1a00,Potamotrygon orbignyi,fishes,Potamotrygon orbignyi,NULL,Roughback River Stingray,NULL,,,species,NULL,Potamotrygon,2024-01-31 16:46:01.310562+00
+8528fd82-9888-4f4b-8185-22c8d97de982,Potamotrygon constellata,fishes,Potamotrygon constellata,NULL,Thorny River Stingray,NULL,,,species,NULL,Potamotrygon,2024-01-31 16:46:01.310562+00
+bc2d57a9-8861-49af-826a-67e58ad0b914,Paratrygon,fishes,,NULL,,NULL,,,genus,NULL,Paratrygon,2024-01-31 16:46:01.310562+00
+4b9e1559-a63f-4696-9d11-636ed6f63023,Plesiotrygon,fishes,,NULL,,NULL,,,genus,NULL,Plesiotrygon,2024-01-31 16:46:01.310562+00
+05af3d0a-6550-47f5-94a4-482dc3537b46,Paratrygon aiereba,fishes,Paratrygon aiereba,NULL,Discus Ray,NULL,,,species,NULL,Paratrygon,2024-01-31 16:46:01.310562+00
+3dc9da44-7991-488b-8d30-20854e0cd4ce,Potamotrygon scobina,fishes,Potamotrygon scobina,NULL,Raspy River Stingray,NULL,,,species,NULL,Potamotrygon,2024-01-31 16:46:01.310562+00
+a5391ec0-17e3-4d72-bd18-e7cff3961981,Plesiotrygon iwamae,fishes,Plesiotrygon iwamae,NULL,Antenna Ray,NULL,,,species,NULL,Plesiotrygon,2024-01-31 16:46:01.310562+00
+84f96f77-eae9-494b-ba8d-1ca39d33ea27,Potamotrygon,fishes,,NULL,,NULL,,,genus,NULL,Potamotrygon,2024-01-25 17:05:48.602915+00

@@ -1,0 +1,284 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+3daa5ae1-bc31-4074-bdac-8e2959f0d6ec,Junonia evarete,butterflies,Junonia evarete,NULL,NULL,NULL,,NULL,species,NULL,Junonia,2024-01-24 17:18:54.447684+00
+e6986fb3-c0b9-4334-b51a-bd6bd2ebcc15,Arawacus separata,butterflies,Arawacus separata,NULL,NULL,NULL,,NULL,species,NULL,Arawacus,2024-01-24 17:18:54.447684+00
+6deabb8e-8719-43d9-ba33-2fd4e466f069,Morpho deidamia,butterflies,Morpho deidamia,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+4c585048-9482-4a2b-b2bb-b0d7d63347e8,Melanis smithiae,butterflies,Melanis smithiae,NULL,NULL,NULL,,NULL,species,NULL,Melanis,2024-01-24 17:18:54.447684+00
+d1997449-f0fd-4fc4-bbf7-33b0020dd8f1,Entheus matho,butterflies,Entheus matho,NULL,NULL,NULL,,NULL,species,NULL,Entheus,2024-01-24 17:18:54.447684+00
+7f797322-9676-46a7-b35a-2b5b4631f24b,Caerois chorinaeus,butterflies,Caerois chorinaeus,NULL,NULL,NULL,,NULL,species,NULL,Caerois,2024-01-24 17:18:54.447684+00
+91abc4c5-92bd-41f9-b9c3-4029811edad9,Memphis moruus,butterflies,Memphis moruus,NULL,,NULL,Nymphalidae,Brushfooted Butterflies,species,NULL,Memphis,2024-01-31 16:46:01.310562+00
+aab88c56-e627-4c87-bf18-bb46bed2748f,Urbanus procne,butterflies,Urbanus procne,NULL,NULL,NULL,,NULL,species,NULL,Urbanus,2024-01-24 17:18:54.447684+00
+5676ab8e-cecf-4854-b8d1-6af6f1eef27b,Artines,butterflies,,NULL,,NULL,,,genus,NULL,Artines,2024-01-31 16:46:01.310562+00
+9900f79d-0cf9-4aeb-8b11-27415d59e403,Celmia,butterflies,,,,,,NULL,genus,NULL,Celmia,2024-01-24 17:18:54.447684+00
+e96209de-b361-4e7a-b8e7-1b064d067a65,Chloreuptychia chloris,butterflies,Chloreuptychia chloris,NULL,,NULL,,,species,NULL,Chloreuptychia,2024-01-31 16:46:01.310562+00
+fb9e7632-8e2b-44ce-b981-ee311e564a3e,Taygetis,butterflies,,,,,,NULL,genus,NULL,Taygetis,2024-01-24 17:18:54.447684+00
+84de6cd6-10b7-4873-8342-b00460207c82,Thecla,butterflies,,,,,,NULL,genus,NULL,Thecla,2024-01-24 17:18:54.447684+00
+cc35ea7d-0117-4d8a-ac62-25f529b091b1,Consul,butterflies,,,,,,NULL,genus,NULL,Consul,2024-01-24 17:18:54.447684+00
+9df48422-3b17-4176-90ab-e104fb9f0b7d,Eresia,butterflies,,,,,,NULL,genus,NULL,Eresia,2024-01-24 17:18:54.447684+00
+0f0cbe19-d6d3-435c-887e-9db615bce785,Synargis calyce,butterflies,Synargis calyce,NULL,NULL,NULL,,NULL,species,NULL,Synargis,2024-01-24 17:18:54.447684+00
+fb20380e-3e9a-42cd-91f0-6313e823536d,Eresia eunice,butterflies,Eresia eunice,NULL,NULL,NULL,,NULL,species,NULL,Eresia,2024-01-24 17:18:54.447684+00
+5fcdb53f-5b58-4598-a37b-65b8f12291f2,Riodina lysippus,butterflies,Riodina lysippus,NULL,NULL,NULL,,NULL,species,NULL,Riodina,2024-01-24 17:18:54.447684+00
+74ced553-dfff-474f-a099-d294eda491d7,Tigridia,butterflies,,,,,,NULL,genus,NULL,Tigridia,2024-01-24 17:18:54.447684+00
+f67e4f78-f089-4828-8211-96daa9163b70,Dynamine postverta,butterflies,Dynamine postverta,NULL,NULL,NULL,,NULL,species,NULL,Dynamine,2024-01-24 17:18:54.447684+00
+2873364b-e003-49ff-8f14-93ddb91b2bb4,Pseudodebis,butterflies,,,,,,NULL,genus,NULL,Pseudodebis,2024-01-24 17:18:54.447684+00
+a37d742d-1323-417b-8a58-0518a601a169,Argyreuptychia,butterflies,,NULL,,NULL,,,genus,NULL,Argyreuptychia,2024-01-31 16:46:01.310562+00
+5abaebb3-f937-4d60-820d-50c15fe51119,Ectima,butterflies,,,,,,NULL,genus,NULL,Ectima,2024-01-24 17:18:54.447684+00
+e9596f12-a118-429b-b47e-ba506564b5ca,Heraclides thoas,butterflies,Heraclides thoas,NULL,NULL,NULL,,NULL,species,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+dc98538a-5737-497d-912d-fa93ca82fbb6,Marpesia orsilochus,butterflies,Marpesia orsilochus,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+4b5b3ebf-bb2d-4bf2-af47-f2b01389dcd6,Batesia hypochlora,butterflies,Batesia hypochlora,NULL,NULL,NULL,,NULL,species,NULL,Batesia,2024-01-24 17:18:54.447684+00
+dda578ee-a1bb-415c-b75f-dd510bca4aa6,Thecla orcidia,butterflies,Thecla orcidia,NULL,,NULL,,,species,NULL,Thecla,2024-01-31 16:46:01.310562+00
+c5d5b938-bff4-403e-b3d8-9df294a8f9da,Melinaea ludovica,butterflies,Melinaea ludovica,NULL,NULL,NULL,,NULL,species,NULL,Melinaea,2024-01-24 17:18:54.447684+00
+a83260d4-c161-4339-8197-9200b68974f6,Heraclides androgeus,butterflies,Heraclides androgeus,NULL,NULL,NULL,,NULL,species,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+2071da11-d6c8-4812-897a-74545478701f,Philaethria,butterflies,,,,,,NULL,genus,NULL,Philaethria,2024-01-24 17:18:54.447684+00
+256d56a3-af1f-4ccf-ace6-833b1d0d54bf,Heliconius demeter,butterflies,Heliconius demeter,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+2bc508a6-cd91-4da7-9fe4-67db683ec476,Dynamine athemon,butterflies,Dynamine athemon,NULL,NULL,NULL,,NULL,species,NULL,Dynamine,2024-01-24 17:18:54.447684+00
+ba288096-09ac-42f7-b2bc-1b045102a87c,Catonephele,butterflies,,,,,,NULL,genus,NULL,Catonephele,2024-01-24 17:18:54.447684+00
+ed94323d-51b0-4da0-8aa6-8a31656b741b,Hesperiidae,butterflies,,,,,Hesperiidae,Skippers,family,2,,2024-01-24 17:18:54.447684+00
+a62ce751-f30e-4173-932b-f0f6139543b0,Lycorea pasinuntia,butterflies,Lycorea pasinuntia,NULL,NULL,NULL,,NULL,species,NULL,Lycorea,2024-01-24 17:18:54.447684+00
+325b2357-b8de-478b-aadf-ca06aed35b50,Caligo illioneus,butterflies,Caligo illioneus,NULL,NULL,NULL,,NULL,species,NULL,Caligo,2024-01-24 17:18:54.447684+00
+55cd152b-40d8-4424-8837-cda77348e8bd,Hamadryas amphinome,butterflies,Hamadryas amphinome,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+9b26f11e-0569-4bdc-9779-628932902d0b,Ascia,butterflies,,,,,,NULL,genus,NULL,Ascia,2024-01-24 17:18:54.447684+00
+f7d080eb-4b0a-4892-ac40-aaed8588e030,Hypna,butterflies,,,,,,NULL,genus,NULL,Hypna,2024-01-24 17:18:54.447684+00
+f2afb9cf-b0bc-4985-bf13-46f32f2b0520,Thenpea,butterflies,,,,,,NULL,genus,NULL,Thenpea,2024-01-24 17:18:54.447684+00
+e119c92b-307c-4777-aaf8-2fd198cecb99,Asterope leprieuri,butterflies,Asterope leprieuri,NULL,NULL,NULL,,NULL,species,NULL,Asterope,2024-01-24 17:18:54.447684+00
+1ea9806c-640c-42bb-bc8e-8702571d96b5,Vettius,butterflies,,,,,,NULL,genus,NULL,Vettius,2024-01-24 17:18:54.447684+00
+54192e24-8dc1-4fe0-b46a-7600efe66859,Heliconius numatus,butterflies,Heliconius numatus,NULL,,NULL,,,species,NULL,Heliconius,2024-01-31 16:46:01.310562+00
+34af3813-f6ea-47b4-914d-ac9420130266,Cissia penelope,butterflies,Cissia penelope,NULL,NULL,NULL,,NULL,species,NULL,Cissia,2024-01-24 17:18:54.447684+00
+2f80c936-792e-475b-9139-0aa6962b9e1e,Stalachtis euterpe,butterflies,Stalachtis euterpe,NULL,NULL,NULL,,NULL,species,NULL,Stalachtis,2024-01-24 17:18:54.447684+00
+ea7ffe34-c436-483d-9b19-4faa2fff880c,Battus polydamas,butterflies,Battus polydamas,NULL,NULL,NULL,,NULL,species,NULL,Battus,2024-01-24 17:18:54.447684+00
+9d92dbf5-6e75-4c13-87cf-e9e187bd94c3,Tmolus,butterflies,,,,,,NULL,genus,NULL,Tmolus,2024-01-24 17:18:54.447684+00
+c7ecd05f-935b-4f7e-9c90-843cd343e496,Pterourus xanthopleura,butterflies,Pterourus xanthopleura,NULL,,NULL,Papilionidae,Swallowtail Butterflies,species,NULL,Pterourus,2024-01-31 16:46:01.310562+00
+3a69be49-b379-4c3b-bc9b-7d2e52280c44,Melinaea,butterflies,,,,,,NULL,genus,NULL,Melinaea,2024-01-24 17:18:54.447684+00
+545810e4-b3f3-4626-9cbf-8b04f9cda35e,Eantis,butterflies,,,,,,NULL,genus,NULL,Eantis,2024-01-24 17:18:54.447684+00
+7329631a-6dc6-4062-957f-ce2c5eca8760,Artines trogon,butterflies,Artines trogon,NULL,,NULL,,,species,NULL,Artines,2024-01-31 16:46:01.310562+00
+311ec9b8-9232-49a8-bb0d-57a682a856a7,Thisbe,butterflies,,,,,,NULL,genus,NULL,Thisbe,2024-01-24 17:18:54.447684+00
+23259874-1cd0-419d-b894-cb08541dae0c,Panthiades,butterflies,,,,,,NULL,genus,NULL,Panthiades,2024-01-24 17:18:54.447684+00
+6b983a2f-7d57-4aca-9207-63455491f871,Urbanus proteus,butterflies,Urbanus proteus,https://lh3.ggpht.com/PJEkzB2jmdQ56p3oo68jqybSaXl2E3T77JEIlU1jd6W7pVXo5-yRY_L0StN70ZkCLEbNOCOHzz4qTead5FUqaQ,Long-Tailed Skipper,NULL,Hesperiidae,Skippers,species,2,Urbanus,2024-01-24 17:18:54.447684+00
+6ba4f29d-7124-472e-b5fb-0781fd8da719,Nessaea,butterflies,,,,,,NULL,genus,NULL,Nessaea,2024-01-24 17:18:54.447684+00
+607e9ef2-512d-4e35-9606-0f6c2e9d21a1,Heliconius burneyi,butterflies,Heliconius burneyi,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+b60de126-fa8f-4bfd-acba-3a11846746a7,Historis odius,butterflies,Historis odius,NULL,NULL,NULL,,NULL,species,NULL,Historis,2024-01-24 17:18:54.447684+00
+bf147a12-8817-4a18-97bc-c2cb916dd668,Bia actorion,butterflies,Bia actorion,NULL,NULL,NULL,,NULL,species,NULL,Bia,2024-01-24 17:18:54.447684+00
+c6366b3c-b5b1-416e-b0a8-08194952dad0,Coea,butterflies,,NULL,,NULL,,,genus,NULL,Coea,2024-01-31 16:46:01.310562+00
+309dbc3d-8b29-47ab-9d09-2d5fcbe80085,Ectima thecla,butterflies,Ectima thecla,NULL,NULL,NULL,,NULL,species,NULL,Ectima,2024-01-24 17:18:54.447684+00
+d16e4eb6-d14d-447d-9e43-e44ad2a83e0c,Macrosoma,butterflies,,,,,,NULL,genus,NULL,Macrosoma,2024-01-24 17:18:54.447684+00
+7399179f-b4d1-4da8-8b80-b3b0e02380c8,Hamadryas arinome,butterflies,Hamadryas arinome,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+ca8ea7c1-6748-4650-a310-7bf2a9f1d56b,Archaeoprepona,butterflies,,,,,,NULL,genus,NULL,Archaeoprepona,2024-01-24 17:18:54.447684+00
+af50283d-8507-4ca6-a39b-dcacbf0cc17b,Pareuptychia hesione,butterflies,Pareuptychia hesione,NULL,,NULL,,,species,NULL,Pareuptychia,2024-01-31 16:46:01.310562+00
+4678e783-48d0-4f80-a7c0-2a267eabf7fa,Pyrrhogyra crameri,butterflies,Pyrrhogyra crameri,NULL,NULL,NULL,,NULL,species,NULL,Pyrrhogyra,2024-01-24 17:18:54.447684+00
+506bf97c-a7d2-4c9c-b7dd-c9b81a47d4a0,Dryas,butterflies,,,,,,NULL,genus,NULL,Dryas,2024-01-24 17:18:54.447684+00
+42c7f911-8ffc-406a-92b3-c1c486471048,Dryas iulia,butterflies,Dryas iulia,NULL,NULL,NULL,,NULL,species,NULL,Dryas,2024-01-24 17:18:54.447684+00
+5e14b473-5645-4f89-b671-f512c6f3e7c9,Leptotes cassius,butterflies,Leptotes cassius,NULL,NULL,NULL,,NULL,species,NULL,Leptotes,2024-01-24 17:18:54.447684+00
+68b9472d-01c6-4c89-8e53-5709b79787ef,Adelpha,butterflies,,,,,,NULL,genus,NULL,Adelpha,2024-01-24 17:18:54.447684+00
+dcbf7572-3ad6-4ff1-a3f1-a73e548841c7,Morpho helenor,butterflies,Morpho helenor,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+dca492a2-fa00-44d4-a675-42d375672504,Antirrhea,butterflies,,,,,,NULL,genus,NULL,Antirrhea,2024-01-24 17:18:54.447684+00
+f4c9fb25-f686-42c0-b1b6-b62c27d1a7de,Euptychia,butterflies,,,,,,NULL,genus,NULL,Euptychia,2024-01-24 17:18:54.447684+00
+336c1c28-9dd8-4a0f-84fe-b44a7574420b,Eunica volumna,butterflies,Eunica volumna,NULL,NULL,NULL,,NULL,species,NULL,Eunica,2024-01-24 17:18:54.447684+00
+8613b7e4-2ca5-4c0e-b86d-2f269c81dad7,Amarynthis,butterflies,,,,,,NULL,genus,NULL,Amarynthis,2024-01-24 17:18:54.447684+00
+714bde01-ad0c-48b1-a434-0c28d1ad94a5,Battus,butterflies,,,,,Papilionidae,Swallowtail Butterflies,genus,4,Battus,2024-01-24 17:18:54.447684+00
+9ca8ddfb-b259-4d80-a85b-bc3d6981ae28,Dryadula,butterflies,,,,,,NULL,genus,NULL,Dryadula,2024-01-24 17:18:54.447684+00
+9f46a310-8774-4bc2-8272-aea0738d4e4a,Cariomothis,butterflies,,,,,,NULL,genus,NULL,Cariomothis,2024-01-24 17:18:54.447684+00
+4c0c9015-68f2-4b5c-92f3-fe33c56807e0,Batesia,butterflies,,,,,,NULL,genus,NULL,Batesia,2024-01-24 17:18:54.447684+00
+ab3839da-b1c2-40a2-a8b1-307ae69fe94a,Haetera,butterflies,,,,,,NULL,genus,NULL,Haetera,2024-01-24 17:18:54.447684+00
+65958078-3d42-4ab1-852a-7f82724b5bd3,Adelpha thesprotia,butterflies,Adelpha thesprotia,NULL,NULL,NULL,,NULL,species,NULL,Adelpha,2024-01-24 17:18:54.447684+00
+d1fdc938-ae7b-4883-a234-9dadf6716e77,Asterope,butterflies,,,,,,NULL,genus,NULL,Asterope,2024-01-24 17:18:54.447684+00
+7c509308-6f24-4d97-98d9-cd91f26d95a9,Dione juno,butterflies,Dione juno,NULL,NULL,NULL,,NULL,species,NULL,Dione,2024-01-24 17:18:54.447684+00
+c23842e9-97d4-4ff7-a89e-80335a4a3a96,Stalachtis,butterflies,,,,,,NULL,genus,NULL,Stalachtis,2024-01-24 17:18:54.447684+00
+f0ffdec0-14c5-4f43-94d6-2bac551be7c1,Morpho cisseis,butterflies,Morpho cisseis,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+07c57f05-5af3-4ea2-8251-8d6106c1b95d,Bia,butterflies,,,,,,NULL,genus,NULL,Bia,2024-01-24 17:18:54.447684+00
+f0bcfecb-0653-4aed-a96d-25c82b454ae4,Eueides isabella,butterflies,Eueides isabella,NULL,NULL,NULL,,NULL,species,NULL,Eueides,2024-01-24 17:18:54.447684+00
+385aa61c-b7a0-4bfc-81b2-67cc00cba00f,Caligo eurilochus,butterflies,Caligo eurilochus,NULL,NULL,NULL,,NULL,species,NULL,Caligo,2024-01-24 17:18:54.447684+00
+7ed66d76-e988-40e7-b511-4dcc54fdfef1,Riodina,butterflies,,,,,,NULL,genus,NULL,Riodina,2024-01-24 17:18:54.447684+00
+ecea88c0-4b52-452f-a5c8-60f546d758f1,Anaea ryphea,butterflies,Anaea ryphea,NULL,Blue-Barred Leafwing,NULL,,,species,NULL,Anaea,2024-01-31 16:46:01.310562+00
+b2f59c64-d84f-4641-af20-f27dc2f4a8c7,Urbanus,butterflies,,,,,Hesperiidae,Skippers,genus,2,Urbanus,2024-01-24 17:18:54.447684+00
+0d42b637-fe69-4c2f-b834-cd2a263dc389,Marpesia petreus,butterflies,Marpesia petreus,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+7a9763ef-3cab-4a3b-94ef-9ac55b714c2f,Marpesia,butterflies,,,,,,NULL,genus,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+ca65ed21-4081-487e-b707-7c63854877e9,Chloreuptychia tolumnia,butterflies,Chloreuptychia tolumnia,NULL,NULL,NULL,,NULL,species,NULL,Chloreuptychia,2024-01-24 17:18:54.447684+00
+35db4118-35f3-4d0d-a190-bf8be8e2c35b,Mechanitis,butterflies,,,,,,NULL,genus,NULL,Mechanitis,2024-01-24 17:18:54.447684+00
+0ba162cb-497c-4fa1-b56d-2b0992ca0a91,Heliopetes,butterflies,,,,,,NULL,genus,NULL,Heliopetes,2024-01-24 17:18:54.447684+00
+f53ea5c5-cd6f-4651-b374-50c256dbe4a3,Heliconius antiochus,butterflies,Heliconius antiochus,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+86b87966-0204-446d-9f2d-a60d3566bb70,Strymon astiocha,butterflies,Strymon astiocha,NULL,NULL,NULL,,NULL,species,NULL,Strymon,2024-01-24 17:18:54.447684+00
+1a7a5fdb-55cc-461d-a54f-d9a49b6303b4,Urbanus simplicius,butterflies,Urbanus simplicius,NULL,NULL,NULL,,NULL,species,NULL,Urbanus,2024-01-24 17:18:54.447684+00
+aadfb2ea-57b9-4f43-b7d3-eeadd91e738f,Morpho menelaus,butterflies,Morpho menelaus,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+17f595ac-a11b-40c7-8a84-824f72d5f7fb,Baeotus,butterflies,,,,,,NULL,genus,NULL,Baeotus,2024-01-24 17:18:54.447684+00
+f200c1af-97f2-4760-bd1e-4c5f9e050aac,Euselasia,butterflies,,,,,,NULL,genus,NULL,Euselasia,2024-01-24 17:18:54.447684+00
+02eae2f9-c99f-4a22-9f84-429612c9462f,Stalachtis calliope,butterflies,Stalachtis calliope,NULL,NULL,NULL,,NULL,species,NULL,Stalachtis,2024-01-24 17:18:54.447684+00
+2c6918be-5e39-40ed-b2a8-ef24e103b9e1,Synargis,butterflies,,,,,,NULL,genus,NULL,Synargis,2024-01-24 17:18:54.447684+00
+c5cf72bf-5765-433e-b8f7-df73a320d726,Leptotes,butterflies,,,,,,NULL,genus,NULL,Leptotes,2024-01-24 17:18:54.447684+00
+79083150-b906-483d-8581-fa0846ef4574,Cartea vitula,butterflies,Cartea vitula,NULL,NULL,NULL,,NULL,species,NULL,Cartea,2024-01-24 17:18:54.447684+00
+ace830a8-f8db-4bb8-8c8b-e0f596f7f948,Heliconius hecale,butterflies,Heliconius hecale,NULL,Heart-Spotted Heliconian,NULL,Nymphalidae,Brushfooted Butterflies,species,NULL,Heliconius,2024-01-31 16:46:01.310562+00
+f27e91b1-6ef2-4fea-98a6-75da5669b763,Heliconius sara,butterflies,Heliconius sara,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+83c1dfa6-0884-43de-a923-bf458a74db50,Antirrhea philaretes,butterflies,Antirrhea philaretes,NULL,NULL,NULL,,NULL,species,NULL,Antirrhea,2024-01-24 17:18:54.447684+00
+fff49b7d-1125-40aa-a543-2110e08ee695,Anartia amathea,butterflies,Anartia amathea,NULL,NULL,NULL,,NULL,species,NULL,Anartia,2024-01-24 17:18:54.447684+00
+36503dcd-1198-4bc8-ad48-9d3cae1a71ad,Helicopis cupido,butterflies,Helicopis cupido,NULL,NULL,NULL,,NULL,species,NULL,Helicopis,2024-01-24 17:18:54.447684+00
+57a0b8e3-de9a-429e-824e-546ad8d69bcf,Pythonides jovianus,butterflies,Pythonides jovianus,NULL,NULL,NULL,,NULL,species,NULL,Pythonides,2024-01-24 17:18:54.447684+00
+26750a82-1b51-4a82-a527-bfc20949be8e,Siproeta stelenes,butterflies,Siproeta stelenes,NULL,NULL,NULL,,NULL,species,NULL,Siproeta,2024-01-24 17:18:54.447684+00
+7337e54f-43bb-4a7d-b602-5b307408610d,Mimoides pausanias,butterflies,Mimoides pausanias,NULL,NULL,NULL,,NULL,species,NULL,Mimoides,2024-01-24 17:18:54.447684+00
+e45a0e70-0610-4bcd-bce4-56a4ded32112,Anteos menippe,butterflies,Anteos menippe,NULL,NULL,NULL,,NULL,species,NULL,Anteos,2024-01-24 17:18:54.447684+00
+8959f9de-872b-4cc9-b80d-0bc17b26e73a,Hypna clytemnestra,butterflies,Hypna clytemnestra,NULL,NULL,NULL,,NULL,species,NULL,Hypna,2024-01-24 17:18:54.447684+00
+93e938a9-96cd-4e41-be86-87d68df3c8a9,Thisbe irenea,butterflies,Thisbe irenea,NULL,NULL,NULL,,NULL,species,NULL,Thisbe,2024-01-24 17:18:54.447684+00
+384b0fc0-ce8b-49c3-b283-8ffe6a4fde21,Heraclides garleppi,butterflies,Heraclides garleppi,NULL,NULL,NULL,,NULL,species,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+5e1e8e85-667d-45bb-88d5-16a54aa8d6a1,Rhabdodryas,butterflies,,,,,,NULL,genus,NULL,Rhabdodryas,2024-01-24 17:18:54.447684+00
+687251c6-b51b-4223-bb18-49323d7cc1c8,Eurema,butterflies,,,,,Pieridae,Orange-Tip Butterflies,genus,5,Eurema,2024-01-24 17:18:54.447684+00
+f4f9655a-28cc-4529-a1eb-7200685c0bf9,Memphis xenocrates,butterflies,Memphis xenocrates,NULL,,NULL,,,species,NULL,Memphis,2024-01-31 16:46:01.310562+00
+227893d2-c369-40d3-9df4-af4fd9c3f76b,Pareuptychia,butterflies,,,,,,NULL,genus,NULL,Pareuptychia,2024-01-24 17:18:54.447684+00
+9ba22eb9-26b2-4cdc-8ab2-9331897ef861,Siproeta,butterflies,,,,,,NULL,genus,NULL,Siproeta,2024-01-24 17:18:54.447684+00
+61086783-232a-4142-9460-5fe88c577087,Strymon bubastus,butterflies,Strymon bubastus,NULL,NULL,NULL,,NULL,species,NULL,Strymon,2024-01-24 17:18:54.447684+00
+6756ddea-cb06-4d03-84b2-187340480445,Phoebis,butterflies,,,,,Pieridae,Orange-Tip Butterflies,genus,5,Phoebis,2024-01-24 17:18:54.447684+00
+1e2a9f1c-22aa-465c-bdc1-d1cffa35102b,Consul fabius,butterflies,Consul fabius,NULL,NULL,NULL,,NULL,species,NULL,Consul,2024-01-24 17:18:54.447684+00
+9eb21e23-4126-452e-ade6-6adcac6c6d92,Pierella lamia,butterflies,Pierella lamia,NULL,NULL,NULL,,NULL,species,NULL,Pierella,2024-01-24 17:18:54.447684+00
+84aa3fd9-91e2-49e3-b7d7-50b32eb09a98,Methona confusa,butterflies,Methona confusa,NULL,NULL,NULL,,NULL,species,NULL,Methona,2024-01-24 17:18:54.447684+00
+7a080622-cad1-4f5c-b614-c0404515282e,Melanis,butterflies,,,,,,NULL,genus,NULL,Melanis,2024-01-24 17:18:54.447684+00
+94fe4319-3c2d-4763-bd8f-dcdb01f03352,Zaretis itys,butterflies,Zaretis itys,NULL,NULL,NULL,,NULL,species,NULL,Zaretis,2024-01-24 17:18:54.447684+00
+1e8f9ca7-75a9-4046-9123-8fcd9b181907,Catonephele acontius,butterflies,Catonephele acontius,NULL,NULL,NULL,,NULL,species,NULL,Catonephele,2024-01-24 17:18:54.447684+00
+c8e99e68-9890-4f01-903d-cc6d44ceb5d2,Dryadula phaetusa,butterflies,Dryadula phaetusa,NULL,NULL,NULL,,NULL,species,NULL,Dryadula,2024-01-24 17:18:54.447684+00
+7d486886-3366-428b-9e0c-a93c33b0f8ba,Panthiades phaleros,butterflies,Panthiades phaleros,NULL,NULL,NULL,,NULL,species,NULL,Panthiades,2024-01-24 17:18:54.447684+00
+6ec0bd46-2dfa-49ff-8888-7aaece6f72ce,Callicore cynosura,butterflies,Callicore cynosura,NULL,NULL,NULL,,NULL,species,NULL,Callicore,2024-01-24 17:18:54.447684+00
+357c3de8-66e1-405d-9d4f-6451ff84158a,Heraclides torquatus,butterflies,Heraclides torquatus,NULL,NULL,NULL,,NULL,species,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+7137af7d-7f07-43df-9da8-d2c15db54368,Brassolis sophorae,butterflies,Brassolis sophorae,NULL,NULL,NULL,,NULL,species,NULL,Brassolis,2024-01-24 17:18:54.447684+00
+aa520ff2-6a78-4bea-8c45-996e37423ad5,Memphis,butterflies,,NULL,,NULL,Nymphalidae,Brushfooted Butterflies,genus,NULL,Memphis,2024-01-31 16:46:01.310562+00
+0437d5eb-497f-4f58-bb13-d458e2ea2284,Tigridia acesta,butterflies,Tigridia acesta,NULL,NULL,NULL,,NULL,species,NULL,Tigridia,2024-01-24 17:18:54.447684+00
+c3b9004b-15b6-4ea3-abc1-d8a2731273c9,Catonephele numilia,butterflies,Catonephele numilia,NULL,NULL,NULL,,NULL,species,NULL,Catonephele,2024-01-24 17:18:54.447684+00
+7e4e1bc2-1317-4c48-a9d4-c0bcb6853cbe,Catoblepia,butterflies,,,,,,NULL,genus,NULL,Catoblepia,2024-01-24 17:18:54.447684+00
+7a58cd6e-3ca6-4a42-82c8-03df142dbdaa,Morpho,butterflies,,,,,,NULL,genus,NULL,Morpho,2024-01-24 17:18:54.447684+00
+bb873c09-b2e2-47ea-a242-b106dc157bec,Hamadryas laodamia,butterflies,Hamadryas laodamia,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+074fb3ef-d47a-484d-bc06-468b6c86f88b,Morpho marcus,butterflies,Morpho marcus,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+00676c11-3949-4083-9d65-448652052925,Thenpea penthea,butterflies,Thenpea penthea,NULL,NULL,NULL,,NULL,species,NULL,Thenpea,2024-01-24 17:18:54.447684+00
+77812b40-b0d9-417b-b12c-7d724093fe37,Entheus,butterflies,,,,,,NULL,genus,NULL,Entheus,2024-01-24 17:18:54.447684+00
+0f5e6328-62cb-4014-9311-f370cfd8ac3b,Stalachtis phlegia,butterflies,Stalachtis phlegia,NULL,NULL,NULL,,NULL,species,NULL,Stalachtis,2024-01-24 17:18:54.447684+00
+c381ad2d-cfd3-4056-9b96-243db559fc87,Pyrrhopyge phidias,butterflies,Pyrrhopyge phidias,NULL,NULL,NULL,,NULL,species,NULL,Pyrrhopyge,2024-01-24 17:18:54.447684+00
+64114dde-6b8b-4bc5-8304-f73e44884fe5,Pierella,butterflies,,,,,,NULL,genus,NULL,Pierella,2024-01-24 17:18:54.447684+00
+e009df3c-3e96-4168-ad3b-14f7582f1c6a,Nymphalidae,butterflies,,,,,Nymphalidae,Swallowtail Butterflies,family,7,,2024-01-24 17:18:54.447684+00
+98447a83-da82-4e55-a204-33a9ed10e8aa,Hemiargus,butterflies,,,,,,NULL,genus,NULL,Hemiargus,2024-01-24 17:18:54.447684+00
+7bc85f2a-8a97-4177-8444-dcf394ab889f,Taygetis thamyra,butterflies,Taygetis thamyra,NULL,NULL,NULL,,NULL,species,NULL,Taygetis,2024-01-24 17:18:54.447684+00
+e4aa8295-4d7a-4fa8-ae4a-ea4891c7005c,Chloreuptychia herseis,butterflies,Chloreuptychia herseis,NULL,NULL,NULL,,NULL,species,NULL,Chloreuptychia,2024-01-24 17:18:54.447684+00
+2e878e9b-ab13-4fb2-9693-58020d46deb2,Brassolis,butterflies,,,,,,NULL,genus,NULL,Brassolis,2024-01-24 17:18:54.447684+00
+28817d94-60bf-4b8e-b2af-354de82980ca,Euptoieta,butterflies,,,,,Nymphalidae,Brushfooted Butterflies,genus,7,Euptoieta,2024-01-24 17:18:54.447684+00
+c204e918-3cd8-48ba-abbd-c37d9a01dd8b,Argyreuptychia penelope,butterflies,Argyreuptychia penelope,NULL,,NULL,,,species,NULL,Argyreuptychia,2024-01-31 16:46:01.310562+00
+fc6162e9-08c7-4fc7-b1b4-ff8e2b4f7f3b,Haetera piera,butterflies,Haetera piera,NULL,NULL,NULL,,NULL,species,NULL,Haetera,2024-01-24 17:18:54.447684+00
+14dfa80d-eca4-45d2-8f3d-ee452785f989,Catoblepia berecynthia,butterflies,Catoblepia berecynthia,NULL,NULL,NULL,,NULL,species,NULL,Catoblepia,2024-01-24 17:18:54.447684+00
+7fb3546e-fece-42e1-b4ea-3776f5fbde1d,Heliconius wallacei,butterflies,Heliconius wallacei,NULL,,NULL,Nymphalidae,Brushfooted Butterflies,species,NULL,Heliconius,2024-01-31 16:46:01.310562+00
+71b496b3-9e7c-4178-8367-fa964d92f15f,Marpesia chiron,butterflies,Marpesia chiron,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+34b81e66-dbc4-455b-89e6-45c2f535edb3,Magneuptychia fugitiva,butterflies,Magneuptychia fugitiva,NULL,,NULL,,,species,NULL,Magneuptychia,2024-01-31 16:46:01.310562+00
+d3a58893-d14d-4eaf-9a9a-b7a0099ab731,Rekoa marius,butterflies,Rekoa marius,NULL,NULL,NULL,,NULL,species,NULL,Rekoa,2024-01-24 17:18:54.447684+00
+091283f5-a527-4e28-9bca-a213e9b84d85,Selenophanes,butterflies,,,,,,NULL,genus,NULL,Selenophanes,2024-01-24 17:18:54.447684+00
+e5735cb0-2a84-4331-9441-b3309a756b3b,Pyrrhopyge,butterflies,,,,,,NULL,genus,NULL,Pyrrhopyge,2024-01-24 17:18:54.447684+00
+ad0a0275-4f82-421a-9ebb-91890db8ca59,Morpho achilles,butterflies,Morpho achilles,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+6362394b-e527-4af6-a379-659b168c65e4,Pyrgus oileus,butterflies,Pyrgus oileus,NULL,NULL,NULL,,NULL,species,NULL,Pyrgus,2024-01-24 17:18:54.447684+00
+5241674a-a555-499b-b7c0-0bc658b4c798,Euselasia lisias,butterflies,Euselasia lisias,NULL,NULL,NULL,,NULL,species,NULL,Euselasia,2024-01-24 17:18:54.447684+00
+bb210580-a109-4120-909c-1a06cabfbb79,Heliconius numata,butterflies,Heliconius numata,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+8db7b351-920b-4d9c-82a5-ffc1b01b0d07,Dynamine arene,butterflies,Dynamine arene,NULL,NULL,NULL,,NULL,species,NULL,Dynamine,2024-01-24 17:18:54.447684+00
+d51b1c08-5efc-455a-b4e9-20f4385bd156,Anteos,butterflies,,,,,,NULL,genus,NULL,Anteos,2024-01-24 17:18:54.447684+00
+f9164d84-964f-4fe8-932d-96db1941a078,Synargis galena,butterflies,Synargis galena,NULL,NULL,NULL,,NULL,species,NULL,Synargis,2024-01-24 17:18:54.447684+00
+d2bb3257-a6b8-449e-8c06-25aa271f2dda,Eurema elathea,butterflies,Eurema elathea,NULL,NULL,NULL,,NULL,species,NULL,Eurema,2024-01-24 17:18:54.447684+00
+3f17d978-9a0b-4da5-a11a-7f922a3a65cb,Chloreuptychia,butterflies,,,,,,NULL,genus,NULL,Chloreuptychia,2024-01-24 17:18:54.447684+00
+076645fe-764b-428a-90d3-30c4530294ab,Temenis,butterflies,,,,,,NULL,genus,NULL,Temenis,2024-01-24 17:18:54.447684+00
+813b9ba8-98f1-4cd8-ba22-dbca703fd414,Coea acheronta,butterflies,Coea acheronta,NULL,,NULL,,,species,NULL,Coea,2024-01-31 16:46:01.310562+00
+d8d4f60b-344f-4447-80f3-3ab2a448e990,Philaethria dido,butterflies,Philaethria dido,NULL,NULL,NULL,,NULL,species,NULL,Philaethria,2024-01-24 17:18:54.447684+00
+da64f5b5-7535-498c-acca-afa0ceae291a,Dynamine racidula,butterflies,Dynamine racidula,NULL,NULL,NULL,,NULL,species,NULL,Dynamine,2024-01-24 17:18:54.447684+00
+0b3958e2-55f3-481d-94ee-5aea2764ad36,Colobura,butterflies,,,,,,NULL,genus,NULL,Colobura,2024-01-24 17:18:54.447684+00
+537c19d6-498f-4761-982b-1d6b7688de4e,Eueides lybia,butterflies,Eueides lybia,NULL,NULL,NULL,,NULL,species,NULL,Eueides,2024-01-24 17:18:54.447684+00
+d3364285-6de4-41fe-858a-2025c7909cca,Danaus eresimus,butterflies,Danaus eresimus,NULL,NULL,NULL,,NULL,species,NULL,Danaus,2024-01-24 17:18:54.447684+00
+e0a0f92e-f2d6-4de5-9b06-0b3e84dd9315,Prepona laertes,butterflies,Prepona laertes,NULL,NULL,NULL,,NULL,species,NULL,Prepona,2024-01-24 17:18:54.447684+00
+584e0c54-4cde-4a03-b72e-8a3804365e37,Hemiargus hanno,butterflies,Hemiargus hanno,NULL,NULL,NULL,,NULL,species,NULL,Hemiargus,2024-01-24 17:18:54.447684+00
+c2cde2e6-d75a-4fd5-8ade-895ac43fb6b0,Heliconius,butterflies,,,,,Nymphalidae,NULL,genus,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+446909a4-1dcd-4e7a-971c-560bfd612616,Cartea,butterflies,,,,,,NULL,genus,NULL,Cartea,2024-01-24 17:18:54.447684+00
+231bd158-98db-4eb5-a099-8a3be48b3094,Amarynthis meneria,butterflies,Amarynthis meneria,NULL,NULL,NULL,,NULL,species,NULL,Amarynthis,2024-01-24 17:18:54.447684+00
+c8c7cdb2-9f90-4a72-9f70-f3c6748cb1a7,Heliopetes arsalte,butterflies,Heliopetes arsalte,NULL,NULL,NULL,,NULL,species,NULL,Heliopetes,2024-01-24 17:18:54.447684+00
+ca527777-1478-4c67-b337-bb3d2f0ced18,Eunica,butterflies,,,,,Nymphalidae,NULL,genus,NULL,Eunica,2024-01-24 17:18:54.447684+00
+349adebd-32ef-4879-ac77-736bfee777de,Chloreuptychia arnaca,butterflies,Chloreuptychia arnaca,NULL,NULL,NULL,,NULL,species,NULL,Chloreuptychia,2024-01-24 17:18:54.447684+00
+6ea6e901-b555-429e-97d3-d26f83df4a7e,Pterourus,butterflies,,,,,Papilionidae,Swallowtail Butterflies,genus,4,Pterourus,2024-01-24 17:18:54.447684+00
+66aa8a95-7428-4ebe-9965-f8686e79f577,Hamadryas februa,butterflies,Hamadryas februa,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+b8ff92ef-0607-4555-a3f0-f3dd8b7deaf5,Pierella lena,butterflies,Pierella lena,NULL,NULL,NULL,,NULL,species,NULL,Pierella,2024-01-24 17:18:54.447684+00
+516d59af-cdd5-43b5-8bb6-2921950a8c71,Pieridae,butterflies,,,,,Pieridae,Orange-Tip Butterflies,family,5,,2024-01-24 17:18:54.447684+00
+92034f97-5090-492f-94bd-1f0eb4a5ab40,Heraclides anchisiades,butterflies,Heraclides anchisiades,NULL,NULL,NULL,,NULL,species,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+7532b8a7-f9ba-47b8-9ba0-8af968986e4f,Marpesia themistocles,butterflies,Marpesia themistocles,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+efd650f3-c0d5-4aed-8dda-369e5aaf9af2,Eunica malvina,butterflies,Eunica malvina,NULL,Rayed Purplewing,NULL,Nymphalidae,Brushfooted Butterflies,species,NULL,Eunica,2024-01-31 16:46:01.310562+00
+d91599be-b079-4b63-9f87-440c38c915f6,Anartia jatrophae,butterflies,Anartia jatrophae,NULL,NULL,NULL,,NULL,species,NULL,Anartia,2024-01-24 17:18:54.447684+00
+94980cd9-81e0-45a2-91a2-186648f31cfc,Mechanitis polymnia,butterflies,Mechanitis polymnia,NULL,NULL,NULL,,NULL,species,NULL,Mechanitis,2024-01-24 17:18:54.447684+00
+6e8dd76b-6ecc-45e5-8641-60cbd3d007d1,Pierella astyoche,butterflies,Pierella astyoche,NULL,NULL,NULL,,NULL,species,NULL,Pierella,2024-01-24 17:18:54.447684+00
+bf748062-be12-4bd8-b994-ead2843efc34,Euptoieta hegesia,butterflies,Euptoieta hegesia,NULL,NULL,NULL,,NULL,species,NULL,Euptoieta,2024-01-24 17:18:54.447684+00
+bc029dc3-0370-45de-9d5c-863fc9ed7d13,Dynamine,butterflies,,,,,,NULL,genus,NULL,Dynamine,2024-01-24 17:18:54.447684+00
+ab043613-e3f2-46e1-9f19-769e6906db30,Catonephele antinoe,butterflies,Catonephele antinoe,NULL,NULL,NULL,,NULL,species,NULL,Catonephele,2024-01-24 17:18:54.447684+00
+48067ef0-7ee8-4267-9c13-f5704553aa94,Mimoides,butterflies,,,,,,NULL,genus,NULL,Mimoides,2024-01-24 17:18:54.447684+00
+c618d74a-fc55-4db2-8a7c-0e4d36c8c035,Caerois,butterflies,,,,,,NULL,genus,NULL,Caerois,2024-01-24 17:18:54.447684+00
+717144eb-1eca-4291-be5b-0d4e55da1eea,Temenis laothoe,butterflies,Temenis laothoe,NULL,NULL,NULL,,NULL,species,NULL,Temenis,2024-01-24 17:18:54.447684+00
+126c837c-5652-430a-854d-0aec0224519e,Ectima iona,butterflies,Ectima iona,NULL,NULL,NULL,,NULL,species,NULL,Ectima,2024-01-24 17:18:54.447684+00
+a1fc40ca-4fab-4cf8-af99-89e78b128eab,Morpho hecuba,butterflies,Morpho hecuba,NULL,NULL,NULL,,NULL,species,NULL,Morpho,2024-01-24 17:18:54.447684+00
+223d0db5-473f-4b64-ad4d-9f008a4b9d8e,Rekoa,butterflies,,,,,,NULL,genus,NULL,Rekoa,2024-01-24 17:18:54.447684+00
+4b56c908-7b3c-4e17-9f68-fe695f843c95,Agraulis,butterflies,,,,,,NULL,genus,NULL,Agraulis,2024-01-24 17:18:54.447684+00
+93fe66ba-9bf0-4119-b9c4-0b3bb8f13bee,Prepona,butterflies,,,,,,NULL,genus,NULL,Prepona,2024-01-24 17:18:54.447684+00
+d9a29da1-b237-434a-bb70-ee3943f97673,Eunica eurota,butterflies,Eunica eurota,NULL,NULL,NULL,,NULL,species,NULL,Eunica,2024-01-24 17:18:54.447684+00
+80ee37fd-f424-4137-a2d1-16bed09f2fac,Heliconius leucadia,butterflies,Heliconius leucadia,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+68a17485-b463-47d0-83d0-f8d1876acaf7,Heraclides,butterflies,,,,,,NULL,genus,NULL,Heraclides,2024-01-24 17:18:54.447684+00
+e6abd47a-757d-4021-8cd5-999a6ebda9c7,Archaeoprepona camilla,butterflies,Archaeoprepona camilla,NULL,NULL,NULL,,NULL,species,NULL,Archaeoprepona,2024-01-24 17:18:54.447684+00
+e83dd1bb-cedd-49e6-9e70-6611c0488017,Eunica viola,butterflies,Eunica viola,NULL,NULL,NULL,,NULL,species,NULL,Eunica,2024-01-24 17:18:54.447684+00
+18fc239d-bfe5-44dd-aa74-fe1ae1ef97c3,Rhabdodryas trite,butterflies,Rhabdodryas trite,NULL,NULL,NULL,,NULL,species,NULL,Rhabdodryas,2024-01-24 17:18:54.447684+00
+0b92e4ed-5c54-4669-9dd4-f30d5d71cd63,Augiades,butterflies,,,,,,NULL,genus,NULL,Augiades,2024-01-24 17:18:54.447684+00
+1837af8c-5f23-494d-8ee2-78f333f66903,Caligo,butterflies,,,,,,NULL,genus,NULL,Caligo,2024-01-24 17:18:54.447684+00
+33b410ae-5f41-4fc9-9172-4df7f8403522,Cariomothis erythromelas,butterflies,Cariomothis erythromelas,NULL,NULL,NULL,,NULL,species,NULL,Cariomothis,2024-01-24 17:18:54.447684+00
+ebddcc44-b002-4643-99b7-9b86a76b8478,Adelpha mesentina,butterflies,Adelpha mesentina,NULL,NULL,NULL,,NULL,species,NULL,Adelpha,2024-01-24 17:18:54.447684+00
+84dfce11-836d-4fe4-a80b-dde705f831be,Thepytus thyrea,butterflies,Thepytus thyrea,NULL,NULL,NULL,,NULL,species,NULL,Thepytus,2024-01-24 17:18:54.447684+00
+3f27dd71-cfa1-4712-a65c-397d73f33675,Strymon,butterflies,,,,,,NULL,genus,NULL,Strymon,2024-01-24 17:18:54.447684+00
+99d9bf5c-8eb6-4ce5-92e4-a9fb09794802,Eueides,butterflies,,,,,,NULL,genus,NULL,Eueides,2024-01-24 17:18:54.447684+00
+8747ca01-5d82-41ff-b1bd-a67eee062852,Arawacus,butterflies,,,,,,NULL,genus,NULL,Arawacus,2024-01-24 17:18:54.447684+00
+9cefb00b-952c-495a-b216-b4698b932630,Phoebis philea,butterflies,Phoebis philea,https://lh4.ggpht.com/-revXk-yRH5FP3KcPLNML_8j5gpMEs1L38YVkimJ1BuhSkpTJ3ntPA31ugInPlfAaD6dEF4TUfLDP3sGtXnhFw,Orange-Barred Sulphur,NULL,Pieridae,Orange-Tip Butterflies,species,5,Phoebis,2024-01-24 17:18:54.447684+00
+73e4e1f6-fccc-4cb0-9b42-08c86719256a,Eryphanis,butterflies,,,,,,NULL,genus,NULL,Eryphanis,2024-01-24 17:18:54.447684+00
+d17010eb-b7b2-4d97-a29b-1772955c48e4,Helicopis,butterflies,,,,,,NULL,genus,NULL,Helicopis,2024-01-24 17:18:54.447684+00
+3f7c8ef7-d537-4d8b-aaa5-ef171acd9563,Mazia amazonica,butterflies,Mazia amazonica,NULL,NULL,NULL,,NULL,species,NULL,Mazia,2024-01-24 17:18:54.447684+00
+ffd9d3f5-530d-4860-9fd8-47cc412b49ee,Arcas imperialis,butterflies,Arcas imperialis,NULL,NULL,NULL,,NULL,species,NULL,Arcas,2024-01-24 17:18:54.447684+00
+de45ddc0-8eb0-4c99-81c4-34e39bc9c37e,Baeotus japetus,butterflies,Baeotus japetus,NULL,NULL,NULL,,NULL,species,NULL,Baeotus,2024-01-24 17:18:54.447684+00
+b2771f17-555f-45cd-ad8f-26834fff27c2,Anartia,butterflies,,,,,,NULL,genus,NULL,Anartia,2024-01-24 17:18:54.447684+00
+d6dd758d-5f7b-4675-be66-be935d19a99b,Rekoa palegon,butterflies,Rekoa palegon,NULL,NULL,NULL,,NULL,species,NULL,Rekoa,2024-01-24 17:18:54.447684+00
+7c6615cc-2961-48c3-bffa-5864e0ff8be2,Stalachtis phaedusa,butterflies,Stalachtis phaedusa,NULL,NULL,NULL,,NULL,species,NULL,Stalachtis,2024-01-24 17:18:54.447684+00
+f5417b99-bfe3-4b65-8b8e-07c782f6ed57,Hamadryas velutina,butterflies,Hamadryas velutina,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+47cf70a0-8c02-4d7c-a49b-b7a1de1b0aab,Agraulis vanillae,butterflies,Agraulis vanillae,NULL,NULL,NULL,,NULL,species,NULL,Agraulis,2024-01-24 17:18:54.447684+00
+eaf77478-df15-4d4d-b80d-85c34ff8c73d,Parides,butterflies,,,,,,NULL,genus,NULL,Parides,2024-01-24 17:18:54.447684+00
+64b05a4e-905f-4c6a-89b9-d02f86e8edc1,Pseudodebis marpessa,butterflies,Pseudodebis marpessa,NULL,NULL,NULL,,NULL,species,NULL,Pseudodebis,2024-01-24 17:18:54.447684+00
+3b646365-11ca-4703-b133-5f24103ab86b,Ascia monuste,butterflies,Ascia monuste,NULL,NULL,NULL,,NULL,species,NULL,Ascia,2024-01-24 17:18:54.447684+00
+28ce970a-31a2-409e-9784-677ddaa58460,Magneuptychia,butterflies,,NULL,,NULL,,,genus,NULL,Magneuptychia,2024-01-31 16:46:01.310562+00
+bb24578a-5c15-4217-8473-979f38265c0d,Taygetis virgilia,butterflies,Taygetis virgilia,NULL,NULL,NULL,,NULL,species,NULL,Taygetis,2024-01-24 17:18:54.447684+00
+4540aac6-cf4a-48a6-b2a7-c01dd3eb7825,Junonia,butterflies,,,,,Nymphalidae,Brushfooted Butterflies,genus,7,Junonia,2024-01-24 17:18:54.447684+00
+ba121cf2-bf67-407d-af9c-b67a7ef1088a,Heliconius erato,butterflies,Heliconius erato,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+e2f1d495-12b7-4660-9d9f-38282522bbe2,Thepytus,butterflies,,,,,,NULL,genus,NULL,Thepytus,2024-01-24 17:18:54.447684+00
+5215ce6c-441a-461e-bbd5-35ec2b257ad3,Pyrrhogyra,butterflies,,,,,,NULL,genus,NULL,Pyrrhogyra,2024-01-24 17:18:54.447684+00
+366227c7-a68a-4274-9982-778eff6a0e6d,Macrosoma tipulata,butterflies,Macrosoma tipulata,NULL,NULL,NULL,,NULL,species,NULL,Macrosoma,2024-01-24 17:18:54.447684+00
+b152dd89-2386-45e7-8548-b2bcc63811c6,Zaretis,butterflies,,,,,,NULL,genus,NULL,Zaretis,2024-01-24 17:18:54.447684+00
+c4531c8a-46b9-4fde-9a65-7f5d93670c39,Cissia,butterflies,,,,,,NULL,genus,NULL,Cissia,2024-01-24 17:18:54.447684+00
+9627a55b-7391-421c-a34f-45a10a9a0629,Anaea,butterflies,,NULL,,NULL,,,genus,NULL,Anaea,2024-01-31 16:46:01.310562+00
+a6dffcf3-6321-4baf-8566-112fae62c999,Marpesia tutelina,butterflies,Marpesia tutelina,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+1f0a6bde-18eb-4c40-96b8-1dbe25a1e297,Historis,butterflies,,,,,,NULL,genus,NULL,Historis,2024-01-24 17:18:54.447684+00
+f1bc30af-f429-4b87-b3e8-1e2db89a5851,Dione,butterflies,,,,,,NULL,genus,NULL,Dione,2024-01-24 17:18:54.447684+00
+9487dda9-bd94-4795-9c8a-1a5ac09f9dec,Pyrgus,butterflies,,,,,Hesperiidae,Skippers,genus,2,Pyrgus,2024-01-24 17:18:54.447684+00
+8c7a511f-1172-43b4-b633-cdd543214076,Rhetus,butterflies,,,,,,NULL,genus,NULL,Rhetus,2024-01-24 17:18:54.447684+00
+d047c435-c559-49ea-bbbd-7ea56ce9d778,Arcas,butterflies,,,,,,NULL,genus,NULL,Arcas,2024-01-24 17:18:54.447684+00
+65113b23-79b5-4bea-8866-13ff72dcab51,Augiades crinisus,butterflies,Augiades crinisus,NULL,NULL,NULL,,NULL,species,NULL,Augiades,2024-01-24 17:18:54.447684+00
+9dc479b9-9d29-46e2-8a79-8dc90dd7ec7d,Pareuptychia ocirrhoe,butterflies,Pareuptychia ocirrhoe,NULL,NULL,NULL,,NULL,species,NULL,Pareuptychia,2024-01-24 17:18:54.447684+00
+cd2f7d8e-bfce-474b-b891-677444e5dbf3,Panthiades bitias,butterflies,Panthiades bitias,NULL,NULL,NULL,,NULL,species,NULL,Panthiades,2024-01-24 17:18:54.447684+00
+c10bd2ca-cd0e-4881-9145-76202df2b88a,Hamadryas feronia,butterflies,Hamadryas feronia,NULL,NULL,NULL,,NULL,species,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+da2734e8-8d13-4797-8b20-27930bdc593b,Colobura dirce,butterflies,Colobura dirce,NULL,NULL,NULL,,NULL,species,NULL,Colobura,2024-01-24 17:18:54.447684+00
+b7f33880-a356-42d8-a1d2-498bf8826d48,Methona,butterflies,,,,,,NULL,genus,NULL,Methona,2024-01-24 17:18:54.447684+00
+aab2347d-00d1-49e5-a9eb-018c5b4397a7,Euptychia myncea,butterflies,Euptychia myncea,NULL,,NULL,,,species,NULL,Euptychia,2024-01-31 16:46:01.310562+00
+a87f33d5-4bb5-4104-9cc3-a9ab82083224,Eryphanis automedon,butterflies,Eryphanis automedon,NULL,NULL,NULL,,NULL,species,NULL,Eryphanis,2024-01-24 17:18:54.447684+00
+460135c7-1253-4566-9efa-fbca89d60535,Eantis mithridates,butterflies,Eantis mithridates,NULL,NULL,NULL,,NULL,species,NULL,Eantis,2024-01-24 17:18:54.447684+00
+937353a6-1dd7-4e3e-bcf0-9a8765bf051a,Pythonides,butterflies,,,,,,NULL,genus,NULL,Pythonides,2024-01-24 17:18:54.447684+00
+f4149eca-d108-45ed-80e7-7ce4a9b29924,Tmolus cydrara,butterflies,Tmolus cydrara,NULL,NULL,NULL,,NULL,species,NULL,Tmolus,2024-01-24 17:18:54.447684+00
+1bc26c5f-5dcb-48e3-b743-c24a62c194f8,Eunica alpais,butterflies,Eunica alpais,NULL,NULL,NULL,,NULL,species,NULL,Eunica,2024-01-24 17:18:54.447684+00
+6f2ab843-9466-4950-b92b-20aedeb957a6,Papilionidae,butterflies,,,,,Papilionidae,Swallowtail Butterflies,family,4,,2024-01-24 17:18:54.447684+00
+eb734a92-8276-4351-9113-7343069266de,Caligo idomeneus,butterflies,Caligo idomeneus,NULL,NULL,NULL,,NULL,species,NULL,Caligo,2024-01-24 17:18:54.447684+00
+6ee2b047-839d-4c0e-8509-a7b3e4db57d7,Helicopis gnidus,butterflies,Helicopis gnidus,NULL,NULL,NULL,,NULL,species,NULL,Helicopis,2024-01-24 17:18:54.447684+00
+f662e3f7-0386-4dac-b0fa-6a5f9b222f22,Adelpha cytherea,butterflies,Adelpha cytherea,NULL,NULL,NULL,,NULL,species,NULL,Adelpha,2024-01-24 17:18:54.447684+00
+ee6504c9-5c4d-4c7c-b932-d607d56eb7a3,Heliconius melpomene,butterflies,Heliconius melpomene,NULL,NULL,NULL,,NULL,species,NULL,Heliconius,2024-01-24 17:18:54.447684+00
+8503208d-b910-44a4-9b10-813eb19d5f84,Celmia celmus,butterflies,Celmia celmus,NULL,NULL,NULL,,NULL,species,NULL,Celmia,2024-01-24 17:18:54.447684+00
+fbc096b8-31af-4885-8052-f48e4b54c1ef,Selenophanes cassiope,butterflies,Selenophanes cassiope,NULL,NULL,NULL,,NULL,species,NULL,Selenophanes,2024-01-24 17:18:54.447684+00
+82e6eaff-70a0-4b95-aece-7edcb7f7421d,Eueides tales,butterflies,Eueides tales,NULL,NULL,NULL,,NULL,species,NULL,Eueides,2024-01-24 17:18:54.447684+00
+6ffb752a-a59d-4b1f-9519-81d56a465cbd,Hamadryas,butterflies,,,,,,NULL,genus,NULL,Hamadryas,2024-01-24 17:18:54.447684+00
+85a12ac8-740f-4632-abc8-2eefe76a9717,Callicore texa,butterflies,Callicore texa,NULL,NULL,NULL,,NULL,species,NULL,Callicore,2024-01-24 17:18:54.447684+00
+f5fbaca9-47cf-4c24-bf9e-44ae645fe646,Danaus,butterflies,,,,,Nymphalidae,Brushfooted Butterflies,genus,7,Danaus,2024-01-24 17:18:54.447684+00
+a8eb79c9-4e44-47d3-8174-1a3924774777,Rhetus periander,butterflies,Rhetus periander,NULL,NULL,NULL,,NULL,species,NULL,Rhetus,2024-01-24 17:18:54.447684+00
+9ee9106a-358d-4bfa-a9a8-fdca4f8fec7f,Parides sesostris,butterflies,Parides sesostris,NULL,NULL,NULL,,NULL,species,NULL,Parides,2024-01-24 17:18:54.447684+00
+f89dbea7-9dd1-4d92-9b8a-6110e25330c9,Anaea glauce,butterflies,Anaea glauce,NULL,,NULL,,,species,NULL,Anaea,2024-01-31 16:46:01.310562+00
+9ac6961c-bb33-4f40-9da2-abffbc9412e6,Vettius phyllus,butterflies,Vettius phyllus,NULL,NULL,NULL,,NULL,species,NULL,Vettius,2024-01-24 17:18:54.447684+00
+7c3b3915-973c-4e01-9f0f-4741750faa05,Nessaea obrinus,butterflies,Nessaea obrinus,NULL,NULL,NULL,,NULL,species,NULL,Nessaea,2024-01-24 17:18:54.447684+00
+43ac21d3-ac6a-44c0-b431-2a0047fe4186,Lycorea,butterflies,,,,,,NULL,genus,NULL,Lycorea,2024-01-24 17:18:54.447684+00
+520dbf7d-8bc7-452c-909b-d81bc7ee0a20,Callicore,butterflies,,,,,,NULL,genus,NULL,Callicore,2024-01-24 17:18:54.447684+00
+336dd621-16ca-4e93-8348-dbba22979df0,Marpesia crethon,butterflies,Marpesia crethon,NULL,NULL,NULL,,NULL,species,NULL,Marpesia,2024-01-24 17:18:54.447684+00
+690e0c2e-68f5-4a61-a3b6-b382947e30ca,Mazia,butterflies,,,,,,NULL,genus,NULL,Mazia,2024-01-24 17:18:54.447684+00

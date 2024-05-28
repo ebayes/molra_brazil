@@ -1,0 +1,368 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+f2af1dbc-40ed-4835-8617-762d3517f44f,Centronycteris maximiliani,mammals,Centronycteris maximiliani,NULL,Shaggy Bat,NULL,,,species,NULL,Centronycteris,2024-01-31 16:46:00.692574+00
+43393a96-daab-49b8-9bbd-8526d60b36fc,Saccopteryx leptura,mammals,Saccopteryx leptura,NULL,NULL,NULL,,NULL,species,NULL,Saccopteryx,2024-01-24 17:18:54.447684+00
+ae9ea7fd-35fc-4896-bf9b-250f860cf431,Galictis vittata,mammals,Galictis vittata,NULL,NULL,NULL,,NULL,species,NULL,Galictis,2024-01-24 17:18:54.447684+00
+b05155f7-4029-4c76-b1fb-342150020c9c,Artibeus concolor,mammals,Artibeus concolor,NULL,NULL,NULL,,NULL,species,NULL,Artibeus,2024-01-24 17:18:54.447684+00
+f24f9aeb-2bbe-4e69-9364-4dcb549722aa,Glyphonycteris daviesi,mammals,Glyphonycteris daviesi,NULL,NULL,NULL,,NULL,species,NULL,Glyphonycteris,2024-01-24 17:18:54.447684+00
+62195b65-edb5-468d-95b8-63477e752e51,Euryoryzomys,mammals,,NULL,,NULL,,,genus,NULL,Euryoryzomys,2024-01-31 16:46:00.692574+00
+8f11b58b-3cb7-4e79-bd6a-eaffeb4975c7,Myotis,mammals,,,,,Natalidae,Vespertilionid Bats,genus,560,Myotis,2024-01-24 17:18:54.447684+00
+5c11c7c6-d7e8-4517-9bf6-79111f96b880,Lampronycteris brachyotis,mammals,Lampronycteris brachyotis,NULL,Yellow Throated Big Eared Bat,NULL,,,species,NULL,Lampronycteris,2024-01-31 16:46:00.692574+00
+3066d6db-7ab3-4a64-9430-35ac6eae7d7b,Lophostoma silvicolum,mammals,Lophostoma silvicolum,NULL,White-Throated Round-Eared Bat,NULL,,,species,NULL,Lophostoma,2024-01-31 16:46:00.692574+00
+3fcc4385-5d6e-4653-a336-33d81c118b83,Platyrrhinus incarum,mammals,Platyrrhinus incarum,NULL,NULL,NULL,,NULL,species,NULL,Platyrrhinus,2024-01-24 17:18:54.447684+00
+3f12c846-cb5b-434b-96c6-b66c493943d1,Saimiri sciureus,mammals,Saimiri sciureus,NULL,NULL,NULL,,NULL,species,NULL,Saimiri,2024-01-24 17:18:54.447684+00
+85002820-7ef9-41a5-9cee-a370ab41b7a8,Trachops cirrhosus,mammals,Trachops cirrhosus,NULL,NULL,NULL,,NULL,species,NULL,Trachops,2024-01-24 17:18:54.447684+00
+89307cd6-1ca2-4967-8b0a-5bfcfe762140,Alouatta seniculus,mammals,Alouatta seniculus,NULL,Colombian Red Howler Monkey,NULL,,,species,NULL,Alouatta,2024-01-31 16:46:00.692574+00
+a0bef8d4-578f-4a01-86dc-184fbe31e7a3,Tayassu pecari,mammals,Tayassu pecari,NULL,NULL,NULL,,NULL,species,NULL,Tayassu,2024-01-24 17:18:54.447684+00
+2ac5599c-b43b-4370-b840-3413e864d806,Cynomops,mammals,,,,,,NULL,genus,NULL,Cynomops,2024-01-24 17:18:54.447684+00
+a7932b9f-d55a-41f6-b3e1-90cf0cc7d25a,Cyclopes,mammals,,NULL,,NULL,,,genus,NULL,Cyclopes,2024-01-31 16:46:00.692574+00
+9b0cc1cf-b743-40ff-beeb-28abeabaa3c4,Choloepus,mammals,,,,,,NULL,genus,NULL,Choloepus,2024-01-24 17:18:54.447684+00
+493b333a-1c4c-42e1-9852-92bec4cf6622,Nasua,mammals,,NULL,,NULL,,,genus,NULL,Nasua,2024-01-31 16:46:00.692574+00
+804c07ae-06db-4e84-be28-e275e424f4d8,Alouatta nigerrima,mammals,Alouatta nigerrima,NULL,NULL,NULL,,NULL,species,NULL,Alouatta,2024-01-24 17:18:54.447684+00
+223681ba-c55d-4921-a073-717cbb57dc68,Chiroderma,mammals,,,,,,NULL,genus,NULL,Chiroderma,2024-01-24 17:18:54.447684+00
+2c6a36e1-e259-4d05-a2ca-170158a8b15d,Furipterus horrens,mammals,Furipterus horrens,NULL,NULL,NULL,,NULL,species,NULL,Furipterus,2024-01-24 17:18:54.447684+00
+1a181d89-97b2-4dc7-855c-665b92d4d71e,Proechimys guyannensis,mammals,Proechimys guyannensis,NULL,NULL,NULL,,NULL,species,NULL,Proechimys,2024-01-24 17:18:54.447684+00
+cfa50700-f6e2-4017-8e1f-3607a8cb6b93,Vampyrum,mammals,,,,,,NULL,genus,NULL,Vampyrum,2024-01-24 17:18:54.447684+00
+8c6af8c5-e701-4a17-88ba-07849b8ffa9c,Neoplatymops mattogrossensis,mammals,Neoplatymops mattogrossensis,NULL,,NULL,,,species,NULL,Neoplatymops,2024-01-31 16:46:00.692574+00
+7685c79d-9161-4898-8f25-ac6b4fadd0b9,Pithecia pithecia,mammals,Pithecia pithecia,NULL,Guianan Saki,NULL,,,species,NULL,Pithecia,2024-01-31 16:46:00.692574+00
+17d40d02-e486-4b59-96f5-725bea71aa81,Myrmecophaga,mammals,,NULL,,NULL,,,genus,NULL,Myrmecophaga,2024-01-31 16:46:00.692574+00
+588e3ebc-27ef-4825-940b-be370c6355cf,Desmodus,mammals,,,,,,NULL,genus,NULL,Desmodus,2024-01-24 17:18:54.447684+00
+361e316d-23a2-4ed2-bab2-9d3ee64ed066,Sturnira tildae,mammals,Sturnira tildae,NULL,NULL,NULL,,NULL,species,NULL,Sturnira,2024-01-24 17:18:54.447684+00
+d660d139-3fcd-468b-bb4a-d2318a577fbe,Artibeus anderseni,mammals,Artibeus anderseni,NULL,Andersen's Fruit Eating Bat,NULL,,,species,NULL,Artibeus,2024-01-31 16:46:00.692574+00
+6ef80c24-dc4f-4deb-8517-d250ef057b5a,Vampyrodes caraccioli,mammals,Vampyrodes caraccioli,NULL,NULL,NULL,,NULL,species,NULL,Vampyrodes,2024-01-24 17:18:54.447684+00
+9ac3b34f-3bea-4a82-a517-611814cdad3d,Cabassous unicinctus,mammals,Cabassous unicinctus,NULL,Southern Naked Tailed Armadillo,NULL,,,species,NULL,Cabassous,2024-01-31 16:46:00.692574+00
+7861474c-4619-436e-84de-d081b6a41455,Marmosops,mammals,,NULL,,NULL,,,genus,NULL,Marmosops,2024-01-31 16:46:00.692574+00
+3fbfa747-042f-4aef-a98e-2efd23749403,Puma,mammals,,,,,Felidae,NULL,genus,570,Puma,2024-01-24 17:18:54.447684+00
+2614e7b4-b2b1-4345-978b-4f7b8f6d548e,Macrophyllum macrophyllum,mammals,Macrophyllum macrophyllum,NULL,NULL,NULL,,NULL,species,NULL,Macrophyllum,2024-01-24 17:18:54.447684+00
+610e2feb-6f79-4f8c-8deb-bcbb3302f991,Lontra,mammals,,,,,Mustelidae,NULL,genus,625,Lontra,2024-01-24 17:18:54.447684+00
+e2cbc986-1f53-42f3-b239-be7ee1dc5ade,Zygodontomys,mammals,,NULL,,NULL,,,genus,NULL,Zygodontomys,2024-01-31 16:46:00.692574+00
+a0d436f8-1a22-4120-b33b-7ffb79bc4251,Lonchorhina aurita,mammals,Lonchorhina aurita,NULL,NULL,NULL,,NULL,species,NULL,Lonchorhina,2024-01-24 17:18:54.447684+00
+6c68cb76-3b62-4331-9976-531673fb4b26,Tonatia saurophila,mammals,Tonatia saurophila,NULL,Stripe-Headed Round-Eared Bat,NULL,,,species,NULL,Tonatia,2024-01-31 16:46:00.692574+00
+f7fa9ede-8494-479b-b58d-86e6f976f6c9,Promops nasutus,mammals,Promops nasutus,NULL,Brown Mastiff Bat,NULL,,,species,NULL,Promops,2024-01-31 16:46:00.692574+00
+575ca1ae-b5fd-48b1-a742-1066af9b0e5b,Proechimys cuvieri,mammals,Proechimys cuvieri,NULL,NULL,NULL,,NULL,species,NULL,Proechimys,2024-01-24 17:18:54.447684+00
+ccfd4c1d-6711-4de6-aceb-450ea884939f,Cebus albifrons,mammals,Cebus albifrons,NULL,White Fronted Capuchin,NULL,,,species,NULL,Cebus,2024-01-31 16:46:00.692574+00
+f68695ed-0d23-4cde-8d8a-09e901e841af,Rhipidomys nitela,mammals,Rhipidomys nitela,NULL,NULL,NULL,,NULL,species,NULL,Rhipidomys,2024-01-24 17:18:54.447684+00
+53cc9bc0-0eff-4932-b7a7-8658926cebee,Myotis nigricans,mammals,Myotis nigricans,NULL,Black Myotis,NULL,,,species,NULL,Myotis,2024-01-31 16:46:00.692574+00
+d4859ecf-1798-4022-8d5b-3fdf51ed00e4,Dasyprocta,mammals,,,,,,NULL,genus,NULL,Dasyprocta,2024-01-24 17:18:54.447684+00
+dd212b2e-b8ae-4088-aecc-1bdf10c6492f,Lophostoma schulzi,mammals,Lophostoma schulzi,NULL,NULL,NULL,,NULL,species,NULL,Lophostoma,2024-01-24 17:18:54.447684+00
+452f7b53-2594-4be7-9beb-cecf2e37a997,Trichechus inunguis,mammals,Trichechus inunguis,NULL,Amazonian Manatee,NULL,,,species,NULL,Trichechus,2024-01-31 16:46:00.692574+00
+d25f8401-8ac4-4e6c-86e4-6d2fcd2dd270,Bassaricyon,mammals,,NULL,,NULL,,,genus,NULL,Bassaricyon,2024-01-31 16:46:00.692574+00
+3ccc4fb5-395d-45e4-bf0e-6f1ca4f55b3e,Desmodus rotundus,mammals,Desmodus rotundus,NULL,NULL,NULL,,NULL,species,NULL,Desmodus,2024-01-24 17:18:54.447684+00
+d58604b3-615b-495a-b29b-1c655527e8fc,Diaemus youngi,mammals,Diaemus youngi,NULL,White Winged Vampire Bat,NULL,,,species,NULL,Diaemus,2024-01-31 16:46:00.692574+00
+79debec2-6b25-481c-8211-aac7d51d4621,Euryoryzomys macconnelli,mammals,Euryoryzomys macconnelli,NULL,Macconnell's Rice Rat,NULL,,,species,NULL,Euryoryzomys,2024-01-31 16:46:00.692574+00
+8a01cea9-b56d-442c-add1-b78e7c8d242c,Monodelphis brevicaudata,mammals,Monodelphis brevicaudata,NULL,Northern Red Sided Opossum,NULL,,,species,NULL,Monodelphis,2024-01-31 16:46:00.692574+00
+ae9d66de-038c-4618-8507-2868670e5595,Vampyriscus,mammals,,,,,,NULL,genus,NULL,Vampyriscus,2024-01-24 17:18:54.447684+00
+ad6dfefe-3c39-440f-a6aa-bebc5ac04a0a,Gracilinanus emiliae,mammals,Gracilinanus emiliae,NULL,Emilia's Gracile Mouse Opossum,NULL,,,species,NULL,Gracilinanus,2024-01-31 16:46:00.692574+00
+b1eabf88-5f8c-446a-adda-3183f9907811,Myoprocta,mammals,,NULL,,NULL,,,genus,NULL,Myoprocta,2024-01-31 16:46:00.692574+00
+2d13f292-32f4-46e4-878f-ee0abd0b699f,Saimiri,mammals,,,,,,NULL,genus,NULL,Saimiri,2024-01-24 17:18:54.447684+00
+cd5d84ab-f97d-4459-8d4f-ca62472f2b7d,Glyphonycteris,mammals,,,,,,NULL,genus,NULL,Glyphonycteris,2024-01-24 17:18:54.447684+00
+1b9a74b8-e947-4314-b64c-cf21c26e4e70,Cebus,mammals,,,,,,NULL,genus,NULL,Cebus,2024-01-24 17:18:54.447684+00
+83baf574-08ec-4af0-8161-16dd980c177a,Lonchophylla,mammals,,NULL,,NULL,,,genus,NULL,Lonchophylla,2024-01-31 16:46:00.692574+00
+429944e4-41cc-4cf8-8a92-c04b79985aa8,Myrmecophaga tridactyla,mammals,Myrmecophaga tridactyla,NULL,Giant Anteater,NULL,,,species,NULL,Myrmecophaga,2024-01-31 16:46:00.692574+00
+3403d5c1-aae7-49dc-be39-3c18b09477c7,Diclidurus isabella,mammals,Diclidurus isabella,NULL,,NULL,,,species,NULL,Diclidurus,2024-01-31 16:46:00.692574+00
+296525cc-296c-46ec-beee-37da8b04fa8d,Sphaeronycteris toxophyllum,mammals,Sphaeronycteris toxophyllum,NULL,Visored Bat,NULL,,,species,NULL,Sphaeronycteris,2024-01-31 16:46:00.692574+00
+e730fde4-131d-4a10-9d63-27195f42fe23,Artibeus,mammals,,,,,,NULL,genus,NULL,Artibeus,2024-01-24 17:18:54.447684+00
+3d171cc1-a033-4d9e-8813-fb1489850208,Chiropotes sagulatus,mammals,Chiropotes sagulatus,NULL,NULL,NULL,,NULL,species,NULL,Chiropotes,2024-01-24 17:18:54.447684+00
+40466026-e0e0-4f61-a2ea-b65a509974fa,Lasiurus ega,mammals,Lasiurus ega,NULL,Southern Yellow Bat,NULL,,,species,NULL,Lasiurus,2024-01-31 16:46:00.692574+00
+c06c4b81-ea08-4905-a5d8-96eddd6539cc,Thyroptera discifera,mammals,Thyroptera discifera,NULL,Peter's Disk Winged Bat,NULL,,,species,NULL,Thyroptera,2024-01-31 16:46:00.692574+00
+f4ebc023-6c08-4375-9f43-0fc10e5598bd,Panthera,mammals,,,,,Felidae,Cats,genus,570,Panthera,2024-01-24 17:18:54.447684+00
+5a63fe01-58a5-4995-8462-b415b2a6ea66,Sciurus,mammals,,,,,Sciuridae,NULL,genus,275,Sciurus,2024-01-24 17:18:54.447684+00
+d3d05116-2f90-493f-b4d5-a8f343a329d7,Sturnira,mammals,,,,,,NULL,genus,NULL,Sturnira,2024-01-24 17:18:54.447684+00
+883d0040-4d1a-466d-85e3-699918fa8b29,Ateles,mammals,,NULL,,NULL,,,genus,NULL,Ateles,2024-01-31 16:46:00.692574+00
+fecac216-4291-4449-8211-4da8329332ee,Lichonycteris,mammals,,NULL,,NULL,,,genus,NULL,Lichonycteris,2024-01-31 16:46:00.692574+00
+4369a49a-61c6-4a50-bb97-e6731bcdc87a,Dasypus pastasae,mammals,Dasypus pastasae,NULL,,NULL,,,species,NULL,Dasypus,2024-01-31 16:46:00.692574+00
+a422bd1e-e46a-4f7e-8e4f-03fd2bddeac3,Speothos venaticus,mammals,Speothos venaticus,NULL,NULL,NULL,,NULL,species,NULL,Speothos,2024-01-24 17:18:54.447684+00
+f85002a6-9208-463a-ac4f-e5efff745852,Dasypus novemcinctus,mammals,Dasypus novemcinctus,NULL,Nine Banded Armadillo,NULL,,,species,NULL,Dasypus,2024-01-31 16:46:00.692574+00
+903a71c6-9b6d-4403-ba64-6a34eaf3baed,Echimys chrysurus,mammals,Echimys chrysurus,NULL,White-Faced Tree Rat,NULL,,,species,NULL,Echimys,2024-01-31 16:46:00.692574+00
+755f52a2-4835-488f-8d21-d06f50d157c5,Gardnerycteris crenulatum,mammals,Gardnerycteris crenulatum,NULL,NULL,NULL,,NULL,species,NULL,Gardnerycteris,2024-01-24 17:18:54.447684+00
+020bfcda-f61a-434b-b3e0-953ef7b09f8f,Vampyriscus bidens,mammals,Vampyriscus bidens,NULL,NULL,NULL,,NULL,species,NULL,Vampyriscus,2024-01-24 17:18:54.447684+00
+be968ca6-0941-4b92-b0c7-c35ecf36b649,Lophostoma silvicola,mammals,Lophostoma silvicola,NULL,NULL,NULL,,NULL,species,NULL,Lophostoma,2024-01-24 17:18:54.447684+00
+69b6ebd9-e6a4-46ba-a943-a34ef3ddf44a,Sotalia fluviatilis,mammals,Sotalia fluviatilis,NULL,NULL,NULL,,NULL,species,NULL,Sotalia,2024-01-24 17:18:54.447684+00
+16500ffd-26cb-4e28-a968-5f97e0b4466c,Philander opossum,mammals,Philander opossum,NULL,NULL,NULL,,NULL,species,NULL,Philander,2024-01-24 17:18:54.447684+00
+0be29b4e-c1c5-435a-9dab-9c292573fbe6,Carollia perspicillata,mammals,Carollia perspicillata,NULL,Seba's Short-Tailed Bat,NULL,,,species,NULL,Carollia,2024-01-31 16:46:00.692574+00
+15246c88-1b61-4084-8427-da3406620a3f,Cynomops abrasus,mammals,Cynomops abrasus,NULL,Cinnamon Dog-Faced Bat,NULL,,,species,NULL,Cynomops,2024-01-31 16:46:00.692574+00
+c101e4e6-a727-4c30-b07c-d3438be3709d,Dasyprocta leporina,mammals,Dasyprocta leporina,NULL,NULL,NULL,,NULL,species,NULL,Dasyprocta,2024-01-24 17:18:54.447684+00
+8c12d4c4-ceb1-4774-a478-c98a3c85b6d7,Micronycteris minuta,mammals,Micronycteris minuta,NULL,NULL,NULL,,NULL,species,NULL,Micronycteris,2024-01-24 17:18:54.447684+00
+fe9dff97-acda-4643-8579-5864b04c6b6d,Mesomys,mammals,,,,,,NULL,genus,NULL,Mesomys,2024-01-24 17:18:54.447684+00
+01f9d5a6-c1d9-40ce-9a64-7015a05396e1,Sturnira giannae,mammals,Sturnira giannae,NULL,NULL,NULL,,NULL,species,NULL,Sturnira,2024-01-24 17:18:54.447684+00
+5ac10bd8-c9ad-4560-85d9-cd89ad68d58d,Choeroniscus,mammals,,,,,,NULL,genus,NULL,Choeroniscus,2024-01-24 17:18:54.447684+00
+518dbcd5-186d-4c2b-8f51-0a644363df11,Ametrida centurio,mammals,Ametrida centurio,NULL,NULL,NULL,,NULL,species,NULL,Ametrida,2024-01-24 17:18:54.447684+00
+0808a2e8-cfbb-467c-b9c1-72331b4c1b82,Scleronycteris,mammals,,NULL,,NULL,,,genus,NULL,Scleronycteris,2024-01-31 16:46:00.692574+00
+9771a4f0-2cc8-4506-bc05-0335149c6004,Rhipidomys,mammals,,,,,,NULL,genus,NULL,Rhipidomys,2024-01-24 17:18:54.447684+00
+e85dbc2c-f1df-4f34-a3a6-f4a90d590480,Hydrochoerus,mammals,,NULL,,NULL,,,genus,NULL,Hydrochoerus,2024-01-31 16:46:00.692574+00
+180718be-c455-4ea4-a828-1f7d53173b85,Mazama americana,mammals,Mazama americana,NULL,Red Brocket,NULL,,,species,NULL,Mazama,2024-01-31 16:46:00.692574+00
+ede5adce-c958-49c4-87ef-d333d9ec2aef,Oecomys bicolor,mammals,Oecomys bicolor,NULL,NULL,NULL,,NULL,species,NULL,Oecomys,2024-01-24 17:18:54.447684+00
+414e113e-e546-421e-9a4b-c019e1d5f19c,Nyctinomops laticaudatus,mammals,Nyctinomops laticaudatus,NULL,Broad-Eared Bat,NULL,,,species,NULL,Nyctinomops,2024-01-31 16:46:00.692574+00
+b17ef565-8205-4904-876f-f50d732e5e2d,Choeroniscus minor,mammals,Choeroniscus minor,NULL,NULL,NULL,,NULL,species,NULL,Choeroniscus,2024-01-24 17:18:54.447684+00
+c990f1e1-95bf-4f2b-841a-a300d053c836,Diclidurus,mammals,,NULL,,NULL,,,genus,NULL,Diclidurus,2024-01-31 16:46:00.692574+00
+317f7874-b33f-44a7-8f40-1710d175b044,Sotalia,mammals,,,,,,NULL,genus,NULL,Sotalia,2024-01-24 17:18:54.447684+00
+de877883-8332-4d94-ba9d-b72c1ebaea24,Molossus,mammals,,,,,,NULL,genus,NULL,Molossus,2024-01-24 17:18:54.447684+00
+7d121c53-f7ab-41e4-b9d7-90893b80b323,Platyrrhinus,mammals,,,,,,NULL,genus,NULL,Platyrrhinus,2024-01-24 17:18:54.447684+00
+1f9c500d-e521-4c8b-b53e-619fd178d45d,Lionycteris,mammals,,NULL,,NULL,,,genus,NULL,Lionycteris,2024-01-31 16:46:00.692574+00
+64729ed3-7806-4fce-a8e5-807fe5130a55,Dermanura gnoma,mammals,Dermanura gnoma,NULL,,NULL,,,species,NULL,Dermanura,2024-01-31 16:46:00.692574+00
+9cba640f-be2c-4377-a943-392fd92cb36f,Mesomys hispidus,mammals,Mesomys hispidus,NULL,NULL,NULL,,NULL,species,NULL,Mesomys,2024-01-24 17:18:54.447684+00
+a4b08d72-acc7-4a2e-9d9d-c10522b5d881,Lampronycteris,mammals,,NULL,,NULL,,,genus,NULL,Lampronycteris,2024-01-31 16:46:00.692574+00
+1b445ba1-afca-4042-9419-9b10b6167e57,Hyladelphys,mammals,,NULL,,NULL,,,genus,NULL,Hyladelphys,2024-01-31 16:46:00.692574+00
+1f437118-84c0-41d9-9bad-6b8804b7df4e,Dermanura anderseni,mammals,Dermanura anderseni,NULL,,NULL,,,species,NULL,Dermanura,2024-01-31 16:46:00.692574+00
+5eefd545-7752-4125-b2f3-048b31c852f2,Eptesicus,mammals,,,,,Vespertilionidae,NULL,genus,560,Eptesicus,2024-01-24 17:18:54.447684+00
+3c759256-8e61-4b2e-92ec-1ed196f97f21,Mesophylla,mammals,,,,,,NULL,genus,NULL,Mesophylla,2024-01-24 17:18:54.447684+00
+0924c791-37ab-4a83-814c-7b5d43486d54,Scleronycteris ega,mammals,Scleronycteris ega,NULL,Ega Long Tongued Bat,NULL,,,species,NULL,Scleronycteris,2024-01-31 16:46:00.692574+00
+4ca74bfa-5d9e-4e35-9229-15ce4ab9b059,Mustela africana,mammals,Mustela africana,NULL,Amazon Weasel,NULL,,,species,NULL,Mustela,2024-01-31 16:46:00.692574+00
+f143e8fa-6009-487f-951b-99dd42098a5e,Pteronotus alitonus,mammals,Pteronotus alitonus,NULL,,NULL,,,species,NULL,Pteronotus,2024-01-31 16:46:00.692574+00
+e5b0d6d6-42c9-4875-bb57-c3f1d1cef0e9,Puma concolor,mammals,Puma concolor,https://lh6.ggpht.com/kBF4wCTqFUoMB_9KME6ujpNWyIF4vaP9ky-EzB0CWkX5566s8DRYvvpxxzv7_UbFRrVy8AbJPsH3zA-4k0SnCsA,Cougar,LC,Felidae,NULL,species,570,Puma,2024-01-24 17:18:54.447684+00
+f11b12df-8d3c-481a-859d-66b75147ba26,Proechimys,mammals,,,,,,NULL,genus,NULL,Proechimys,2024-01-24 17:18:54.447684+00
+d4e3f425-a400-4c63-8375-3d49781ade00,Proechimys quadruplicatus,mammals,Proechimys quadruplicatus,NULL,Napo Spiny Rat,NULL,,,species,NULL,Proechimys,2024-01-31 16:46:00.692574+00
+4be6100e-51bd-42d1-b96f-ec2b9cff943a,Lichonycteris degener,mammals,Lichonycteris degener,NULL,,NULL,,,species,NULL,Lichonycteris,2024-01-31 16:46:00.692574+00
+fa7fe771-9dda-414c-a15f-3e37db47b31c,Mazama nemorivaga,mammals,Mazama nemorivaga,NULL,Amazonian Brown Brocket,NULL,,,species,NULL,Mazama,2024-01-31 16:46:00.692574+00
+d8cfbdff-56aa-4020-9be9-1072abc389db,Lasiurus egregius,mammals,Lasiurus egregius,NULL,Big Red Bat,NULL,,,species,NULL,Lasiurus,2024-01-31 16:46:00.692574+00
+8002be2a-039c-4ad4-83a5-b914530f2aaa,Pteronotus personatus,mammals,Pteronotus personatus,NULL,Wagner's Mustached Bat,NULL,,,species,NULL,Pteronotus,2024-01-31 16:46:00.692574+00
+c0c6f708-5cfa-4b1d-aaca-181abb5f4964,Myoprocta pratti,mammals,Myoprocta pratti,NULL,Green Acouchi,NULL,,,species,NULL,Myoprocta,2024-01-31 16:46:00.692574+00
+3d8f070a-9547-403f-9d96-56610a72d3b6,Glossophaga soricina,mammals,Glossophaga soricina,NULL,NULL,NULL,,NULL,species,NULL,Glossophaga,2024-01-24 17:18:54.447684+00
+f96cd1ff-0e0f-428a-92fc-a65b4e3fb701,Neoplatymops,mammals,,NULL,,NULL,,,genus,NULL,Neoplatymops,2024-01-31 16:46:00.692574+00
+2824ab37-0468-49ec-9cc0-05c3d35540f4,Artibeus cinereus,mammals,Artibeus cinereus,NULL,Gervais's Fruit Eating Bat,NULL,,,species,NULL,Artibeus,2024-01-31 16:46:00.692574+00
+0d8eb41c-6a2a-4b32-8a03-4f74dbaa8266,Glironia,mammals,,NULL,,NULL,,,genus,NULL,Glironia,2024-01-31 16:46:00.692574+00
+ca6afb8e-1e3c-4f29-a378-3bf3bec669a9,Procyon cancrivorus,mammals,Procyon cancrivorus,NULL,Crab-Eating Raccoon,NULL,,,species,NULL,Procyon,2024-01-31 16:46:00.692574+00
+be6d0efa-5caa-43d2-9009-0e570c1f9757,Hydrochoerus hydrochaeris,mammals,Hydrochoerus hydrochaeris,NULL,Carpincho,NULL,,,species,NULL,Hydrochoerus,2024-01-31 16:46:00.692574+00
+bee096c5-6e1f-4e92-88de-523ee921580a,Myotis simus,mammals,Myotis simus,NULL,NULL,NULL,,NULL,species,NULL,Myotis,2024-01-24 17:18:54.447684+00
+0aa400a5-3169-482d-8f63-5e5a7f39e7de,Tonatia,mammals,,,,,,NULL,genus,NULL,Tonatia,2024-01-24 17:18:54.447684+00
+00ddbb33-52a5-43bb-8f14-8d2396f39e26,Tonatia maresi,mammals,Tonatia maresi,NULL,NULL,NULL,,NULL,species,NULL,Tonatia,2024-01-24 17:18:54.447684+00
+7bb8e093-edd6-489a-a522-9947b3ff4260,Tapirus,mammals,,NULL,,NULL,,,genus,NULL,Tapirus,2024-01-31 16:46:00.692574+00
+8611d608-b528-4701-a642-ba7fd0abe820,Micronycteris microtis,mammals,Micronycteris microtis,NULL,Common Big-Eared Bat,NULL,,,species,NULL,Micronycteris,2024-01-31 16:46:00.692574+00
+2de83568-2542-4b0f-b6cc-64e06420a506,Noctilio leporinus,mammals,Noctilio leporinus,NULL,NULL,NULL,,NULL,species,NULL,Noctilio,2024-01-24 17:18:54.447684+00
+ba1e846d-2eb5-4749-9b39-b10f8f27f0a4,Inia geoffrensis,mammals,Inia geoffrensis,NULL,NULL,NULL,,NULL,species,NULL,Inia,2024-01-24 17:18:54.447684+00
+0ff5fb31-7888-4304-891a-7924f8a0115d,Cebus castaneus,mammals,Cebus castaneus,NULL,,NULL,,,species,NULL,Cebus,2024-01-31 16:46:00.692574+00
+c49fe9a6-c098-4cad-82aa-f0bc08ba2865,Pteronotus gymnonotus,mammals,Pteronotus gymnonotus,NULL,Big Naked-Backed Bat,NULL,,,species,NULL,Pteronotus,2024-01-31 16:46:00.692574+00
+123df4b9-52b8-49e8-939e-3139438e11f4,Mimon crenulatum,mammals,Mimon crenulatum,NULL,Striped Hairy Nosed Bat,NULL,,,species,NULL,Mimon,2024-01-31 16:46:00.692574+00
+bc10cc45-05ce-487c-bd1a-0fe10c1d6f9b,Vespertilionidae,mammals,,,,,Vespertilionidae,Vespertilionid Bats,family,560,,2024-01-24 17:18:54.447684+00
+0b79889d-567a-416d-b9be-af7d15b56d20,Bassaricyon alleni,mammals,Bassaricyon alleni,NULL,Allen's Olingo,NULL,,,species,NULL,Bassaricyon,2024-01-31 16:46:00.692574+00
+567ac545-46db-49a1-b52a-e4535a921850,Cuniculus,mammals,,NULL,,NULL,,,genus,NULL,Cuniculus,2024-01-31 16:46:00.692574+00
+18d536a2-6314-4a7a-a924-a82fa4848ff2,Choloepus didactylus,mammals,Choloepus didactylus,NULL,NULL,NULL,,NULL,species,NULL,Choloepus,2024-01-24 17:18:54.447684+00
+60becd2e-6edd-46f1-aa56-2c10a84d6e32,Nasua nasua,mammals,Nasua nasua,NULL,South American Coati,NULL,,,species,NULL,Nasua,2024-01-31 16:46:00.692574+00
+359fd358-5afc-45d0-9e2c-d370c27963bc,Oecomys roberti,mammals,Oecomys roberti,NULL,Robert's Arboreal Rice Rat,NULL,,,species,NULL,Oecomys,2024-01-31 16:46:00.692574+00
+5da2d110-aa36-4604-8d3c-9d51bf16fd25,Marmosa,mammals,,,,,,NULL,genus,NULL,Marmosa,2024-01-24 17:18:54.447684+00
+1e12c18e-ceb9-4cac-a54f-a5bf2fc9b485,Makalata macrura,mammals,Makalata macrura,NULL,Long-Tailed Tree Rat,NULL,,,species,NULL,Makalata,2024-01-31 16:46:00.692574+00
+c4f41511-8587-4792-8a6f-98a8e12c7882,Alouatta macconnelli,mammals,Alouatta macconnelli,NULL,Guianan Red Howler Monkey,NULL,,,species,NULL,Alouatta,2024-01-31 16:46:00.692574+00
+a3908b90-572d-4c3d-b67c-184eb1063cfa,Glossophaga commissarisi,mammals,Glossophaga commissarisi,NULL,NULL,NULL,,NULL,species,NULL,Glossophaga,2024-01-24 17:18:54.447684+00
+0ca24678-8599-47ce-9e02-8d8fcbfc4224,Uroderma magnirostrum,mammals,Uroderma magnirostrum,NULL,Brown Tent-Making Bat,NULL,,,species,NULL,Uroderma,2024-01-31 16:46:00.692574+00
+c670a090-d8c9-4cc1-a135-165362118554,Zygodontomys brevicauda,mammals,Zygodontomys brevicauda,NULL,Short Tailed Cane Mouse,NULL,,,species,NULL,Zygodontomys,2024-01-31 16:46:00.692574+00
+03aa5d5d-dcc2-4c15-94e2-3fa74c6a7deb,Coendou,mammals,,,,,,NULL,genus,NULL,Coendou,2024-01-24 17:18:54.447684+00
+44916d3f-0767-4051-955c-fba4213bc472,Potos flavus,mammals,Potos flavus,NULL,Kinkajou,NULL,,,species,NULL,Potos,2024-01-31 16:46:00.692574+00
+da20e49d-a591-44c1-96bb-a453b66ba714,Carollia brevicaudum,mammals,Carollia brevicaudum,NULL,,NULL,,,species,NULL,Carollia,2024-01-31 16:46:00.692574+00
+6e00e4da-36ee-49fe-8b92-b1e828799387,Hylaeamys megacephalus,mammals,Hylaeamys megacephalus,NULL,NULL,NULL,,NULL,species,NULL,Hylaeamys,2024-01-24 17:18:54.447684+00
+b0ca942b-f375-40a7-a86c-1fe7c89998c7,Oecomys trinitatis,mammals,Oecomys trinitatis,NULL,Trinidad Arboreal Rice Rat,NULL,,,species,NULL,Oecomys,2024-01-31 16:46:00.692574+00
+35120334-bf80-4e77-b4db-3ba3b0b2555e,Eumops glaucinus,mammals,Eumops glaucinus,NULL,Wagner's Bonneted Bat,NULL,,,species,NULL,Eumops,2024-01-31 16:46:00.692574+00
+17bcfb76-e34b-4d1b-80c5-54252c62407c,Lasiurus blossevillii,mammals,Lasiurus blossevillii,NULL,Red Bat,NULL,,,species,NULL,Lasiurus,2024-01-31 16:46:00.692574+00
+5ced7b7e-007d-45e7-9fb6-d5d6fd54470e,Trachops,mammals,,,,,,NULL,genus,NULL,Trachops,2024-01-24 17:18:54.447684+00
+aa5b3e31-f3af-4b02-b3c9-6f6f1d51eddb,Phylloderma stenops,mammals,Phylloderma stenops,NULL,NULL,NULL,,NULL,species,NULL,Phylloderma,2024-01-24 17:18:54.447684+00
+0040204b-bb96-41f5-8c9b-567887c4ed38,Platyrrhinus brachycephalus,mammals,Platyrrhinus brachycephalus,NULL,NULL,NULL,,NULL,species,NULL,Platyrrhinus,2024-01-24 17:18:54.447684+00
+7504f851-5dda-4ecf-a831-0a86d86ac35b,Peropteryx leucoptera,mammals,Peropteryx leucoptera,NULL,NULL,NULL,,NULL,species,NULL,Peropteryx,2024-01-24 17:18:54.447684+00
+4800d853-2aad-4bf3-ba23-0f4454cd1987,Mustela,mammals,,,,,Mustelidae,NULL,genus,625,Mustela,2024-01-24 17:18:54.447684+00
+e9b4f5ff-6ddb-45f7-8a64-22d9d27e9b9a,Micronycteris megalotis,mammals,Micronycteris megalotis,NULL,NULL,NULL,,NULL,species,NULL,Micronycteris,2024-01-24 17:18:54.447684+00
+e6141464-77d8-47bd-960c-dffc64dcdfcf,Philander,mammals,,,,,,NULL,genus,NULL,Philander,2024-01-24 17:18:54.447684+00
+0e7ae5d5-7c00-4245-a709-725915d5fa03,Platyrrhinus helleri,mammals,Platyrrhinus helleri,NULL,Heller's Broad-Nosed Bat,NULL,,,species,NULL,Platyrrhinus,2024-01-31 16:46:00.692574+00
+1f40bef3-6e8e-479f-a9c9-919bff585650,Eumops trumbulli,mammals,Eumops trumbulli,NULL,Colombian Bonneted Bat,NULL,,,species,NULL,Eumops,2024-01-31 16:46:00.692574+00
+6bb422d1-e761-4d2a-9a33-96c729c09b45,Myoprocta acouchy,mammals,Myoprocta acouchy,NULL,Red Acouchi,NULL,,,species,NULL,Myoprocta,2024-01-31 16:46:00.692574+00
+f6338bef-e567-4547-8d87-42a634cefe3d,Diaemus,mammals,,NULL,,NULL,,,genus,NULL,Diaemus,2024-01-31 16:46:00.692574+00
+16c1b414-f896-4791-acfe-49fa1fbf7728,Didelphis,mammals,,,,,Acrobatidae,NULL,genus,95,Didelphis,2024-01-24 17:18:54.447684+00
+92b695fa-15b6-4d17-84d1-5e3d02808622,Isothrix pagurus,mammals,Isothrix pagurus,NULL,Plain Brush-Tailed Rat,NULL,,,species,NULL,Isothrix,2024-01-31 16:46:00.692574+00
+8116e41a-3af3-418c-8825-0ca636a83899,Isothrix,mammals,,NULL,,NULL,,,genus,NULL,Isothrix,2024-01-31 16:46:00.692574+00
+9fe52836-cea4-4dab-b355-39f4b4ec71d9,Molossops temminckii,mammals,Molossops temminckii,NULL,Dwarf Dog-Faced Bat,NULL,,,species,NULL,Molossops,2024-01-31 16:46:00.692574+00
+7d561c26-27b3-4e83-81ba-bb9fc5a7d10b,Neacomys,mammals,,,,,,NULL,genus,NULL,Neacomys,2024-01-24 17:18:54.447684+00
+7efbd4be-f5ab-42cf-915a-8ace346cfb7e,Uroderma bilobatum,mammals,Uroderma bilobatum,NULL,NULL,NULL,,NULL,species,NULL,Uroderma,2024-01-24 17:18:54.447684+00
+2e79677d-693a-4a51-9089-006898717ab0,Proechimys echinothrix,mammals,Proechimys echinothrix,NULL,Stiff Spine Spiny Rat,NULL,,,species,NULL,Proechimys,2024-01-31 16:46:00.692574+00
+5612f5b6-b199-4652-86b2-85ff72684eec,Pithecia,mammals,,,,,,NULL,genus,NULL,Pithecia,2024-01-24 17:18:54.447684+00
+7d8a6b50-421e-4d12-b38c-50f9a3b75f1f,Sciurus aestuans,mammals,Sciurus aestuans,NULL,Guianan Squirrel,NULL,,,species,NULL,Sciurus,2024-01-31 16:46:00.692574+00
+610ceb37-283d-4299-b07e-52b047f44b20,Rhogeessa io,mammals,Rhogeessa io,NULL,Thomas's Yellow Bat,NULL,,,species,NULL,Rhogeessa,2024-01-31 16:46:00.692574+00
+7114d729-8f69-4dbe-a497-a86fbabf6f38,Pteronura brasiliensis,mammals,Pteronura brasiliensis,NULL,Giant Otter,NULL,,,species,NULL,Pteronura,2024-01-31 16:46:00.692574+00
+3a387bb7-652d-4740-ac8d-bd80b7e14dee,Phyllostomus hastatus,mammals,Phyllostomus hastatus,NULL,NULL,NULL,,NULL,species,NULL,Phyllostomus,2024-01-24 17:18:54.447684+00
+1fad682e-b310-4313-896a-aa60bbe76700,Cormura brevirostris,mammals,Cormura brevirostris,NULL,NULL,NULL,,NULL,species,NULL,Cormura,2024-01-24 17:18:54.447684+00
+703bb0c1-1633-488f-9877-5eaaaa354ea4,Didelphis marsupialis,mammals,Didelphis marsupialis,NULL,Common Opossum,NULL,,,species,NULL,Didelphis,2024-01-31 16:46:00.692574+00
+b33380e2-b52d-4194-9b29-95bb29280415,Chiroderma villosum,mammals,Chiroderma villosum,NULL,NULL,NULL,,NULL,species,NULL,Chiroderma,2024-01-24 17:18:54.447684+00
+935dd52a-c8e9-4a3f-800d-3742ec311485,Aotus trivirgatus,mammals,Aotus trivirgatus,NULL,NULL,NULL,,NULL,species,NULL,Aotus,2024-01-24 17:18:54.447684+00
+8b96d0e1-4d5c-4d2e-bce9-a380462e217e,Mimon,mammals,,NULL,,NULL,,,genus,NULL,Mimon,2024-01-31 16:46:00.692574+00
+b2d517ef-2bd3-4227-8b8a-844b2c6b2e20,Holochilus,mammals,,NULL,,NULL,,,genus,NULL,Holochilus,2024-01-31 16:46:00.692574+00
+17c7cb35-21f7-45ec-bce3-958a5173b76f,Caluromys,mammals,,,,,,NULL,genus,NULL,Caluromys,2024-01-24 17:18:54.447684+00
+834262f0-939d-48bf-a297-fbad15c05c9e,Micronycteris hirsuta,mammals,Micronycteris hirsuta,NULL,NULL,NULL,,NULL,species,NULL,Micronycteris,2024-01-24 17:18:54.447684+00
+f63ba619-1fdb-4063-9788-f7a2d48ed3ad,Cynomops greenhalli,mammals,Cynomops greenhalli,NULL,Greenhall's Dog-Faced Bat,NULL,,,species,NULL,Cynomops,2024-01-31 16:46:00.692574+00
+f8643d23-170c-4bd7-bd6d-d537b31ab694,Uroderma,mammals,,,,,,NULL,genus,NULL,Uroderma,2024-01-24 17:18:54.447684+00
+63018b02-a7dc-49d9-8a6c-b212dffa30ca,Galictis,mammals,,,,,,NULL,genus,NULL,Galictis,2024-01-24 17:18:54.447684+00
+0ea413e0-4e10-478e-85fb-e1f140d33184,Monodelphis arlindoi,mammals,Monodelphis arlindoi,NULL,,NULL,,,species,NULL,Monodelphis,2024-01-31 16:46:00.692574+00
+de0ea293-47da-4aff-97b3-554b2229ac99,Felidae,mammals,,,,,Felidae,Cats,family,570,,2024-01-24 17:18:54.447684+00
+66f3be1e-4247-4084-a0a2-5cdb63b4094d,Promops,mammals,,NULL,,NULL,,,genus,NULL,Promops,2024-01-31 16:46:00.692574+00
+f3d95c52-9ce9-46ff-babb-01deaca41613,Dasypus kappleri,mammals,Dasypus kappleri,NULL,Greater Long-Nosed Armadillo,NULL,,,species,NULL,Dasypus,2024-01-31 16:46:00.692574+00
+13f3ff1a-ba9e-465b-b044-5e5986e3538c,Chrotopterus,mammals,,,,,,NULL,genus,NULL,Chrotopterus,2024-01-24 17:18:54.447684+00
+2c316868-e0a1-4c96-a9c2-2e6b602daff2,Eumops,mammals,,,,,,NULL,genus,NULL,Eumops,2024-01-24 17:18:54.447684+00
+5b34edeb-1e41-480a-989a-3009b7a8a2d5,Saguinus midas,mammals,Saguinus midas,NULL,Midas Tamarin,NULL,,,species,NULL,Saguinus,2024-01-31 16:46:00.692574+00
+09bfe960-f27d-4d06-9987-bb0ffdd0d609,Lophostoma,mammals,,,,,,NULL,genus,NULL,Lophostoma,2024-01-24 17:18:54.447684+00
+806bd76b-7c4d-44c7-9486-83bfc5e83ad2,Makalata didelphoides,mammals,Makalata didelphoides,NULL,NULL,NULL,,NULL,species,NULL,Makalata,2024-01-24 17:18:54.447684+00
+5bbba2d8-48ea-4b6f-b13c-77c32713592d,Lophostoma carrikeri,mammals,Lophostoma carrikeri,NULL,NULL,NULL,,NULL,species,NULL,Lophostoma,2024-01-24 17:18:54.447684+00
+9a484349-fcab-4fc7-9563-3af7d462ff8c,Coendou melanurus,mammals,Coendou melanurus,NULL,NULL,NULL,,NULL,species,NULL,Coendou,2024-01-24 17:18:54.447684+00
+8d647de1-35aa-4640-a7d0-2066d2077d97,Lonchorhina inusitata,mammals,Lonchorhina inusitata,NULL,NULL,NULL,,NULL,species,NULL,Lonchorhina,2024-01-24 17:18:54.447684+00
+f8fb2b47-886e-4f83-9434-363d3871b4ee,Diaemus youngii,mammals,Diaemus youngii,NULL,,NULL,,,species,NULL,Diaemus,2024-01-31 16:46:00.692574+00
+e4fe578d-f8eb-4dd0-b417-eaff26061f20,Carollia,mammals,,NULL,,NULL,,,genus,NULL,Carollia,2024-01-31 16:46:00.692574+00
+c4d01848-09d1-48f8-b1e9-9e52ebb00916,Vampyrodes,mammals,,,,,,NULL,genus,NULL,Vampyrodes,2024-01-24 17:18:54.447684+00
+c85a78b3-e7cc-4a59-be1f-b4678c6543bd,Aotus nigriceps,mammals,Aotus nigriceps,NULL,NULL,NULL,,NULL,species,NULL,Aotus,2024-01-24 17:18:54.447684+00
+db92a4ff-879e-47ea-a934-d4cba75602d1,Molossus rufus,mammals,Molossus rufus,NULL,NULL,NULL,,NULL,species,NULL,Molossus,2024-01-24 17:18:54.447684+00
+b3813c13-0d12-468c-a4e6-f94ac87cc895,Hylaeamys yunganus,mammals,Hylaeamys yunganus,NULL,NULL,NULL,,NULL,species,NULL,Hylaeamys,2024-01-24 17:18:54.447684+00
+1773ee4c-a48b-4ba0-85b1-46393d9f88e5,Tayassu,mammals,,,,,,NULL,genus,NULL,Tayassu,2024-01-24 17:18:54.447684+00
+c92797c4-3788-4893-a362-d1451f53d135,Mazama,mammals,,NULL,,NULL,,,genus,NULL,Mazama,2024-01-31 16:46:00.692574+00
+31be8079-c696-468e-bb54-68ffad902b50,Micronycteris,mammals,,,,,,NULL,genus,NULL,Micronycteris,2024-01-24 17:18:54.447684+00
+a1246f0a-e5be-4eaf-8f3f-a91cf8faa8e7,Eira,mammals,,NULL,,NULL,,,genus,NULL,Eira,2024-01-31 16:46:00.692574+00
+a9af9401-2264-4bc6-93dd-55e192af5068,Trichechus,mammals,,NULL,,NULL,,,genus,NULL,Trichechus,2024-01-31 16:46:00.692574+00
+16ee91d4-5ae8-4256-bb36-c2f0af47efb8,Rhogeessa,mammals,,NULL,,NULL,,,genus,NULL,Rhogeessa,2024-01-31 16:46:00.692574+00
+e0a29b61-6305-4396-a440-f2c7d36b3da8,Atelocynus,mammals,,NULL,,NULL,,,genus,NULL,Atelocynus,2024-01-31 16:46:00.692574+00
+3cf71e6b-cd06-4ca7-9b16-c0be5390ccc3,Eumops hansae,mammals,Eumops hansae,NULL,Sanborn's Bonneted Bat,NULL,,,species,NULL,Eumops,2024-01-31 16:46:00.692574+00
+bfcc8584-310d-404a-be67-cf9fc309abb1,Priodontes maximus,mammals,Priodontes maximus,NULL,NULL,NULL,,NULL,species,NULL,Priodontes,2024-01-24 17:18:54.447684+00
+b4ad99ff-1d85-4bc3-b3b1-8fbc6c39a9c5,Mesophylla macconnelli,mammals,Mesophylla macconnelli,NULL,NULL,NULL,,NULL,species,NULL,Mesophylla,2024-01-24 17:18:54.447684+00
+db031509-7c99-4ec4-84cc-21958e90c71f,Echimys,mammals,,NULL,,NULL,,,genus,NULL,Echimys,2024-01-31 16:46:00.692574+00
+b4ac4f3a-0532-45be-bbe3-707d42b4768c,Chiropotes,mammals,,,,,,NULL,genus,NULL,Chiropotes,2024-01-24 17:18:54.447684+00
+8855d361-ebb7-4829-832b-e02a7ce2426b,Artibeus lituratus,mammals,Artibeus lituratus,NULL,NULL,NULL,,NULL,species,NULL,Artibeus,2024-01-24 17:18:54.447684+00
+c190d232-9690-49f6-bb54-ab457fd76b9b,Lonchophylla thomasi,mammals,Lonchophylla thomasi,NULL,Thomas's Nectar Bat,NULL,,,species,NULL,Lonchophylla,2024-01-31 16:46:00.692574+00
+4b886eae-e579-4e3d-88cd-c40d5843902a,Myotis riparius,mammals,Myotis riparius,NULL,NULL,NULL,,NULL,species,NULL,Myotis,2024-01-24 17:18:54.447684+00
+c6a6a108-a408-405a-84ed-b9553571c3e3,Leopardus tigrinus,mammals,Leopardus tigrinus,NULL,Little Spotted Cat,NULL,,,species,NULL,Leopardus,2024-01-31 16:46:00.692574+00
+a4096e5d-378b-4a2c-8823-de012d2d8bc1,Pecari tajacu,mammals,Pecari tajacu,NULL,Collared Peccary,NULL,,,species,NULL,Pecari,2024-01-31 16:46:00.692574+00
+f7532a98-9cb0-49a8-a623-8ae7456827ab,Holochilus sciureus,mammals,Holochilus sciureus,NULL,Marsh Rat,NULL,,,species,NULL,Holochilus,2024-01-31 16:46:00.692574+00
+ebe0ed4f-4b31-4922-82d4-6711fb0ac8f5,Platyrrhinus fusciventris,mammals,Platyrrhinus fusciventris,NULL,,NULL,,,species,NULL,Platyrrhinus,2024-01-31 16:46:00.692574+00
+41c88301-c340-4ac9-bf9c-0f03a9f283c1,Bradypus,mammals,,,,,,NULL,genus,NULL,Bradypus,2024-01-24 17:18:54.447684+00
+2f544272-2ded-49ba-8cda-2631b2588ef1,Hsunycteris,mammals,,NULL,,NULL,,,genus,NULL,Hsunycteris,2024-01-31 16:46:00.692574+00
+1c714631-fb68-4823-9bf8-38d8fbd5dcd3,Cabassous,mammals,,NULL,,NULL,,,genus,NULL,Cabassous,2024-01-31 16:46:00.692574+00
+d570d1a2-f34d-4b99-baf4-0dc50e5c553b,Cynomops paranus,mammals,Cynomops paranus,NULL,Brown Dog-Faced Bat,NULL,,,species,NULL,Cynomops,2024-01-31 16:46:00.692574+00
+86d3a43e-58cb-4620-8b2a-9b6f7dd61aeb,Procyonidae,mammals,,,,,Procyonidae,NULL,family,635,,2024-01-24 17:18:54.447684+00
+fde7254d-4ba6-43da-a7e6-c8312daf1602,Nyctinomops macrotis,mammals,Nyctinomops macrotis,NULL,Big Free-Tailed Bat,NULL,,,species,NULL,Nyctinomops,2024-01-31 16:46:00.692574+00
+52dd6678-2981-4d92-9a2e-a8fa48910c15,Saccopteryx,mammals,,,,,,NULL,genus,NULL,Saccopteryx,2024-01-24 17:18:54.447684+00
+c60e4ece-781d-46db-a981-53221306e84a,Mustelidae,mammals,,,,,Mustelidae,Mustelids,family,625,,2024-01-24 17:18:54.447684+00
+26f100b8-f368-4f07-9963-44a64926bab4,Nyctinomops,mammals,,NULL,,NULL,,,genus,NULL,Nyctinomops,2024-01-31 16:46:00.692574+00
+03cd25f9-e720-4af3-abcd-1705587e0ed6,Bradypus variegatus,mammals,Bradypus variegatus,NULL,Bolivian Three-Toed Sloth,NULL,,,species,NULL,Bradypus,2024-01-31 16:46:00.692574+00
+61bd42cd-7040-41d4-b493-afce00627485,Saguinus fuscicollis,mammals,Saguinus fuscicollis,NULL,NULL,NULL,,NULL,species,NULL,Saguinus,2024-01-24 17:18:54.447684+00
+1936621c-ad4b-401b-98ac-2a14174b72e7,Eptesicus chiriquinus,mammals,Eptesicus chiriquinus,NULL,Chiriquinan Serotine,NULL,,,species,NULL,Eptesicus,2024-01-31 16:46:00.692574+00
+6720ed5f-0515-4cf0-9663-59703e821792,Marmosa murina,mammals,Marmosa murina,NULL,NULL,NULL,,NULL,species,NULL,Marmosa,2024-01-24 17:18:54.447684+00
+ac643922-f8a3-4fa0-9415-d78877942df8,Pithecia chrysocephala,mammals,Pithecia chrysocephala,NULL,NULL,NULL,,NULL,species,NULL,Pithecia,2024-01-24 17:18:54.447684+00
+2fc9efde-2f34-45f2-a93f-d29198affcc1,Glironia venusta,mammals,Glironia venusta,NULL,Bushy-Tailed Opossum,NULL,,,species,NULL,Glironia,2024-01-31 16:46:00.692574+00
+f5c20c4f-2dde-4b62-9824-133baaf20cf7,Bradypus tridactylus,mammals,Bradypus tridactylus,NULL,NULL,NULL,,NULL,species,NULL,Bradypus,2024-01-24 17:18:54.447684+00
+a0e66b52-4956-4998-a7cd-623a890d6a8b,Molossus molossus,mammals,Molossus molossus,NULL,NULL,NULL,,NULL,species,NULL,Molossus,2024-01-24 17:18:54.447684+00
+3f6d13e5-d7b7-4bd7-91f1-c03fe6a27e73,Cynomops planirostris,mammals,Cynomops planirostris,NULL,NULL,NULL,,NULL,species,NULL,Cynomops,2024-01-24 17:18:54.447684+00
+98fc7f13-48b2-4d45-84b8-82ba86a36b5e,Pteronotus parnellii,mammals,Pteronotus parnellii,NULL,Common Mustached Bat,NULL,,,species,NULL,Pteronotus,2024-01-31 16:46:00.692574+00
+f5eea7cb-cdbf-4b3a-819a-091f760e0f2f,Odocoileus,mammals,,,,,Cervidae,NULL,genus,690,Odocoileus,2024-01-24 17:18:54.447684+00
+70bec591-4d30-4e6a-83c7-e83ab022ad37,Eira barbara,mammals,Eira barbara,NULL,Greyheaded Tayra,NULL,,,species,NULL,Eira,2024-01-31 16:46:00.692574+00
+d5df2184-3b73-44a3-b3d6-5693c463b1ef,Rhinophylla fischerae,mammals,Rhinophylla fischerae,NULL,Fischer's Little Fruit Bat,NULL,,,species,NULL,Rhinophylla,2024-01-31 16:46:00.692574+00
+5bef085e-e2f0-4bc0-add7-2c7dec475fb1,Eumops auripendulus,mammals,Eumops auripendulus,NULL,NULL,NULL,,NULL,species,NULL,Eumops,2024-01-24 17:18:54.447684+00
+5637d5c6-f1f3-4a34-ae05-6f446dd288bb,Rhynchonycteris,mammals,,,,,,NULL,genus,NULL,Rhynchonycteris,2024-01-24 17:18:54.447684+00
+34261f88-d468-4a0b-8c90-df1c9e0a195c,Phylloderma,mammals,,,,,,NULL,genus,NULL,Phylloderma,2024-01-24 17:18:54.447684+00
+af6de627-46c5-4095-a112-4e72a7ee0c70,Potos,mammals,,NULL,,NULL,,,genus,NULL,Potos,2024-01-31 16:46:00.692574+00
+da7a3d68-2f67-4d5f-b205-c91588728c32,Dasypus,mammals,,NULL,,NULL,,,genus,NULL,Dasypus,2024-01-31 16:46:00.692574+00
+fca7f963-1977-4cd3-a6b9-1e11d4a3d2a4,Diclidurus ingens,mammals,Diclidurus ingens,NULL,Greater Ghost Bat,NULL,,,species,NULL,Diclidurus,2024-01-31 16:46:00.692574+00
+ef8d5a6d-c9be-4689-94a5-5f6ccbdc5a43,Gardnerycteris,mammals,,,,,,NULL,genus,NULL,Gardnerycteris,2024-01-24 17:18:54.447684+00
+7480f408-8c7c-41ae-99c5-ec0647f8fefc,Peropteryx,mammals,,,,,,NULL,genus,NULL,Peropteryx,2024-01-24 17:18:54.447684+00
+18217e76-2f72-491d-98a1-63545df2fb48,Isothrix negrensis,mammals,Isothrix negrensis,NULL,Rio Negro Brush Tailed Rat A K A The Mexican Lawnmower Rat,NULL,,,species,NULL,Isothrix,2024-01-31 16:46:00.692574+00
+2120e1e4-efea-4773-a39e-f91e0635b25b,Speothos,mammals,,,,,,NULL,genus,NULL,Speothos,2024-01-24 17:18:54.447684+00
+98f5037b-3ca4-4279-b2ad-7ea6b4997007,Glossophaga,mammals,,,,,,NULL,genus,NULL,Glossophaga,2024-01-24 17:18:54.447684+00
+252d89fc-88e3-4872-b0ac-44d33d6b3ee8,Alouatta,mammals,,,,,,NULL,genus,NULL,Alouatta,2024-01-24 17:18:54.447684+00
+69f546bc-f2c1-40e8-b46f-8556bd2168c9,Chrotopterus auritus,mammals,Chrotopterus auritus,NULL,NULL,NULL,,NULL,species,NULL,Chrotopterus,2024-01-24 17:18:54.447684+00
+c9bd6f7c-a1ff-4b68-8bae-2eb11f44c40c,Lasiurus,mammals,,,,,Vespertilionidae,NULL,genus,560,Lasiurus,2024-01-24 17:18:54.447684+00
+c15deb77-e52d-4168-965a-a339035eeff4,Saccopteryx bilineata,mammals,Saccopteryx bilineata,NULL,NULL,NULL,,NULL,species,NULL,Saccopteryx,2024-01-24 17:18:54.447684+00
+8eab67ae-dddf-4c53-a158-b8dfbbec95d2,Chiropotes satanas,mammals,Chiropotes satanas,NULL,NULL,NULL,,NULL,species,NULL,Chiropotes,2024-01-24 17:18:54.447684+00
+96d72f43-c6e1-47f0-9239-3d6c269e3336,Marmosa lepida,mammals,Marmosa lepida,NULL,Little Rufous Mouse Opossum,NULL,,,species,NULL,Marmosa,2024-01-31 16:46:00.692574+00
+2a6c1728-1203-48fc-abfe-5b55ca308aa4,Nectomys,mammals,,,,,,NULL,genus,NULL,Nectomys,2024-01-24 17:18:54.447684+00
+d7f225fb-edf9-40bc-9284-a82ad9701457,Molossops mattogrossensis,mammals,Molossops mattogrossensis,NULL,Mato Grosso Dog-Faced Bat,NULL,,,species,NULL,Molossops,2024-01-31 16:46:00.692574+00
+9dde2034-de90-4b13-95ba-1ad6a9313cee,Coendou prehensilis,mammals,Coendou prehensilis,NULL,Brazilian Porcupine,NULL,,,species,NULL,Coendou,2024-01-31 16:46:00.692574+00
+541e5eac-2252-4b19-b2fb-91a14714d4e3,Gracilinanus,mammals,,NULL,,NULL,,,genus,NULL,Gracilinanus,2024-01-31 16:46:00.692574+00
+87714bfd-7ffa-48bc-85b6-fee98f769dd3,Sapajus,mammals,,,,,,NULL,genus,NULL,Sapajus,2024-01-24 17:18:54.447684+00
+53e29740-5594-4c24-af51-2a50747a7403,Vampyriscus brocki,mammals,Vampyriscus brocki,NULL,NULL,NULL,,NULL,species,NULL,Vampyriscus,2024-01-24 17:18:54.447684+00
+1a354a67-1581-4439-a147-0c54894682fa,Panthera onca,mammals,Panthera onca,NULL,Jaguar,NULL,,,species,NULL,Panthera,2024-01-31 16:46:00.692574+00
+85a9c2eb-f25e-498d-8f0a-a3c00831920a,Dicotyles,mammals,,NULL,,NULL,,,genus,NULL,Dicotyles,2024-01-31 16:46:00.692574+00
+bc7b4bb3-a658-4d73-aa02-6ae0979f19f8,Leopardus wiedii,mammals,Leopardus wiedii,NULL,Tree Ocelot,NULL,,,species,NULL,Leopardus,2024-01-31 16:46:00.692574+00
+2940cb57-77a7-459e-8640-30543d3964a9,Leopardus pardalis,mammals,Leopardus pardalis,NULL,Ocelot,NULL,,,species,NULL,Leopardus,2024-01-31 16:46:00.692574+00
+dfbf0c23-56e7-47b2-8ed3-2319c1ccadba,Eumops perotis,mammals,Eumops perotis,NULL,Western Bonneted Bat,NULL,,,species,NULL,Eumops,2024-01-31 16:46:00.692574+00
+5f7bbbee-9ac5-47fa-a89c-50617045eb22,Glyphonycteris sylvestris,mammals,Glyphonycteris sylvestris,NULL,Tricolored Bat,NULL,,,species,NULL,Glyphonycteris,2024-01-31 16:46:00.692574+00
+1cbdc445-7187-4eca-9c29-1eefc640364b,Tamandua,mammals,,NULL,,NULL,,,genus,NULL,Tamandua,2024-01-31 16:46:00.692574+00
+c53454e9-acb3-46ec-9b80-9f423d31254f,Oecomys rutilus,mammals,Oecomys rutilus,NULL,NULL,NULL,,NULL,species,NULL,Oecomys,2024-01-24 17:18:54.447684+00
+a05f8ab7-6274-471b-a70f-375271c3c225,Artibeus planirostris,mammals,Artibeus planirostris,NULL,NULL,NULL,,NULL,species,NULL,Artibeus,2024-01-24 17:18:54.447684+00
+9a246755-1180-4bbd-a4f0-3d229a6ec781,Molossus coibensis,mammals,Molossus coibensis,NULL,Coiban Mastiff Bat,NULL,,,species,NULL,Molossus,2024-01-31 16:46:00.692574+00
+d7c60166-4e02-463a-9565-8e255d545d3b,Lichonycteris obscura,mammals,Lichonycteris obscura,NULL,Dark Long Tongued Bat,NULL,,,species,NULL,Lichonycteris,2024-01-31 16:46:00.692574+00
+79b8f06c-8af3-4a73-a407-3f23e5e1b868,Metachirus nudicaudatus,mammals,Metachirus nudicaudatus,NULL,Brown Four-Eyed Opossum,NULL,,,species,NULL,Metachirus,2024-01-31 16:46:00.692574+00
+b3398405-9032-415c-b340-8e8adcb3fa15,Dactylomys dactylinus,mammals,Dactylomys dactylinus,NULL,Amazon Bamboo Rat,NULL,,,species,NULL,Dactylomys,2024-01-31 16:46:00.692574+00
+114a09bc-30a7-45b1-a653-e76a3d9ff297,Furipterus,mammals,,,,,,NULL,genus,NULL,Furipterus,2024-01-24 17:18:54.447684+00
+4e83a8f9-0004-43b0-bcca-522dd167f396,Oecomys concolor,mammals,Oecomys concolor,NULL,Unicolored Arboreal Rice Rat,NULL,,,species,NULL,Oecomys,2024-01-31 16:46:00.692574+00
+c586d4d0-f19d-4ee2-aab4-8fac6fa5d332,Noctilio,mammals,,,,,,NULL,genus,NULL,Noctilio,2024-01-24 17:18:54.447684+00
+f2cd56d8-8746-4c57-a832-16b7a62a9601,Marmosa demerarae,mammals,Marmosa demerarae,NULL,,NULL,,,species,NULL,Marmosa,2024-01-31 16:46:00.692574+00
+3738a7f3-9027-4608-a71b-80e70a327376,Eptesicus brasiliensis,mammals,Eptesicus brasiliensis,NULL,Brazilian Brown Bat,NULL,,,species,NULL,Eptesicus,2024-01-31 16:46:00.692574+00
+55d04216-4c2e-4e3e-99d6-4d9654c77294,Marmosops parvidens,mammals,Marmosops parvidens,NULL,Delicate Slender Opossum,NULL,,,species,NULL,Marmosops,2024-01-31 16:46:00.692574+00
+084a07b0-4c31-49f2-b510-8729a229520f,Phyllostomus elongatus,mammals,Phyllostomus elongatus,NULL,NULL,NULL,,NULL,species,NULL,Phyllostomus,2024-01-24 17:18:54.447684+00
+8063e48a-45c0-4483-bc45-5621565abe68,Rhinophylla pumilio,mammals,Rhinophylla pumilio,NULL,NULL,NULL,,NULL,species,NULL,Rhinophylla,2024-01-24 17:18:54.447684+00
+b907d9d7-b376-4d0b-b5c7-e04ec3cc8f95,Peropteryx kappleri,mammals,Peropteryx kappleri,NULL,NULL,NULL,,NULL,species,NULL,Peropteryx,2024-01-24 17:18:54.447684+00
+8b20b33b-ba1a-436b-bea0-580d52ee308b,Odocoileus virginianus,mammals,Odocoileus virginianus,https://lh3.googleusercontent.com/j3GPO3WFPnAb5CJhRxmb5gCHmO9wv0oi8ToRaTMj4HOJXVk0DMW2XOLVPC09-e1M3Hv0LMiM7n-GW0N_FZxPD40,White-Tailed Deer,LC,Cervidae,NULL,species,690,Odocoileus,2024-01-24 17:18:54.447684+00
+aeeecd0e-7c10-4f73-9bf4-6dd1e686c02c,Thyroptera,mammals,,,,,,NULL,genus,NULL,Thyroptera,2024-01-24 17:18:54.447684+00
+69cb4e94-e1a6-4a87-aaed-40d72e3b9af8,Dactylomys,mammals,,NULL,,NULL,,,genus,NULL,Dactylomys,2024-01-31 16:46:00.692574+00
+13a4bccb-c836-4540-8491-1b6fb6c6adb3,Dasyprocta fuliginosa,mammals,Dasyprocta fuliginosa,NULL,Black Agouti,NULL,,,species,NULL,Dasyprocta,2024-01-31 16:46:00.692574+00
+2f08ead3-456d-4de5-ae74-ee7121eb8b6c,Cormura,mammals,,,,,,NULL,genus,NULL,Cormura,2024-01-24 17:18:54.447684+00
+1e933277-e124-4571-a596-3211be7682cb,Cuniculus paca,mammals,Cuniculus paca,NULL,Spotted Paca,NULL,,,species,NULL,Cuniculus,2024-01-31 16:46:00.692574+00
+f6818420-23d4-4cbc-b4b7-1e2bd6ac43b2,Leopardus,mammals,,NULL,,NULL,,,genus,NULL,Leopardus,2024-01-31 16:46:00.692574+00
+5e9d4c4d-3352-4e0e-af40-8c6ca49fc524,Pteronura,mammals,,NULL,,NULL,,,genus,NULL,Pteronura,2024-01-31 16:46:00.692574+00
+9de9c8c5-1bbc-4bde-961d-e9ef2de555ec,Inia,mammals,,,,,,NULL,genus,NULL,Inia,2024-01-24 17:18:54.447684+00
+79118e8c-894e-4a65-b6c6-7ea4994dcbc7,Cebus unicolor,mammals,Cebus unicolor,NULL,NULL,NULL,,NULL,species,NULL,Cebus,2024-01-24 17:18:54.447684+00
+e97103c0-e117-416b-a466-3b168c6dd449,Oecomys auyantepui,mammals,Oecomys auyantepui,NULL,Guianan Oecomys,NULL,,,species,NULL,Oecomys,2024-01-31 16:46:00.692574+00
+3751c07f-3abf-4878-8011-98b2eee94b3e,Sciurus gilvigularis,mammals,Sciurus gilvigularis,NULL,Yellow-Throated Squirrel,NULL,,,species,NULL,Sciurus,2024-01-31 16:46:00.692574+00
+3095cf55-57af-4da4-b8aa-b7f03cdfdcec,Sphaeronycteris,mammals,,NULL,,NULL,,,genus,NULL,Sphaeronycteris,2024-01-31 16:46:00.692574+00
+cfb1379a-f01e-4f97-89c9-5d40cb80e76d,Sciuridae,mammals,,,,,Sciuridae,Squirrels,family,275,,2024-01-24 17:18:54.447684+00
+b7838d72-eee8-49b2-97fa-05e1e0bea01a,Neacomys paracou,mammals,Neacomys paracou,NULL,NULL,NULL,,NULL,species,NULL,Neacomys,2024-01-24 17:18:54.447684+00
+8fcf7e92-c1e3-4e8a-aca4-d324efed351e,Pteronotus,mammals,,,,,,NULL,genus,NULL,Pteronotus,2024-01-24 17:18:54.447684+00
+5033c857-d921-4fae-ac4f-0dd6aadde198,Peropteryx trinitatis,mammals,Peropteryx trinitatis,NULL,Trinidad Dog-Like Bat,NULL,,,species,NULL,Peropteryx,2024-01-31 16:46:00.692574+00
+537b9e0a-d7dc-4ff9-b98c-b907259fd376,Centronycteris,mammals,,NULL,,NULL,,,genus,NULL,Centronycteris,2024-01-31 16:46:00.692574+00
+42b95622-744d-42f7-810d-50d75b1579ee,Oecomys,mammals,,,,,,NULL,genus,NULL,Oecomys,2024-01-24 17:18:54.447684+00
+78fb36c6-89b1-43d6-9f4a-1cdf84b23766,Saccopteryx canescens,mammals,Saccopteryx canescens,NULL,Frosted Sac Winged Bat,NULL,,,species,NULL,Saccopteryx,2024-01-31 16:46:00.692574+00
+dd57eb00-78e1-4e46-952b-cb39371dee9e,Molossops,mammals,,NULL,,NULL,,,genus,NULL,Molossops,2024-01-31 16:46:00.692574+00
+0446c825-5761-4e5a-95d2-0cbab96a9700,Chiroderma trinitatum,mammals,Chiroderma trinitatum,NULL,NULL,NULL,,NULL,species,NULL,Chiroderma,2024-01-24 17:18:54.447684+00
+82a4d282-40d1-4b39-a51a-1040c359a9d2,Dermanura,mammals,,NULL,,NULL,,,genus,NULL,Dermanura,2024-01-31 16:46:00.692574+00
+1a132341-928d-4874-8975-9f6f8237dabf,Myotis albescens,mammals,Myotis albescens,NULL,NULL,NULL,,NULL,species,NULL,Myotis,2024-01-24 17:18:54.447684+00
+7c29b590-7c93-497d-9f21-214b27976ebd,Phyllostomus,mammals,,,,,,NULL,genus,NULL,Phyllostomus,2024-01-24 17:18:54.447684+00
+21d8ef89-2856-47e6-b8f4-8f6a4fc82df0,Artibeus gnomus,mammals,Artibeus gnomus,NULL,Dwarf Fruit-Eating Bat,NULL,,,species,NULL,Artibeus,2024-01-31 16:46:00.692574+00
+eeaba20f-c098-427c-ab43-496c31bde71f,Micronycteris schmidtorum,mammals,Micronycteris schmidtorum,NULL,NULL,NULL,,NULL,species,NULL,Micronycteris,2024-01-24 17:18:54.447684+00
+fdee2736-fbf6-47d7-bd50-b263724094da,Aotus,mammals,,,,,,NULL,genus,NULL,Aotus,2024-01-24 17:18:54.447684+00
+5d904305-79e4-4404-8bf1-384ab7296f09,Dermanura cinerea,mammals,Dermanura cinerea,NULL,,NULL,,,species,NULL,Dermanura,2024-01-31 16:46:00.692574+00
+93817cca-f3cd-4f59-88e3-52e02d8f2cb6,Herpailurus,mammals,,NULL,,NULL,,,genus,NULL,Herpailurus,2024-01-31 16:46:00.692574+00
+19d30764-3788-4b9c-81df-8f5f01945ee5,Oecomys rex,mammals,Oecomys rex,NULL,King Arboreal Rice Rat,NULL,,,species,NULL,Oecomys,2024-01-31 16:46:00.692574+00
+45cdc6da-94b4-4991-8353-756947f3debf,Herpailurus yagouaroundi,mammals,Herpailurus yagouaroundi,NULL,Jaguarondi,NULL,,,species,NULL,Herpailurus,2024-01-31 16:46:00.692574+00
+c27128de-da5d-4c7e-8533-01fd70663d1e,Ametrida,mammals,,,,,,NULL,genus,NULL,Ametrida,2024-01-24 17:18:54.447684+00
+4586923d-3d9b-4bdc-a6c9-774826fb8f18,Rhynchonycteris naso,mammals,Rhynchonycteris naso,NULL,NULL,NULL,,NULL,species,NULL,Rhynchonycteris,2024-01-24 17:18:54.447684+00
+e138e832-83af-496b-b4f7-0851a65421d3,Rhipidomys leucodactylus,mammals,Rhipidomys leucodactylus,NULL,White Footed Climbing Mouse,NULL,,,species,NULL,Rhipidomys,2024-01-31 16:46:00.692574+00
+0a416978-23be-40e1-92ca-945bf7f2e43d,Tamandua tetradactyla,mammals,Tamandua tetradactyla,NULL,Collared Anteater,NULL,,,species,NULL,Tamandua,2024-01-31 16:46:00.692574+00
+3ddb33b5-bb46-4ce8-9fe3-1aa328672180,Diclidurus albus,mammals,Diclidurus albus,NULL,Northern Ghost Bat,NULL,,,species,NULL,Diclidurus,2024-01-31 16:46:00.692574+00
+c4da399a-6c4b-45be-bd27-888366a65016,Natalidae,mammals,,,,,Natalidae,Vespertilionid Bats,family,550,,2024-01-24 17:18:54.447684+00
+d78ce810-73bc-42c7-b7c4-1840ef0a738b,Rhinophylla,mammals,,,,,,NULL,genus,NULL,Rhinophylla,2024-01-24 17:18:54.447684+00
+13b0e2b2-a256-4ea7-8155-d16d072b0301,Lonchorhina,mammals,,,,,,NULL,genus,NULL,Lonchorhina,2024-01-24 17:18:54.447684+00
+d2be4845-0672-4219-89c4-e344d4ad7574,Sapajus apella,mammals,Sapajus apella,NULL,NULL,NULL,,NULL,species,NULL,Sapajus,2024-01-24 17:18:54.447684+00
+0b4c8596-b44a-4c51-ab25-0363a20a85a9,Procyon,mammals,,,,,Procyonidae,NULL,genus,635,Procyon,2024-01-24 17:18:54.447684+00
+3eb256c1-5dc0-4db9-ac02-89061d484aa7,Aotus vociferans,mammals,Aotus vociferans,NULL,Night Monkey,NULL,,,species,NULL,Aotus,2024-01-31 16:46:00.692574+00
+2cdc1571-0751-4865-9dbb-8f2ba0df0b8b,Lontra longicaudis,mammals,Lontra longicaudis,NULL,Neotropical Otter,NULL,,,species,NULL,Lontra,2024-01-31 16:46:00.692574+00
+5b2e467e-7254-429b-87b1-6b6873b95d68,Thyroptera tricolor,mammals,Thyroptera tricolor,NULL,NULL,NULL,,NULL,species,NULL,Thyroptera,2024-01-24 17:18:54.447684+00
+d60eed52-e4cc-40ab-b8f4-4ef48243eb1f,Priodontes,mammals,,,,,,NULL,genus,NULL,Priodontes,2024-01-24 17:18:54.447684+00
+51d6b537-2118-4e28-a561-52123899be02,Metachirus,mammals,,NULL,,NULL,,,genus,NULL,Metachirus,2024-01-31 16:46:00.692574+00
+c6799922-8903-4b5b-9695-61d4b90b15e1,Macrophyllum,mammals,,,,,,NULL,genus,NULL,Macrophyllum,2024-01-24 17:18:54.447684+00
+91e85873-336a-4b6e-9a9f-e97f2c8b3acd,Nectomys rattus,mammals,Nectomys rattus,NULL,NULL,NULL,,NULL,species,NULL,Nectomys,2024-01-24 17:18:54.447684+00
+65fbff39-e584-4f20-9143-a5b21e6a191c,Tapirus terrestris,mammals,Tapirus terrestris,NULL,Lowland Tapir,NULL,,,species,NULL,Tapirus,2024-01-31 16:46:00.692574+00
+0834c651-f98a-47a4-964e-d5d5ca212555,Saguinus,mammals,,,,,,NULL,genus,NULL,Saguinus,2024-01-24 17:18:54.447684+00
+c50802fe-11ac-4853-a9ee-02d5f9febb53,Ateles paniscus,mammals,Ateles paniscus,NULL,Guiana Spider Monkey,NULL,,,species,NULL,Ateles,2024-01-31 16:46:00.692574+00
+3cef80fb-51a0-4b1a-8cbf-5ab513a15b87,Carollia brevicauda,mammals,Carollia brevicauda,NULL,Silky Short Tailed Bat,NULL,,,species,NULL,Carollia,2024-01-31 16:46:00.692574+00
+20d5059a-07a6-4582-8145-52c77cccb181,Pteronotus rubiginosus,mammals,Pteronotus rubiginosus,NULL,NULL,NULL,,NULL,species,NULL,Pteronotus,2024-01-24 17:18:54.447684+00
+b9c4aaab-9bb3-4ca1-b306-8b7ad3c2b92e,Hyladelphys kalinowskii,mammals,Hyladelphys kalinowskii,NULL,Kalinowski's Mouse Opossum,NULL,,,species,NULL,Hyladelphys,2024-01-31 16:46:00.692574+00
+a4dcabe4-d63a-4e65-a419-e0e3a1ab0f7c,Chiropotes chiropotes,mammals,Chiropotes chiropotes,NULL,Bearded Saki,NULL,,,species,NULL,Chiropotes,2024-01-31 16:46:00.692574+00
+4b74db77-85e2-4825-a721-65f60694b6ab,Monodelphis,mammals,,NULL,,NULL,,,genus,NULL,Monodelphis,2024-01-31 16:46:00.692574+00
+e8c7ed7e-eb1d-4cbe-ba5e-538fcb999d2b,Artibeus obscurus,mammals,Artibeus obscurus,NULL,NULL,NULL,,NULL,species,NULL,Artibeus,2024-01-24 17:18:54.447684+00
+858a3ee6-9682-4a8a-ae66-ccd466dd5184,Saimiri ustus,mammals,Saimiri ustus,NULL,NULL,NULL,,NULL,species,NULL,Saimiri,2024-01-24 17:18:54.447684+00
+d440a010-4d21-44e2-9067-4be9e7c0fb8d,Makalata,mammals,,,,,,NULL,genus,NULL,Makalata,2024-01-24 17:18:54.447684+00
+ba13ffb9-91ec-40a0-a9f1-2602471b60f6,Hylaeamys,mammals,,,,,,NULL,genus,NULL,Hylaeamys,2024-01-24 17:18:54.447684+00
+c0cf0512-d5f3-44c1-a3ab-d5efa37722c6,Vampyrum spectrum,mammals,Vampyrum spectrum,NULL,NULL,NULL,,NULL,species,NULL,Vampyrum,2024-01-24 17:18:54.447684+00
+77067aa7-5bb8-41fc-bcee-aa5033c89e06,Cervidae,mammals,,,,,Cervidae,Deer,family,690,,2024-01-24 17:18:54.447684+00
+f1b95c87-b5b1-4fa7-8ee5-b0cd5dcdcae3,Caluromys philander,mammals,Caluromys philander,NULL,NULL,NULL,,NULL,species,NULL,Caluromys,2024-01-24 17:18:54.447684+00
+c3a1bad2-244e-44cd-88dc-e26446a9b771,Phyllostomus discolor,mammals,Phyllostomus discolor,NULL,Pale Spear Nosed Bat,NULL,,,species,NULL,Phyllostomus,2024-01-31 16:46:00.692574+00
+9bd15c58-adad-4c3d-aba1-030c6f213a02,Peropteryx macrotis,mammals,Peropteryx macrotis,NULL,NULL,NULL,,NULL,species,NULL,Peropteryx,2024-01-24 17:18:54.447684+00
+a1034131-56b8-4c53-8ea3-20be38bb9bec,Acrobatidae,mammals,,,,,Acrobatidae,NULL,family,95,,2024-01-24 17:18:54.447684+00
+44d799eb-debc-4a21-a061-216a7043e1be,Dicotyles tajacu,mammals,Dicotyles tajacu,NULL,,NULL,,,species,NULL,Dicotyles,2024-01-31 16:46:00.692574+00
+63e815fd-3e5e-42b4-8880-6477892f24f0,Noctilio albiventris,mammals,Noctilio albiventris,NULL,NULL,NULL,,NULL,species,NULL,Noctilio,2024-01-24 17:18:54.447684+00
+c06e64c6-e9df-4a8d-9da5-5299a5949d2e,Lionycteris spurrelli,mammals,Lionycteris spurrelli,NULL,Chestnut Long Tongued Bat,NULL,,,species,NULL,Lionycteris,2024-01-31 16:46:00.692574+00
+ec9bcb29-c0ae-4518-b275-6d1678b08c4b,Phyllostomus latifolius,mammals,Phyllostomus latifolius,NULL,NULL,NULL,,NULL,species,NULL,Phyllostomus,2024-01-24 17:18:54.447684+00
+a47d231b-122e-4af7-b0d2-bd2318d91d85,Lophostoma brasiliense,mammals,Lophostoma brasiliense,NULL,NULL,NULL,,NULL,species,NULL,Lophostoma,2024-01-24 17:18:54.447684+00
+800a0beb-c452-4fe8-9227-b57cce57e323,Pecari,mammals,,NULL,,NULL,,,genus,NULL,Pecari,2024-01-31 16:46:00.692574+00
+bad322c6-0ed6-4a44-8b20-fe9a5149b696,Cyclopes didactylus,mammals,Cyclopes didactylus,NULL,Silky Anteater,NULL,,,species,NULL,Cyclopes,2024-01-31 16:46:00.692574+00
+874eb977-34dd-499a-a2d2-7696fe0085bf,Atelocynus microtis,mammals,Atelocynus microtis,NULL,Small Eared Zorro,NULL,,,species,NULL,Atelocynus,2024-01-31 16:46:00.692574+00
+cdde705f-475d-4065-82c1-7cc420b51b95,Hsunycteris thomasi,mammals,Hsunycteris thomasi,NULL,,NULL,,,species,NULL,Hsunycteris,2024-01-31 16:46:00.692574+00
+417177ec-32b1-4dee-ae59-f56f2eb5eaec,Eptesicus furinalis,mammals,Eptesicus furinalis,NULL,NULL,NULL,,NULL,species,NULL,Eptesicus,2024-01-24 17:18:54.447684+00

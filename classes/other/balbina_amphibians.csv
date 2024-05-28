@@ -1,0 +1,184 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+9f8f0dc9-4b3f-4274-86a2-6dbeeea6bf6c,Hydrolaetare schmidti,amphibians,Hydrolaetare schmidti,NULL,Schmidt's Forest Frog,NULL,Leptodactylidae,Neotropical Frogs,species,NULL,Hydrolaetare,2024-01-31 16:46:01.310562+00
+b56bce25-97a9-4069-b3a9-3c5b13dbaa87,Chiasmocleis,amphibians,,,,,Microhylidae,NULL,genus,NULL,Chiasmocleis,2024-01-24 17:18:54.447684+00
+a51469c4-1032-4a54-8d30-6b144aa63ec7,Elachistocleis ovalis,amphibians,Elachistocleis ovalis,NULL,NULL,NULL,,NULL,species,NULL,Elachistocleis,2024-01-24 17:18:54.447684+00
+ffc1a332-1726-4ae1-9827-bc5931f40d85,Ameerega trivittata,amphibians,Ameerega trivittata,NULL,NULL,NULL,,NULL,species,NULL,Ameerega,2024-01-24 17:18:54.447684+00
+665a2175-3f41-4a00-92b1-9ea2a1cedfab,Leptodactylus pentadactylus,amphibians,Leptodactylus pentadactylus,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+1d3b33ec-f2f2-46fd-af2e-b305ffaba95a,Ceratophrys cornuta,amphibians,Ceratophrys cornuta,NULL,NULL,NULL,,NULL,species,NULL,Ceratophrys,2024-01-24 17:18:54.447684+00
+9fe4c58c-9be0-4632-8eb2-c587350e0847,Osteocephalus oophagus,amphibians,Osteocephalus oophagus,NULL,NULL,NULL,,NULL,species,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+d8f09262-e01c-4c8a-8a8a-efd1ef7b7456,Dendropsophus leali,amphibians,Dendropsophus leali,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+679700cf-aa4a-44fc-80b9-610daef49082,Ranitomeya ventrimaculata,amphibians,Ranitomeya ventrimaculata,NULL,NULL,NULL,,NULL,species,NULL,Ranitomeya,2024-01-24 17:18:54.447684+00
+4b315461-c3c4-4a40-a3cf-7e59e2552bab,Pseudopaludicola,amphibians,,NULL,,NULL,Leptodactylidae,Neotropical Frogs,genus,NULL,Pseudopaludicola,2024-01-31 16:46:01.310562+00
+f03fd356-154d-4dc4-a364-c17ed69de27b,Leptodactylus riveroi,amphibians,Leptodactylus riveroi,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+fec85616-b775-4a54-9eb0-6ec1d0751a04,Scarthyla goinorum,amphibians,Scarthyla goinorum,NULL,NULL,NULL,,NULL,species,NULL,Scarthyla,2024-01-24 17:18:54.447684+00
+5f836566-d16a-4857-a553-0ee0697f123c,Scinax garbei,amphibians,Scinax garbei,NULL,NULL,NULL,,NULL,species,NULL,Scinax,2024-01-24 17:18:54.447684+00
+fc81c2fe-2697-47a9-8f86-b5e8d5f5bf1e,Scinax x-signatus,amphibians,Scinax x-signatus,NULL,Venezuela Snouted Treefrog,NULL,Hylidae,Tree Frogs,species,NULL,Scinax,2024-01-31 16:46:01.310562+00
+5dfef6e8-69d2-4c10-8e7f-84c8ccce2c05,Sphaenorhynchus lacteus,amphibians,Sphaenorhynchus lacteus,NULL,NULL,NULL,,NULL,species,NULL,Sphaenorhynchus,2024-01-24 17:18:54.447684+00
+04d0fa15-49fe-45bc-9440-6136a1a6c2cb,Pipa,amphibians,,,,,Pipidae,NULL,genus,NULL,Pipa,2024-01-24 17:18:54.447684+00
+67397114-517e-44df-a4c9-0311d120bdc3,Leptodactylus bolivianus,amphibians,Leptodactylus bolivianus,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+69b053cf-a8a6-484c-ba32-418db21e1783,Potomotyphlus,amphibians,,NULL,,NULL,,,genus,NULL,Potomotyphlus,2024-01-31 16:46:01.310562+00
+1883ed31-376a-4b43-86fa-a8a38708426e,Hypsiboas geographicus,amphibians,Hypsiboas geographicus,NULL,Map Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+c87e084f-9f0e-40b8-af8f-807924257873,Leptodactylus mystaceus,amphibians,Leptodactylus mystaceus,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+a5132850-edd4-4e7a-b521-1513d9083878,Leptodactylus longirostris,amphibians,Leptodactylus longirostris,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+85356e09-5e1b-4fa5-8951-4425c412e09c,Adenomera hylaedactyla,amphibians,Adenomera hylaedactyla,NULL,NULL,NULL,,NULL,species,NULL,Adenomera,2024-01-24 17:18:54.447684+00
+f3ba7efe-b317-4f41-980b-8daeafe1396d,Phyzelaphryne,amphibians,,,,,,NULL,genus,NULL,Phyzelaphryne,2024-01-24 17:18:54.447684+00
+65d1ca79-00be-4085-9b13-6fd287dd418a,Trachycephalus resinifictrix,amphibians,Trachycephalus resinifictrix,NULL,NULL,NULL,,NULL,species,NULL,Trachycephalus,2024-01-24 17:18:54.447684+00
+4f4c1ad2-143f-453a-ba8c-1594122164ae,Chiasmocleis hudsoni,amphibians,Chiasmocleis hudsoni,NULL,Hudson's Humming Frog,NULL,Microhylidae,Microhylid Frogs,species,NULL,Chiasmocleis,2024-01-31 16:46:01.310562+00
+18555b88-f90b-41cd-99ce-1821515ccc4d,Dendropsophus,amphibians,,,,,,NULL,genus,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+6dceb166-8e09-4b7d-9bf9-e19f13a30bbb,Trachycephalus venulosus,amphibians,Trachycephalus venulosus,NULL,Merian Frog,NULL,,,species,NULL,Trachycephalus,2024-01-31 16:46:01.310562+00
+3a697c3f-2d0a-4cbd-9d73-30f671fdbb0c,Hamptophryne boliviana,amphibians,Hamptophryne boliviana,NULL,NULL,NULL,,NULL,species,NULL,Hamptophryne,2024-01-24 17:18:54.447684+00
+7814e6a5-0ea0-406e-b740-ed46234b400d,Cruziohyla craspedopus,amphibians,Cruziohyla craspedopus,NULL,NULL,NULL,,NULL,species,NULL,Cruziohyla,2024-01-24 17:18:54.447684+00
+4f82f237-ca68-4fcd-b6d6-ae7d14040fe2,Synapturanus salseri,amphibians,Synapturanus salseri,NULL,NULL,NULL,,NULL,species,NULL,Synapturanus,2024-01-24 17:18:54.447684+00
+b04b8be6-1d16-495e-ad31-7f3a5e000014,Elachistocleis helianneae,amphibians,Elachistocleis helianneae,NULL,NULL,NULL,,NULL,species,NULL,Elachistocleis,2024-01-24 17:18:54.447684+00
+77be6913-a1fb-4bb1-a561-ae84b45c91d2,Allobates marchesianus,amphibians,Allobates marchesianus,NULL,NULL,NULL,,NULL,species,NULL,Allobates,2024-01-24 17:18:54.447684+00
+18220588-a2a3-4fd6-82ba-331e9fa3328a,Hypsiboas multifasciatus,amphibians,Hypsiboas multifasciatus,NULL,Many-Banded Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+e112e97b-64e1-4746-a7c3-172be5ed9235,Atelopus hoogmoedi,amphibians,Atelopus hoogmoedi,NULL,Hoogmoed Harlequin Toad,NULL,Bufonidae,Bufonids,species,NULL,Atelopus,2024-01-31 16:46:01.310562+00
+4a0b3d48-59e7-4fef-bbf1-4da6507e6e19,Hypsiboas,amphibians,,NULL,,NULL,,,genus,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+34f57333-cf5a-4ffb-a486-22f30e904fc5,Dendropsophus minutus,amphibians,Dendropsophus minutus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+662fa5e4-444d-4b9b-88e9-166b3bc752d6,Rhinatrema,amphibians,,NULL,,NULL,Rhinatrematidae,Neotropical Tailed Caecilians,genus,NULL,Rhinatrema,2024-01-31 16:46:01.310562+00
+73e2225f-4c1c-4a25-a0a1-ddfd0e71cb55,Scinax boesemani,amphibians,Scinax boesemani,NULL,NULL,NULL,,NULL,species,NULL,Scinax,2024-01-24 17:18:54.447684+00
+7461aa21-fede-42d9-92c3-31f6215a4e03,Boana raniceps,amphibians,Boana raniceps,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+848320d5-139b-4d62-a74e-398e465aaf28,Boana punctata,amphibians,Boana punctata,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+8576f116-7a14-434e-87da-14136e75f1b9,Osteocephalus leprieurii,amphibians,Osteocephalus leprieurii,NULL,NULL,NULL,,NULL,species,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+f740b06c-0180-49cc-8a86-e395feb3f79d,Sphaenorhynchus dorisae,amphibians,Sphaenorhynchus dorisae,NULL,NULL,NULL,,NULL,species,NULL,Sphaenorhynchus,2024-01-24 17:18:54.447684+00
+380bee90-c0a5-4c43-bb9a-c7fe44609a1b,Atelopus spumarius,amphibians,Atelopus spumarius,NULL,NULL,NULL,,NULL,species,NULL,Atelopus,2024-01-24 17:18:54.447684+00
+bf913832-dbdd-4b0f-8f5a-79033daf9658,Pristimantis fenestratus,amphibians,Pristimantis fenestratus,NULL,NULL,NULL,,NULL,species,NULL,Pristimantis,2024-01-24 17:18:54.447684+00
+0065d5dc-d336-41ac-bcf1-d3fa42695231,Cruziohyla,amphibians,,,,,,NULL,genus,NULL,Cruziohyla,2024-01-24 17:18:54.447684+00
+41219584-15d6-4a73-9af3-29842c8e0df2,Boana,amphibians,,,,,Hylidae,NULL,genus,NULL,Boana,2024-01-24 17:18:54.447684+00
+02671a58-5bd2-41c5-b3cf-46f598647764,Hypsiboas raniceps,amphibians,Hypsiboas raniceps,NULL,Chaco Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+f2bb043b-a646-4a8d-ac9e-368f8df20652,Leptodactylus podicipinus,amphibians,Leptodactylus podicipinus,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+5d592101-472e-4b0f-aeee-a42ad64ac0d1,Ceratophrys,amphibians,,,,,,NULL,genus,NULL,Ceratophrys,2024-01-24 17:18:54.447684+00
+66a62d8e-ec8a-45b9-8feb-d42aa800069b,Rhinatrema ron,amphibians,Rhinatrema ron,NULL,Ron's Rhinatrema,NULL,Rhinatrematidae,Neotropical Tailed Caecilians,species,NULL,Rhinatrema,2024-01-31 16:46:01.310562+00
+03bbc9bb-2ac8-4542-ad5e-99e7307cbcb6,Leptodactylus leptodactyloides,amphibians,Leptodactylus leptodactyloides,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+965ac3d1-5e8b-40dc-88d8-f9f89f720a83,Callimedusa tomopterna,amphibians,Callimedusa tomopterna,NULL,Tiger-Striped Leaf Frog,NULL,,,species,NULL,Callimedusa,2024-01-31 16:46:01.310562+00
+e65aca05-32a5-47fe-b85a-23d45dfa1c85,Lysapsus limellum,amphibians,Lysapsus limellum,NULL,NULL,NULL,,NULL,species,NULL,Lysapsus,2024-01-24 17:18:54.447684+00
+6e3185fe-ed7b-4099-9a5a-d40fc0b23480,Boana multifasciata,amphibians,Boana multifasciata,NULL,,NULL,Hylidae,Tree Frogs,species,NULL,Boana,2024-01-31 16:46:01.310562+00
+93bf2872-8a84-4737-81dd-d172e4e0243b,Hamptophryne,amphibians,,,,,,NULL,genus,NULL,Hamptophryne,2024-01-24 17:18:54.447684+00
+9735be68-3f7b-4e9f-a05a-3e0252541826,Synapturanus,amphibians,,,,,,NULL,genus,NULL,Synapturanus,2024-01-24 17:18:54.447684+00
+198a7df9-35c6-4330-9d42-a85a24f77737,Scinax,amphibians,,,,,Hylidae,NULL,genus,NULL,Scinax,2024-01-24 17:18:54.447684+00
+b522cab7-4e9c-4ead-b273-f617ca4683e9,Siphonops,amphibians,,,,,,NULL,genus,NULL,Siphonops,2024-01-24 17:18:54.447684+00
+b1432d4a-5cd6-48f1-b504-e92dab57499f,Boana calcarata,amphibians,Boana calcarata,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+949dafbf-2fed-4201-a042-693cab0d6e2b,Chiasmocleis shudikarensis,amphibians,Chiasmocleis shudikarensis,NULL,NULL,NULL,,NULL,species,NULL,Chiasmocleis,2024-01-24 17:18:54.447684+00
+a3b62e81-13cc-42cd-8a1b-817bf218de1b,Leptodactylus rhodomystax,amphibians,Leptodactylus rhodomystax,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+964f6616-43ae-484b-98cb-1e99c03e8253,Rhinella marina,amphibians,Rhinella marina,NULL,NULL,NULL,,NULL,species,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+f9267a42-b7ba-4437-a764-885a17ca0cec,Phyllomedusa tomopterna,amphibians,Phyllomedusa tomopterna,NULL,Tiger-Striped Leaf Frog,NULL,Hylidae,Tree Frogs,species,NULL,Phyllomedusa,2024-01-31 16:46:01.310562+00
+af028a8f-f526-4d69-a6b9-7941a5cd5b6c,Hylidae,amphibians,,,,,Hylidae,Tree Frogs,family,40,,2024-01-24 17:18:54.447684+00
+98853ffd-7e6e-4d61-abf6-7cc28dfdda18,Amazophrynella manaos,amphibians,Amazophrynella manaos,NULL,,NULL,Bufonidae,Bufonids,species,NULL,Amazophrynella,2024-01-31 16:46:01.310562+00
+b1aed4d3-a717-4a56-8876-02d46b11f68c,Otophryne,amphibians,,,,,,NULL,genus,NULL,Otophryne,2024-01-24 17:18:54.447684+00
+7f537e86-d9c4-4e31-8b3b-6627b7151e58,Osteocephalus cabrerai,amphibians,Osteocephalus cabrerai,NULL,NULL,NULL,,NULL,species,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+522e8fe9-4226-4923-ad77-38e34f2d76e3,Rhinella margaritifera,amphibians,Rhinella margaritifera,NULL,NULL,NULL,,NULL,species,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+c9f134b8-6d0d-4faa-8173-348a48ab031e,Adenomera andreae,amphibians,Adenomera andreae,NULL,NULL,NULL,,NULL,species,NULL,Adenomera,2024-01-24 17:18:54.447684+00
+92642be8-38de-4511-b7b1-0d3e7ee73fed,Caecilia,amphibians,,,,,,NULL,genus,NULL,Caecilia,2024-01-24 17:18:54.447684+00
+605f642f-c944-417c-a353-8818240e8163,Pipa pipa,amphibians,Pipa pipa,NULL,NULL,NULL,,NULL,species,NULL,Pipa,2024-01-24 17:18:54.447684+00
+0a0790e4-8024-470b-88d8-1c694ba3d3ad,Ameerega,amphibians,,,,,,NULL,genus,NULL,Ameerega,2024-01-24 17:18:54.447684+00
+1e5ded2a-f5db-4821-9008-59f83d5b2e00,Boana lanciformis,amphibians,Boana lanciformis,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+dee07aa8-51c1-40cf-a2ba-a9c946309dfe,Scinax cruentommus,amphibians,Scinax cruentommus,NULL,Manaus Snouted Treefrog,NULL,Hylidae,Tree Frogs,species,NULL,Scinax,2024-01-31 16:46:01.310562+00
+8845530f-14aa-4626-b9ea-667897ff6d10,Phyllomedusa vaillantii,amphibians,Phyllomedusa vaillantii,NULL,NULL,NULL,,NULL,species,NULL,Phyllomedusa,2024-01-24 17:18:54.447684+00
+f19b4f69-6df4-482b-8aac-006615ec2694,Amazophrynella minuta,amphibians,Amazophrynella minuta,NULL,NULL,NULL,,NULL,species,NULL,Amazophrynella,2024-01-24 17:18:54.447684+00
+cf33e7e4-7dff-44ad-a253-d1e71b75aa79,Pithecopus hypochondrialis,amphibians,Pithecopus hypochondrialis,NULL,Orange-Legged Leaf Frog,NULL,,,species,NULL,Pithecopus,2024-01-31 16:46:01.310562+00
+9e351e14-336c-490e-9264-3d46f5e2663e,Rhaebo guttatus,amphibians,Rhaebo guttatus,NULL,NULL,NULL,,NULL,species,NULL,Rhaebo,2024-01-24 17:18:54.447684+00
+d7f0bcff-4b2c-44bf-b054-c73c9b11ee88,Osteocephalus taurinus,amphibians,Osteocephalus taurinus,NULL,NULL,NULL,,NULL,species,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+4a4bc945-f422-4896-b873-dcd85139dcca,Bufonidae,amphibians,,,,,Bufonidae,Bufonids,family,27,,2024-01-24 17:18:54.447684+00
+188a879f-6964-4bd5-8fc2-f1a7bcf0610d,Sphaenorhynchus,amphibians,,,,,,NULL,genus,NULL,Sphaenorhynchus,2024-01-24 17:18:54.447684+00
+6f134a5e-4fa4-462a-ac41-2933e008c167,Leptodactylus latrans,amphibians,Leptodactylus latrans,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+a4b06544-9ff2-4d66-9a71-c1f20b032a86,Phyzelaphryne miriamae,amphibians,Phyzelaphryne miriamae,NULL,NULL,NULL,,NULL,species,NULL,Phyzelaphryne,2024-01-24 17:18:54.447684+00
+f313a658-6d2b-454d-9af3-2ba34b44ba32,Siphonops annulatus,amphibians,Siphonops annulatus,NULL,NULL,NULL,,NULL,species,NULL,Siphonops,2024-01-24 17:18:54.447684+00
+32a7aadd-7e7b-4fd4-ad46-9dab1ebe347f,Pseudis paradoxa,amphibians,Pseudis paradoxa,NULL,NULL,NULL,,NULL,species,NULL,Pseudis,2024-01-24 17:18:54.447684+00
+40679367-f564-47f6-bc04-f442b7abe059,Pristimantis guianensis,amphibians,Pristimantis guianensis,NULL,,NULL,,,species,NULL,Pristimantis,2024-01-31 16:46:01.310562+00
+a0e1b88d-ca1e-4a50-867a-1f8418877d51,Rhinella proboscidea,amphibians,Rhinella proboscidea,NULL,NULL,NULL,,NULL,species,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+9e0a1130-ce64-4f31-a2d1-2a65dee2cee1,Boana wavrini,amphibians,Boana wavrini,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+e8c056d0-202e-4e02-a3c2-1d82189c1883,Dendropsophus riveroi,amphibians,Dendropsophus riveroi,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+c7a2fc9d-5031-4988-b074-bd83cc42abee,Pipidae,amphibians,,NULL,,NULL,Pipidae,Tongueless Frogs,family,NULL,,2024-01-31 16:46:01.310562+00
+16e80943-7a3d-4a8a-a48b-7cdd630ff654,Pipa arrabali,amphibians,Pipa arrabali,NULL,NULL,NULL,,NULL,species,NULL,Pipa,2024-01-24 17:18:54.447684+00
+94a2125e-899e-42cb-8d5d-accdd1d6e686,Leptodactylus petersii,amphibians,Leptodactylus petersii,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+f255f0e9-1c36-4fdb-a6b6-dc9f0ac4df95,Pipa snethlageae,amphibians,Pipa snethlageae,NULL,Utinga Surinam Toad,NULL,Pipidae,Tongueless Frogs,species,NULL,Pipa,2024-01-31 16:46:01.310562+00
+e0ce10f6-14b5-41e7-b4cb-ff50a84bd344,Hypsiboas fasciatus,amphibians,Hypsiboas fasciatus,NULL,Gunther's Banded Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+1b26b0ac-4f9d-4a54-858b-b05de22510f5,Potamotyphlus kaupii,amphibians,Potamotyphlus kaupii,NULL,Kaup's Caecilian,NULL,Typhlonectidae,Aquatic Caecilians,species,NULL,Potamotyphlus,2024-01-31 16:46:01.310562+00
+4735670a-279d-4016-9001-f703ea0a8d75,Phyllomedusa hypochondrialis,amphibians,Phyllomedusa hypochondrialis,NULL,Orange-Legged Leaf Frog,NULL,Hylidae,Tree Frogs,species,NULL,Phyllomedusa,2024-01-31 16:46:01.310562+00
+8d18c146-086e-459c-bd6d-65be1438fa6c,Synapturanus mirandaribeiroi,amphibians,Synapturanus mirandaribeiroi,NULL,NULL,NULL,,NULL,species,NULL,Synapturanus,2024-01-24 17:18:54.447684+00
+32873053-0310-4fa1-b0a0-5b26184f8ecf,Dendropsophus walfordi,amphibians,Dendropsophus walfordi,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+a2cd3ee8-40de-4312-9f0c-4be9f8bd026b,Hypsiboas calcaratus,amphibians,Hypsiboas calcaratus,NULL,Troschel's Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+45a313fa-764e-44d1-92fd-3df1813bb306,Leptodactylidae,amphibians,,NULL,,NULL,Leptodactylidae,Neotropical Frogs,family,NULL,,2024-01-31 16:46:01.310562+00
+af3e7b5c-51f9-46f6-85ab-cc2cc58a7d7a,Caecilia tentaculata,amphibians,Caecilia tentaculata,NULL,NULL,NULL,,NULL,species,NULL,Caecilia,2024-01-24 17:18:54.447684+00
+8b671049-f467-4577-9ea9-0e66bdd00858,Ameerega hahneli,amphibians,Ameerega hahneli,NULL,NULL,NULL,,NULL,species,NULL,Ameerega,2024-01-24 17:18:54.447684+00
+1d32a4ed-1f7a-4314-b930-efd496c9a2e7,Hypsiboas punctatus,amphibians,Hypsiboas punctatus,NULL,Polka-Dot Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+feadadca-65ce-406f-8b9b-a9f96f9a526b,Ranitomeya,amphibians,,,,,,NULL,genus,NULL,Ranitomeya,2024-01-24 17:18:54.447684+00
+4b83f949-2329-422b-aab0-9b34e75420ab,Boana fasciata,amphibians,Boana fasciata,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+5f040abd-cb29-4a30-b8eb-87c756fa129d,Dendropsophus microcephalus,amphibians,Dendropsophus microcephalus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+623cb1d5-3e09-4f4b-bbe8-3b1b09f3632d,Allobates sumtuosus,amphibians,Allobates sumtuosus,NULL,NULL,NULL,,NULL,species,NULL,Allobates,2024-01-24 17:18:54.447684+00
+b35a8fbb-25dc-4745-b1da-ce2324adc524,Scinax ruber,amphibians,Scinax ruber,NULL,NULL,NULL,,NULL,species,NULL,Scinax,2024-01-24 17:18:54.447684+00
+55c4e9eb-bd48-4ccd-a9e7-61be9aa7717a,Dendropsophus triangulum,amphibians,Dendropsophus triangulum,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+0ddbe722-0348-488d-bf07-309c7e152710,Hydrolaetare,amphibians,,NULL,,NULL,Leptodactylidae,Neotropical Frogs,genus,NULL,Hydrolaetare,2024-01-31 16:46:01.310562+00
+f204e19e-e5f4-4af2-af93-c56e3a5ec1f4,Hypsiboas lanciformis,amphibians,Hypsiboas lanciformis,NULL,Basin Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+3e074984-abcd-4437-a724-dcf3b01b8df5,Rhinella,amphibians,,,,,,NULL,genus,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+68aea93b-e23c-48cc-868a-200b5d7e5d4d,Leptodactylus,amphibians,,,,,,NULL,genus,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+cf8a7ebd-b425-46fc-92a0-7787087047f5,Dendropsophus parviceps,amphibians,Dendropsophus parviceps,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+b3eba3b4-b5b7-4dc1-84cf-d82ebee04d63,Ctenophryne,amphibians,,,,,,NULL,genus,NULL,Ctenophryne,2024-01-24 17:18:54.447684+00
+8b58e8a2-fde8-4cb7-980e-a96dc43ff308,Dendropsophus acreanus,amphibians,Dendropsophus acreanus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+8a3ea739-c5e5-4371-a1d5-bd18eabfb837,Anomaloglossus stepheni,amphibians,Anomaloglossus stepheni,NULL,NULL,NULL,,NULL,species,NULL,Anomaloglossus,2024-01-24 17:18:54.447684+00
+6bc8f10d-40b1-438d-b703-222e96f9ed1c,Leptodactylus fuscus,amphibians,Leptodactylus fuscus,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+56714aae-eda4-4365-b94e-a19e010cd8b9,Boana cinerascens,amphibians,Boana cinerascens,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+f7dcb093-b3bb-4166-a916-86c9ec8bb90f,Callimedusa,amphibians,,NULL,,NULL,,,genus,NULL,Callimedusa,2024-01-31 16:46:01.310562+00
+e4ecd8e5-53cd-4dd4-a380-36df42074da4,Physalaemus,amphibians,,,,,,NULL,genus,NULL,Physalaemus,2024-01-24 17:18:54.447684+00
+50b24d70-9aaa-4463-bbab-ab59a55d87a9,Lithobates palmipes,amphibians,Lithobates palmipes,NULL,Amazon River Frog,NULL,,,species,NULL,Lithobates,2024-01-31 16:46:01.310562+00
+c868b17c-5970-4c28-90b5-8bb866e481d3,Lithobates,amphibians,,,,,,NULL,genus,NULL,Lithobates,2024-01-24 17:18:54.447684+00
+1ff7f678-9ffa-4864-9f8d-1ce53c23b648,Pristimantis zimmermanae,amphibians,Pristimantis zimmermanae,NULL,NULL,NULL,,NULL,species,NULL,Pristimantis,2024-01-24 17:18:54.447684+00
+b0b870f9-6c6f-4927-aff4-7ba2485e291c,Physalaemus ephippifer,amphibians,Physalaemus ephippifer,NULL,NULL,NULL,,NULL,species,NULL,Physalaemus,2024-01-24 17:18:54.447684+00
+2be39948-5711-4452-bca5-7288d4668480,Hypsiboas cinerascens,amphibians,Hypsiboas cinerascens,NULL,Demerara Falls Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+e2e8ae88-3a22-4e02-9156-eb6dc0283a5c,Anomaloglossus,amphibians,,,,,,NULL,genus,NULL,Anomaloglossus,2024-01-24 17:18:54.447684+00
+288f3ccb-28a1-4f70-a4bf-8e68724e3bea,Hypsiboas boans,amphibians,Hypsiboas boans,NULL,Zebra Frog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+34da3362-675b-47f3-aa56-6023e516dc2e,Dendropsophus nanus,amphibians,Dendropsophus nanus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+a012575d-f4b9-4153-afc8-785651b1ed9b,Trachycephalus typhonius,amphibians,Trachycephalus typhonius,NULL,NULL,NULL,,NULL,species,NULL,Trachycephalus,2024-01-24 17:18:54.447684+00
+63da9ad9-68b6-4d8c-aa04-af5655d00c7a,Scinax nebulosus,amphibians,Scinax nebulosus,NULL,NULL,NULL,,NULL,species,NULL,Scinax,2024-01-24 17:18:54.447684+00
+42a3ae5b-e80c-47e6-8dce-fb8e00b6015f,Trachycephalus coriaceus,amphibians,Trachycephalus coriaceus,NULL,NULL,NULL,,NULL,species,NULL,Trachycephalus,2024-01-24 17:18:54.447684+00
+2282fce1-9944-4899-8514-c3e959a440c8,Hypsiboas wavrini,amphibians,Hypsiboas wavrini,NULL,Upper Orinoco Treefrog,NULL,,,species,NULL,Hypsiboas,2024-01-31 16:46:01.310562+00
+b5ae350a-63dc-430a-bcc4-7fff52d52ad0,Dendropsophus marmoratus,amphibians,Dendropsophus marmoratus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+fd7784f8-c987-43dd-8692-e1e8f833014e,Elachistocleis,amphibians,,,,,,NULL,genus,NULL,Elachistocleis,2024-01-24 17:18:54.447684+00
+82cd05d5-02b7-495c-84d2-4d7dbb468c3c,Pseudis,amphibians,,,,,,NULL,genus,NULL,Pseudis,2024-01-24 17:18:54.447684+00
+1873ec29-9807-4486-9272-85414ca57f21,Scinax x,amphibians,Scinax x,NULL,NULL,NULL,,NULL,species,NULL,Scinax,2024-01-24 17:18:54.447684+00
+da88d767-5730-4469-9de9-e36be9003a2a,Osteocephalus,amphibians,,,,,,NULL,genus,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+f7b293c4-e199-4097-8fff-16763a04d5d2,Pithecopus,amphibians,,NULL,,NULL,,,genus,NULL,Pithecopus,2024-01-31 16:46:01.310562+00
+00d08222-b7a1-41fa-8e9e-b58792add43e,Allobates,amphibians,,,,,,NULL,genus,NULL,Allobates,2024-01-24 17:18:54.447684+00
+38a32f2c-d48b-4291-95ed-43d8c03fadda,Boana geographica,amphibians,Boana geographica,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+7a22ad95-1d76-4759-82a3-4d5b0ad3649b,Dendropsophus brevifrons,amphibians,Dendropsophus brevifrons,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+64c8a1c6-cbdb-4e87-a923-c9c75a9ead09,Chiasmocleis bassleri,amphibians,Chiasmocleis bassleri,NULL,NULL,NULL,,NULL,species,NULL,Chiasmocleis,2024-01-24 17:18:54.447684+00
+960a7c29-3edc-45ac-9d14-b3c6e245fe38,Trachycephalus,amphibians,,,,,,NULL,genus,NULL,Trachycephalus,2024-01-24 17:18:54.447684+00
+edbfbc09-1f82-47f0-a93c-d81a37fd1f1b,Phyllomedusa,amphibians,,,,,Hylidae,NULL,genus,NULL,Phyllomedusa,2024-01-24 17:18:54.447684+00
+39d0404b-dc57-4e9c-93ba-03f464b232ea,Rhaebo,amphibians,,,,,,NULL,genus,NULL,Rhaebo,2024-01-24 17:18:54.447684+00
+51fc10d4-661a-4de7-84b0-8d8d39b4df04,Microhylidae,amphibians,,,,,Microhylidae,Microhylid Frogs,family,48,,2024-01-24 17:18:54.447684+00
+0ec05524-e37c-4edf-baf8-16d331b92310,Pristimantis zeuctotylus,amphibians,Pristimantis zeuctotylus,NULL,NULL,NULL,,NULL,species,NULL,Pristimantis,2024-01-24 17:18:54.447684+00
+2d297272-93ca-48b3-b278-5cf0de917086,Amazophrynella,amphibians,,,,,Bufonidae,NULL,genus,NULL,Amazophrynella,2024-01-24 17:18:54.447684+00
+73386006-6abc-4665-9cbb-54ba7abea3d1,Dendropsophus haraldschultzi,amphibians,Dendropsophus haraldschultzi,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+4b18f109-7959-4bf4-bfe6-6f43edd8cb02,Otophryne pyburni,amphibians,Otophryne pyburni,NULL,NULL,NULL,,NULL,species,NULL,Otophryne,2024-01-24 17:18:54.447684+00
+f599bbbb-3e80-4244-b60d-48cb0cad24de,Rhinatrematidae,amphibians,,NULL,,NULL,Rhinatrematidae,Neotropical Tailed Caecilians,family,NULL,,2024-01-31 16:46:01.310562+00
+a7f3d79b-9a5f-4c32-857a-85c443f2c935,Adenomera,amphibians,,,,,,NULL,genus,NULL,Adenomera,2024-01-24 17:18:54.447684+00
+800ad784-35e3-4c6e-b1a2-5d2de6a86910,Leptodactylus knudseni,amphibians,Leptodactylus knudseni,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00
+7cd24d8b-c2a2-4828-912d-b0e8cd2f318b,Pristimantis vilarsi,amphibians,Pristimantis vilarsi,NULL,NULL,NULL,,NULL,species,NULL,Pristimantis,2024-01-24 17:18:54.447684+00
+8a927f65-f992-4072-9928-f8089e77d7a5,Rhinella granulosa,amphibians,Rhinella granulosa,NULL,NULL,NULL,,NULL,species,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+51db4326-81a6-4866-8e7b-56aacc752816,Anomaloglossus baeobatrachus,amphibians,Anomaloglossus baeobatrachus,NULL,NULL,NULL,,NULL,species,NULL,Anomaloglossus,2024-01-24 17:18:54.447684+00
+274d432d-fa7a-49d3-8ef8-1e6b7d290417,Atelopus,amphibians,,,,,Bufonidae,NULL,genus,NULL,Atelopus,2024-01-24 17:18:54.447684+00
+253f765e-b8b3-4cfe-95fc-8c42a0c868c2,Sphaenorhynchus carneus,amphibians,Sphaenorhynchus carneus,NULL,NULL,NULL,,NULL,species,NULL,Sphaenorhynchus,2024-01-24 17:18:54.447684+00
+e12a4194-d011-4f79-9777-78a9a6506d6c,Pristimantis,amphibians,,,,,,NULL,genus,NULL,Pristimantis,2024-01-24 17:18:54.447684+00
+975edb43-38f9-42aa-96b1-8ec8ce71778e,Osteocephalus buckleyi,amphibians,Osteocephalus buckleyi,NULL,NULL,NULL,,NULL,species,NULL,Osteocephalus,2024-01-24 17:18:54.447684+00
+e4b13a06-746d-4036-b92c-1fee438d78f5,Typhlonectes compressicauda,amphibians,Typhlonectes compressicauda,NULL,Cayenne Caecilian,NULL,Typhlonectidae,Aquatic Caecilians,species,NULL,Typhlonectes,2024-01-31 16:46:01.310562+00
+163e7291-a510-4e42-8fb1-7c643ba5dfd2,Potamotyphlus,amphibians,,NULL,,NULL,Typhlonectidae,Aquatic Caecilians,genus,NULL,Potamotyphlus,2024-01-31 16:46:01.310562+00
+8f6b8af7-84fa-4d60-b954-1b48b949d892,Pseudopaludicola boliviana,amphibians,Pseudopaludicola boliviana,NULL,Bolivian Swamp Frog,NULL,Leptodactylidae,Neotropical Frogs,species,NULL,Pseudopaludicola,2024-01-31 16:46:01.310562+00
+4cea46c8-ca39-43d1-96a1-335dbbd4a7f6,Allobates femoralis,amphibians,Allobates femoralis,NULL,NULL,NULL,,NULL,species,NULL,Allobates,2024-01-24 17:18:54.447684+00
+3e9f2d7c-8a3a-42a2-bb15-b334d625ca27,Typhlonectidae,amphibians,,NULL,,NULL,Typhlonectidae,Aquatic Caecilians,family,NULL,,2024-01-31 16:46:01.310562+00
+3d4423b9-5415-4c5f-a9b9-410d52e02943,Phyllomedusa tarsius,amphibians,Phyllomedusa tarsius,NULL,NULL,NULL,,NULL,species,NULL,Phyllomedusa,2024-01-24 17:18:54.447684+00
+26a91061-57a9-4afc-b854-9822b1049887,Dendropsophus rossalleni,amphibians,Dendropsophus rossalleni,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+71400e9a-809a-44f9-abeb-6f2e1c46efeb,Typhlonectes,amphibians,,NULL,,NULL,Typhlonectidae,Aquatic Caecilians,genus,NULL,Typhlonectes,2024-01-31 16:46:01.310562+00
+3b54d73d-45f6-4a3b-8c46-b6da4b7533e2,Rhinella castaneotica,amphibians,Rhinella castaneotica,NULL,NULL,NULL,,NULL,species,NULL,Rhinella,2024-01-24 17:18:54.447684+00
+e82cdf37-b527-4c0f-a7d5-cbd7b4d02a90,Ctenophryne geayi,amphibians,Ctenophryne geayi,NULL,NULL,NULL,,NULL,species,NULL,Ctenophryne,2024-01-24 17:18:54.447684+00
+dadde697-5f77-45f8-9074-c09868de60c0,Allophryne ruthveni,amphibians,Allophryne ruthveni,NULL,NULL,NULL,,NULL,species,NULL,Allophryne,2024-01-24 17:18:54.447684+00
+8feb93b6-95cb-45e8-8fea-c2d51d4bf085,Lysapsus,amphibians,,,,,,NULL,genus,NULL,Lysapsus,2024-01-24 17:18:54.447684+00
+a306dbf8-f234-4fe4-8031-a6aadf40982b,Potomotyphlus kaupii,amphibians,Potomotyphlus kaupii,NULL,Kaup's Caecilian,NULL,,,species,NULL,Potomotyphlus,2024-01-31 16:46:01.310562+00
+8a5bfe35-994e-43ef-a8a7-2d5ae4ced851,Boana boans,amphibians,Boana boans,NULL,NULL,NULL,,NULL,species,NULL,Boana,2024-01-24 17:18:54.447684+00
+9673566f-9317-44dc-a2ce-33e51fcbbc68,Allophryne,amphibians,,,,,,NULL,genus,NULL,Allophryne,2024-01-24 17:18:54.447684+00
+866f44e6-cfe3-40c5-8501-8e1c469aa168,Dendropsophus leucophyllatus,amphibians,Dendropsophus leucophyllatus,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+3a7d1b59-47ee-4043-b63e-d24c04b9aabb,Scarthyla,amphibians,,,,,,NULL,genus,NULL,Scarthyla,2024-01-24 17:18:54.447684+00
+8f0011ab-38f2-423e-a3f3-f8254c7c9428,Dendropsophus miyatai,amphibians,Dendropsophus miyatai,NULL,NULL,NULL,,NULL,species,NULL,Dendropsophus,2024-01-24 17:18:54.447684+00
+184fc143-2200-4e69-8d2e-a79a988c94c1,Lithodytes lineatus,amphibians,Lithodytes lineatus,NULL,NULL,NULL,,NULL,species,NULL,Lithodytes,2024-01-24 17:18:54.447684+00
+80de6924-95bf-493c-9708-78d8da86e72e,Phyllomedusa bicolor,amphibians,Phyllomedusa bicolor,NULL,NULL,NULL,,NULL,species,NULL,Phyllomedusa,2024-01-24 17:18:54.447684+00
+93150ac3-2936-4682-9dbb-758150d184a6,Lithodytes,amphibians,,,,,,NULL,genus,NULL,Lithodytes,2024-01-24 17:18:54.447684+00
+dcd1ac60-3c68-46c6-bd71-7456e950dfec,Leptodactylus stenodema,amphibians,Leptodactylus stenodema,NULL,NULL,NULL,,NULL,species,NULL,Leptodactylus,2024-01-24 17:18:54.447684+00

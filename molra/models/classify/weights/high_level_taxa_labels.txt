@@ -1,0 +1,4 @@
+0 plant
+1 palm
+2 flower
+3 fern

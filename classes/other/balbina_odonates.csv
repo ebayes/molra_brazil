@@ -1,0 +1,76 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+8fd2d8e4-4f3e-412f-ae07-74c80fd609f0,Zenithoptera lanei,odonates,Zenithoptera lanei,NULL,NULL,NULL,,NULL,species,NULL,Zenithoptera,2024-01-24 17:18:54.447684+00
+be61a8f8-7ab8-4e91-ae46-ada060298d45,Tholymis,odonates,,,,,,Common Skimmers,genus,22,Tholymis,2024-01-24 17:18:54.447684+00
+0efe5698-25fa-40e6-b165-c0138f1a6a18,Acanthagrion,odonates,,,,,,NULL,genus,NULL,Acanthagrion,2024-01-24 17:18:54.447684+00
+db262d56-5a9b-4a9c-965f-22f8c80b1470,Argia,odonates,,,,,,NULL,genus,NULL,Argia,2024-01-24 17:18:54.447684+00
+486b2865-7790-4819-b0e9-418d636734f7,Hetaerina,odonates,,,,,,NULL,genus,NULL,Hetaerina,2024-01-24 17:18:54.447684+00
+fd127237-ea14-4740-b80c-04f07cefd00c,Erythrodiplax umbrata,odonates,Erythrodiplax umbrata,NULL,NULL,NULL,,NULL,species,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+4e563ed3-87e2-4068-88c6-1942bf1ea100,Psaironeura tenuissima,odonates,Psaironeura tenuissima,NULL,NULL,NULL,,NULL,species,NULL,Psaironeura,2024-01-24 17:18:54.447684+00
+f1c6b631-1676-4d5c-bf3b-1657ee1cfb1e,Metaleptobasis,odonates,,,,,,NULL,genus,NULL,Metaleptobasis,2024-01-24 17:18:54.447684+00
+45e97269-0a34-489f-a973-183febd0c13e,Gynothemis pumila,odonates,Gynothemis pumila,NULL,NULL,NULL,,NULL,species,NULL,Gynothemis,2024-01-24 17:18:54.447684+00
+ed0be490-144f-438f-a5ca-2c62b57c60d9,Acanthagrion apicale,odonates,Acanthagrion apicale,NULL,NULL,NULL,,NULL,species,NULL,Acanthagrion,2024-01-24 17:18:54.447684+00
+f7f4ad68-5742-4b1e-b69d-947a17f5b7db,Erythemis attala,odonates,Erythemis attala,NULL,NULL,NULL,,NULL,species,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+ebe5c1e3-5283-45f3-8cce-359a78bd6a46,Erythrodiplax,odonates,,,,,,NULL,genus,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+e2eddf74-ad5e-4ad9-863f-8faabd38f547,Tramea,odonates,,,,,,NULL,genus,NULL,Tramea,2024-01-24 17:18:54.447684+00
+475a3cc8-f07f-4161-b6ec-032be568ea36,Anatya guttata,odonates,Anatya guttata,NULL,NULL,NULL,,NULL,species,NULL,Anatya,2024-01-24 17:18:54.447684+00
+7ea76329-2362-4904-a8da-3d2454e7bf9b,Erythemis vesiculosa,odonates,Erythemis vesiculosa,NULL,NULL,NULL,,NULL,species,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+14c3f547-f641-47a6-99b3-08d6a559ebe1,Tholymis citrina,odonates,Tholymis citrina,NULL,NULL,NULL,,NULL,species,NULL,Tholymis,2024-01-24 17:18:54.447684+00
+57bcd496-14d3-4813-9ec7-e9d7f6327222,Hetaerina laesa,odonates,Hetaerina laesa,NULL,NULL,NULL,,NULL,species,NULL,Hetaerina,2024-01-24 17:18:54.447684+00
+3c9710fc-3b1d-431e-a675-9d7cb58471d6,Micrathyria,odonates,,,,,,NULL,genus,NULL,Micrathyria,2024-01-24 17:18:54.447684+00
+3535c813-5b42-4e05-8580-a4da4e9028a4,Brachymesia herbida,odonates,Brachymesia herbida,NULL,NULL,NULL,,NULL,species,NULL,Brachymesia,2024-01-24 17:18:54.447684+00
+daffdaac-e142-405b-8d88-0eccefc0667f,Erythrodiplax castanea,odonates,Erythrodiplax castanea,NULL,NULL,NULL,,NULL,species,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+f133d414-61af-40c0-8254-7772fd47751c,Psaironeura bifurcata,odonates,Psaironeura bifurcata,NULL,NULL,NULL,,NULL,species,NULL,Psaironeura,2024-01-24 17:18:54.447684+00
+fa0f6d75-b346-4164-89a7-a9ceceff954f,Argia indicatrix,odonates,Argia indicatrix,NULL,NULL,NULL,,NULL,species,NULL,Argia,2024-01-24 17:18:54.447684+00
+c4113654-df7e-4bde-a319-f55ae5462424,Neuraeschna harpya,odonates,Neuraeschna harpya,NULL,NULL,NULL,,NULL,species,NULL,Neuraeschna,2024-01-24 17:18:54.447684+00
+ffe3771f-5581-406b-a8b4-e01a4c0e64c3,Triacanthagyna,odonates,,,,,,NULL,genus,NULL,Triacanthagyna,2024-01-24 17:18:54.447684+00
+f1d8fe8a-dff9-4f8c-a77b-a721d7630ade,Perithemis,odonates,,,,,,NULL,genus,NULL,Perithemis,2024-01-24 17:18:54.447684+00
+4b52aabc-be1d-4f4b-b8ef-61c9b8c40798,Protoneura,odonates,,,,,,NULL,genus,NULL,Protoneura,2024-01-24 17:18:54.447684+00
+18940ad1-486d-429c-a2cc-0ae421cd147a,Triacanthagyna septima,odonates,Triacanthagyna septima,NULL,NULL,NULL,,NULL,species,NULL,Triacanthagyna,2024-01-24 17:18:54.447684+00
+534bffb2-2022-43e4-9a3d-35fa68568ba2,Elasmothemis,odonates,,,,,,NULL,genus,NULL,Elasmothemis,2024-01-24 17:18:54.447684+00
+69b2544f-940b-4be3-a7a5-76f33facf01c,Dasythemis esmeralda,odonates,Dasythemis esmeralda,NULL,NULL,NULL,,NULL,species,NULL,Dasythemis,2024-01-24 17:18:54.447684+00
+dddc2567-83d3-4477-bfe9-5418cb60f2dd,Diastatops obscura,odonates,Diastatops obscura,NULL,NULL,NULL,,NULL,species,NULL,Diastatops,2024-01-24 17:18:54.447684+00
+57927c10-3261-4ee6-9515-3c18d3f98089,Dasythemis,odonates,,,,,,NULL,genus,NULL,Dasythemis,2024-01-24 17:18:54.447684+00
+b37c4b91-ded5-4bcc-a036-28682d74bdd9,Diastatops pullata,odonates,Diastatops pullata,NULL,NULL,NULL,,NULL,species,NULL,Diastatops,2024-01-24 17:18:54.447684+00
+c4c0d3d1-d6a4-479f-b0d6-7e3dea515da8,Erythrodiplax unimaculata,odonates,Erythrodiplax unimaculata,NULL,NULL,NULL,,NULL,species,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+ed551dbc-94ad-4c2f-b1c0-885290a8c6a6,Uracis ovipositrix,odonates,Uracis ovipositrix,NULL,NULL,NULL,,NULL,species,NULL,Uracis,2024-01-24 17:18:54.447684+00
+2e7ca54b-8579-4360-8b66-15e9a40e0270,Phoenicagrion flammeum,odonates,Phoenicagrion flammeum,NULL,NULL,NULL,,NULL,species,NULL,Phoenicagrion,2024-01-24 17:18:54.447684+00
+d27dab01-3ab5-463f-a774-a488c87a04bf,Neoneura,odonates,,,,,,NULL,genus,NULL,Neoneura,2024-01-24 17:18:54.447684+00
+d8c7638a-ec9d-4da2-b597-157adb9cb21d,Orthemis,odonates,,,,,,NULL,genus,NULL,Orthemis,2024-01-24 17:18:54.447684+00
+6cb42986-6d8c-430e-ba92-48883d1c7c4a,Perithemis lais,odonates,Perithemis lais,NULL,NULL,NULL,,NULL,species,NULL,Perithemis,2024-01-24 17:18:54.447684+00
+8cf2a309-b409-4681-8565-1a7c92855c5b,Protoneura tenuis,odonates,Protoneura tenuis,NULL,NULL,NULL,,NULL,species,NULL,Protoneura,2024-01-24 17:18:54.447684+00
+09c4fcbc-d49d-4cdc-8ccf-45c54e549c9f,Micrathyria atra,odonates,Micrathyria atra,NULL,NULL,NULL,,NULL,species,NULL,Micrathyria,2024-01-24 17:18:54.447684+00
+ee532fb3-b863-4f7a-8a3d-ea6db68e9241,Diastatops intensa,odonates,Diastatops intensa,NULL,NULL,NULL,,NULL,species,NULL,Diastatops,2024-01-24 17:18:54.447684+00
+353ff9fd-4f67-4634-aee3-6f5d2efe289c,Fylgia,odonates,,,,,,NULL,genus,NULL,Fylgia,2024-01-24 17:18:54.447684+00
+4f281908-4cf9-4206-8c05-56134a2df62d,Metaleptobasis brysonima,odonates,Metaleptobasis brysonima,NULL,NULL,NULL,,NULL,species,NULL,Metaleptobasis,2024-01-24 17:18:54.447684+00
+e4eed9fa-0bf6-47be-b339-81175603e8e6,Epipleoneura capilliformis,odonates,Epipleoneura capilliformis,NULL,NULL,NULL,,NULL,species,NULL,Epipleoneura,2024-01-24 17:18:54.447684+00
+d7096589-735a-4d33-90ec-cdc3710d7117,Elasmothemis cannacrioides,odonates,Elasmothemis cannacrioides,NULL,NULL,NULL,,NULL,species,NULL,Elasmothemis,2024-01-24 17:18:54.447684+00
+ac53126f-2069-4117-8dcc-fdb143b3e81b,Telebasis simulata,odonates,Telebasis simulata,NULL,NULL,NULL,,NULL,species,NULL,Telebasis,2024-01-24 17:18:54.447684+00
+7c556a47-f17b-463b-bbb0-2cecd6e36192,Diastatops,odonates,,,,,,NULL,genus,NULL,Diastatops,2024-01-24 17:18:54.447684+00
+9aa0cf95-8355-4459-abb7-fe38b1bbeaf3,Uracis,odonates,,,,,,NULL,genus,NULL,Uracis,2024-01-24 17:18:54.447684+00
+d0e34c06-db20-4efc-bb34-6f5eadb4ae83,Orthemis discolor,odonates,Orthemis discolor,NULL,NULL,NULL,,NULL,species,NULL,Orthemis,2024-01-24 17:18:54.447684+00
+7ec6873d-2855-4f67-8eca-a696778f71c2,Psaironeura,odonates,,,,,,NULL,genus,NULL,Psaironeura,2024-01-24 17:18:54.447684+00
+c2d1a4c1-062f-408f-ab54-d61770589e09,Zenithoptera,odonates,,,,,,NULL,genus,NULL,Zenithoptera,2024-01-24 17:18:54.447684+00
+28cb4d15-e5a3-4fa5-8e1d-b13706d375c9,Erythemis haematogastra,odonates,Erythemis haematogastra,NULL,NULL,NULL,,NULL,species,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+8c269a0a-156c-4ec3-9892-3298543725c3,Fylgia amazonica,odonates,Fylgia amazonica,NULL,NULL,NULL,,NULL,species,NULL,Fylgia,2024-01-24 17:18:54.447684+00
+b3ac909d-b39a-42dc-9c6e-d7a07563ade5,Diastatops estherae,odonates,Diastatops estherae,NULL,NULL,NULL,,NULL,species,NULL,Diastatops,2024-01-24 17:18:54.447684+00
+07837e58-685b-480c-a7cc-d7bf5ed8920c,Neoneura bilinearis,odonates,Neoneura bilinearis,NULL,NULL,NULL,,NULL,species,NULL,Neoneura,2024-01-24 17:18:54.447684+00
+632bb778-5588-4509-b80c-2536ded1afe3,Brachymesia,odonates,,,,,,NULL,genus,NULL,Brachymesia,2024-01-24 17:18:54.447684+00
+d4406626-3c09-40f0-97e3-a523d63a12db,Anatya,odonates,,,,,,NULL,genus,NULL,Anatya,2024-01-24 17:18:54.447684+00
+84f4a55a-07a0-43bb-96c6-a04c996c0c6b,Tramea darwini,odonates,Tramea darwini,NULL,NULL,NULL,,NULL,species,NULL,Tramea,2024-01-24 17:18:54.447684+00
+91a6a61b-781d-420b-8199-94bba2b2c763,Phoenicagrion,odonates,,,,,,NULL,genus,NULL,Phoenicagrion,2024-01-24 17:18:54.447684+00
+d5cb6f93-c29b-4eeb-a315-25001c5f15f4,Orthemis aequilibris,odonates,Orthemis aequilibris,NULL,NULL,NULL,,NULL,species,NULL,Orthemis,2024-01-24 17:18:54.447684+00
+3cbc0cb8-e250-41bf-8755-5ea801dce461,Erythrodiplax attenuata,odonates,Erythrodiplax attenuata,NULL,NULL,NULL,,NULL,species,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+df915401-6981-4d50-82f8-638a2ddee30f,Orthemis biolleyi,odonates,Orthemis biolleyi,NULL,NULL,NULL,,NULL,species,NULL,Orthemis,2024-01-24 17:18:54.447684+00
+e3a2ec9c-719d-4e0e-881a-8aed016f27ea,Erythemis,odonates,,,,,,NULL,genus,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+b5264b7d-c042-4369-b777-95cd46f3f0ee,Epipleoneura,odonates,,,,,,NULL,genus,NULL,Epipleoneura,2024-01-24 17:18:54.447684+00
+63ac8d74-c3b1-45de-9148-e3e5a695addd,Erythemis plebeja,odonates,Erythemis plebeja,NULL,NULL,NULL,,NULL,species,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+4fca83ca-2344-4965-9364-c87121af9846,Neuraeschna,odonates,,,,,,NULL,genus,NULL,Neuraeschna,2024-01-24 17:18:54.447684+00
+13b788d0-aea2-4819-92d6-152566cc5704,Epipleoneura lamina,odonates,Epipleoneura lamina,NULL,NULL,NULL,,NULL,species,NULL,Epipleoneura,2024-01-24 17:18:54.447684+00
+5825b5c7-3651-4ed8-833d-c9d49c6cb300,Erythemis peruviana,odonates,Erythemis peruviana,NULL,NULL,NULL,,NULL,species,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+5a0d3c94-43e7-4e86-bcea-80eebbf379b8,Orthemis schmidti,odonates,Orthemis schmidti,NULL,NULL,NULL,,NULL,species,NULL,Orthemis,2024-01-24 17:18:54.447684+00
+4ed53f3c-2efb-4965-aaa9-d54ab590ff85,Telebasis,odonates,,,,,,NULL,genus,NULL,Telebasis,2024-01-24 17:18:54.447684+00
+c11627c7-266c-49a2-bca1-3f6d72569059,Erythrodiplax fusca,odonates,Erythrodiplax fusca,NULL,NULL,NULL,,NULL,species,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+1a7bf970-e678-4d6c-a423-94cde02938fa,Micrathyria tibialis,odonates,Micrathyria tibialis,NULL,NULL,NULL,,NULL,species,NULL,Micrathyria,2024-01-24 17:18:54.447684+00
+f844b121-2348-4883-a6b2-0712713dc4c6,Gynothemis,odonates,,,,,,NULL,genus,NULL,Gynothemis,2024-01-24 17:18:54.447684+00
+56550728-278f-48cf-96e7-b08dcb7800a2,Micrathyria catenata,odonates,Micrathyria catenata,NULL,NULL,NULL,,NULL,species,NULL,Micrathyria,2024-01-24 17:18:54.447684+00
+b5dce470-9ccc-40b5-a189-eab39a6cbc57,Uracis imbuta,odonates,Uracis imbuta,NULL,NULL,NULL,,NULL,species,NULL,Uracis,2024-01-24 17:18:54.447684+00

@@ -1,0 +1,188 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+b1135acc-03ef-4227-b127-7d322ffbe5f3,Strumigenys denticulata,ants,Strumigenys denticulata,NULL,,NULL,,,species,NULL,Strumigenys,2024-01-31 16:46:01.310562+00
+3cb06f64-ed51-4230-a555-44d859a149e3,Dolichoderus laminatus,ants,Dolichoderus laminatus,NULL,,NULL,,,species,NULL,Dolichoderus,2024-01-31 16:46:01.310562+00
+21c0ce64-7ffe-402c-b93d-afba7c7d8b44,Dolichoderus bispinosus,ants,Dolichoderus bispinosus,NULL,NULL,NULL,,NULL,species,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+02b0d216-31bd-41c9-a17d-dce5ca623881,Mayaponera,ants,,,,,,NULL,genus,NULL,Mayaponera,2024-01-24 17:18:54.447684+00
+f663ce4f-30b4-4129-abe5-8c09689d103e,Mycocepurus smithii,ants,Mycocepurus smithii,NULL,,NULL,,,species,NULL,Mycocepurus,2024-01-31 16:46:01.310562+00
+b255720a-9087-431f-a10c-caeba5fb2751,Labidus,ants,,NULL,,NULL,Formicidae,,genus,NULL,Labidus,2024-01-31 16:46:01.310562+00
+adacc9a5-f728-477b-9631-45fd30656aa8,Procryptocerus pictipes,ants,Procryptocerus pictipes,NULL,,NULL,,,species,NULL,Procryptocerus,2024-01-31 16:46:01.310562+00
+dd356fe2-282f-4cd6-99da-ebffaca6c926,Gnamptogenys acuminata,ants,Gnamptogenys acuminata,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+9d68d0b5-2aec-4237-aef1-a618cf113d0d,Dendromyrmex nidulans,ants,Dendromyrmex nidulans,NULL,,NULL,,,species,NULL,Dendromyrmex,2024-01-31 16:46:01.310562+00
+2108cd34-707a-412f-a888-2302747af230,Gnamptogenys pleurodon,ants,Gnamptogenys pleurodon,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+a37f32e4-f501-4632-98e8-47db1fbcfda8,Ochetomyrmex,ants,,NULL,,NULL,,,genus,NULL,Ochetomyrmex,2024-01-31 16:46:01.310562+00
+15eb34a3-c8d0-4c89-9245-8db1e02df96e,Pseudomyrmex termitarius,ants,Pseudomyrmex termitarius,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+8686ce91-a010-49da-9980-03b01f3408ec,Neoponera villosa,ants,Neoponera villosa,NULL,NULL,NULL,,NULL,species,NULL,Neoponera,2024-01-24 17:18:54.447684+00
+1a480043-0910-4c7c-a1de-6584df169879,Pachycondyla apicalis,ants,Pachycondyla apicalis,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+aa25cc2f-8b18-48d0-aab4-3c492c1c5d67,Ectatomma ruidum,ants,Ectatomma ruidum,NULL,,NULL,,,species,NULL,Ectatomma,2024-01-31 16:46:01.310562+00
+06e97f18-4d75-4527-b468-3ba163716775,Cephalotes clypeatus,ants,Cephalotes clypeatus,NULL,NULL,NULL,,NULL,species,NULL,Cephalotes,2024-01-24 17:18:54.447684+00
+08fbbc57-b5f8-4b67-a397-1435c146344e,Trachymyrmex,ants,,NULL,,NULL,,,genus,NULL,Trachymyrmex,2024-01-31 16:46:01.310562+00
+88589dd8-6883-423b-a17d-37d3461b3ed7,Ectomomyrmex,ants,,,,,Formicidae,NULL,genus,NULL,Ectomomyrmex,2024-01-24 17:18:54.447684+00
+a733daa5-3cfa-4508-9e8c-ef21caa0c9bb,Solenopsis,ants,,,,,Formicidae,NULL,genus,NULL,Solenopsis,2024-01-24 17:18:54.447684+00
+9cc4992f-0378-41de-be70-e86f059db6f8,Labidus coecus,ants,Labidus coecus,NULL,,NULL,,,species,NULL,Labidus,2024-01-31 16:46:01.310562+00
+0d249552-a02c-4406-98d7-5747dcaad094,Megalomyrmex,ants,,NULL,,NULL,,,genus,NULL,Megalomyrmex,2024-01-31 16:46:01.310562+00
+f5615487-4a2c-477b-852c-5b3c8b36cfea,Daceton,ants,,,,,,NULL,genus,NULL,Daceton,2024-01-24 17:18:54.447684+00
+f990aa4a-1a7e-455c-99b5-32e0aef8318c,Octostruma iheringi,ants,Octostruma iheringi,NULL,,NULL,,,species,NULL,Octostruma,2024-01-31 16:46:01.310562+00
+80bc33ce-cd61-4180-8c4a-2452e9842d95,Anochetus diegensis,ants,Anochetus diegensis,NULL,,NULL,,,species,NULL,Anochetus,2024-01-31 16:46:01.310562+00
+e2981c2a-d4f8-49cc-b0f7-374b485b6ff8,Azteca alfari,ants,Azteca alfari,NULL,,NULL,,,species,NULL,Azteca,2024-01-31 16:46:01.310562+00
+ff2f4ed7-6580-49cd-9e08-c99cc387997c,Pseudomyrmex tenuis,ants,Pseudomyrmex tenuis,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+da18d0f4-67b3-44aa-8df9-dc45952cc00c,Cyphomyrmex costatus,ants,Cyphomyrmex costatus,NULL,,NULL,,,species,NULL,Cyphomyrmex,2024-01-31 16:46:01.310562+00
+9c7820a6-79df-4abf-80c0-2c04ecfde662,Odontomachus hastatus,ants,Odontomachus hastatus,NULL,NULL,NULL,,NULL,species,NULL,Odontomachus,2024-01-24 17:18:54.447684+00
+01154363-717b-4134-919f-2b42d3754af8,Pseudomyrmex euryblemma,ants,Pseudomyrmex euryblemma,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+8b647940-0004-4e41-9475-8bd515c61fca,Camponotus sericatus,ants,Camponotus sericatus,NULL,,NULL,,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+e660b7b6-cf2d-4fec-9879-6aa27cc2bbc9,Pyramica villiersi,ants,Pyramica villiersi,NULL,,NULL,,,species,NULL,Pyramica,2024-01-31 16:46:01.310562+00
+de88e6d7-93a7-4b98-9721-599651a85c10,Gigantiops destructor,ants,Gigantiops destructor,NULL,NULL,NULL,,NULL,species,NULL,Gigantiops,2024-01-24 17:18:54.447684+00
+6148d69b-c042-4fde-b418-912db4accecc,Pachycondyla harpax,ants,Pachycondyla harpax,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+41104833-8e1e-49ff-a89f-49ceaa6f7af3,Platythyrea sinuata,ants,Platythyrea sinuata,NULL,,NULL,,,species,NULL,Platythyrea,2024-01-31 16:46:01.310562+00
+5a862999-1275-4b40-a098-fc12098504e5,Neivamyrmex gibbatus,ants,Neivamyrmex gibbatus,NULL,,NULL,,,species,NULL,Neivamyrmex,2024-01-31 16:46:01.310562+00
+2fb2b84a-2565-474b-a913-8ba7fcc5d40b,Pseudomyrmex ita,ants,Pseudomyrmex ita,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+4361f4b9-bae9-4d44-9936-44a4052f1d5e,Ochetomyrmex semipolitus,ants,Ochetomyrmex semipolitus,NULL,,NULL,,,species,NULL,Ochetomyrmex,2024-01-31 16:46:01.310562+00
+0ad4df86-6b64-4f95-be12-5a8ca1c8ab0e,Leptothorax,ants,,NULL,,NULL,,,genus,NULL,Leptothorax,2024-01-31 16:46:01.310562+00
+80f623eb-9621-4d75-909d-d948a04d86fb,Ectomomyrmex apicalis,ants,Ectomomyrmex apicalis,NULL,NULL,NULL,,NULL,species,NULL,Ectomomyrmex,2024-01-24 17:18:54.447684+00
+0fa9ce91-5ec1-4797-a454-da47bb5940e7,Strumigenys louisianae,ants,Strumigenys louisianae,NULL,,NULL,,,species,NULL,Strumigenys,2024-01-31 16:46:01.310562+00
+97f32e0e-1bff-47ff-b709-0fd2e0b73965,Sericomyrmex opacus,ants,Sericomyrmex opacus,NULL,,NULL,,,species,NULL,Sericomyrmex,2024-01-31 16:46:01.310562+00
+d45c1611-64c8-45fb-8d1b-bada8990230b,Neoponera,ants,,,,,,NULL,genus,NULL,Neoponera,2024-01-24 17:18:54.447684+00
+be597816-680e-4b89-945f-59abc84ac450,Formicidae,ants,,,,,Formicidae,NULL,family,NULL,,2024-01-24 17:18:54.447684+00
+509ceefe-5b06-46db-9006-9e9e86136d35,Cephalotes cordatus,ants,Cephalotes cordatus,NULL,,NULL,,,species,NULL,Cephalotes,2024-01-31 16:46:01.310562+00
+487f38c6-b3ac-4af9-8bd9-db063bfdb11c,Eciton burchellii,ants,Eciton burchellii,NULL,NULL,NULL,,NULL,species,NULL,Eciton,2024-01-24 17:18:54.447684+00
+24f94183-e425-4620-8315-a4ec619ab9c4,Cardiocondyla,ants,,,,,Formicidae,NULL,genus,NULL,Cardiocondyla,2024-01-24 17:18:54.447684+00
+b8d94fca-adf1-42f1-9cc9-f8ca158d2062,Dorymyrmex pyramicus,ants,Dorymyrmex pyramicus,NULL,,NULL,Formicidae,,species,NULL,Dorymyrmex,2024-01-31 16:46:01.310562+00
+7c19a0e3-fe41-4425-af7c-d542d9c9625d,Ectatomma tuberculatum,ants,Ectatomma tuberculatum,NULL,NULL,NULL,,NULL,species,NULL,Ectatomma,2024-01-24 17:18:54.447684+00
+581e6df4-5e75-4473-9571-4c34174cef25,Cephalotes minutus,ants,Cephalotes minutus,NULL,,NULL,,,species,NULL,Cephalotes,2024-01-31 16:46:01.310562+00
+c19d25e3-b75b-4f99-b583-cafb4b2a9303,Dolichoderus decollatus,ants,Dolichoderus decollatus,NULL,NULL,NULL,,NULL,species,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+671c163a-b0b6-4a30-99a4-9997e108640c,Camponotus indet,ants,Camponotus indet,NULL,,NULL,,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+5520781f-5497-4f0f-b356-2aa302fcc202,Mycocepurus,ants,,NULL,,NULL,,,genus,NULL,Mycocepurus,2024-01-31 16:46:01.310562+00
+ac0d81cc-f673-429e-866c-45c2f16ffe8f,Ectatomma brunneum,ants,Ectatomma brunneum,NULL,NULL,NULL,,NULL,species,NULL,Ectatomma,2024-01-24 17:18:54.447684+00
+083da572-8c02-443a-a63b-26bd75bb9e5a,Pseudomyrmex tenuissimus,ants,Pseudomyrmex tenuissimus,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+28887ad6-c1b9-4008-9cd5-f40ef379e427,Pseudomyrmex penetrator,ants,Pseudomyrmex penetrator,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+cbe2fbb4-ae1c-4b5c-869b-e404371de890,Pseudomyrmex oculatus,ants,Pseudomyrmex oculatus,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+70f38b29-bd4d-40e6-a765-386c77440aec,Cyphomyrmex rimosus,ants,Cyphomyrmex rimosus,NULL,,NULL,,,species,NULL,Cyphomyrmex,2024-01-31 16:46:01.310562+00
+a266e8d5-96cf-4ebc-afef-5055258ee67a,Dolichoderus haradae,ants,Dolichoderus haradae,NULL,,NULL,,,species,NULL,Dolichoderus,2024-01-31 16:46:01.310562+00
+2b9c50e7-d907-421d-aed9-38cbaf67fc31,Camponotus sanctaefidei,ants,Camponotus sanctaefidei,NULL,,NULL,Formicidae,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+dc1a7ab4-b06a-4d57-a120-a6bc4b872af3,Pseudomyrmex,ants,,NULL,,NULL,,,genus,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+0c987ca9-172c-4eb8-9654-b4031c00dc6b,Daceton armigerum,ants,Daceton armigerum,NULL,NULL,NULL,,NULL,species,NULL,Daceton,2024-01-24 17:18:54.447684+00
+be737f54-df36-4e06-a22d-3810cd9a3f33,Tetramorium,ants,,,,,,NULL,genus,NULL,Tetramorium,2024-01-24 17:18:54.447684+00
+cfd4c730-c1d0-4388-ab8a-16d9be8974f5,Sericomyrmex,ants,,NULL,,NULL,,,genus,NULL,Sericomyrmex,2024-01-31 16:46:01.310562+00
+73f8cd71-8c4b-42a2-974a-bbb6ddf0cf5d,Rogeria germaini,ants,Rogeria germaini,NULL,,NULL,,,species,NULL,Rogeria,2024-01-31 16:46:01.310562+00
+bb105de8-e0c3-4bc5-a90d-b94e5e5d7f50,Cardiocondyla emeryi,ants,Cardiocondyla emeryi,NULL,,NULL,Formicidae,,species,NULL,Cardiocondyla,2024-01-31 16:46:01.310562+00
+a163a742-4ec7-428e-8eab-0e14f8facab1,Camponotus rapax,ants,Camponotus rapax,NULL,NULL,NULL,,NULL,species,NULL,Camponotus,2024-01-24 17:18:54.447684+00
+7d35e5c9-be57-4247-9f27-ae2dd7329d42,Leptogenys gaigei,ants,Leptogenys gaigei,NULL,,NULL,,,species,NULL,Leptogenys,2024-01-31 16:46:01.310562+00
+cf4ea104-7117-426e-a562-536c21686e28,Pachycondyla obscuricornis,ants,Pachycondyla obscuricornis,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+e19e7914-8d7e-4ad9-8947-8125e2f62d4b,Sericomyrmex mayri,ants,Sericomyrmex mayri,NULL,,NULL,,,species,NULL,Sericomyrmex,2024-01-31 16:46:01.310562+00
+885b2fee-d2da-4772-a514-5a3f08d8ef42,Atta sexdens,ants,Atta sexdens,NULL,NULL,NULL,,NULL,species,NULL,Atta,2024-01-24 17:18:54.447684+00
+fd8e05d9-636b-4452-8943-6a1a67d823d9,Tapinoma,ants,,,,,Formicidae,NULL,genus,NULL,Tapinoma,2024-01-24 17:18:54.447684+00
+482157c7-af6e-4f21-8dca-040130965835,Oligomyrmex,ants,,NULL,,NULL,,,genus,NULL,Oligomyrmex,2024-01-31 16:46:01.310562+00
+d9fbfccb-ae59-4359-8932-1723e8437013,Pachycondyla constricta,ants,Pachycondyla constricta,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+c06f5cf1-7b61-4fd0-9dc5-c2477cc4cd48,Cyphomyrmex hamulatus,ants,Cyphomyrmex hamulatus,NULL,,NULL,,,species,NULL,Cyphomyrmex,2024-01-31 16:46:01.310562+00
+e96447b6-ae77-4154-a73f-92a0ac533d45,Dolichoderus lamellosus,ants,Dolichoderus lamellosus,NULL,,NULL,,,species,NULL,Dolichoderus,2024-01-31 16:46:01.310562+00
+2cfff64e-af70-40fa-8864-56e3f988a2b9,Mayaponera constricta,ants,Mayaponera constricta,NULL,NULL,NULL,,NULL,species,NULL,Mayaponera,2024-01-24 17:18:54.447684+00
+c107bec5-2c0d-4e6e-a626-646aa37b4d32,Blepharidatta brasiliensis,ants,Blepharidatta brasiliensis,NULL,,NULL,,,species,NULL,Blepharidatta,2024-01-31 16:46:01.310562+00
+6da27569-e62b-4329-85ae-34bc4b8d851d,Octostruma,ants,,NULL,,NULL,,,genus,NULL,Octostruma,2024-01-31 16:46:01.310562+00
+e6bc8d4d-e583-4dba-a006-e7268961b1be,Megalomyrmex balzani,ants,Megalomyrmex balzani,NULL,,NULL,,,species,NULL,Megalomyrmex,2024-01-31 16:46:01.310562+00
+f19f5c1d-9cf8-42b5-b001-76c726524a9d,Nomamyrmex,ants,,NULL,,NULL,,,genus,NULL,Nomamyrmex,2024-01-31 16:46:01.310562+00
+1c23d4b8-feb4-49f4-ba7c-26b6748810b9,Dolichoderus imitator,ants,Dolichoderus imitator,NULL,,NULL,,,species,NULL,Dolichoderus,2024-01-31 16:46:01.310562+00
+77e34a78-0ae9-4282-96ef-dc5cc1e8ad5f,Camponotus sericeiventris,ants,Camponotus sericeiventris,NULL,NULL,NULL,,NULL,species,NULL,Camponotus,2024-01-24 17:18:54.447684+00
+c2e2b991-bb0a-4ce4-8018-e744b4cfcc7c,Dolichoderus attelaboides,ants,Dolichoderus attelaboides,NULL,NULL,NULL,,NULL,species,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+df71c322-48ff-4d6f-bfe1-e17f5d412e9f,Anochetus,ants,,,,,,NULL,genus,NULL,Anochetus,2024-01-24 17:18:54.447684+00
+5ad001eb-74b6-4b8f-b30d-92f50f67815a,Rogeria sicaria,ants,Rogeria sicaria,NULL,,NULL,,,species,NULL,Rogeria,2024-01-31 16:46:01.310562+00
+a2c4af48-f78c-4f22-a95d-4e9c95246540,Oxyepoecus reticulatus,ants,Oxyepoecus reticulatus,NULL,,NULL,,,species,NULL,Oxyepoecus,2024-01-31 16:46:01.310562+00
+cf332485-c4dc-4adf-baa9-5a3d0b6b69f9,Cyphomyrmex peltatus,ants,Cyphomyrmex peltatus,NULL,,NULL,,,species,NULL,Cyphomyrmex,2024-01-31 16:46:01.310562+00
+d948923f-9f1a-418f-b547-661f2d54c737,Rogeria,ants,,NULL,,NULL,,,genus,NULL,Rogeria,2024-01-31 16:46:01.310562+00
+e523046d-2b0a-4557-911e-262bb3913aad,Odontomachus haematodus,ants,Odontomachus haematodus,NULL,,NULL,,,species,NULL,Odontomachus,2024-01-31 16:46:01.310562+00
+2cf95a88-ffdb-4979-adbe-ad04b31da317,Cryptomyrmex longinodus,ants,Cryptomyrmex longinodus,NULL,,NULL,,,species,NULL,Cryptomyrmex,2024-01-31 16:46:01.310562+00
+8be8e1aa-2cb5-4220-aa66-dabc6ef0ba8d,Centromyrmex brachycola,ants,Centromyrmex brachycola,NULL,,NULL,,,species,NULL,Centromyrmex,2024-01-31 16:46:01.310562+00
+f5a4668f-638a-4f53-8d5e-f2f38f0bdb0d,Allomerus,ants,,NULL,,NULL,,,genus,NULL,Allomerus,2024-01-31 16:46:01.310562+00
+437577f9-3a03-41cd-9f10-426af3bdc8a0,Monomorium floricola,ants,Monomorium floricola,NULL,NULL,NULL,,NULL,species,NULL,Monomorium,2024-01-24 17:18:54.447684+00
+cc91a9ca-3e54-40a5-b185-43723483cf11,Pachycondyla crassinoda,ants,Pachycondyla crassinoda,NULL,NULL,NULL,,NULL,species,NULL,Pachycondyla,2024-01-24 17:18:54.447684+00
+d33fe270-5876-46de-ac96-1e18050778c6,Camponotus atriceps,ants,Camponotus atriceps,NULL,NULL,NULL,,NULL,species,NULL,Camponotus,2024-01-24 17:18:54.447684+00
+928ace5e-c447-47f7-b954-5178b1443ddf,Gnamptogenys teffensis,ants,Gnamptogenys teffensis,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+0b57238f-ec25-45e5-93a4-4182d5e4ee81,Ectatomma edentatum,ants,Ectatomma edentatum,NULL,,NULL,,,species,NULL,Ectatomma,2024-01-31 16:46:01.310562+00
+358ee4df-d02f-48cb-974a-8016ebfc0705,Nomamyrmex esenbeckii,ants,Nomamyrmex esenbeckii,NULL,,NULL,,,species,NULL,Nomamyrmex,2024-01-31 16:46:01.310562+00
+4b27cf65-d7a7-44b8-b6d2-5bef90e4ab0a,Wasmannia scrobifera,ants,Wasmannia scrobifera,NULL,,NULL,,,species,NULL,Wasmannia,2024-01-31 16:46:01.310562+00
+3a85a849-1288-4a08-bc3e-535029906839,Neoponera commutata,ants,Neoponera commutata,NULL,NULL,NULL,,NULL,species,NULL,Neoponera,2024-01-24 17:18:54.447684+00
+68a50892-41b6-407d-9fc5-dccb90c72d03,Pseudomyrmex malignus,ants,Pseudomyrmex malignus,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+f819d9b3-d596-40ef-93f1-a0336dbff20d,Dendromyrmex,ants,,NULL,,NULL,,,genus,NULL,Dendromyrmex,2024-01-31 16:46:01.310562+00
+a365e78d-bc81-4906-9f55-0ba2a857702c,Strumigenys marginiventris,ants,Strumigenys marginiventris,NULL,,NULL,,,species,NULL,Strumigenys,2024-01-31 16:46:01.310562+00
+219a4c22-85d1-43ae-b583-ae6d8024ee6c,Neoponera verenae,ants,Neoponera verenae,NULL,NULL,NULL,,NULL,species,NULL,Neoponera,2024-01-24 17:18:54.447684+00
+caf05a9e-c0eb-4650-9fef-a7b476b29d30,Eciton hamatum,ants,Eciton hamatum,NULL,,NULL,,,species,NULL,Eciton,2024-01-31 16:46:01.310562+00
+631052b6-fcaf-428e-bf0e-d35e4b61d92f,Gnamptogenys,ants,,NULL,,NULL,,,genus,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+eaed35f6-1823-4348-aedd-b7e650501483,Odontomachus brunneus,ants,Odontomachus brunneus,NULL,,NULL,,,species,NULL,Odontomachus,2024-01-31 16:46:01.310562+00
+8cad148a-192c-4eae-ab54-ae6a4dbf7b45,Odontomachus,ants,,,,,,NULL,genus,NULL,Odontomachus,2024-01-24 17:18:54.447684+00
+cd0df17c-db64-47f9-bf02-3d0b542971fd,Camponotus trapezoideus,ants,Camponotus trapezoideus,NULL,,NULL,,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+ec6497c9-3abe-4faa-a77d-2c4d085e7377,Hypoponera opaciceps,ants,Hypoponera opaciceps,NULL,,NULL,Formicidae,,species,NULL,Hypoponera,2024-01-31 16:46:01.310562+00
+5ae557ed-6451-44e7-a283-36767ed52c4e,Tetramorium bicarinatum,ants,Tetramorium bicarinatum,NULL,NULL,NULL,,NULL,species,NULL,Tetramorium,2024-01-24 17:18:54.447684+00
+00d3be00-4ebd-41ce-adad-5149602838a6,Eciton rapax,ants,Eciton rapax,NULL,NULL,NULL,,NULL,species,NULL,Eciton,2024-01-24 17:18:54.447684+00
+d31105d8-be4c-4b22-9a1f-73069977c00d,Oxyepoecus,ants,,NULL,,NULL,,,genus,NULL,Oxyepoecus,2024-01-31 16:46:01.310562+00
+740328b2-d14c-46d8-a135-ea5e1bce2189,Wasmannia auropunctata,ants,Wasmannia auropunctata,NULL,,NULL,,,species,NULL,Wasmannia,2024-01-31 16:46:01.310562+00
+50cf0092-086a-4235-b543-b9e6f9d98284,Odontomachus scalptus,ants,Odontomachus scalptus,NULL,,NULL,,,species,NULL,Odontomachus,2024-01-31 16:46:01.310562+00
+76515b2c-9d8a-40ec-ab6f-86a2859aefe5,Camponotus cameranoi,ants,Camponotus cameranoi,NULL,,NULL,Formicidae,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+b8db225b-cf93-4d26-b257-8c4cd0cd9f7f,Pseudomyrmex flavidulus,ants,Pseudomyrmex flavidulus,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+72ba7ef0-83d9-42bd-96ec-b5d7e3ece828,Ectatomma lugens,ants,Ectatomma lugens,NULL,,NULL,,,species,NULL,Ectatomma,2024-01-31 16:46:01.310562+00
+403101a1-7043-4939-8baf-3101632c723f,Pseudoponera stigma,ants,Pseudoponera stigma,NULL,NULL,NULL,,NULL,species,NULL,Pseudoponera,2024-01-24 17:18:54.447684+00
+25524e11-4aad-42e1-ae84-86b4b70a5c77,Crematogaster brasiliensis,ants,Crematogaster brasiliensis,NULL,NULL,NULL,,NULL,species,NULL,Crematogaster,2024-01-24 17:18:54.447684+00
+7e0782a0-6628-48cd-afc7-5a25dc1aba8b,Monomorium,ants,,,,,Formicidae,NULL,genus,NULL,Monomorium,2024-01-24 17:18:54.447684+00
+d8c37cf9-0851-4063-85d1-e51c1d347953,Atta cephalotes,ants,Atta cephalotes,NULL,,NULL,Formicidae,,species,NULL,Atta,2024-01-31 16:46:01.310562+00
+80898c43-28b9-47ae-85b7-3c3eb3e8e9e3,Paraponera clavata,ants,Paraponera clavata,NULL,NULL,NULL,,NULL,species,NULL,Paraponera,2024-01-24 17:18:54.447684+00
+01a70048-e599-4afa-bcfa-044878bda96b,Tapinoma melanocephalum,ants,Tapinoma melanocephalum,NULL,NULL,NULL,,NULL,species,NULL,Tapinoma,2024-01-24 17:18:54.447684+00
+d14f7c18-2f51-4f43-b888-188a1bb6f228,Azteca,ants,,NULL,,NULL,,,genus,NULL,Azteca,2024-01-31 16:46:01.310562+00
+50b0db6e-a41e-4814-b319-cc5af55ae73e,Pyramica,ants,,NULL,,NULL,,,genus,NULL,Pyramica,2024-01-31 16:46:01.310562+00
+cdce9dcd-38a2-42d7-a9a5-aa5a53f81f64,Oligomyrmex urichi,ants,Oligomyrmex urichi,NULL,,NULL,,,species,NULL,Oligomyrmex,2024-01-31 16:46:01.310562+00
+54ac1c2d-aeac-4f22-8725-103afe265394,Strumigenys,ants,,,,,,NULL,genus,NULL,Strumigenys,2024-01-24 17:18:54.447684+00
+b324fa8d-5ef1-4af7-a88f-24e06efdff07,Camponotus,ants,,,,,Formicidae,NULL,genus,NULL,Camponotus,2024-01-24 17:18:54.447684+00
+9a691dd6-04db-4e6d-9a66-7256592c2894,Azteca ovaticeps,ants,Azteca ovaticeps,NULL,,NULL,,,species,NULL,Azteca,2024-01-31 16:46:01.310562+00
+1c229c33-fa9c-4cd1-9038-9696d962cbdb,Brachymyrmex pictus,ants,Brachymyrmex pictus,NULL,,NULL,,,species,NULL,Brachymyrmex,2024-01-31 16:46:01.310562+00
+27586557-9c0a-4c5b-8ee8-906114c71a43,Neivamyrmex,ants,,NULL,,NULL,,,genus,NULL,Neivamyrmex,2024-01-31 16:46:01.310562+00
+3ddd41ca-4f38-4c15-a294-f6739dc7e3fa,Cyphomyrmex,ants,,NULL,,NULL,,,genus,NULL,Cyphomyrmex,2024-01-31 16:46:01.310562+00
+4a39d89a-aac0-4c38-8723-6edaa75f6411,Brachymyrmex,ants,,NULL,,NULL,,,genus,NULL,Brachymyrmex,2024-01-31 16:46:01.310562+00
+b04d9917-bee4-4543-a2d9-8f6d8922f784,Sericomyrmex lutzi,ants,Sericomyrmex lutzi,NULL,,NULL,,,species,NULL,Sericomyrmex,2024-01-31 16:46:01.310562+00
+df078469-d98a-451d-9bdd-59ad631feb1b,Strumigenys elongata,ants,Strumigenys elongata,NULL,,NULL,,,species,NULL,Strumigenys,2024-01-31 16:46:01.310562+00
+e41e006b-9336-410a-9938-381a2f073a0f,Wasmannia,ants,,NULL,,NULL,,,genus,NULL,Wasmannia,2024-01-31 16:46:01.310562+00
+87a82679-0309-41bd-95a0-f8905387985a,Platythyrea,ants,,,,,,NULL,genus,NULL,Platythyrea,2024-01-24 17:18:54.447684+00
+465ced40-935e-4d24-9844-4fa7063e9591,Dolichoderus bidens,ants,Dolichoderus bidens,NULL,,NULL,,,species,NULL,Dolichoderus,2024-01-31 16:46:01.310562+00
+3f192826-3609-4c12-91b3-e2a70eccd1fa,Gnamptogenys tortuolosa,ants,Gnamptogenys tortuolosa,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+827a22c2-be84-4df5-a161-ca9d4cd3f139,Blepharidatta,ants,,NULL,,NULL,,,genus,NULL,Blepharidatta,2024-01-31 16:46:01.310562+00
+f921d39f-e9e6-476d-954b-17cdcd19f8e2,Solenopsis saevissima,ants,Solenopsis saevissima,NULL,,NULL,Formicidae,,species,NULL,Solenopsis,2024-01-31 16:46:01.310562+00
+cd3c1772-4c69-4385-8320-988749965ea5,Camponotus femoratus,ants,Camponotus femoratus,NULL,,NULL,,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+cb080ef0-68bc-47b1-902d-04adb91732a4,Gnamptogenys exarata,ants,Gnamptogenys exarata,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+4ac987a8-2fc7-4cff-9b10-1abcdefdc785,Cephalotes atratus,ants,Cephalotes atratus,NULL,NULL,NULL,,NULL,species,NULL,Cephalotes,2024-01-24 17:18:54.447684+00
+a7f90731-0799-4aa1-8df7-8ab82c978cd2,Ectatomma,ants,,,,,,NULL,genus,NULL,Ectatomma,2024-01-24 17:18:54.447684+00
+9c810987-4265-4cf4-aad2-a18d6fe49b0b,Leptogenys,ants,,,,,Formicidae,NULL,genus,NULL,Leptogenys,2024-01-24 17:18:54.447684+00
+47cdf809-13da-4bc7-bc57-eda2e0e856aa,Dolichoderus,ants,,,,,Formicidae,NULL,genus,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+b24ba80b-81b6-42e4-95ac-b92aa52de157,Pseudomyrmex sericeus,ants,Pseudomyrmex sericeus,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+f7cc29e8-d301-4a30-8f1c-c1f670834aeb,Centromyrmex,ants,,,,,,NULL,genus,NULL,Centromyrmex,2024-01-24 17:18:54.447684+00
+88d6ccfa-962c-41b1-9f65-8f119d756aee,Strumigenys carinithorax,ants,Strumigenys carinithorax,NULL,,NULL,,,species,NULL,Strumigenys,2024-01-31 16:46:01.310562+00
+36dc4793-33c3-48ab-afdc-325620cb22c5,Neivamyrmex iridescens,ants,Neivamyrmex iridescens,NULL,,NULL,,,species,NULL,Neivamyrmex,2024-01-31 16:46:01.310562+00
+da52b013-6972-4990-b22f-e25ba2d072a7,Pseudomyrmex unicolor,ants,Pseudomyrmex unicolor,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+cf7f6159-0cf1-48fd-a6d8-bf421798ffc6,Dorymyrmex,ants,,NULL,,NULL,Formicidae,,genus,NULL,Dorymyrmex,2024-01-31 16:46:01.310562+00
+4cf3dbf5-45fb-4f4f-aa99-376d2f7b3ece,Odontomachus caelatus,ants,Odontomachus caelatus,NULL,,NULL,,,species,NULL,Odontomachus,2024-01-31 16:46:01.310562+00
+b294e3ea-fc09-46e4-9ea8-0656baf260c7,Paraponera,ants,,,,,,NULL,genus,NULL,Paraponera,2024-01-24 17:18:54.447684+00
+3ff71d80-6e86-4246-8169-2864a0f41324,Crematogaster,ants,,,,,Formicidae,NULL,genus,NULL,Crematogaster,2024-01-24 17:18:54.447684+00
+80f3fa80-043b-4fd3-a5b6-7ba755b18c6d,Camponotus renggeri,ants,Camponotus renggeri,NULL,NULL,NULL,,NULL,species,NULL,Camponotus,2024-01-24 17:18:54.447684+00
+2be73982-6ca9-471e-bae0-e3bba76e7865,Rogeria curvipubens,ants,Rogeria curvipubens,NULL,,NULL,,,species,NULL,Rogeria,2024-01-31 16:46:01.310562+00
+a53f39cd-2b15-47a1-bbb4-2e1fc0bfec53,Wasmannia rochai,ants,Wasmannia rochai,NULL,,NULL,,,species,NULL,Wasmannia,2024-01-31 16:46:01.310562+00
+b23f3b8b-0f25-40c4-b7be-6af3d461e6a7,Gnamptogenys mina,ants,Gnamptogenys mina,NULL,,NULL,,,species,NULL,Gnamptogenys,2024-01-31 16:46:01.310562+00
+506a68fc-bfe2-40b1-acc5-bc62a8c0c341,Sericomyrmex saussurei,ants,Sericomyrmex saussurei,NULL,,NULL,,,species,NULL,Sericomyrmex,2024-01-31 16:46:01.310562+00
+d3c5f20b-a4f5-4359-93f1-8538de34a3ae,Trachymyrmex saussurei,ants,Trachymyrmex saussurei,NULL,,NULL,,,species,NULL,Trachymyrmex,2024-01-31 16:46:01.310562+00
+52f9f58e-c85a-4ac2-9d89-d1058980689f,Cephalotes umbraculatus,ants,Cephalotes umbraculatus,NULL,NULL,NULL,,NULL,species,NULL,Cephalotes,2024-01-24 17:18:54.447684+00
+3af08a7e-2bcb-43c7-b155-81db1653135d,Allomerus octoarticulatus,ants,Allomerus octoarticulatus,NULL,,NULL,,,species,NULL,Allomerus,2024-01-31 16:46:01.310562+00
+40ea203b-27a6-4b0b-8eb1-fb3964ac8c08,Labidus praedator,ants,Labidus praedator,NULL,,NULL,Formicidae,,species,NULL,Labidus,2024-01-31 16:46:01.310562+00
+5558803e-47b5-40ad-a5e4-3594d9b1c129,Eciton,ants,,,,,,NULL,genus,NULL,Eciton,2024-01-24 17:18:54.447684+00
+953719fa-3454-4f72-96f0-18a82e5e296d,Anochetus horridus,ants,Anochetus horridus,NULL,,NULL,,,species,NULL,Anochetus,2024-01-31 16:46:01.310562+00
+121cd42e-7686-414d-b836-9b42b9277350,Pyramica subedentata,ants,Pyramica subedentata,NULL,,NULL,,,species,NULL,Pyramica,2024-01-31 16:46:01.310562+00
+66b8d578-7d52-4fae-b1b9-90b0ca4342b3,Gigantiops,ants,,,,,,NULL,genus,NULL,Gigantiops,2024-01-24 17:18:54.447684+00
+84be10c6-9aca-4356-bf4f-6e955f28c39a,Pachycondyla,ants,,,,,,NULL,genus,NULL,Pachycondyla,2024-01-24 17:18:54.447684+00
+316d2e89-9bb3-48b9-8f3b-3806fcb9b0d0,Cryptomyrmex,ants,,NULL,,NULL,,,genus,NULL,Cryptomyrmex,2024-01-31 16:46:01.310562+00
+5b011870-095a-4109-a281-b9df5fa6ec73,Atta,ants,,,,,Formicidae,NULL,genus,NULL,Atta,2024-01-24 17:18:54.447684+00
+94b8bf14-8990-49d8-b944-d7320cd75056,Procryptocerus,ants,,NULL,,NULL,,,genus,NULL,Procryptocerus,2024-01-31 16:46:01.310562+00
+cdd11e4d-e57b-45f2-95b1-3f17a209e0b4,Dolichoderus rugosus,ants,Dolichoderus rugosus,NULL,NULL,NULL,,NULL,species,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+5e92c06d-37e3-4d9c-858b-6423126798d5,Hypoponera,ants,,,,,Formicidae,NULL,genus,NULL,Hypoponera,2024-01-24 17:18:54.447684+00
+1b8c5481-c7c1-4387-b9b0-d911450ac360,Neivamyrmex pilosus,ants,Neivamyrmex pilosus,NULL,,NULL,,,species,NULL,Neivamyrmex,2024-01-31 16:46:01.310562+00
+e66fc5e4-8fc9-4363-92f7-05fdf873be6f,Pachycondyla villosa,ants,Pachycondyla villosa,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+f0433207-be59-4846-8914-087499ee3c85,Leptothorax pleuriticus,ants,Leptothorax pleuriticus,NULL,,NULL,,,species,NULL,Leptothorax,2024-01-31 16:46:01.310562+00
+2e66e0be-a161-4081-9f71-f7a7d522c6fd,Pseudoponera,ants,,,,,,NULL,genus,NULL,Pseudoponera,2024-01-24 17:18:54.447684+00
+17d13b55-8059-49e6-903f-01f7012820d0,Pachycondyla commutata,ants,Pachycondyla commutata,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+04ce77ce-5057-40f2-bc57-4a5b21a44b3c,Dolichoderus quadridenticulatus,ants,Dolichoderus quadridenticulatus,NULL,NULL,NULL,,NULL,species,NULL,Dolichoderus,2024-01-24 17:18:54.447684+00
+d063d7bb-dc3b-4153-866e-aac8b0a58162,Pseudomyrmex concolor,ants,Pseudomyrmex concolor,NULL,,NULL,,,species,NULL,Pseudomyrmex,2024-01-31 16:46:01.310562+00
+1709700c-9306-49fb-956d-0c782307b6a3,Camponotus latangulus,ants,Camponotus latangulus,NULL,,NULL,,,species,NULL,Camponotus,2024-01-31 16:46:01.310562+00
+04ebcf01-e7f9-41c5-aaeb-78bceedfc4f5,Pachycondyla striata,ants,Pachycondyla striata,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00
+dae4bd60-913b-4c8f-9e2e-ef6694a840aa,Cephalotes,ants,,,,,,NULL,genus,NULL,Cephalotes,2024-01-24 17:18:54.447684+00
+00371a1a-0f39-4e15-9b89-08217809a39e,Pachycondyla stigma,ants,Pachycondyla stigma,NULL,,NULL,,,species,NULL,Pachycondyla,2024-01-31 16:46:01.310562+00

@@ -1,0 +1,5 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+61a797d8-7983-4dd7-8427-b21bacb10812,Rhipsalis,cacti,,NULL,,NULL,,,genus,NULL,Rhipsalis,2024-01-31 16:46:01.310562+00
+d262c196-e624-4602-ac04-1cebe0689559,Epiphyllum phyllanthus,cacti,Epiphyllum phyllanthus,NULL,Climbing Cactus,NULL,,,species,NULL,Epiphyllum,2024-01-31 16:46:01.310562+00
+d1aa3f16-4dfa-482a-8e9a-79f4daa69b72,Epiphyllum,cacti,,NULL,,NULL,,,genus,NULL,Epiphyllum,2024-01-25 17:05:52.023249+00
+7be1bedb-7698-4f76-b697-461435cf7cc1,Rhipsalis baccifera,cacti,Rhipsalis baccifera,NULL,Mistletoe Cactus,NULL,,,species,NULL,Rhipsalis,2024-01-31 16:46:01.310562+00

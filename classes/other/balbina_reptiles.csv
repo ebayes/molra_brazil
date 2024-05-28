@@ -1,0 +1,354 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+103858af-9392-4bb3-87c6-5f3f1cfaacf7,Anilius scytale,reptiles,Anilius scytale,NULL,NULL,NULL,,NULL,species,NULL,Anilius,2024-01-24 17:18:54.447684+00
+5e0d9d83-55ba-418e-934f-304aac658466,Peltocephalus dumeriliana,reptiles,Peltocephalus dumeriliana,NULL,Big-Headed Amazon River Turtle,NULL,,,species,NULL,Peltocephalus,2024-01-31 16:46:00.692574+00
+8cef49cf-c985-4552-abb8-303ad5b79b14,Bothrops atrox,reptiles,Bothrops atrox,NULL,NULL,NULL,,NULL,species,NULL,Bothrops,2024-01-24 17:18:54.447684+00
+e5d690a4-f279-48b1-a609-ea9aa087ab32,Epictia,reptiles,,,,,,NULL,genus,NULL,Epictia,2024-01-24 17:18:54.447684+00
+a294cc64-c213-4f4c-b6a9-80446580d6fa,Podocnemis erythrocephala,reptiles,Podocnemis erythrocephala,NULL,NULL,NULL,,NULL,species,NULL,Podocnemis,2024-01-24 17:18:54.447684+00
+28fe9f65-23da-4faf-9b99-4e52b3b22237,Lepidoblepharis heyerorum,reptiles,Lepidoblepharis heyerorum,NULL,NULL,NULL,,NULL,species,NULL,Lepidoblepharis,2024-01-24 17:18:54.447684+00
+c475ef8b-9fb1-4619-95c8-a4a68b56cfba,Neusticurus rudis,reptiles,Neusticurus rudis,NULL,NULL,NULL,,NULL,species,NULL,Neusticurus,2024-01-24 17:18:54.447684+00
+7dc63b82-c96c-4f87-b427-aa4c13708f44,Phrynonax poecilonotus,reptiles,Phrynonax poecilonotus,NULL,NULL,NULL,,NULL,species,NULL,Phrynonax,2024-01-24 17:18:54.447684+00
+d69fb3a8-4a8a-47c4-8f66-e1da788ccde9,Taeniophallus brevirostris,reptiles,Taeniophallus brevirostris,NULL,NULL,NULL,,NULL,species,NULL,Taeniophallus,2024-01-24 17:18:54.447684+00
+519a5df3-2191-4b85-855f-0ad45e1ec79f,Micrurus diutius,reptiles,Micrurus diutius,NULL,,NULL,,,species,NULL,Micrurus,2024-01-31 16:46:00.692574+00
+d92e1e7c-a518-4bcb-b088-9072a14d9398,Thamnodynastes lanei,reptiles,Thamnodynastes lanei,NULL,NULL,NULL,,NULL,species,NULL,Thamnodynastes,2024-01-24 17:18:54.447684+00
+dc64dd10-4584-4e99-a3a4-749c1a9d6679,Cnemidophorus gramivagus,reptiles,Cnemidophorus gramivagus,NULL,NULL,NULL,,NULL,species,NULL,Cnemidophorus,2024-01-24 17:18:54.447684+00
+725593f4-31c4-49d3-b65f-b66bba0acc69,Hemidactylus palaichthus,reptiles,Hemidactylus palaichthus,NULL,NULL,NULL,,NULL,species,NULL,Hemidactylus,2024-01-24 17:18:54.447684+00
+57dbdeca-62ba-4682-a95a-a8b6934dd23d,Tropidurus etheridgei,reptiles,Tropidurus etheridgei,NULL,NULL,NULL,,NULL,species,NULL,Tropidurus,2024-01-24 17:18:54.447684+00
+4a22bea4-ed19-492b-94f8-6f5ae7158d70,Crotalus durissus,reptiles,Crotalus durissus,NULL,NULL,NULL,,NULL,species,NULL,Crotalus,2024-01-24 17:18:54.447684+00
+d5523669-4909-4436-8fb0-fbc2117fd19f,Dracaena,reptiles,,,,,,NULL,genus,NULL,Dracaena,2024-01-24 17:18:54.447684+00
+e74c263e-fed3-4fc4-81df-daaefbc7d7e5,Pseudoboa martinsi,reptiles,Pseudoboa martinsi,NULL,,NULL,,,species,NULL,Pseudoboa,2024-01-31 16:46:00.692574+00
+a4f0f9d6-f69e-40aa-b662-c8b4e9ae850a,Tantilla,reptiles,,,,,,NULL,genus,NULL,Tantilla,2024-01-24 17:18:54.447684+00
+5725796e-0015-4ee3-8268-0bda251cef5e,Lygophis,reptiles,,NULL,,NULL,,,genus,NULL,Lygophis,2024-01-31 16:46:00.692574+00
+a51b4fd7-fc5a-4874-b5bb-0914032cd4ca,Epictia tenella,reptiles,Epictia tenella,NULL,NULL,NULL,,NULL,species,NULL,Epictia,2024-01-24 17:18:54.447684+00
+60d2fb48-f3da-40ab-a924-1e3360ec4dc9,Podocnemis,reptiles,,,,,,NULL,genus,NULL,Podocnemis,2024-01-24 17:18:54.447684+00
+073e4f37-c5b1-4c53-89bd-f160f3b61150,Pseustes,reptiles,,NULL,,NULL,,,genus,NULL,Pseustes,2024-01-31 16:46:00.692574+00
+152fe37c-6057-43fe-966d-4b0d60349755,Typhlophis squamosus,reptiles,Typhlophis squamosus,NULL,NULL,NULL,,NULL,species,NULL,Typhlophis,2024-01-24 17:18:54.447684+00
+c6b639c0-5a93-4e1a-aff0-f508cc07a73d,Atractus flammigerus,reptiles,Atractus flammigerus,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+9a2af8d5-9a3c-4d14-a7f3-5a4530ee422d,Peltocephalus dumerilianus,reptiles,Peltocephalus dumerilianus,NULL,NULL,NULL,,NULL,species,NULL,Peltocephalus,2024-01-24 17:18:54.447684+00
+2de4b278-63b7-4977-bc58-7e9bd8eebb16,Uracentron,reptiles,,,,,,NULL,genus,NULL,Uracentron,2024-01-24 17:18:54.447684+00
+1b76652a-2c40-42a7-8752-d9ddd1f24a1d,Potamites,reptiles,,,,,,NULL,genus,NULL,Potamites,2024-01-24 17:18:54.447684+00
+39e6c559-0cf2-4db3-8534-9b787d2a8004,Crocodilurus,reptiles,,NULL,,NULL,,,genus,NULL,Crocodilurus,2024-01-31 16:46:00.692574+00
+88049892-79f6-4914-82aa-41d4ba441efb,Kinosternon,reptiles,,,,,,NULL,genus,NULL,Kinosternon,2024-01-24 17:18:54.447684+00
+25260dd8-94b0-4ab0-a2ca-8f0abe4d0d9f,Loxopholis,reptiles,,NULL,,NULL,,,genus,NULL,Loxopholis,2024-01-31 16:46:00.692574+00
+f5748ba5-245f-44c7-b17a-47b30f7bca47,Amerotyphlops brongersmianus,reptiles,Amerotyphlops brongersmianus,NULL,Brongersma's Worm Snake,NULL,,,species,NULL,Amerotyphlops,2024-01-31 16:46:00.692574+00
+c256e917-58e4-406d-bcea-872219c34f71,Polychrus liogaster,reptiles,Polychrus liogaster,NULL,NULL,NULL,,NULL,species,NULL,Polychrus,2024-01-24 17:18:54.447684+00
+36cfda77-172b-453c-823b-d59bc24ce8da,Mastigodryas pleii,reptiles,Mastigodryas pleii,NULL,,NULL,,,species,NULL,Mastigodryas,2024-01-31 16:46:00.692574+00
+75f17031-dad7-4ff5-b602-6a0e098fb7d6,Imantodes,reptiles,,,,,,NULL,genus,NULL,Imantodes,2024-01-24 17:18:54.447684+00
+1da219bf-64b3-47d6-afbc-d7bf13132d36,Hydrops triangularis,reptiles,Hydrops triangularis,NULL,NULL,NULL,,NULL,species,NULL,Hydrops,2024-01-24 17:18:54.447684+00
+f62db23d-e95b-4b2f-be90-0f64f90fc2cf,Chelonoidis,reptiles,,NULL,,NULL,,,genus,NULL,Chelonoidis,2024-01-31 16:46:00.692574+00
+c276ec05-a884-4bde-a335-f982f0559a68,Ameiva atrigularis,reptiles,Ameiva atrigularis,NULL,NULL,NULL,,NULL,species,NULL,Ameiva,2024-01-24 17:18:54.447684+00
+b5267158-b2e6-485b-b0f9-8ff8a810890f,Xenodon severus,reptiles,Xenodon severus,NULL,NULL,NULL,,NULL,species,NULL,Xenodon,2024-01-24 17:18:54.447684+00
+26fbcd7e-0dab-4cb8-a146-e5534014d98d,Xenodon,reptiles,,,,,,NULL,genus,NULL,Xenodon,2024-01-24 17:18:54.447684+00
+fd28eec4-78af-4f39-b54e-3ffd3127cf15,Arthrosaura reticulata,reptiles,Arthrosaura reticulata,NULL,NULL,NULL,,NULL,species,NULL,Arthrosaura,2024-01-24 17:18:54.447684+00
+6dc459ca-821e-4e69-9715-0712515457d9,Spilotes pullatus,reptiles,Spilotes pullatus,NULL,NULL,NULL,,NULL,species,NULL,Spilotes,2024-01-24 17:18:54.447684+00
+f33d30e2-0e31-474c-93e8-5f0bded830e1,Spilotes,reptiles,,,,,,NULL,genus,NULL,Spilotes,2024-01-24 17:18:54.447684+00
+960d28b3-1f3c-4ae1-86ff-e05fabc86721,Micrurus,reptiles,,,,,,NULL,genus,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+8bf97b59-2487-4a91-8431-fb74179564bf,Siphlophis,reptiles,,,,,,NULL,genus,NULL,Siphlophis,2024-01-24 17:18:54.447684+00
+6afbe263-3c4c-4a99-8243-3852060a2b87,Cercosaura,reptiles,,,,,,NULL,genus,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+9c386297-4a88-4a88-a6e9-9c39e4fb1593,Caiman crocodilus,reptiles,Caiman crocodilus,NULL,NULL,NULL,,NULL,species,NULL,Caiman,2024-01-24 17:18:54.447684+00
+b3c355df-1547-48ef-9d95-b6d2ec671b50,Lachesis muta,reptiles,Lachesis muta,NULL,NULL,NULL,,NULL,species,NULL,Lachesis,2024-01-24 17:18:54.447684+00
+3dac4930-20bf-4692-8c0f-35ab1c09d3f6,Gonatodes,reptiles,,,,,,NULL,genus,NULL,Gonatodes,2024-01-24 17:18:54.447684+00
+ad8860eb-f1e0-440a-910c-608629920478,Peltocephalus,reptiles,,,,,,NULL,genus,NULL,Peltocephalus,2024-01-24 17:18:54.447684+00
+21257cab-c417-42f3-bf9f-9ea681de1767,Bothrops brazili,reptiles,Bothrops brazili,NULL,NULL,NULL,,NULL,species,NULL,Bothrops,2024-01-24 17:18:54.447684+00
+29d7aeba-a4b1-44de-af10-0242c05e6c78,Ameiva praesignis,reptiles,Ameiva praesignis,NULL,NULL,NULL,,NULL,species,NULL,Ameiva,2024-01-24 17:18:54.447684+00
+32e23be9-ae21-419f-975b-ddb0a7668583,Atractus latifrons,reptiles,Atractus latifrons,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+4b8b0530-90f9-41fb-9fe2-c72b126c1f04,Cercosaura argulus,reptiles,Cercosaura argulus,NULL,NULL,NULL,,NULL,species,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+b2ce447b-6ea4-48af-87ec-f06f3586af12,Plica,reptiles,,,,,,NULL,genus,NULL,Plica,2024-01-24 17:18:54.447684+00
+dae1faeb-0b79-4ba9-9422-47286c4d4fc1,Cercosaura bassleri,reptiles,Cercosaura bassleri,NULL,NULL,NULL,,NULL,species,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+c3faf209-6e51-4ba2-a3d8-82788925c64d,Podocnemis sextuberculata,reptiles,Podocnemis sextuberculata,NULL,NULL,NULL,,NULL,species,NULL,Podocnemis,2024-01-24 17:18:54.447684+00
+1be90d3e-57a7-414f-afc1-3a22d84a49f3,Tropidurus,reptiles,,,,,,NULL,genus,NULL,Tropidurus,2024-01-24 17:18:54.447684+00
+92265dcf-248c-4273-9365-f1bef943bcf4,Amphisbaena fuliginosa,reptiles,Amphisbaena fuliginosa,NULL,NULL,NULL,,NULL,species,NULL,Amphisbaena,2024-01-24 17:18:54.447684+00
+d2c70e87-53d6-4551-a7d7-b342f485549c,Rhinemys,reptiles,,,,,,NULL,genus,NULL,Rhinemys,2024-01-24 17:18:54.447684+00
+b8584da2-d29f-4e9b-a16a-0b32db98943a,Bachia panoplia,reptiles,Bachia panoplia,NULL,,NULL,,,species,NULL,Bachia,2024-01-31 16:46:00.692574+00
+2955442e-70fa-4003-906c-9717541618ed,Hemidactylus mabouia,reptiles,Hemidactylus mabouia,NULL,Moreau's Tropical House Gecko,NULL,,,species,NULL,Hemidactylus,2024-01-31 16:46:00.692574+00
+3be5ad9b-5dcf-4ed1-a1cd-6f542cf0f143,Mastigodryas,reptiles,,,,,,NULL,genus,NULL,Mastigodryas,2024-01-24 17:18:54.447684+00
+64a2177e-cfe7-4b95-898a-6d8d8085a09a,Tropidurus torquatus,reptiles,Tropidurus torquatus,NULL,Amazon Lava Lizard,NULL,,,species,NULL,Tropidurus,2024-01-31 16:46:00.692574+00
+053854b9-90b6-4b11-aeb8-06ddf8c206e0,Anolis scypheus,reptiles,Anolis scypheus,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+64c9be77-7cc7-4126-a7f5-5a4ba7fe37f8,Helicops leopardinus,reptiles,Helicops leopardinus,NULL,NULL,NULL,,NULL,species,NULL,Helicops,2024-01-24 17:18:54.447684+00
+29096c12-c2a7-421b-858a-851e0c02799e,Micrurus averyi,reptiles,Micrurus averyi,NULL,Black-Headed Coral Snake,NULL,,,species,NULL,Micrurus,2024-01-31 16:46:00.692574+00
+eb0666b8-06ae-4750-81c3-797b46ed1194,Iguana,reptiles,,,,,,NULL,genus,NULL,Iguana,2024-01-24 17:18:54.447684+00
+ff93de8e-8af3-48e3-9131-52ebcc18be93,Phrynonax,reptiles,,,,,,NULL,genus,NULL,Phrynonax,2024-01-24 17:18:54.447684+00
+5f88a4d9-783c-4b5b-9dca-d67d775c511a,Tretioscincus agilis,reptiles,Tretioscincus agilis,NULL,NULL,NULL,,NULL,species,NULL,Tretioscincus,2024-01-24 17:18:54.447684+00
+69800cc4-dec1-4307-9911-aabf37cd31a7,Dracaena guianensis,reptiles,Dracaena guianensis,NULL,NULL,NULL,,NULL,species,NULL,Dracaena,2024-01-24 17:18:54.447684+00
+fb4a56d8-7e18-4b41-9642-1494dd008977,Sibon nebulatus,reptiles,Sibon nebulatus,NULL,NULL,NULL,,NULL,species,NULL,Sibon,2024-01-24 17:18:54.447684+00
+23b61879-cbde-417d-ac9d-912f30c6631e,Alopoglossus atriventris,reptiles,Alopoglossus atriventris,NULL,NULL,NULL,,NULL,species,NULL,Alopoglossus,2024-01-24 17:18:54.447684+00
+c47f9ab1-b728-4a4a-9893-8dddf62ac9a4,Bothrops bilineatus,reptiles,Bothrops bilineatus,NULL,NULL,NULL,,NULL,species,NULL,Bothrops,2024-01-24 17:18:54.447684+00
+db197f0c-fa37-491f-a55e-f8e4b59c48e8,Anolis punctatus,reptiles,Anolis punctatus,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+4ab490a1-fc2d-4c76-b073-47f607c57c0c,Dendrophidion dendrophis,reptiles,Dendrophidion dendrophis,NULL,NULL,NULL,,NULL,species,NULL,Dendrophidion,2024-01-24 17:18:54.447684+00
+e73582da-8b9e-4684-9f42-0d50c36c294b,Lachesis,reptiles,,,,,,NULL,genus,NULL,Lachesis,2024-01-24 17:18:54.447684+00
+352a0e41-6f83-4629-b5ae-2de18d414132,Bothrocophias,reptiles,,NULL,,NULL,,,genus,NULL,Bothrocophias,2024-01-31 16:46:00.692574+00
+3859a24d-0c38-4850-ba8e-0d6e9c9cfded,Chelonoidis carbonarius,reptiles,Chelonoidis carbonarius,NULL,Red-Footed Tortoise,NULL,,,species,NULL,Chelonoidis,2024-01-31 16:46:00.692574+00
+79401f4b-cf95-48e2-8a59-f3ec9da1f487,Oxybelis,reptiles,,,,,,NULL,genus,NULL,Oxybelis,2024-01-24 17:18:54.447684+00
+ea145a4b-8cff-4d1b-b2da-097d77974008,Paleosuchus trigonatus,reptiles,Paleosuchus trigonatus,NULL,NULL,NULL,,NULL,species,NULL,Paleosuchus,2024-01-24 17:18:54.447684+00
+d7c6f43c-d91e-4428-8aed-cfb6388969a9,Amphisbaena alba,reptiles,Amphisbaena alba,NULL,NULL,NULL,,NULL,species,NULL,Amphisbaena,2024-01-24 17:18:54.447684+00
+dff377c1-c6f9-4987-a2e7-59b72880a431,Hydrops caesurus,reptiles,Hydrops caesurus,NULL,NULL,NULL,,NULL,species,NULL,Hydrops,2024-01-24 17:18:54.447684+00
+9062b866-5465-451a-8eb6-ba12b427c6e2,Pseustes sexcarinatus,reptiles,Pseustes sexcarinatus,NULL,Wagler's Puffing Snake,NULL,,,species,NULL,Pseustes,2024-01-31 16:46:00.692574+00
+00e696b9-322c-4c89-8681-0954386db9f2,Hydrodynastes bicinctus,reptiles,Hydrodynastes bicinctus,NULL,NULL,NULL,,NULL,species,NULL,Hydrodynastes,2024-01-24 17:18:54.447684+00
+fabcaf35-9f6e-4b42-b079-ed9b7491fb29,Chironius fuscus,reptiles,Chironius fuscus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+3b19ba2a-8b0b-4473-8a5a-b30926a36748,Melanosuchus,reptiles,,,,,,NULL,genus,NULL,Melanosuchus,2024-01-24 17:18:54.447684+00
+89c020e6-a291-4e4d-8d8c-9689006bca80,Ameiva,reptiles,,,,,,NULL,genus,NULL,Ameiva,2024-01-24 17:18:54.447684+00
+e31fe142-aa09-44b0-a276-0ac9cba9db14,Chelus,reptiles,,,,,,NULL,genus,NULL,Chelus,2024-01-24 17:18:54.447684+00
+a4140a87-f9f1-4f41-a4bd-38de3ba73ca0,Oxybelis aeneus,reptiles,Oxybelis aeneus,NULL,NULL,NULL,,NULL,species,NULL,Oxybelis,2024-01-24 17:18:54.447684+00
+452ce8ef-a403-44eb-a7fc-bbebbc582e3a,Eunectes murinus,reptiles,Eunectes murinus,NULL,NULL,NULL,,NULL,species,NULL,Eunectes,2024-01-24 17:18:54.447684+00
+48107715-bc03-40ea-bf82-baa28f064f5c,Atractus major,reptiles,Atractus major,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+e64aee48-0f12-4eda-8de9-5eec899b8587,Leptophis coeruleodorsus,reptiles,Leptophis coeruleodorsus,NULL,NULL,NULL,,NULL,species,NULL,Leptophis,2024-01-24 17:18:54.447684+00
+b1e90b05-4cad-4d81-8aa5-aa388cb93fbc,Thecadactylus solimoensis,reptiles,Thecadactylus solimoensis,NULL,NULL,NULL,,NULL,species,NULL,Thecadactylus,2024-01-24 17:18:54.447684+00
+88925f52-b842-4c5a-9113-daa656ad15e0,Copeoglossum,reptiles,,,,,,NULL,genus,NULL,Copeoglossum,2024-01-24 17:18:54.447684+00
+8da89391-5296-44d7-99c0-2606fddaec16,Thamnodynastes pallidus,reptiles,Thamnodynastes pallidus,NULL,NULL,NULL,,NULL,species,NULL,Thamnodynastes,2024-01-24 17:18:54.447684+00
+b08790a5-71e2-4d21-8258-fb9ea3c547b1,Oxyrhopus petolarius,reptiles,Oxyrhopus petolarius,NULL,NULL,NULL,,NULL,species,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+bfde91ec-0dae-4a04-8a22-8c77d783f045,Epicrates cenchria,reptiles,Epicrates cenchria,NULL,NULL,NULL,,NULL,species,NULL,Epicrates,2024-01-24 17:18:54.447684+00
+1c83897b-73b9-4bb5-b2dd-0e1ff9d2619c,Pseudoboa,reptiles,,,,,,NULL,genus,NULL,Pseudoboa,2024-01-24 17:18:54.447684+00
+ac4a1cc3-7106-45c7-8287-8c41fd77f2c7,Amphisbaena amazonica,reptiles,Amphisbaena amazonica,NULL,,NULL,,,species,NULL,Amphisbaena,2024-01-31 16:46:00.692574+00
+8270579b-a379-4fae-8144-2c0a461a9515,Leptophis,reptiles,,,,,,NULL,genus,NULL,Leptophis,2024-01-24 17:18:54.447684+00
+a322da51-f0e5-4ade-aa90-47d14b28e9f5,Salvator,reptiles,,,,,,NULL,genus,NULL,Salvator,2024-01-24 17:18:54.447684+00
+9fddd143-bb1e-4696-8623-ba4b685887b5,Helicops hagmanni,reptiles,Helicops hagmanni,NULL,NULL,NULL,,NULL,species,NULL,Helicops,2024-01-24 17:18:54.447684+00
+86a3c39e-6bc3-4561-b823-910c6c5ae75e,Leptophis ahaetulla,reptiles,Leptophis ahaetulla,NULL,NULL,NULL,,NULL,species,NULL,Leptophis,2024-01-24 17:18:54.447684+00
+09caef4a-1f55-45b7-8dee-88082973143a,Dipsas,reptiles,,,,,,NULL,genus,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+efeb0a89-4ac9-4c1d-af07-816f87a745d3,Siphlophis compressus,reptiles,Siphlophis compressus,NULL,NULL,NULL,,NULL,species,NULL,Siphlophis,2024-01-24 17:18:54.447684+00
+38e1d337-6350-493b-a473-a77aebeb8d6a,Typhlophis,reptiles,,,,,,NULL,genus,NULL,Typhlophis,2024-01-24 17:18:54.447684+00
+d98a7646-fc56-4d0d-9962-3365683a3644,Micrurus paraensis,reptiles,Micrurus paraensis,NULL,Par�� Coral Snake,NULL,,,species,NULL,Micrurus,2024-01-31 16:46:00.692574+00
+af9df426-9b4a-4e6f-aa44-b3a0e7fab6a0,Dendrophidion,reptiles,,,,,,NULL,genus,NULL,Dendrophidion,2024-01-24 17:18:54.447684+00
+ba6e3db4-d56a-4a82-8f98-43a002ad87ee,Cercosaura ocellata,reptiles,Cercosaura ocellata,NULL,NULL,NULL,,NULL,species,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+60f3846e-1d36-4a39-a57f-c257faa61e48,Palusophis bifossatus,reptiles,Palusophis bifossatus,NULL,,NULL,,,species,NULL,Palusophis,2024-01-31 16:46:00.692574+00
+ee98cbd5-5c1c-4c68-8906-a4bf9e24fb8f,Helicops polylepis,reptiles,Helicops polylepis,NULL,NULL,NULL,,NULL,species,NULL,Helicops,2024-01-24 17:18:54.447684+00
+e9c3bf8a-0c89-4e62-b225-2a899b2bb242,Bothrops taeniata,reptiles,Bothrops taeniata,NULL,Speckled Forest Pit Viper,NULL,,,species,NULL,Bothrops,2024-01-31 16:46:00.692574+00
+9d795e0a-a01a-4347-a84c-706e0aaf6531,Leptodeira annulata,reptiles,Leptodeira annulata,NULL,NULL,NULL,,NULL,species,NULL,Leptodeira,2024-01-24 17:18:54.447684+00
+ada73f6c-6786-4b6a-bd59-71f685fe4819,Leptodeira,reptiles,,,,,,NULL,genus,NULL,Leptodeira,2024-01-24 17:18:54.447684+00
+2d43140a-d21c-447d-bab6-b842870fa1b4,Sibon,reptiles,,,,,,NULL,genus,NULL,Sibon,2024-01-24 17:18:54.447684+00
+c1611969-63f9-44d2-a760-3bc4d6f0a853,Paleosuchus,reptiles,,,,,,NULL,genus,NULL,Paleosuchus,2024-01-24 17:18:54.447684+00
+450061e9-935c-4999-9d7e-b2408aa88e46,Tupinambis teguixin,reptiles,Tupinambis teguixin,NULL,NULL,NULL,,NULL,species,NULL,Tupinambis,2024-01-24 17:18:54.447684+00
+94ebe812-dd95-442f-9a0a-5e6e415149a1,Bothrops,reptiles,,,,,,NULL,genus,NULL,Bothrops,2024-01-24 17:18:54.447684+00
+a8f59368-1abf-4b9c-8fe9-6212d4b2ee4b,Chironius challenger,reptiles,Chironius challenger,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+0430b0b8-8a6d-487b-a833-fe99ed85b6f7,Amphisbaena slevini,reptiles,Amphisbaena slevini,NULL,NULL,NULL,,NULL,species,NULL,Amphisbaena,2024-01-24 17:18:54.447684+00
+f9382ea1-2989-4718-9840-90ab75d2c105,Phyllodactylidae,reptiles,,,,,Phyllodactylidae,NULL,family,34,,2024-01-24 17:18:54.447684+00
+c9c32d41-1d31-4cb4-81b1-841cfb9985cf,Amerotyphlops,reptiles,,,,,,NULL,genus,NULL,Amerotyphlops,2024-01-24 17:18:54.447684+00
+40b7e942-17e5-434b-aca7-796cf4e7745f,Viperidae,reptiles,,,,,Viperidae,Pit Vipers,family,75,,2024-01-24 17:18:54.447684+00
+0f030680-e6d7-4e49-8200-065e00768ae3,Neusticurus,reptiles,,,,,,NULL,genus,NULL,Neusticurus,2024-01-24 17:18:54.447684+00
+246b3cbe-7388-4e34-8670-40f337f47ba5,Caiman,reptiles,,,,,,NULL,genus,NULL,Caiman,2024-01-24 17:18:54.447684+00
+1227db41-eb66-4caa-b11e-1bba13d02c82,Siagonodon septemstriatus,reptiles,Siagonodon septemstriatus,NULL,Seven-Striped Blind Snake,NULL,,,species,NULL,Siagonodon,2024-01-31 16:46:00.692574+00
+85e39d08-0f40-438e-ab75-65c9dc4a2623,Drymarchon melanurus,reptiles,Drymarchon melanurus,NULL,NULL,NULL,,NULL,species,NULL,Drymarchon,2024-01-24 17:18:54.447684+00
+913bbc99-a94c-4d63-aa2d-31fee4b1ac80,Cnemidophorus lemniscatus,reptiles,Cnemidophorus lemniscatus,NULL,NULL,NULL,,NULL,species,NULL,Cnemidophorus,2024-01-24 17:18:54.447684+00
+b41cc5c2-7f12-4ae6-a27d-419dbab63211,Hydrodynastes gigas,reptiles,Hydrodynastes gigas,NULL,NULL,NULL,,NULL,species,NULL,Hydrodynastes,2024-01-24 17:18:54.447684+00
+9c7e94f2-f6ee-4118-afe8-56035007c5ec,Micrurus collaris,reptiles,Micrurus collaris,NULL,Guyana Blackback Coral Snake,NULL,,,species,NULL,Micrurus,2024-01-31 16:46:00.692574+00
+9a7883ed-c9db-4fdc-9bff-4c489d18f69a,Atractus natans,reptiles,Atractus natans,NULL,,NULL,,,species,NULL,Atractus,2024-01-31 16:46:00.692574+00
+c9ab3673-a565-455e-b2ff-b79d5ebe669a,Rhinemys rufipes,reptiles,Rhinemys rufipes,NULL,NULL,NULL,,NULL,species,NULL,Rhinemys,2024-01-24 17:18:54.447684+00
+0c8f18e7-a74a-46f0-8cc1-a14037b8720e,Micrurus hemprichii,reptiles,Micrurus hemprichii,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+bfd56c4f-6549-46fe-a729-259951445968,Drymoluber dichrous,reptiles,Drymoluber dichrous,NULL,NULL,NULL,,NULL,species,NULL,Drymoluber,2024-01-24 17:18:54.447684+00
+d6dda080-7a56-4906-8706-eb64788fbe64,Atractus dapsilis,reptiles,Atractus dapsilis,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+5b6a0994-aa60-4f65-bf4e-b9e76efd064b,Thecadactylus,reptiles,,,,,Phyllodactylidae,NULL,genus,34,Thecadactylus,2024-01-24 17:18:54.447684+00
+ef939788-6b6c-4208-893e-bed9dc774770,Mesoclemmys gibba,reptiles,Mesoclemmys gibba,NULL,NULL,NULL,,NULL,species,NULL,Mesoclemmys,2024-01-24 17:18:54.447684+00
+ed5c2570-33aa-47f4-a115-71a9dd8a97b0,Kentropyx striata,reptiles,Kentropyx striata,NULL,NULL,NULL,,NULL,species,NULL,Kentropyx,2024-01-24 17:18:54.447684+00
+8a6de023-0a4e-49ef-94a8-fe92bde136d5,Apostolepis,reptiles,,,,,,NULL,genus,NULL,Apostolepis,2024-01-24 17:18:54.447684+00
+89fee68e-4568-4a55-ac01-1a5723dabd24,Bachia whitei,reptiles,Bachia whitei,NULL,NULL,NULL,,NULL,species,NULL,Bachia,2024-01-24 17:18:54.447684+00
+08140e1f-b841-406c-99e0-4f5225b19045,Anolis fuscoauratus,reptiles,Anolis fuscoauratus,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+e9b96aeb-b1c7-4cf2-bc5d-716d0c56f8eb,Podocnemis expansa,reptiles,Podocnemis expansa,NULL,NULL,NULL,,NULL,species,NULL,Podocnemis,2024-01-24 17:18:54.447684+00
+b0a64820-881d-4162-bc99-4031d8b922b8,Chelonoidis denticulatus,reptiles,Chelonoidis denticulatus,NULL,Yellow-Footed Tortoise,NULL,,,species,NULL,Chelonoidis,2024-01-31 16:46:00.692574+00
+9ebe9d02-5c23-4e95-af9f-1dd344ab3244,Mastigodryas boddaerti,reptiles,Mastigodryas boddaerti,NULL,NULL,NULL,,NULL,species,NULL,Mastigodryas,2024-01-24 17:18:54.447684+00
+1374d30a-cc76-4a75-b22a-3c1e3dfa3815,Loxopholis guianense,reptiles,Loxopholis guianense,NULL,,NULL,,,species,NULL,Loxopholis,2024-01-31 16:46:00.692574+00
+bb91ed18-795d-4a3e-ae11-42828045beed,Melanosuchus niger,reptiles,Melanosuchus niger,NULL,NULL,NULL,,NULL,species,NULL,Melanosuchus,2024-01-24 17:18:54.447684+00
+99f72f66-9ad6-4947-a658-b90aa572cea4,Apostolepis pymi,reptiles,Apostolepis pymi,NULL,,NULL,,,species,NULL,Apostolepis,2024-01-31 16:46:00.692574+00
+9efb0cb0-e4b5-4d4a-aabe-37b7b3c5ae22,Iphisa elegans,reptiles,Iphisa elegans,NULL,NULL,NULL,,NULL,species,NULL,Iphisa,2024-01-24 17:18:54.447684+00
+7812d7a3-a0d6-439e-bac9-5d86162024fd,Amphisbaena,reptiles,,,,,,NULL,genus,NULL,Amphisbaena,2024-01-24 17:18:54.447684+00
+6d73c4eb-2371-4a16-af7f-42c3ddbd08b8,Oxyrhopus vanidicus,reptiles,Oxyrhopus vanidicus,NULL,NULL,NULL,,NULL,species,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+ff00731a-3be2-4e3e-8efa-ed9292b293d7,Erythrolamprus pygmaeus,reptiles,Erythrolamprus pygmaeus,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+8804c369-11bc-49ef-a1f7-9a5e5c62cdae,Corallus caninus,reptiles,Corallus caninus,NULL,NULL,NULL,,NULL,species,NULL,Corallus,2024-01-24 17:18:54.447684+00
+977a5916-4293-4dde-8590-d52333911a52,Erythrolamprus taeniogaster,reptiles,Erythrolamprus taeniogaster,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+ebf2fcd3-419e-4571-a2d1-62acd209682b,Iphisa,reptiles,,,,,,NULL,genus,NULL,Iphisa,2024-01-24 17:18:54.447684+00
+cbf68f79-c0e8-4306-807b-4a690b745106,Tropidurus hispidus,reptiles,Tropidurus hispidus,NULL,NULL,NULL,,NULL,species,NULL,Tropidurus,2024-01-24 17:18:54.447684+00
+b1c5d447-1154-4095-a0b8-7e7199d93bf5,Anilius,reptiles,,,,,,NULL,genus,NULL,Anilius,2024-01-24 17:18:54.447684+00
+a2039398-84ec-419a-b58a-4405071f99b1,Chironius carinatus,reptiles,Chironius carinatus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+ff0778bb-6b93-4727-bf66-595c22492da1,Pseudoeryx plicatilis,reptiles,Pseudoeryx plicatilis,NULL,NULL,NULL,,NULL,species,NULL,Pseudoeryx,2024-01-24 17:18:54.447684+00
+f2e3f04b-2c45-4ee9-b4af-9814ed80b0a5,Iguana iguana,reptiles,Iguana iguana,NULL,NULL,NULL,,NULL,species,NULL,Iguana,2024-01-24 17:18:54.447684+00
+6e78adb4-18c2-4629-bc4c-bbf36425b493,Tantilla capistrata,reptiles,Tantilla capistrata,NULL,NULL,NULL,,NULL,species,NULL,Tantilla,2024-01-24 17:18:54.447684+00
+416ee2a1-aee6-4873-8b2e-aa6d0db3e82d,Dendrophidion clarkii,reptiles,Dendrophidion clarkii,NULL,NULL,NULL,,NULL,species,NULL,Dendrophidion,2024-01-24 17:18:54.447684+00
+57163619-ca13-4330-baba-48dc4b25ec0c,Bothrops taeniatus,reptiles,Bothrops taeniatus,NULL,,NULL,,,species,NULL,Bothrops,2024-01-31 16:46:00.692574+00
+20f9470a-b4fc-4f22-9f40-c91b3092fb83,Epicrates,reptiles,,,,,,NULL,genus,NULL,Epicrates,2024-01-24 17:18:54.447684+00
+f34098bd-74dd-4508-9b3b-e8695e09efb8,Alopoglossus,reptiles,,,,,,NULL,genus,NULL,Alopoglossus,2024-01-24 17:18:54.447684+00
+bde25b50-48cb-470e-92fb-e6dfa2407d44,Platemys platycephala,reptiles,Platemys platycephala,NULL,NULL,NULL,,NULL,species,NULL,Platemys,2024-01-24 17:18:54.447684+00
+b37644d4-1bf2-4db3-8761-b9882e466e4e,Anolis,reptiles,,,,,Dactyloidae,NULL,genus,20,Anolis,2024-01-24 17:18:54.447684+00
+d786f311-6c79-42dc-b1b8-c1164be8052c,Drymoluber,reptiles,,,,,,NULL,genus,NULL,Drymoluber,2024-01-24 17:18:54.447684+00
+8c4f1c02-9f84-4e67-a4bc-c3df727b456e,Corallus batesii,reptiles,Corallus batesii,NULL,NULL,NULL,,NULL,species,NULL,Corallus,2024-01-24 17:18:54.447684+00
+e1128729-bb8d-403b-bef1-d7ccf89a0421,Drepanoides anomalus,reptiles,Drepanoides anomalus,NULL,NULL,NULL,,NULL,species,NULL,Drepanoides,2024-01-24 17:18:54.447684+00
+a1018e19-2105-42d6-addd-da4964c71d71,Anolis ortonii,reptiles,Anolis ortonii,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+1bf2931d-1740-462a-ab9b-72f697a8d9ec,Chironius scurrulus,reptiles,Chironius scurrulus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+0d6ab831-2ee2-401d-a23a-fe2949ba9570,Tupinambis matipu,reptiles,Tupinambis matipu,NULL,NULL,NULL,,NULL,species,NULL,Tupinambis,2024-01-24 17:18:54.447684+00
+352a9764-71f1-4629-b3b3-6f7cb5215f79,Atractus torquatus,reptiles,Atractus torquatus,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+296a5a86-2b7f-44ca-a8f7-59105fa72354,Erythrolamprus poecilogyrus,reptiles,Erythrolamprus poecilogyrus,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+1c24d9bf-55dd-46f7-a060-38caffe0191e,Dipsas bucephala,reptiles,Dipsas bucephala,NULL,NULL,NULL,,NULL,species,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+36ea59cb-62e9-42fb-b5eb-c6ff55da450e,Philodryas viridissima,reptiles,Philodryas viridissima,NULL,Common Green Racer,NULL,,,species,NULL,Philodryas,2024-01-31 16:46:00.692574+00
+57d11db0-3b6a-496d-92af-d88f6517d020,Dipsas catesbyi,reptiles,Dipsas catesbyi,NULL,NULL,NULL,,NULL,species,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+f8ffebfa-d20d-43cb-8056-e3a13eb703f4,Atractus alphonsehogei,reptiles,Atractus alphonsehogei,NULL,Alphonse's Ground Snake,NULL,,,species,NULL,Atractus,2024-01-31 16:46:00.692574+00
+a609b8bd-88d9-4b69-a2c0-05752c05e600,Atractus trilineatus,reptiles,Atractus trilineatus,NULL,Three-Lined Ground Snake,NULL,,,species,NULL,Atractus,2024-01-31 16:46:00.692574+00
+82dbe640-40e5-44c5-a110-77124c91ad1a,Boa constrictor,reptiles,Boa constrictor,NULL,NULL,NULL,,NULL,species,NULL,Boa,2024-01-24 17:18:54.447684+00
+376283ec-c408-43b2-bf1f-d3b8dda7f466,Anolis auratus,reptiles,Anolis auratus,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+bc9da2d6-bcf3-4171-822d-c7fbe6865148,Oxyrhopus,reptiles,,,,,,NULL,genus,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+61df45e8-ec83-4f62-8a58-3c98bd456be6,Clelia,reptiles,,,,,,NULL,genus,NULL,Clelia,2024-01-24 17:18:54.447684+00
+d665e5c8-085b-4329-bc3b-8341c1f10f05,Dendrophidion apharocybe,reptiles,Dendrophidion apharocybe,NULL,NULL,NULL,,NULL,species,NULL,Dendrophidion,2024-01-24 17:18:54.447684+00
+7550ea41-ed87-4cae-99b0-32660de5bdf4,Taeniophallus occipitalis,reptiles,Taeniophallus occipitalis,NULL,NULL,NULL,,NULL,species,NULL,Taeniophallus,2024-01-24 17:18:54.447684+00
+bd19dbcb-9506-4521-86da-99aed6966498,Bothrocophias hyoprora,reptiles,Bothrocophias hyoprora,NULL,Hognose Lancehead,NULL,,,species,NULL,Bothrocophias,2024-01-31 16:46:00.692574+00
+09d850a7-953b-4035-aa59-5fc2f3779f04,Anolis philopunctatus,reptiles,Anolis philopunctatus,NULL,,NULL,,,species,NULL,Anolis,2024-01-31 16:46:00.692574+00
+4eb0b171-30e7-46a4-bfea-371037af9462,Varzea bistriata,reptiles,Varzea bistriata,NULL,NULL,NULL,,NULL,species,NULL,Varzea,2024-01-24 17:18:54.447684+00
+501f4923-18bd-4fa5-9eee-9f6bf5d0b338,Phimophis guianensis,reptiles,Phimophis guianensis,NULL,NULL,NULL,,NULL,species,NULL,Phimophis,2024-01-24 17:18:54.447684+00
+820945a1-8c7a-4133-8b2d-ecb937f928bc,Drymobius,reptiles,,,,,,NULL,genus,NULL,Drymobius,2024-01-24 17:18:54.447684+00
+9e24a835-005b-4861-bf6f-074a045ebd21,Kentropyx calcarata,reptiles,Kentropyx calcarata,NULL,NULL,NULL,,NULL,species,NULL,Kentropyx,2024-01-24 17:18:54.447684+00
+01d4c994-184d-4a03-8409-d9384d8478f8,Plica caribeana,reptiles,Plica caribeana,NULL,NULL,NULL,,NULL,species,NULL,Plica,2024-01-24 17:18:54.447684+00
+9204a006-6717-4233-9897-43290e0e60ab,Gymnophthalmus,reptiles,,NULL,,NULL,,,genus,NULL,Gymnophthalmus,2024-01-31 16:46:00.692574+00
+a0bcdc01-f7a5-44b6-8315-862dc50f9167,Mesoclemmys raniceps,reptiles,Mesoclemmys raniceps,NULL,NULL,NULL,,NULL,species,NULL,Mesoclemmys,2024-01-24 17:18:54.447684+00
+1b4d98d1-e999-481c-a6bb-6e66ddc40f44,Ameiva ameiva,reptiles,Ameiva ameiva,NULL,NULL,NULL,,NULL,species,NULL,Ameiva,2024-01-24 17:18:54.447684+00
+05ca0f5e-399b-426d-8945-127bd14cecf6,Bachia flavescens,reptiles,Bachia flavescens,NULL,NULL,NULL,,NULL,species,NULL,Bachia,2024-01-24 17:18:54.447684+00
+fb245908-c6d3-4cd7-9f78-4c37c110b94c,Oxyrhopus formosus,reptiles,Oxyrhopus formosus,NULL,NULL,NULL,,NULL,species,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+0c299638-8c6c-45e4-93f6-bee35b25a470,Chironius flavolineatus,reptiles,Chironius flavolineatus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+7160b69c-d567-4441-8e14-90bafdc2c091,Siphlophis worontzowi,reptiles,Siphlophis worontzowi,NULL,NULL,NULL,,NULL,species,NULL,Siphlophis,2024-01-24 17:18:54.447684+00
+20221501-92d4-4ba8-b13f-d5f5bf07a46f,Micrurus filiformis,reptiles,Micrurus filiformis,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+9bbc44bf-56d3-4cc6-a91b-3c8666559590,Palusophis,reptiles,,NULL,,NULL,,,genus,NULL,Palusophis,2024-01-31 16:46:00.692574+00
+bb48ff60-83a8-4d77-ab45-6f22c32f40ae,Erythrolamprus miliaris,reptiles,Erythrolamprus miliaris,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+49e5f6af-0a27-4d69-b253-05d339219611,Arthrosaura,reptiles,,,,,,NULL,genus,NULL,Arthrosaura,2024-01-24 17:18:54.447684+00
+47f8d445-7789-4ca5-bc3f-c7e316222761,Amerotyphlops reticulatus,reptiles,Amerotyphlops reticulatus,NULL,NULL,NULL,,NULL,species,NULL,Amerotyphlops,2024-01-24 17:18:54.447684+00
+80740c28-89e3-44e1-92b1-24fb543f2860,Hydrops martii,reptiles,Hydrops martii,NULL,NULL,NULL,,NULL,species,NULL,Hydrops,2024-01-24 17:18:54.447684+00
+c848e1ed-e7a2-4582-9794-56810bbad77a,Rhinobothryum lentiginosum,reptiles,Rhinobothryum lentiginosum,NULL,NULL,NULL,,NULL,species,NULL,Rhinobothryum,2024-01-24 17:18:54.447684+00
+04837d60-560d-4bd1-b09e-cd71b0028d71,Helicops,reptiles,,,,,,NULL,genus,NULL,Helicops,2024-01-24 17:18:54.447684+00
+74e78461-39b3-423e-80bd-5c74dccac5a8,Cercosaura anordosquama,reptiles,Cercosaura anordosquama,NULL,NULL,NULL,,NULL,species,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+b4148c17-426f-4cc7-9d92-9e30e5dc6da8,Drymobius rhombifer,reptiles,Drymobius rhombifer,NULL,NULL,NULL,,NULL,species,NULL,Drymobius,2024-01-24 17:18:54.447684+00
+bb525ae7-d338-4bd7-b5a3-ca804cd9beb2,Erythrolamprus typhlus,reptiles,Erythrolamprus typhlus,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+78aa82d6-e5e6-4c44-bad9-686e478b6ad2,Uranoscodon superciliosus,reptiles,Uranoscodon superciliosus,NULL,NULL,NULL,,NULL,species,NULL,Uranoscodon,2024-01-24 17:18:54.447684+00
+b962eed7-0ebd-49b5-a7fd-d12361f38515,Oxyrhopus melanogenys,reptiles,Oxyrhopus melanogenys,NULL,NULL,NULL,,NULL,species,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+88e07668-d107-46f9-8c76-504f1155ca78,Thamnodynastes,reptiles,,,,,,NULL,genus,NULL,Thamnodynastes,2024-01-24 17:18:54.447684+00
+2d4f144a-6dfe-453f-a39e-eab808c01e93,Corallus,reptiles,,,,,,NULL,genus,NULL,Corallus,2024-01-24 17:18:54.447684+00
+88949a70-a950-48ce-92ff-7265296ca645,Rhinobothryum,reptiles,,,,,,NULL,genus,NULL,Rhinobothryum,2024-01-24 17:18:54.447684+00
+4437a01b-7ad8-452f-bc45-fca99adbb181,Rhinoclemmys,reptiles,,,,,,NULL,genus,NULL,Rhinoclemmys,2024-01-24 17:18:54.447684+00
+b68d4b66-452b-4b97-8922-85ce782a9fed,Amerotyphlops minuisquamus,reptiles,Amerotyphlops minuisquamus,NULL,Basin Worm Snake,NULL,,,species,NULL,Amerotyphlops,2024-01-31 16:46:00.692574+00
+9210cc55-84fe-4e31-b699-24908dbeee95,Kentropyx,reptiles,,,,,,NULL,genus,NULL,Kentropyx,2024-01-24 17:18:54.447684+00
+65eb76d0-ced8-45f0-a14e-558f956398b3,Lygophis lineatus,reptiles,Lygophis lineatus,NULL,Lined Ground Snake,NULL,,,species,NULL,Lygophis,2024-01-31 16:46:00.692574+00
+ff4ff2dd-8ad1-495d-ab74-f8dd72cef7c7,Bothrops bilineata,reptiles,Bothrops bilineata,NULL,Green Jararaca,NULL,,,species,NULL,Bothrops,2024-01-31 16:46:00.692574+00
+ad1aab7a-0b6e-425d-b947-fdc20da3f742,Epicrates maurus,reptiles,Epicrates maurus,NULL,NULL,NULL,,NULL,species,NULL,Epicrates,2024-01-24 17:18:54.447684+00
+fa08c040-0a33-4c80-bc14-d4f5009361db,Pseudoboa coronata,reptiles,Pseudoboa coronata,NULL,NULL,NULL,,NULL,species,NULL,Pseudoboa,2024-01-24 17:18:54.447684+00
+4202abd9-5d37-4790-adce-643493a52927,Gonatodes hasemani,reptiles,Gonatodes hasemani,NULL,NULL,NULL,,NULL,species,NULL,Gonatodes,2024-01-24 17:18:54.447684+00
+b8f530d0-f633-4b8b-8127-fec33b14a394,Uracentron azureum,reptiles,Uracentron azureum,NULL,NULL,NULL,,NULL,species,NULL,Uracentron,2024-01-24 17:18:54.447684+00
+ed3d2a5e-0e7e-4a04-aa00-d808eabf87aa,Thecadactylus rapicauda,reptiles,Thecadactylus rapicauda,NULL,Turniptail Gecko,LC,Phyllodactylidae,NULL,species,34,Thecadactylus,2024-01-24 17:18:54.447684+00
+ae8d21ba-b79b-4d98-9b0c-9fa96b26f0a8,Phrynops,reptiles,,,,,,NULL,genus,NULL,Phrynops,2024-01-24 17:18:54.447684+00
+033813fc-457f-4cfb-aa1c-35f9da9e6c74,Imantodes cenchoa,reptiles,Imantodes cenchoa,NULL,NULL,NULL,,NULL,species,NULL,Imantodes,2024-01-24 17:18:54.447684+00
+b1dc9207-c307-4818-b62b-6e7ceea4e2c0,Tantilla melanocephala,reptiles,Tantilla melanocephala,NULL,NULL,NULL,,NULL,species,NULL,Tantilla,2024-01-24 17:18:54.447684+00
+c7c30e3f-343c-4263-8c48-f437b1a2ed9f,Oxyrhopus occipitalis,reptiles,Oxyrhopus occipitalis,NULL,NULL,NULL,,NULL,species,NULL,Oxyrhopus,2024-01-24 17:18:54.447684+00
+bcc49d71-af63-4746-b8d2-c07fe72a1b2c,Tupinambis,reptiles,,,,,,NULL,genus,NULL,Tupinambis,2024-01-24 17:18:54.447684+00
+6453e98c-2716-4086-969a-43cdc827de50,Anolis transversalis,reptiles,Anolis transversalis,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+17fb9b9c-877a-4a98-8795-6dc719884b60,Pseudoeryx,reptiles,,,,,,NULL,genus,NULL,Pseudoeryx,2024-01-24 17:18:54.447684+00
+f7fe5b60-f6c7-48c8-9ed1-58fc7b081e8d,Pseudogonatodes,reptiles,,,,,,NULL,genus,NULL,Pseudogonatodes,2024-01-24 17:18:54.447684+00
+47fa05a3-b048-4e7e-8188-15762e48b7f6,Chironius,reptiles,,,,,,NULL,genus,NULL,Chironius,2024-01-24 17:18:54.447684+00
+6dfb3454-03fc-4b90-8b55-58d261906e7a,Crotalus,reptiles,,,,,Viperidae,NULL,genus,75,Crotalus,2024-01-24 17:18:54.447684+00
+c70ec36d-3d28-424a-a40a-98cda6afbef9,Anolis chrysolepis,reptiles,Anolis chrysolepis,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+cb2824f0-d381-48de-af2c-434ec3547d14,Bachia pyburni,reptiles,Bachia pyburni,NULL,NULL,NULL,,NULL,species,NULL,Bachia,2024-01-24 17:18:54.447684+00
+06f8c402-a79f-4597-9c49-d76e1c84f0be,Chelonoidis carbonaria,reptiles,Chelonoidis carbonaria,NULL,Red-Footed Tortoise,NULL,,,species,NULL,Chelonoidis,2024-01-31 16:46:00.692574+00
+7440e314-7f93-44a1-a961-4a2bb859dd2c,Ptychoglossus brevifrontalis,reptiles,Ptychoglossus brevifrontalis,NULL,Boulenger's Largescale Lizard,NULL,,,species,NULL,Ptychoglossus,2024-01-31 16:46:00.692574+00
+42487369-1e83-40a6-8674-f87c097bc317,Polychrus marmoratus,reptiles,Polychrus marmoratus,NULL,NULL,NULL,,NULL,species,NULL,Polychrus,2024-01-24 17:18:54.447684+00
+46759403-417f-4012-9f7c-1dbe77abdd5f,Chironius multiventris,reptiles,Chironius multiventris,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+86148e44-e151-4002-8497-afa89859238a,Chelus fimbriatus,reptiles,Chelus fimbriatus,NULL,Mata Mata,NULL,,,species,NULL,Chelus,2024-01-31 16:46:00.692574+00
+0feabf5b-2014-4f2b-b5b3-baa1f7c03351,Dipsas indica,reptiles,Dipsas indica,NULL,NULL,NULL,,NULL,species,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+5031f06e-419e-44f3-b70c-a551234fa0d4,Chatogekko amazonicus,reptiles,Chatogekko amazonicus,NULL,NULL,NULL,,NULL,species,NULL,Chatogekko,2024-01-24 17:18:54.447684+00
+2d32f1e3-a65d-4c65-81cf-0e29f194a91c,Polychrus auduboni,reptiles,Polychrus auduboni,NULL,NULL,NULL,,NULL,species,NULL,Polychrus,2024-01-24 17:18:54.447684+00
+920de2ea-9a49-4852-96f3-fab17f27d578,Copeoglossum nigropunctatum,reptiles,Copeoglossum nigropunctatum,NULL,NULL,NULL,,NULL,species,NULL,Copeoglossum,2024-01-24 17:18:54.447684+00
+6c9816a8-4aea-4db7-9dbf-5f6c4105a85e,Micrurus lemniscatus,reptiles,Micrurus lemniscatus,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+3a13e0c3-340b-4f23-8b01-b335562d4fe7,Xenodon rabdocephalus,reptiles,Xenodon rabdocephalus,NULL,NULL,NULL,,NULL,species,NULL,Xenodon,2024-01-24 17:18:54.447684+00
+47691f42-5314-4fce-9928-f37137d6e2b4,Phrynops tuberosus,reptiles,Phrynops tuberosus,NULL,Cotinga River Toadhead Turtle,NULL,,,species,NULL,Phrynops,2024-01-31 16:46:00.692574+00
+723ed3af-76bd-4960-8a8d-95c00d54f42c,Dipsas pavonina,reptiles,Dipsas pavonina,NULL,NULL,NULL,,NULL,species,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+85bad64b-412c-4741-bee4-83b1a42875d8,Plica rayi,reptiles,Plica rayi,NULL,NULL,NULL,,NULL,species,NULL,Plica,2024-01-24 17:18:54.447684+00
+823876d6-dc63-4835-9145-c181eebcb2f0,Dactyloidae,reptiles,,,,,Dactyloidae,NULL,family,20,,2024-01-24 17:18:54.447684+00
+e19c7596-d8ec-4092-98aa-5b1bd2b6a3fd,Hydrops,reptiles,,,,,,NULL,genus,NULL,Hydrops,2024-01-24 17:18:54.447684+00
+6767015c-6dd4-4a50-8462-323537fbac50,Imantodes lentiferus,reptiles,Imantodes lentiferus,NULL,NULL,NULL,,NULL,species,NULL,Imantodes,2024-01-24 17:18:54.447684+00
+966a4eaa-9484-4300-b133-9b032555e5d8,Tretioscincus oriximinensis,reptiles,Tretioscincus oriximinensis,NULL,Oriximina Lizard,NULL,,,species,NULL,Tretioscincus,2024-01-31 16:46:00.692574+00
+1a834b75-ac18-4cdc-b056-e54ef5f138f9,Eunectes,reptiles,,,,,,NULL,genus,NULL,Eunectes,2024-01-24 17:18:54.447684+00
+526469e3-9e22-426a-b0a8-2c2d5a12573c,Epictia diaplocia,reptiles,Epictia diaplocia,NULL,NULL,NULL,,NULL,species,NULL,Epictia,2024-01-24 17:18:54.447684+00
+2599b204-409c-423d-84c0-e1d5a9dc1d61,Anolis brasiliensis,reptiles,Anolis brasiliensis,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+fd10f1b2-d0ea-495e-94b4-ad353f3c3aa4,Erythrolamprus aesculapii,reptiles,Erythrolamprus aesculapii,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+e345fba7-83dc-4b45-9d94-50596ad4d478,Anolis planiceps,reptiles,Anolis planiceps,NULL,NULL,NULL,,NULL,species,NULL,Anolis,2024-01-24 17:18:54.447684+00
+b4b3143e-ffcd-4b07-93c5-a527457635f3,Leptodeira rhombifera,reptiles,Leptodeira rhombifera,NULL,NULL,NULL,,NULL,species,NULL,Leptodeira,2024-01-24 17:18:54.447684+00
+a6c3eee7-8d78-4374-a468-56caf0664afa,Drepanoides,reptiles,,,,,,NULL,genus,NULL,Drepanoides,2024-01-24 17:18:54.447684+00
+ffd59cc4-d435-43fd-aeab-ab0c37e172cd,Siagonodon,reptiles,,NULL,,NULL,,,genus,NULL,Siagonodon,2024-01-31 16:46:00.692574+00
+a96e4886-702c-42cd-9504-3d7f98d03dd0,Erythrolamprus breviceps,reptiles,Erythrolamprus breviceps,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+0c5ca0d3-e8df-4057-b839-c65f1b6f72bf,Leptomicrurus collaris,reptiles,Leptomicrurus collaris,NULL,Guyana Blackback Coral Snake,NULL,,,species,NULL,Leptomicrurus,2024-01-31 16:46:00.692574+00
+88117bd0-d09c-469f-8169-1bded309b09d,Apostolepis nigrolineata,reptiles,Apostolepis nigrolineata,NULL,NULL,NULL,,NULL,species,NULL,Apostolepis,2024-01-24 17:18:54.447684+00
+b3b23a1f-72cc-4bf3-ae39-415e14a75869,Leposoma guianense,reptiles,Leposoma guianense,NULL,,NULL,,,species,NULL,Leposoma,2024-01-31 16:46:00.692574+00
+2312ee11-6387-40be-b4d7-e108c250b6ea,Rhinoclemmys punctularia,reptiles,Rhinoclemmys punctularia,NULL,NULL,NULL,,NULL,species,NULL,Rhinoclemmys,2024-01-24 17:18:54.447684+00
+288dec47-f6cb-42f2-a70e-39d22fa9cd63,Gonatodes humeralis,reptiles,Gonatodes humeralis,NULL,NULL,NULL,,NULL,species,NULL,Gonatodes,2024-01-24 17:18:54.447684+00
+89fb2c18-ec66-435c-bd43-973aa8c4e55e,Neusticurus bicarinatus,reptiles,Neusticurus bicarinatus,NULL,NULL,NULL,,NULL,species,NULL,Neusticurus,2024-01-24 17:18:54.447684+00
+a8e72f45-5477-4b73-a8e4-1d0eca606f6b,Varzea,reptiles,,,,,,NULL,genus,NULL,Varzea,2024-01-24 17:18:54.447684+00
+c6102f01-2f37-497f-967c-c769934b5042,Atractus snethlageae,reptiles,Atractus snethlageae,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+a67b5e71-a281-4c36-9808-7006be6f158d,Philodryas,reptiles,,,,,,NULL,genus,NULL,Philodryas,2024-01-24 17:18:54.447684+00
+911cb538-6448-4a77-8673-19378a589702,Platemys,reptiles,,,,,,NULL,genus,NULL,Platemys,2024-01-24 17:18:54.447684+00
+75dbf065-c02d-4f81-94f9-3b065ef49fb4,Clelia clelia,reptiles,Clelia clelia,NULL,NULL,NULL,,NULL,species,NULL,Clelia,2024-01-24 17:18:54.447684+00
+2b749d76-d973-4af4-90a6-acdadae9ed25,Boa imperator,reptiles,Boa imperator,NULL,NULL,NULL,,NULL,species,NULL,Boa,2024-01-24 17:18:54.447684+00
+06c0c78d-0158-4565-9300-ee7eee65bb83,Leposoma percarinatum,reptiles,Leposoma percarinatum,NULL,Muller's Tegu,NULL,,,species,NULL,Leposoma,2024-01-31 16:46:00.692574+00
+3d0d0532-e9a2-4661-9f3d-0cb4905ebec7,Corallus hortulanus,reptiles,Corallus hortulanus,NULL,Garden Tree Boa,NULL,,,species,NULL,Corallus,2024-01-31 16:46:00.692574+00
+fa16d59d-4241-4573-817f-2a193992b9b7,Micrurus surinamensis,reptiles,Micrurus surinamensis,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+a48f4211-86a8-4d39-b0d7-e67175ba790c,Oxybelis fulgidus,reptiles,Oxybelis fulgidus,NULL,NULL,NULL,,NULL,species,NULL,Oxybelis,2024-01-24 17:18:54.447684+00
+940d0718-7adb-47c8-9caa-20965e14a906,Loxopholis percarinatum,reptiles,Loxopholis percarinatum,NULL,,NULL,,,species,NULL,Loxopholis,2024-01-31 16:46:00.692574+00
+9e267aa6-be5e-4b75-90b8-14a05d7aab49,Tropidurus oreadicus,reptiles,Tropidurus oreadicus,NULL,NULL,NULL,,NULL,species,NULL,Tropidurus,2024-01-24 17:18:54.447684+00
+01550840-a1af-4a97-9f07-2c3ad439c62c,Kentropyx altamazonica,reptiles,Kentropyx altamazonica,NULL,NULL,NULL,,NULL,species,NULL,Kentropyx,2024-01-24 17:18:54.447684+00
+4d148920-d976-4576-838f-d7ebd20aab83,Salvator merianae,reptiles,Salvator merianae,NULL,NULL,NULL,,NULL,species,NULL,Salvator,2024-01-24 17:18:54.447684+00
+4b6ce84c-a4c2-4055-aeab-5d42c7b307e8,Micrurus langsdorffi,reptiles,Micrurus langsdorffi,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+ced17168-f132-4df1-8ff7-dacbf84e33ca,Philodryas argentea,reptiles,Philodryas argentea,NULL,Striped Sharpnose Snake,NULL,,,species,NULL,Philodryas,2024-01-31 16:46:00.692574+00
+ac961fb3-e590-4267-a997-c64aa5cde63f,Pseudoboa neuwiedii,reptiles,Pseudoboa neuwiedii,NULL,NULL,NULL,,NULL,species,NULL,Pseudoboa,2024-01-24 17:18:54.447684+00
+b7ee423a-fd65-47e8-a5be-84ba880d442b,Trilepida macrolepis,reptiles,Trilepida macrolepis,NULL,NULL,NULL,,NULL,species,NULL,Trilepida,2024-01-24 17:18:54.447684+00
+08fa80de-029f-462d-9fe5-1578871b2505,Trilepida,reptiles,,,,,,NULL,genus,NULL,Trilepida,2024-01-24 17:18:54.447684+00
+ffc36a95-2ecb-4c99-b667-0ebc12427b26,Hemidactylus,reptiles,,,,,Gekkonidae,Geckos,genus,30,Hemidactylus,2024-01-24 17:18:54.447684+00
+d29dd4e0-cb34-4a77-9dc4-cb76ac19f822,Mesoclemmys,reptiles,,,,,,NULL,genus,NULL,Mesoclemmys,2024-01-24 17:18:54.447684+00
+f2b6ba4f-8be9-4cbf-afe0-b7408eba49da,Cercosaura olivacea,reptiles,Cercosaura olivacea,NULL,NULL,NULL,,NULL,species,NULL,Cercosaura,2024-01-24 17:18:54.447684+00
+8552f8a8-6af5-4086-9e2b-1697e3fec036,Gonatodes annularis,reptiles,Gonatodes annularis,NULL,NULL,NULL,,NULL,species,NULL,Gonatodes,2024-01-24 17:18:54.447684+00
+0f3702e8-6ee3-4906-9aec-548739351af5,Bachia,reptiles,,,,,,NULL,genus,NULL,Bachia,2024-01-24 17:18:54.447684+00
+65f4e598-d1a3-42c4-b596-4e692760b9af,Atractus poeppigi,reptiles,Atractus poeppigi,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+cd09f28e-944c-4563-8eea-4bce5838db9e,Ptychoglossus,reptiles,,NULL,,NULL,,,genus,NULL,Ptychoglossus,2024-01-31 16:46:00.692574+00
+39c6437c-66fa-4627-8eb1-57229e4afe8a,Kentropyx pelviceps,reptiles,Kentropyx pelviceps,NULL,NULL,NULL,,NULL,species,NULL,Kentropyx,2024-01-24 17:18:54.447684+00
+a97ccd09-d25d-4571-849a-9f89cc8ead9a,Erythrolamprus reginae,reptiles,Erythrolamprus reginae,NULL,NULL,NULL,,NULL,species,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+a10af635-8b1e-447f-95a3-49b476c81930,Polychrus,reptiles,,,,,,NULL,genus,NULL,Polychrus,2024-01-24 17:18:54.447684+00
+1264df58-ea9e-4596-a279-04687f9d446a,Amphisbaena vanzolinii,reptiles,Amphisbaena vanzolinii,NULL,Vanzolini's Worm Lizard,NULL,,,species,NULL,Amphisbaena,2024-01-31 16:46:00.692574+00
+d41596e7-5613-43f1-a5d5-ae5a9867dc4f,Mastigodryas bifossatus,reptiles,Mastigodryas bifossatus,NULL,Rio Tropical Racer,NULL,,,species,NULL,Mastigodryas,2024-01-31 16:46:00.692574+00
+a8c5fea2-77d7-43d8-aa8a-8465d90eeeed,Taeniophallus nicagus,reptiles,Taeniophallus nicagus,NULL,NULL,NULL,,NULL,species,NULL,Taeniophallus,2024-01-24 17:18:54.447684+00
+79e0a45e-a977-4f16-96e6-3daec3c87619,Plica plica,reptiles,Plica plica,NULL,NULL,NULL,,NULL,species,NULL,Plica,2024-01-24 17:18:54.447684+00
+cfd4c1ed-9b20-45fc-8476-1ed892045f3a,Crocodilurus amazonicus,reptiles,Crocodilurus amazonicus,NULL,Crocodile Tegu,NULL,,,species,NULL,Crocodilurus,2024-01-31 16:46:00.692574+00
+c0103644-3a0b-4050-aebc-4c24a5cdabe7,Atractus elaps,reptiles,Atractus elaps,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+38f287d8-45de-48b8-b99c-09b87b9333e1,Xenopholis,reptiles,,,,,,NULL,genus,NULL,Xenopholis,2024-01-24 17:18:54.447684+00
+77f26988-6a84-4c0a-8981-4fa02f10713c,Phimophis,reptiles,,,,,,NULL,genus,NULL,Phimophis,2024-01-24 17:18:54.447684+00
+b03500d8-ff76-49ac-acd0-75e48039a4a2,Boa,reptiles,,,,,,NULL,genus,NULL,Boa,2024-01-24 17:18:54.447684+00
+9dc1774d-13b5-43d6-8138-5ea9743e22f2,Micrurus spixii,reptiles,Micrurus spixii,NULL,Amazon Coral Snake,NULL,,,species,NULL,Micrurus,2024-01-31 16:46:00.692574+00
+3840a2cb-e945-40e2-b743-6a06f857e94d,Leptomicrurus,reptiles,,NULL,,NULL,,,genus,NULL,Leptomicrurus,2024-01-31 16:46:00.692574+00
+3f674710-03b2-4182-b143-62000b53db19,Pseudogonatodes guianensis,reptiles,Pseudogonatodes guianensis,NULL,NULL,NULL,,NULL,species,NULL,Pseudogonatodes,2024-01-24 17:18:54.447684+00
+efab9a1b-aa1c-43b5-96cc-5f9b7a837848,Helicops angulatus,reptiles,Helicops angulatus,NULL,NULL,NULL,,NULL,species,NULL,Helicops,2024-01-24 17:18:54.447684+00
+817d1e33-b8dc-4748-a97e-d37986200a43,Alopoglossus angulatus,reptiles,Alopoglossus angulatus,NULL,NULL,NULL,,NULL,species,NULL,Alopoglossus,2024-01-24 17:18:54.447684+00
+2163bb40-8d18-41fc-a61d-191689f0a34d,Chironius quadricarinatus,reptiles,Chironius quadricarinatus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+ff6e1842-7084-4dad-b869-1a862200a91a,Dendrophidion nuchale,reptiles,Dendrophidion nuchale,NULL,NULL,NULL,,NULL,species,NULL,Dendrophidion,2024-01-24 17:18:54.447684+00
+fa1d1eca-563e-457e-8d4d-72c595544c37,Chatogekko,reptiles,,,,,,NULL,genus,NULL,Chatogekko,2024-01-24 17:18:54.447684+00
+51a0090e-292c-4457-bc0c-c4ccca28095e,Uranoscodon,reptiles,,,,,,NULL,genus,NULL,Uranoscodon,2024-01-24 17:18:54.447684+00
+0a43b23b-023c-4466-b156-1530423215e6,Gekkonidae,reptiles,,,,,Gekkonidae,Geckos,family,30,,2024-01-24 17:18:54.447684+00
+f20525c6-a15a-43eb-af40-2947330e8aab,Kinosternon scorpioides,reptiles,Kinosternon scorpioides,NULL,NULL,NULL,,NULL,species,NULL,Kinosternon,2024-01-24 17:18:54.447684+00
+6dc899ce-e1c9-48cf-ac18-b696ec733670,Atractus schach,reptiles,Atractus schach,NULL,NULL,NULL,,NULL,species,NULL,Atractus,2024-01-24 17:18:54.447684+00
+bcd14a5c-7261-440f-bbb6-c2eb58bee980,Philodryas olfersii,reptiles,Philodryas olfersii,NULL,NULL,NULL,,NULL,species,NULL,Philodryas,2024-01-24 17:18:54.447684+00
+ddde8eab-fc5f-4408-9823-2d24a0bf6f9f,Chelus fimbriata,reptiles,Chelus fimbriata,NULL,NULL,NULL,,NULL,species,NULL,Chelus,2024-01-24 17:18:54.447684+00
+c46d3368-93f9-4a3b-a530-3bee4c664f01,Hydrodynastes,reptiles,,,,,,NULL,genus,NULL,Hydrodynastes,2024-01-24 17:18:54.447684+00
+9876ac86-e6e1-4ee1-b3f2-196d3114137d,Gymnophthalmus underwoodi,reptiles,Gymnophthalmus underwoodi,NULL,Underwcod's Spectaded Tegu,NULL,,,species,NULL,Gymnophthalmus,2024-01-31 16:46:00.692574+00
+422786a3-d5e8-4029-bcb1-3830e3061def,Erythrolamprus,reptiles,,,,,,NULL,genus,NULL,Erythrolamprus,2024-01-24 17:18:54.447684+00
+cd4dcc14-5736-4ade-92bf-0f6fa23502eb,Spilotes sulphureus,reptiles,Spilotes sulphureus,NULL,NULL,NULL,,NULL,species,NULL,Spilotes,2024-01-24 17:18:54.447684+00
+4236aeef-4c93-4246-aed9-6167c1c2582f,Atractus caxiuana,reptiles,Atractus caxiuana,NULL,,NULL,,,species,NULL,Atractus,2024-01-31 16:46:00.692574+00
+337f1a41-1118-43ef-a219-9e5c4877df3b,Alopoglossus meloi,reptiles,Alopoglossus meloi,NULL,NULL,NULL,,NULL,species,NULL,Alopoglossus,2024-01-24 17:18:54.447684+00
+fb819729-a0d2-4304-bcc5-3b21b275330b,Lepidoblepharis,reptiles,,,,,,NULL,genus,NULL,Lepidoblepharis,2024-01-24 17:18:54.447684+00
+ecc3abc8-cead-4e59-b6b0-6aa29cd589aa,Uracentron flaviceps,reptiles,Uracentron flaviceps,NULL,NULL,NULL,,NULL,species,NULL,Uracentron,2024-01-24 17:18:54.447684+00
+ea7665df-262b-4c95-86f1-baad286946ca,Phrynops geoffroanus,reptiles,Phrynops geoffroanus,NULL,NULL,NULL,,NULL,species,NULL,Phrynops,2024-01-24 17:18:54.447684+00
+51287961-f090-46ff-91fe-465f0c9ff7d4,Leposoma,reptiles,,NULL,,NULL,,,genus,NULL,Leposoma,2024-01-31 16:46:00.692574+00
+81841cbd-3346-447e-8253-a8411d0ecd53,Taeniophallus,reptiles,,,,,,NULL,genus,NULL,Taeniophallus,2024-01-24 17:18:54.447684+00
+66ece7c5-92b2-41c5-8156-741f23d7964a,Tretioscincus,reptiles,,,,,,NULL,genus,NULL,Tretioscincus,2024-01-24 17:18:54.447684+00
+ccf60181-2845-4e46-91ff-fcb1badbbdb0,Drymarchon,reptiles,,,,,,NULL,genus,NULL,Drymarchon,2024-01-24 17:18:54.447684+00
+cbab1f71-6912-4143-bd81-0454af9c426a,Eunectes notaeus,reptiles,Eunectes notaeus,NULL,NULL,NULL,,NULL,species,NULL,Eunectes,2024-01-24 17:18:54.447684+00
+5acc662d-d410-41df-92a2-8362268f35ec,Plica umbra,reptiles,Plica umbra,NULL,NULL,NULL,,NULL,species,NULL,Plica,2024-01-24 17:18:54.447684+00
+75e748dc-3e4f-46ba-9835-b6172935c5dc,Drymarchon corais,reptiles,Drymarchon corais,NULL,NULL,NULL,,NULL,species,NULL,Drymarchon,2024-01-24 17:18:54.447684+00
+dccf4565-a59f-4ee6-a719-b8661cfac0ff,Atractus collaris,reptiles,Atractus collaris,NULL,Collared Ground Snake,NULL,,,species,NULL,Atractus,2024-01-31 16:46:00.692574+00
+19578e25-0760-4217-98c9-df8c672be179,Chironius exoletus,reptiles,Chironius exoletus,NULL,NULL,NULL,,NULL,species,NULL,Chironius,2024-01-24 17:18:54.447684+00
+40d5409d-739e-4346-b255-788ace01cd20,Mastigodryas pleei,reptiles,Mastigodryas pleei,NULL,Plee's Tropical Racer,NULL,,,species,NULL,Mastigodryas,2024-01-31 16:46:00.692574+00
+2131b2e5-675a-489e-ae23-cdf3e0399940,Paleosuchus palpebrosus,reptiles,Paleosuchus palpebrosus,NULL,NULL,NULL,,NULL,species,NULL,Paleosuchus,2024-01-24 17:18:54.447684+00
+4c977678-564a-4af4-a26c-7e26f20288b1,Micrurus boicora,reptiles,Micrurus boicora,NULL,NULL,NULL,,NULL,species,NULL,Micrurus,2024-01-24 17:18:54.447684+00
+89e66c3e-18b3-4cac-a2d2-30b4ba07a41b,Dipsas variegata,reptiles,Dipsas variegata,NULL,NULL,NULL,,NULL,species,NULL,Dipsas,2024-01-24 17:18:54.447684+00
+6b87329f-3124-41f7-8d23-94f4061f7be7,Corallus batesi,reptiles,Corallus batesi,NULL,,NULL,,,species,NULL,Corallus,2024-01-31 16:46:00.692574+00
+bb314b59-8053-4bd8-bd38-d7d0de393573,Potamites ecpleopus,reptiles,Potamites ecpleopus,NULL,NULL,NULL,,NULL,species,NULL,Potamites,2024-01-24 17:18:54.447684+00
+5904a7d7-b186-44dc-8ba6-709d7dce20f0,Siphlophis cervinus,reptiles,Siphlophis cervinus,NULL,NULL,NULL,,NULL,species,NULL,Siphlophis,2024-01-24 17:18:54.447684+00
+01f58e6d-bdb7-4c38-ac58-b0c37b130890,Podocnemis unifilis,reptiles,Podocnemis unifilis,NULL,NULL,NULL,,NULL,species,NULL,Podocnemis,2024-01-24 17:18:54.447684+00
+54019182-03b9-4f17-aefa-e79c5b93d29a,Cnemidophorus,reptiles,,,,,,NULL,genus,NULL,Cnemidophorus,2024-01-24 17:18:54.447684+00
+a68c94f5-13a2-47c4-8eb7-73032e22331a,Xenopholis scalaris,reptiles,Xenopholis scalaris,NULL,NULL,NULL,,NULL,species,NULL,Xenopholis,2024-01-24 17:18:54.447684+00
+e9327a0a-1c0d-4029-9df2-79ca927b29e6,Chelonoidis denticulata,reptiles,Chelonoidis denticulata,NULL,South American Yellowfoot Tortoise,NULL,,,species,NULL,Chelonoidis,2024-01-31 16:46:00.692574+00
+bcb3975f-b1b7-4e5b-9272-8c43357d72dd,Atractus,reptiles,,,,,,NULL,genus,NULL,Atractus,2024-01-24 17:18:54.447684+00
+5577c4cc-d6ff-4e5b-a0d9-6e869fbcde69,Lepidoblepharis festae,reptiles,Lepidoblepharis festae,NULL,NULL,NULL,,NULL,species,NULL,Lepidoblepharis,2024-01-24 17:18:54.447684+00

@@ -1,0 +1,110 @@
+species_id,name,taxa,scientificname,species_url,commonname,redlist,family,family_common,taxonomic_level,sequenceid,genus,created_at
+72485283-9f80-4385-a130-bcca6b8a1a80,Pantala,dragonflies,,,,,,NULL,genus,NULL,Pantala,2024-01-24 17:18:54.447684+00
+2d70868c-a8e6-42c5-889a-c17d11b6fc0c,Neuraeschna,dragonflies,,NULL,,NULL,,,genus,NULL,Neuraeschna,2024-01-31 16:46:01.310562+00
+768cadaf-4109-466b-b863-ef9836a38459,Rhodopygia hollandi,dragonflies,Rhodopygia hollandi,NULL,,NULL,,,species,NULL,Rhodopygia,2024-01-31 16:46:01.310562+00
+12f618b3-8653-4b2c-9140-9933ca879ab0,Rhionaeschna planaltica,dragonflies,Rhionaeschna planaltica,NULL,,NULL,,,species,NULL,Rhionaeschna,2024-01-31 16:46:01.310562+00
+4aba2be1-bcc6-4ddf-ae0f-3ec68478ed1d,Rhodopygia,dragonflies,,NULL,,NULL,,,genus,NULL,Rhodopygia,2024-01-31 16:46:01.310562+00
+db674e0d-9251-464d-84e5-64abebd432dd,Epipleoneura manauensis,dragonflies,Epipleoneura manauensis,NULL,,NULL,,,species,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+45a6398b-f87e-416f-8848-e1021144a9d3,Micrathyria spuria,dragonflies,Micrathyria spuria,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+16f9d6ee-f124-4f11-844e-87f3bdd20d8c,Acanthagrion,dragonflies,,NULL,,NULL,,,genus,NULL,Acanthagrion,2024-01-31 16:46:01.310562+00
+c807d199-ef29-4772-9d8b-655755d8f00e,Brechmorhoga,dragonflies,,NULL,,NULL,,,genus,NULL,Brechmorhoga,2024-01-31 16:46:01.310562+00
+7153f387-ab5d-462e-8163-2fb2ef9e0c62,Fylgia amazonica,dragonflies,Fylgia amazonica,NULL,,NULL,,,species,NULL,Fylgia,2024-01-31 16:46:01.310562+00
+1e40b6c0-7e13-4823-8108-2d08059245e2,Epipleoneura capilliformis,dragonflies,Epipleoneura capilliformis,NULL,,NULL,,,species,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+23921faa-88d3-4e66-a4b5-6a9c9fa86a1e,Micrathyria tibialis,dragonflies,Micrathyria tibialis,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+da8280f9-6619-43ea-bf08-7a447ffe23fb,Progomphus intricatus,dragonflies,Progomphus intricatus,NULL,,NULL,,,species,NULL,Progomphus,2024-01-31 16:46:01.310562+00
+461e4e71-3e13-4530-bb03-82561c0a059d,Heteragrion,dragonflies,,NULL,,NULL,,,genus,NULL,Heteragrion,2024-01-31 16:46:01.310562+00
+acfca113-26c6-49c3-8981-31c72d43061a,Orthemis biolleyi,dragonflies,Orthemis biolleyi,NULL,,NULL,,,species,NULL,Orthemis,2024-01-31 16:46:01.310562+00
+6b2aafcd-ddc6-444a-a49f-f5b150e3e337,Epipotoneura,dragonflies,,NULL,,NULL,,,genus,NULL,Epipotoneura,2024-01-31 16:46:01.310562+00
+369668d4-1080-4761-9393-d55fce180347,Fylgia,dragonflies,,NULL,,NULL,,,genus,NULL,Fylgia,2024-01-31 16:46:01.310562+00
+3f262655-4726-4297-9389-d86494963a37,Perilestes,dragonflies,,NULL,,NULL,,,genus,NULL,Perilestes,2024-01-31 16:46:01.310562+00
+c9e099f5-a2f2-4fbf-a20c-149c14005461,Triacanthagyna,dragonflies,,NULL,,NULL,,,genus,NULL,Triacanthagyna,2024-01-31 16:46:01.310562+00
+3b019618-89ad-439f-9bc5-91c03625a823,Acanthagrion adustum,dragonflies,Acanthagrion adustum,NULL,,NULL,,,species,NULL,Acanthagrion,2024-01-31 16:46:01.310562+00
+1eae737b-77f3-4139-83a3-1afd1a712adb,Ischnura,dragonflies,,,,,,NULL,genus,NULL,Ischnura,2024-01-24 17:18:54.447684+00
+d3b49e38-b80f-4bbc-ac65-68e1975d2368,Diastatops pullata,dragonflies,Diastatops pullata,NULL,,NULL,,,species,NULL,Diastatops,2024-01-31 16:46:01.310562+00
+3c9b1dca-abb5-4ed3-9936-cf80d5e50055,Protoneura,dragonflies,,NULL,,NULL,,,genus,NULL,Protoneura,2024-01-31 16:46:01.310562+00
+61539370-cd39-4090-8432-60c6423a4216,Hetaerina,dragonflies,,,,,,NULL,genus,NULL,Hetaerina,2024-01-24 17:18:54.447684+00
+08380be3-8cc3-4c80-9741-f311ebabf88d,Argia,dragonflies,,,,,,NULL,genus,NULL,Argia,2024-01-24 17:18:54.447684+00
+967760b3-8c0e-45f0-b0ef-1de90320bd8d,Diastatops,dragonflies,,NULL,,NULL,,,genus,NULL,Diastatops,2024-01-31 16:46:01.310562+00
+f07ca659-e90c-4277-bbf1-282e80353b48,Argia fumigata,dragonflies,Argia fumigata,NULL,,NULL,,,species,NULL,Argia,2024-01-31 16:46:01.310562+00
+2f81fc7a-4326-4fb4-9b7b-537ed02f4503,Heteragrion silvarum,dragonflies,Heteragrion silvarum,NULL,,NULL,,,species,NULL,Heteragrion,2024-01-31 16:46:01.310562+00
+63dd92de-19b9-45af-948a-b99ce995d617,Epipleoneura lamina,dragonflies,Epipleoneura lamina,NULL,,NULL,,,species,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+e35d54e9-cd59-4931-8a2d-58fb22a511af,Perilestes attenuatus,dragonflies,Perilestes attenuatus,NULL,,NULL,,,species,NULL,Perilestes,2024-01-31 16:46:01.310562+00
+5f01f81a-2e12-40cb-aca0-7ea77a3df2d1,Telebasis obsoleta,dragonflies,Telebasis obsoleta,NULL,,NULL,,,species,NULL,Telebasis,2024-01-31 16:46:01.310562+00
+9ee5c46b-5246-4d5e-bb92-4e3ba030fd08,Gynothemis,dragonflies,,NULL,,NULL,,,genus,NULL,Gynothemis,2024-01-31 16:46:01.310562+00
+30c86877-e966-4a55-afb6-7d620deea824,Nephepeltia phryne,dragonflies,Nephepeltia phryne,NULL,,NULL,,,species,NULL,Nephepeltia,2024-01-31 16:46:01.310562+00
+1ee82216-cc9b-47ea-9f71-90fc3aaf7550,Triacanthagyna caribbea,dragonflies,Triacanthagyna caribbea,NULL,Caribbean Darner,NULL,,,species,NULL,Triacanthagyna,2024-01-31 16:46:01.310562+00
+eeab3c18-63f5-4e94-a841-af27bdaf56bd,Ischnura fluviatilis,dragonflies,Ischnura fluviatilis,NULL,,NULL,,,species,NULL,Ischnura,2024-01-31 16:46:01.310562+00
+f9e6f548-a995-453b-b35c-c760d5536a27,Lestes curvatus,dragonflies,Lestes curvatus,NULL,,NULL,,,species,NULL,Lestes,2024-01-31 16:46:01.310562+00
+f234c34f-c522-410c-ba49-6550f8447aff,Zenithoptera,dragonflies,,NULL,,NULL,,,genus,NULL,Zenithoptera,2024-01-31 16:46:01.310562+00
+b68252c3-b4c3-46c4-aca8-25c655e64707,Planiplax arachne,dragonflies,Planiplax arachne,NULL,,NULL,,,species,NULL,Planiplax,2024-01-31 16:46:01.310562+00
+d93abdde-8b59-49b9-886b-f01c67404c50,Micrathyria spinifera,dragonflies,Micrathyria spinifera,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+f215725c-1b9e-40a4-8824-f69787b58bb8,Phyllogomphoides,dragonflies,,NULL,,NULL,,,genus,NULL,Phyllogomphoides,2024-01-31 16:46:01.310562+00
+28c6f25a-baa6-4fed-b890-76dd4b36aa16,Perilestes solutus,dragonflies,Perilestes solutus,NULL,,NULL,,,species,NULL,Perilestes,2024-01-31 16:46:01.310562+00
+6be9aaa2-cb5e-4251-b9e1-a6a7a7315d34,Remartinia,dragonflies,,NULL,,NULL,,,genus,NULL,Remartinia,2024-01-31 16:46:01.310562+00
+4ee6baa6-7e34-42a0-b32d-bdbbcc399883,Oligoclada,dragonflies,,NULL,,NULL,,,genus,NULL,Oligoclada,2024-01-31 16:46:01.310562+00
+ba35da97-0b31-4d3b-aaf1-1ef9ecf6aa36,Lestes,dragonflies,,,,,,NULL,genus,NULL,Lestes,2024-01-24 17:18:54.447684+00
+a5d9ce86-f8fc-41ab-857b-a91606350701,Neoneura bilinearis,dragonflies,Neoneura bilinearis,NULL,,NULL,,,species,NULL,Neoneura,2024-01-31 16:46:01.310562+00
+0cdb6a3c-769e-49bf-b5f6-7f592d0748bc,Perithemis cornelia,dragonflies,Perithemis cornelia,NULL,,NULL,,,species,NULL,Perithemis,2024-01-31 16:46:01.310562+00
+cbf17736-db66-4ace-9c9c-2a5f8644adbe,Lestes dichrostigma,dragonflies,Lestes dichrostigma,NULL,,NULL,,,species,NULL,Lestes,2024-01-31 16:46:01.310562+00
+315ee4f8-8642-4c19-a3d5-c2e75794d5c2,Archaeogomphus,dragonflies,,NULL,,NULL,,,genus,NULL,Archaeogomphus,2024-01-31 16:46:01.310562+00
+db517c66-0a35-4ea7-8da3-4934d2352e16,Aphylla brasiliensis,dragonflies,Aphylla brasiliensis,NULL,,NULL,,,species,NULL,Aphylla,2024-01-31 16:46:01.310562+00
+e7f1ef51-73a6-4ee7-b5d8-fc44f2b6be56,Zenithoptera viola,dragonflies,Zenithoptera viola,NULL,,NULL,,,species,NULL,Zenithoptera,2024-01-31 16:46:01.310562+00
+520e3514-36cc-4a89-ae0f-919ba1a46eeb,Macrothemis idalia,dragonflies,Macrothemis idalia,NULL,,NULL,,,species,NULL,Macrothemis,2024-01-31 16:46:01.310562+00
+8005b712-9bb5-4bda-a7ef-f3326abee830,Phyllogomphoides andromeda,dragonflies,Phyllogomphoides andromeda,NULL,,NULL,,,species,NULL,Phyllogomphoides,2024-01-31 16:46:01.310562+00
+1e36dab3-6533-44b8-917d-65ae34d828b2,Erythemis haematogastra,dragonflies,Erythemis haematogastra,NULL,,NULL,,,species,NULL,Erythemis,2024-01-31 16:46:01.310562+00
+053e26de-791b-4457-ade1-2c34c5db5690,Brechmorhoga praedatrix,dragonflies,Brechmorhoga praedatrix,NULL,,NULL,,,species,NULL,Brechmorhoga,2024-01-31 16:46:01.310562+00
+72060d7c-2c04-4bf3-b80b-368555ce7db9,Telebasis corallina,dragonflies,Telebasis corallina,NULL,,NULL,,,species,NULL,Telebasis,2024-01-31 16:46:01.310562+00
+aecf4604-26ec-4451-b58d-6ebabbfc0c69,Erythrodiplax maculosa,dragonflies,Erythrodiplax maculosa,NULL,,NULL,,,species,NULL,Erythrodiplax,2024-01-31 16:46:01.310562+00
+d6e7e86a-5ebd-4699-836f-b8f73523bdb7,Epipleoneura metallica,dragonflies,Epipleoneura metallica,NULL,,NULL,,,species,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+ae8b92ba-c44e-454a-b97f-f7e5681da0b1,Perithemis,dragonflies,,,,,,NULL,genus,NULL,Perithemis,2024-01-24 17:18:54.447684+00
+09cd6648-3bb5-4c95-ad6d-d0c6868bcea6,Epipleoneura kaxuriana,dragonflies,Epipleoneura kaxuriana,NULL,,NULL,,,species,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+fcaeb53b-4672-4009-9631-bd540705c0a9,Nephepeltia,dragonflies,,NULL,,NULL,,,genus,NULL,Nephepeltia,2024-01-31 16:46:01.310562+00
+07f9d072-07c8-4f87-a611-825473b9b187,Remartinia luteipennis,dragonflies,Remartinia luteipennis,NULL,Malachite Darner,NULL,,,species,NULL,Remartinia,2024-01-31 16:46:01.310562+00
+2c4ab1a4-4aea-4e62-adac-343658940921,Pantala flavescens,dragonflies,Pantala flavescens,https://lh4.ggpht.com/Cwos-SvARQen6sxLTdzWaExARgwwI7l3F31w4m5eMPWE9aXqaqcx5yrkcHy3WRHfTplvZrJpQRJCqtovpyu24PY,Wandering Glider,NULL,,NULL,species,NULL,Pantala,2024-01-24 17:18:54.447684+00
+fd9c89cf-8a5b-44e1-a87c-2108d8798e5d,Neuraeschna harpya,dragonflies,Neuraeschna harpya,NULL,,NULL,,,species,NULL,Neuraeschna,2024-01-31 16:46:01.310562+00
+5e5d847b-d146-4b55-a7ff-7b906f111337,Protoneura tenuis,dragonflies,Protoneura tenuis,NULL,,NULL,,,species,NULL,Protoneura,2024-01-31 16:46:01.310562+00
+1964e477-34f4-4f08-8af9-919abd1e7d99,Planiplax,dragonflies,,NULL,,NULL,,,genus,NULL,Planiplax,2024-01-31 16:46:01.310562+00
+21133039-4fa7-4202-8721-2696a1493a67,Acanthagrion amazonicum,dragonflies,Acanthagrion amazonicum,NULL,,NULL,,,species,NULL,Acanthagrion,2024-01-31 16:46:01.310562+00
+f7e84bd7-a99b-4355-b8bc-c66896d701b6,Epipleoneura,dragonflies,,NULL,,NULL,,,genus,NULL,Epipleoneura,2024-01-31 16:46:01.310562+00
+99b3aea8-03d3-4c19-9bf8-ab661077cb3f,Neoneura,dragonflies,,NULL,,NULL,,,genus,NULL,Neoneura,2024-01-31 16:46:01.310562+00
+36107123-1634-4c15-a4d3-caaca244cb48,Erythemis,dragonflies,,,,,,NULL,genus,NULL,Erythemis,2024-01-24 17:18:54.447684+00
+ffbdd9fe-3795-4b17-91d3-dbd0d85b684d,Oxystigma,dragonflies,,NULL,,NULL,,,genus,NULL,Oxystigma,2024-01-31 16:46:01.310562+00
+9e34c0ca-cb6a-487a-86b8-5968ab1ffcb4,Rhodopygia cardinalis,dragonflies,Rhodopygia cardinalis,NULL,,NULL,,,species,NULL,Rhodopygia,2024-01-31 16:46:01.310562+00
+22882672-70e8-48e0-9eea-cd60c684d516,Argyrothemis,dragonflies,,NULL,,NULL,,,genus,NULL,Argyrothemis,2024-01-31 16:46:01.310562+00
+b097332b-68da-4ce6-b6d8-c13eb0f19446,Gynothemis pumila,dragonflies,Gynothemis pumila,NULL,,NULL,,,species,NULL,Gynothemis,2024-01-31 16:46:01.310562+00
+8da642db-edca-44fb-87cd-a1936cf7dc59,Mecistogaster ornata,dragonflies,Mecistogaster ornata,NULL,,NULL,,,species,NULL,Mecistogaster,2024-01-31 16:46:01.310562+00
+f36ba30e-263a-48f1-9fff-b95a30bb9378,Archaeogomphus hamatus,dragonflies,Archaeogomphus hamatus,NULL,,NULL,,,species,NULL,Archaeogomphus,2024-01-31 16:46:01.310562+00
+abe15fce-c718-4aae-aa4a-bc8a665b4146,Oligoclada abbreviata,dragonflies,Oligoclada abbreviata,NULL,,NULL,,,species,NULL,Oligoclada,2024-01-31 16:46:01.310562+00
+31f65b47-edcc-44b9-9adf-b0cb069838b7,Zenithoptera fasciata,dragonflies,Zenithoptera fasciata,NULL,,NULL,,,species,NULL,Zenithoptera,2024-01-31 16:46:01.310562+00
+5c04a0cf-98db-4c35-bfd4-a7f636c4d1dc,Hetaerina amazonica,dragonflies,Hetaerina amazonica,NULL,,NULL,,,species,NULL,Hetaerina,2024-01-31 16:46:01.310562+00
+f632c748-560e-4aa1-a7f9-f6680d7fd3c1,Neoneura fulvicollis,dragonflies,Neoneura fulvicollis,NULL,,NULL,,,species,NULL,Neoneura,2024-01-31 16:46:01.310562+00
+463ccab2-23b9-466d-9aa8-a669a740302e,Rhionaeschna,dragonflies,,,,,,NULL,genus,NULL,Rhionaeschna,2024-01-24 17:18:54.447684+00
+6f7aa786-2ec5-476b-8b94-69dfed3f6f63,Tramea,dragonflies,,,,,,NULL,genus,NULL,Tramea,2024-01-24 17:18:54.447684+00
+2b168e62-bf7d-495f-bebf-fd713f0cfec2,Tramea rustica,dragonflies,Tramea rustica,NULL,,NULL,,,species,NULL,Tramea,2024-01-31 16:46:01.310562+00
+66ca6a1c-4f2f-4a1e-a87b-e2264fa5507b,Progomphus pygmaeus,dragonflies,Progomphus pygmaeus,NULL,,NULL,,,species,NULL,Progomphus,2024-01-31 16:46:01.310562+00
+5151efe6-fa22-4be9-9668-41b0f205f836,Erythrodiplax juliana,dragonflies,Erythrodiplax juliana,NULL,,NULL,,,species,NULL,Erythrodiplax,2024-01-31 16:46:01.310562+00
+bcbaaf85-d39d-412e-9e8a-0719bed96e5a,Aphylla theodorina,dragonflies,Aphylla theodorina,NULL,,NULL,,,species,NULL,Aphylla,2024-01-31 16:46:01.310562+00
+e610ceec-56e3-4954-b3aa-acf9c39915f5,Perithemis lais,dragonflies,Perithemis lais,NULL,,NULL,,,species,NULL,Perithemis,2024-01-31 16:46:01.310562+00
+de2f59fb-d0c3-4f03-92f7-abbf8d890765,Micrathyria atra,dragonflies,Micrathyria atra,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+4bbef5e8-9652-49f6-8b79-471a8ba7d72f,Progomphus,dragonflies,,,,,,NULL,genus,NULL,Progomphus,2024-01-24 17:18:54.447684+00
+dd6ffc83-f645-4de2-9dbf-05f135a850b9,Argyrothemis argentea,dragonflies,Argyrothemis argentea,NULL,,NULL,,,species,NULL,Argyrothemis,2024-01-31 16:46:01.310562+00
+8ecfe2f1-e55e-4a22-9cc0-6d9e300d45e9,Macrothemis flavescens,dragonflies,Macrothemis flavescens,NULL,,NULL,,,species,NULL,Macrothemis,2024-01-31 16:46:01.310562+00
+54cc55e8-a95a-4fb0-b33f-4b1bccf42d02,Erythrodiplax paraguayensis,dragonflies,Erythrodiplax paraguayensis,NULL,,NULL,,,species,NULL,Erythrodiplax,2024-01-31 16:46:01.310562+00
+d3496c7a-080c-460a-9701-89f56fd88284,Oxystigma petiolatum,dragonflies,Oxystigma petiolatum,NULL,,NULL,,,species,NULL,Oxystigma,2024-01-31 16:46:01.310562+00
+2e9277e9-dce9-4932-857b-aab70e3e0780,Acanthagrion truncatum,dragonflies,Acanthagrion truncatum,NULL,,NULL,,,species,NULL,Acanthagrion,2024-01-31 16:46:01.310562+00
+8e97a33c-7d0f-4f5c-a4fd-80faea5415fe,Micrathyria,dragonflies,,NULL,,NULL,,,genus,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+5e8f18a9-e9b9-4470-997c-3c0a680485b4,Mecistogaster,dragonflies,,NULL,,NULL,,,genus,NULL,Mecistogaster,2024-01-31 16:46:01.310562+00
+94be7901-b956-44c2-ba37-6ae010406d9d,Micrathyria hippolyte,dragonflies,Micrathyria hippolyte,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+f648ab9a-54fd-4c11-8ed8-747a07ba141c,Erythemis peruviana,dragonflies,Erythemis peruviana,NULL,Flame-Tailed Pondhawk,NULL,,,species,NULL,Erythemis,2024-01-31 16:46:01.310562+00
+714ec273-a655-41a6-ba06-b186fb6700e9,Micrathyria artemis,dragonflies,Micrathyria artemis,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+87c4f4f5-48d9-4be3-8f1e-c7a91a2cadb5,Telebasis,dragonflies,,NULL,,NULL,,,genus,NULL,Telebasis,2024-01-31 16:46:01.310562+00
+ef7be447-8c1f-471f-bc95-e52798488269,Aphylla,dragonflies,,NULL,,NULL,,,genus,NULL,Aphylla,2024-01-31 16:46:01.310562+00
+deb50f17-82b8-4118-b942-55e01eaa32ce,Macrothemis hemichlora,dragonflies,Macrothemis hemichlora,NULL,,NULL,,,species,NULL,Macrothemis,2024-01-31 16:46:01.310562+00
+ba43b1bb-74fd-4493-b7df-dbe0fc5cd17e,Orthemis,dragonflies,,NULL,,NULL,,,genus,NULL,Orthemis,2024-01-31 16:46:01.310562+00
+9703066d-5989-4359-982d-c9b9fc1eeb87,Progomphus pijpersi,dragonflies,Progomphus pijpersi,NULL,,NULL,,,species,NULL,Progomphus,2024-01-31 16:46:01.310562+00
+f7b6aee5-6ad4-4b71-81be-8c318ff034af,Micrathyria catenata,dragonflies,Micrathyria catenata,NULL,,NULL,,,species,NULL,Micrathyria,2024-01-31 16:46:01.310562+00
+a1e6bf25-0fc7-4747-bbaa-936b08e075dc,Orthemis regalis,dragonflies,Orthemis regalis,NULL,,NULL,,,species,NULL,Orthemis,2024-01-31 16:46:01.310562+00
+53451f93-ad7c-4280-ba5b-ea0d444f7600,Epipotoneura nehalennia,dragonflies,Epipotoneura nehalennia,NULL,,NULL,,,species,NULL,Epipotoneura,2024-01-31 16:46:01.310562+00
+3b66cde1-3ac5-426c-a5cc-3629c19d433f,Erythrodiplax,dragonflies,,,,,,NULL,genus,NULL,Erythrodiplax,2024-01-24 17:18:54.447684+00
+c223f7d4-6dbc-4e84-ae52-08a6da76d6a4,Phyllogomphoides angularis,dragonflies,Phyllogomphoides angularis,NULL,,NULL,,,species,NULL,Phyllogomphoides,2024-01-31 16:46:01.310562+00
+eafaeaca-7168-4f6d-90ef-97d32f85cd50,Macrothemis,dragonflies,,NULL,,NULL,,,genus,NULL,Macrothemis,2024-01-31 16:46:01.310562+00
